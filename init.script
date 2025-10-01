@@ -1,0 +1,10 @@
+LanguageCreate("chinese_traditional","中文 (繁體)","chinese_traditional.csv","NotoSansTC-Regular.ttf")
+LanguageSetFontSizes("chinese_traditional",[11,12,13,15,21,33])
+LanguageSetFontOffsets("chinese_traditional",[
+	{x : 0, y : 0,	linebreak_height : 18},
+	{x : 0, y : 0,	linebreak_height : 20},
+	{x : 0, y : 0,	linebreak_height : 23},
+	{x : 0, y : 0,	linebreak_height : 32},
+	{x : 0, y : 0,	linebreak_height : 34},
+	{x : 0, y : 0,	linebreak_height : 64}
+])
