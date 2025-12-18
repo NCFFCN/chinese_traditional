@@ -50,7 +50,7 @@ def extract_data_from_json(file_path, filename_no_ext):
 all_rows = []
 
 if not os.path.exists(FOLDER_PATH):
-    print(f"❌ Folder not found: {FOLDER_PATH}")
+    print(f"Folder not found: {FOLDER_PATH}")
     exit(0)
 
 for filename in os.listdir(FOLDER_PATH):
@@ -69,4 +69,4 @@ for filename in os.listdir(FOLDER_PATH):
 
 if all_rows:
     write_to_csv(all_rows)
-    print(f"\n✅ Successfully extracted {len(all_rows)} rows to '{OUTPUT_CSV}'")
+    print(f"\nSuccessfully extracted {len(all_rows)} rows to '{OUTPUT_CSV}'")
