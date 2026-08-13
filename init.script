@@ -1,4 +1,4 @@
-LanguageCreate("chinese_traditional_edit","中文 (繁體) - 改","chinese_traditional.csv","NotoSansTC-Regular.ttf")
+LanguageCreate("chinese_traditional_edit","中文 (繁體)","chinese_traditional.csv","NotoSansTC-Regular.ttf")
 LanguageSetFontSizes("chinese_traditional_edit",[10,11,12,14,24,40])
 LanguageSetFontOffsets("chinese_traditional_edit",[
 	{x : 0, y : -3,	linebreak_height : 18},
