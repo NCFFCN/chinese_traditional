@@ -1,7 +1,7 @@
 import os
 
 
-def split_file(input_file, lines_per_file=200):
+def split_file(input_file, lines_per_file=100):
     if not os.path.exists(input_file):
         print(f"Error: File '{input_file}' not found.")
         return
@@ -32,4 +32,5 @@ def split_file(input_file, lines_per_file=200):
     print(f"Split completed. Created {len(lines) // lines_per_file + (1 if len(lines) % lines_per_file else 0)} files.")
 
 
+split_file("./chinese_traditional_old.csv")
 split_file("./chinese_traditional.csv")
