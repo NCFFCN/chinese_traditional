@@ -78,7 +78,7 @@
 00077,map.marker.add_marker,Marker context menu,24,添加標記
 00078,map.marker.remove_marker,Marker context menu,24,移除標記
 00079,crafting.menu.medication,Crafting Menu,24,藥品
-00080,trade.trader.amm unition,Trader Pages,48,彈藥
+00080,trade.trader.ammunition,Trader Pages,48,彈藥
 00081,storage.stash.food,Stash page name,32,食物
 00082,crafting.menu.repair_kit,Crafting Menu,24,修理套件
 00083,crafting.menu.repair_gear,Crafting Menu,24,修理裝備
@@ -485,7 +485,7 @@
 00484,weapon.vs_98,Weapons,64,VS-98
 00485,weapon.bb_91_kerr,Weapons,64,BB 91 KERR
 00486,weapon.n1o,Weapons,64,N1o
-00487,weapon.vrizz_sector_9x19mm ,Weapons,64,VRIZZ Sector 9x19mm 
+00487,weapon.vrizz_sector_9x19mm,Weapons,64,VRIZZ Sector 9x19mm 
 00488,weapon.ec_74u,Weapons,64,EC 74U
 00489,weapon.skop_h,Weapons,64,Skop H
 00490,weapon.rp_57,Weapons,64,RP 57
@@ -510,9 +510,9 @@
 00509,ammo.type.5_45x39mm_bt,Ammo Types,64,5.45x39mm 曳光穿甲彈
 00510,ammo.type.5_45x39mm_hp,Ammo Types,64,5.45x39mm 空尖彈
 00511,ammo.type.5_45x39mm_subsonic,Ammo Types,64,5.45x39mm 亞音速
-00512,ammo.type.5_56x45mm_m855,Ammo Types,64,5.56x45mm M855
+00512,ammo.type.5_56x45mm_m855,Ammo Types,64,5.56x45mm m855
 00513,ammo.type.5_56x45mm_hp,Ammo Types,64,5.56x45mm 空尖彈
-00514,ammo.type.5_56x45mm_m995,Ammo Types,64,5.56x45mm M995
+00514,ammo.type.5_56x45mm_m995,Ammo Types,64,5.56x45mm m995
 00515,ammo.type.5_56x45mm_subsonic,Ammo Types,64,5.56x45mm 亞音速
 00516,ammo.type.5_7x28mm_r37,Ammo Types,64,5.7x28mm R37
 00517,ammo.type.5_7x28mm_ss190,Ammo Types,64,5.7x28mm SS190
@@ -523,9 +523,9 @@
 00522,ammo.type.7_62x39mm_bp,Ammo Types,64,7.62x39mm 穿甲彈
 00523,ammo.type.7_62x39mm_hp,Ammo Types,64,7.62x39mm 空尖彈
 00524,ammo.type.7_62x39mm_subsonic,Ammo Types,64,7.62x39mm 亞音速
-00525,ammo.type.7_62x51mm_m80,Ammo Types,64,7.62x51mm M80
+00525,ammo.type.7_62x51mm_m80,Ammo Types,64,7.62x51mm m80
 00526,ammo.type.7_62x51mm_fmj,Ammo Types,64,7.62x51mm FMJ
-00527,ammo.type.7_62x51mm_m61,Ammo Types,64,7.62x51mm M61
+00527,ammo.type.7_62x51mm_m61,Ammo Types,64,7.62x51mm m61
 00528,ammo.type.7_62x54r_mm_ps,Ammo Types,64,7.62x54Rmm 鋼芯彈
 00529,ammo.type.7_62x54rmm_snb,Ammo Types,64,7.62x54Rmm 強化鋼芯穿甲彈
 00530,ammo.type.9x18mm_ps,Ammo Types,64,9x18mm 鋼芯彈
@@ -620,7 +620,7 @@
 00619,chest.book_box,Chests,64,書箱
 00620,chest.cash_register,Chests,64,收銀機
 00621,chest.chemical_crystal,Chests,64,化學水晶
-00622,chest.comm on_weapon_all,Chests,64,常規武器箱
+00622,chest.common_weapon_all,Chests,64,常規武器箱
 00623,chest.crimson_corp_scientist,Chests,64,深紅公司科學家
 00624,chest.crimson_soldier,Chests,64,深紅公司士兵
 00625,chest.dead_abitant,Chests,64,死去的平民
@@ -708,7 +708,7 @@
 00707,trade.barter.green_gunpowder,Barter,72,綠色火藥
 00708,quest.name.grigoriy_s_ring,Quest names,64,格里戈里的戒指
 00709,trade.barter.hair_dryer,Barter,72,吹風機
-00710,trade.barter.hamm er,Barter,72,錘子
+00710,trade.barter.hammer,Barter,72,錘子
 00711,trade.barter.hard_disk,Barter,72,硬碟
 00712,trade.barter.high_quality_toilet_paper,Barter,72,高品質的衛生紙
 00713,trade.barter.hose,Barter,72,軟管
@@ -1018,7 +1018,7 @@
 01017,player.interaction.lights_on,Player Interaction,128,開燈
 01018,player.interaction.you_cannot_remove_this_quest,Player Interaction,128,無法移除此任務
 01019,player.interaction.you_can_only_remove_quests_in_the_bunker,Player Interaction,128,只能在地堡中移除任務
-01020,ammo.type.currently_using,"User Interface, Currently Using：Amm o Type",128,當前使用:
+01020,ammo.type.currently_using,"User Interface, Currently Using：Ammo Type",128,當前使用:
 01021,stats.experience.intermediate,Experience names,48,中級
 01022,stats.experience.skilled,Experience names,48,熟練
 01023,stats.experience.expert,Experience names,48,專家
@@ -1124,7 +1124,7 @@
 01123,npc.interaction.i_ve_helped_you_dock,"User Interface, interaction with NPC",1400,我之前接應過你們登陸
 01124,npc.interaction.if_you_continue_to_the_left_you_will,"User Interface, interaction with NPC",1400,往左走，你會發現一個有板條箱和工作臺的房間。\n那地方歸你了。\n你可以好好給自己打造一個小窩，順便爲狩獵做準備。
 01125,npc.interaction.if_you_re_just_a_biomedical_company,"User Interface, interaction with NPC",1400,如果你們只是一家搞生物醫學的公司，那爲什麼會有這些部隊？
-01126,npc.interaction.imm ediately_after_the_accident_we_were,"User Interface, interaction with NPC",1400,最開始，我們關係還算融洽，井水不犯河水。\n不過當他們發現那不是正常的輻射，而我們對他們撒了謊時，一切就都變了。\n從那時起，這個地區遍佈戰火，沒有規則，沒有法律。\n綠軍和深紅公司徹底撕破了臉，都想逼對方離開，獨自揭開核電站的祕密。
+01126,npc.interaction.immediately_after_the_accident_we_were,"User Interface, interaction with NPC",1400,最開始，我們關係還算融洽，井水不犯河水。\n不過當他們發現那不是正常的輻射，而我們對他們撒了謊時，一切就都變了。\n從那時起，這個地區遍佈戰火，沒有規則，沒有法律。\n綠軍和深紅公司徹底撕破了臉，都想逼對方離開，獨自揭開核電站的祕密。
 01127,npc.interaction.in_an_unbelievable_way_npc_dialogue,"User Interface, interaction with NPC",1400,簡直超乎想象！很明顯這絕非普通輻射，而是前所未見、甚至想都不敢想的東西。\n催生出的異常現象瞬間就能讓人灰飛煙滅！太奇妙了！\n更別提對野生動物的影響，不僅沒要了它們的命，反而迅速改變了DNA，大幅強化了體能和感官。\n外面那些玩意兒連最頂尖的科幻片都拍不出來，估計嚇着你了。\n我還是少說兩句吧，畢竟留着你還有大用處。
 01128,npc.interaction.in_the_forest_you_will_find_mainly,"User Interface, interaction with NPC",1400,森林是匪幫和野獸的地盤。林地中央的村莊似乎還有人煙，但幾周前遭到匪幫的洗劫，只有少數倖存者來地堡避難。\n還有個廢棄的舊鋸木廠，同樣也被匪幫佔據。\n綠軍在森林裏有前哨站，他們不會一看到你就格殺勿論，但也別去惹他們。
 01129,npc.interaction.is_the_area_where_zakov_s_major,"User Interface, interaction with NPC",1400,那裏曾是扎科夫的工業中心。\n如果需要工具或電子零件，儘管去那裏搜。但要小心，那裏全是成羣結隊的強盜。
@@ -1136,13 +1136,13 @@
 01135,npc.interaction.it_s_the_area_where_most_of_the,"User Interface, interaction with NPC",1400,那片地區的大多數人口都被疏散了。\n如今...基本看不到活人，除了一些零零散散的強盜。\n那裏的輻射水平不算太高，不過看到堆在一起的汽車還是站遠點吧。
 01136,npc.interaction.join_crimson_corporation,"User Interface, interaction with NPC",1400,加入深紅公司
 01137,npc.interaction.join_green_army,"User Interface, interaction with NPC",1400,加入綠軍
-01138,npc.interaction.mm m_tongue_and_eyes_huh_npc_dialogue,"User Interface, interaction with NPC",1400,嗯，舌頭和眼睛...這是獵人的傳統？\n好吧，士兵...我手下這些新兵蛋子會被嚇得做噩夢的。不過你做得對，這是老鼠應得的。\n我會把它們作爲對所有人的警告。
-01139,npc.interaction.mm m_ok_bye,"User Interface, interaction with NPC",1400,嗯...好的，拜拜！
+01138,npc.interaction.mmm_tongue_and_eyes_huh_npc_dialogue,"User Interface, interaction with NPC",1400,嗯，舌頭和眼睛...這是獵人的傳統？\n好吧，士兵...我手下這些新兵蛋子會被嚇得做噩夢的。不過你做得對，這是老鼠應得的。\n我會把它們作爲對所有人的警告。
+01139,npc.interaction.mmm_ok_bye,"User Interface, interaction with NPC",1400,嗯...好的，拜拜！
 01140,npc.interaction.i_can_see_you_re_a_clever_person_npc,"User Interface, interaction with NPC",1400,看得出來你是個聰明人，問這種問題時，千萬要小心...\n我只是不想讓你遇到什麼糟糕的事。
 01141,npc.interaction.my_brother_vadim_and_i_have_been,"User Interface, interaction with NPC",1400,我和我哥瓦迪姆奉命看守大門。
 01142,npc.interaction.my_name_is_akim_sokolov_but_everyone,"User Interface, interaction with NPC",1400,我叫阿基姆·索科洛夫，但大家都管我叫“嚮導”。\n我在扎科夫土生土長，很熟悉這個地方。需要幫忙指路的話，儘管找我。
 01143,npc.interaction.my_name_is_henry_davies_and_i_was_in,"User Interface, interaction with NPC",1400,我是亨利·戴維斯，扎科夫實驗室的負責人。
-01144,npc.interaction.my_name_is_reynard_i_am_the_comm ander,"User Interface, interaction with NPC",1400,我是雷納德，深紅公司駐紮科夫部隊的指揮官。
+01144,npc.interaction.my_name_is_reynard_i_am_the_commander,"User Interface, interaction with NPC",1400,我是雷納德，深紅公司駐紮科夫部隊的指揮官。
 01145,npc.interaction.my_name_is_sacriel_npc_dialogue,"User Interface, interaction with NPC",1400,我叫薩克雷爾，剛來地堡不久。\n我還沒完全適應這裏，但要做好準備，大約一個月後就給你安排任務。
 01146,npc.interaction.my_name_is_viktor_artemovich_npc,"User Interface, interaction with NPC",1400,我是維克托·阿爾捷莫維奇，綠軍的指揮官。\n災難發生時，我們奉命來此保護平民和控制局勢。沒想到的是，幾天後，地區周邊出現了一道古怪的屏障，隔絕任何人進出。\n我們動用了一切手段試圖建立無線電通訊，但全都無濟於事。\n外界根本沒人知道這裏面究竟發生了什麼。
 01147,npc.interaction.my_name_is_viktor_korolev_npc_dialogue,"User Interface, interaction with NPC",1400,我叫維克托·科羅廖夫，但大家都管我叫“醫生”。我以前是扎科夫醫院的醫生和研究員。\n爆炸發生後，政府授權我成立一個部門來研究生物的變異。\n項目不愁經費，這值得高興...成千上萬的人在爆炸中喪生，或許高興也不合適。\n不過我又有什麼辦法呢？總之就是撞大運了。
@@ -1384,8 +1384,8 @@
 01383,item.injector.bleed,Injector stats,16,流血緩解
 01384,item.injector.bleed_rec,Injector stats,16,流血緩解
 01385,item.injector.bleed_rec_s,Injector stats,16,流血緩解/秒
-01386,item.injector.bleed_imm une,Injector stats,16,流血免疫
-01387,item.injector.bleed_imm une_title,Injector stats,16,流血免疫
+01386,item.injector.bleed_immune,Injector stats,16,流血免疫
+01387,item.injector.bleed_immune_title,Injector stats,16,流血免疫
 01388,item.injector.max_stamina,Injector stats,16,耐力上限
 01389,item.injector.max_stamina_title,Injector stats,16,耐力上限
 01390,item.injector.stamina_regen_s,Injector stats,16,耐力恢復/秒
@@ -1581,7 +1581,7 @@
 01580,skill.desc.when_you_re_not_starving_or_dehydrated,Skill Descriptions,256,喫飽喝足後提高生命上限和耐力上限
 01581,skill.value.desc.10_2_hp_per_level_15_2_stamina_per_level,Skill Value Descriptions,128, +10（每級額外 +2）生命上限\n +15（每級額外 +2）耐力上限
 01582,skill.name.gunsmith,Skill Names,64,生物材料學
-01583,skill.desc.allows_you_to_craft_amm unition_ammo,Skill Descriptions,256,可根據等級製作彈藥（需要彈藥製造機 1 級）和修理包
+01583,skill.desc.allows_you_to_craft_ammunition_ammo,Skill Descriptions,256,可根據等級製作彈藥（需要彈藥製造機 1 級）和修理包
 01584,skill.name.modder,Skill Names,64,武器改裝
 01585,skill.desc.mounted_mods_are_more_effective,Skill Descriptions,256,提高武器改裝效果
 01586,skill.value.desc.15_3_effectivness_of_mounted_mod_per,Skill Value Descriptions,128, +15% （每級額外 +3% ）武器改裝效果
@@ -1725,7 +1725,7 @@
 01724,npc.text.go_find_your_own,NPC text,96,找你自己的寶貝去！
 01725,npc.text.go_go_go,NPC text,96,沖沖衝！
 01726,npc.text.god_life_is_tough_here,NPC text,96,天，這真不是人過的日子。
-01727,npc.text.goddamm it,NPC text,96,真該死！
+01727,npc.text.goddammit,NPC text,96,真該死！
 01728,npc.text.good_job_with_the_cctv_camera,NPC text,96,攝像頭那事兒做得不錯！
 01729,npc.text.good_job_with_the_ghoul_s_lair_hunter,NPC text,96,在食屍鬼洞穴裏搞得不賴，獵人！
 01730,npc.text.good_luck_hunter,NPC text,96,祝你好運，獵人！
@@ -1791,8 +1791,8 @@
 01790,npc.text.many_who_venture_out_there_never_come,NPC text,96,許多出去闖蕩的傢伙再也沒回來。
 01791,npc.text.maybe_there_really_is_a_spy,NPC text,96,也許真有內鬼...
 01792,npc.text.milk_milk_milk,NPC text,96,牛奶！牛奶！牛！奶！
-01793,npc.text.mm m,NPC text,96,嗯...
-01794,npc.text.mm m_title_question,NPC text,96,嗯？
+01793,npc.text.mmm,NPC text,96,嗯...
+01794,npc.text.mmm_title_question,NPC text,96,嗯？
 01795,npc.text.morphine_i_need_morphine,NPC text,96,嗎啡！我需要嗎啡！
 01796,npc.text.motherfucker,NPC text,96,他媽的！
 01797,npc.text.mr_junk_does_not_trade_his_treasure,NPC text,96,垃圾佬纔不會賣他的寶貝！
@@ -1838,7 +1838,7 @@
 01837,npc.text.thank_you_hunter_sentence,NPC text,96,謝謝你，獵人。
 01838,npc.text.the_barman_will_not_be_happy_about_this,NPC text,96,酒保會很難過的...
 01839,npc.text.the_doctor_will_be_happy_with_these,NPC text,96,醫生會高興的。
-01840,npc.text.the_weapon_jamm ed,NPC text,96,卡殼了！
+01840,npc.text.the_weapon_jammed,NPC text,96,卡殼了！
 01841,npc.text.there_is_an_engraving,NPC text,96,這...
 01842,npc.text.these_data_are_impressive,NPC text,96,這些數據太驚人了！
 01843,npc.text.they_are_coming,NPC text,96,它 -們 -來 -了!
@@ -2237,7 +2237,7 @@
 02236,item.name.key_used_to_enter_the_laboratory_in,Item names or description,192,用於進入臨時營地實驗室的門禁卡
 02237,item.name.single_use_key_used_to_open_the_locked,Item names or description,192,一次性鑰匙，可打開位於村莊警察局上鎖的房間
 02238,item.name.key_used_to_access_the_turbine_room_in,Item names or description,192,用於進入商場地下輪機房的門禁卡
-02239,item.name.imm ediate_use_of_food_and_drink_in_the,Item names or description,192,在地堡中顯示食物和飲料動畫
+02239,item.name.immediate_use_of_food_and_drink_in_the,Item names or description,192,在地堡中顯示食物和飲料動畫
 02240,item.name.lost_backpack_found_in_the_makeshift,Item names or description,192,在臨時營地找到的丟失背包
 02241,item.name.key_used_to_access_the_secret,Item names or description,192,用於進入商場地下祕密撤離點的鑰匙
 02242,item.name.scientist_analyzer_industrial_area,Item names or description,192,在工業區找到的科學家分析儀
@@ -2315,7 +2315,7 @@
 02314,difficulty.menu.tooltip.unused_npcs_will_always_drop_armor,Difficulty menu tooltips,512,無效，NPC 總會掉落護甲
 02315,difficulty.menu.tooltip.upon_death_the_save_files_related_to,Difficulty menu tooltips,512,死亡時，相關的存檔將被刪除\n遊戲崩潰不會被視爲死亡
 02316,difficulty.menu.tooltip.upon_death_you_lose_all_items_that_are,Difficulty menu tooltips,512,死亡時，你會失去所有不屬於上述類別的物品
-02317,difficulty.menu.tooltip.upon_death_you_lose_all_the_amm unition,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有彈藥
+02317,difficulty.menu.tooltip.upon_death_you_lose_all_the_ammunition,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有彈藥
 02318,difficulty.menu.tooltip.upon_death_you_lose_all_the_consumable,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有消耗品
 02319,difficulty.menu.tooltip.upon_death_you_lose_all_the_equipment,Difficulty menu tooltips,512,死亡時，你會失去所有裝備
 02320,difficulty.menu.tooltip.upon_death_you_lose_all_the_keys_in,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有鑰匙
@@ -2396,18 +2396,18 @@
 02395,credits.operations_director,Credits,64,運營總監
 02396,credits.producer,Credits,64,製作人
 02397,credits.pr_influencer_manager,Credits,64,公關與KOL經理
-02398,credits.head_of_comm unity,Credits,64,社區負責人
+02398,credits.head_of_community,Credits,64,社區負責人
 02399,credits.marketing_manager,Credits,64,市場經理
-02400,credits.comm unity_social_media_manager,Credits,64,社區與社交媒體經理
+02400,credits.community_social_media_manager,Credits,64,社區與社交媒體經理
 02401,credits.qa_manager,Credits,64,品質保證經理
 02402,credits.ceo,Credits,64,首席執行官
-02403,credits.comm unity_player_experience_manager,Credits,64,社區與玩家體驗經理
+02403,credits.community_player_experience_manager,Credits,64,社區與玩家體驗經理
 02404,credits.creative_director,Credits,64,創意總監
 02405,credits.production_director,Credits,64,製作總監
 02406,credits.head_of_brand,Credits,64,品牌主管
 02407,credits.marketing_director,Credits,64,市場總監
 02408,credits.creative_manager,Credits,64,創意經理
-02409,credits.senior_comm s_manager,Credits,64,高級傳播經理
+02409,credits.senior_comms_manager,Credits,64,高級傳播經理
 02410,credits.associate_producer,Credits,64,助理製作人
 02411,credits.trailers_by,Credits,64,預告片製作
 02412,credits.key_art_by,Credits,64,主視覺設計
@@ -2482,8 +2482,8 @@
 02481,ui.device.enable_gamepad_devices,Device menu inputs,96,啓用遊戲手把裝置
 02482,quest.sub.sub_task,Sub quest UI,16,子任務
 02483,map.minimap.extraction_point,Minimap UI,32,撤離點
-02484,settings.comm unity_event,Settings menu,32,社區活動
-02485,settings.take_part_in_comm unity_events,Settings menu tooltip,64,參加社區活動！
+02484,settings.community_event,Settings menu,32,社區活動
+02485,settings.take_part_in_community_events,Settings menu tooltip,64,參加社區活動！
 02486,settings.data.hey_hunter_we_d_like_to_track_your,Data analytics prompt for user,1024,嘿，獵人，我們希望在你搜尋、\n探索世界時跟蹤你的進度。我們使用遊戲內置的分析技術\n來收集裝置和遊戲數據，以便了解你的求生方法、\n進展並改善你\n和其他獵人日後的旅途。\n\nGameAnalytics 也希望跟蹤你的進度並收集數據\n來改進技術。\n\n如果同意，請選擇“接受並遊玩”。\n如果不同意，我們將不會跟進任何內容。你可以隨時\n在數據選單中更改設定。\n\n我們地堡見！
 02487,quest.ok_soldier_some_of_my_trusted_men_were,Quest text,1024,士兵，我們運送裝備的車隊在沼澤遭到了伏擊！根據最後的無線電訊息判斷，很可能是深紅公司乾的。\n這非常奇怪，因爲只有我的幾個親信知曉車隊的存在。\n希望襲擊者只是一幫遊蕩的強盜，否則我必須考慮我們的隊伍中出現內鬼的可能...\n去沼澤看看能發現什麼。
 02488,quest.thanks_to_the_retaliation_we_now_have,Quest text,1024,多虧了這次報復行動，我們現在有時間在臨時營地建立前哨站了。你的任務是去工業區搞些水泥。\n你應該在港口西側入口附近的混凝土方里找找。
@@ -2506,7 +2506,7 @@
 02505,quest.damn_it_was_it_the_bandits_then_ni_m,Quest text,1024,又是該死的匪幫？\n意料之中，那幫傢伙一直在襲擾我們的補給線。\n搞定他們，獵人。
 02506,quest.were_they_all_torn_apart_then_nmost,Quest text,1024,他們被撕碎了？\n很可能是「大塊頭」！另一支小隊剛剛報告在沼澤發現了蹤跡。\n我不想讓我的人再冒險了，所以這個任務交給你，獵人。
 02507,quest.while_disembarking_at_the_industrial,Quest text,1024,在工業區的港口登陸時，我的人落下了一個裝有電子元件的公事包。\n該死的新兵蛋子！\n去把它取回來，獵人。它應該在港口的東南角。
-02508,quest.mm m_okay_it_seems_that_hunter_had,Quest text,1024,嗯...那個獵人似乎找到了一份什麼檔案，但不幸地撞見了拉扎爾，佔據了森林村莊的匪幫頭目。\n他一定把檔案藏在警察局裏了。\n去把它取回來...\n哦，順便把拉扎爾也殺了。這不是他第一次干擾我們的行動了。
+02508,quest.mmm_okay_it_seems_that_hunter_had,Quest text,1024,嗯...那個獵人似乎找到了一份什麼檔案，但不幸地撞見了拉扎爾，佔據了森林村莊的匪幫頭目。\n他一定把檔案藏在警察局裏了。\n去把它取回來...\n哦，順便把拉扎爾也殺了。這不是他第一次干擾我們的行動了。
 02509,quest.i_sent_some_of_my_men_to_clear_out_the,Quest text,1024,我派人清理了汽車旅館的入口，不過停車場裏似乎還有一處感染源。任務目標是將其清除，並進入旅館，從一位已經犧牲的同志身上取回一份檔案。尤利·安東諾夫，我的參謀之一，當時駐紮在臨時營地。\n我們沒想到輻射會擴散那麼遠。\n他的屍體應該在汽車旅館最裏面的房間裏。\n我們目前抽調不出人手，所以你有興趣的話，這活就歸你了，獵人。
 02510,quest.i_have_an_easy_job_if_you_re,Quest text,1024,有個簡單的活。\n去臨時營地的汽車旅館，確認一下那裏是否有什麼危險。
 02511,quest.na_hunter_was_working_for_us_near_the,Quest text,1024,在森林地區，有一個獵人爲我們工作。上一次聯絡時，他說自己躲在村莊北邊的那排院子裏，但他已經超過24小時沒有傳來消息了，我想他可能遭遇了不測。\n去找到他，把與他有關的一切都帶回來，讓我們看看他是否發現了什麼。
@@ -2592,7 +2592,7 @@
 02591,skill.gun.name.improvised_sniper,Gun Skill Name,64,即興狙擊
 02592,skill.gun.desc.hovering_over_the_target_with_the,Gun Skill Description,512,準星懸停在目標上1秒後提高最大有效射程
 02593,skill.gun.name.shotgun_master,Gun Skill Name,64,霰彈槍精通
-02594,skill.gun.desc.if_using_slug_amm unition_the_maximum,Gun Skill Description,512,使用獨頭彈時提高最大有效射程
+02594,skill.gun.desc.if_using_slug_ammunition_the_maximum,Gun Skill Description,512,使用獨頭彈時提高最大有效射程
 02595,skill.gun.name.phantom_bullets,Gun Skill Name,64,幻影子彈
 02596,skill.gun.desc.when_shooting_automatic_weapons_for_at,Gun Skill Description,512,持續射擊 0.3 秒以上，在彈匣清空後的短時間內可繼續射擊
 02597,skill.gun.name.crosshair_myopia,Gun Skill Name,64,準星調校
@@ -2757,7 +2757,7 @@
 02756,skill.hunter.desc.increase_your_view_cone_size_from_90,Hunter Skill Description,256,視野從 90 度提高到 110 度
 02757,skill.hunter.name.no_jam_thanks,Hunter Skill Name,24,牛油快手
 02758,skill.hunter.desc.low_durability_guns_will_jam_less,Hunter Skill Description,256,降低槍械卡殼幾率，槍械在被修復後的5秒內不會再次卡殼
-02759,skill.hunter.name.bite_imm une,Hunter Skill Name,24,獸受不親
+02759,skill.hunter.name.bite_immune,Hunter Skill Name,24,獸受不親
 02760,skill.hunter.desc.attacks_from_mutants_will_no_longer,Hunter Skill Description,256,免除變異生物攻擊造成的減速
 02761,skill.hunter.desc.increases_your_maximum_carry_weight_by,Hunter Skill Description,256,負重上限提高 5KG，在嚴重超重狀態下保持移動能力
 02762,skill.hunter.name.big_hands,Hunter Skill Name,24,輕裝上陣
@@ -2787,7 +2787,7 @@
 02786,skill.hunter.desc.adds_an_additional_extraction_point_to,Hunter Skill Description,256,發現一個額外的撤離點
 02787,skill.hunter.name.adrenaline_rush,Hunter Skill Name,24,腎上腺素
 02788,skill.hunter.desc.when_your_health_drops_below_20_you,Hunter Skill Description,256,在生命降至40% 以下後的 5 秒內，移動速度提高 25% ，冷卻時間 30秒
-02789,skill.hunter.name.imm ortal,Hunter Skill Name,24,不死之身
+02789,skill.hunter.name.immortal,Hunter Skill Name,24,不死之身
 02790,skill.hunter.desc.once_per_raid_when_something_should,Hunter Skill Description,256,在受到致命攻擊時，生命恢復至 50 ，狩獵期間只能生效一次
 02791,skill.hunter.name.marathon_runner,Hunter Skill Name,24,和平信使
 02792,skill.hunter.desc.you_move_40_faster_when_not_holding_a,Hunter Skill Description,256,在未裝備武器時移動速度提高 40% 
@@ -2822,7 +2822,7 @@
 02821,quest.desc.hey_hunter_nnow_that_we_can_accere_to,Quest descriptions,1024,嗨，獵人！\n我們終於打通了進入扎科夫的路，是時候在那裏建立營地了。城市東南有片工地，在中央放置一個 GPS定位器，之後你就不用操心了。\n祝你好運，獵人！
 02822,quest.objective.repair_the_power_grid_in_the_mall,Quest objectives,64,修復商場電網
 02823,quest.name.the_bridge_to_zakov,Quest names,64,通往扎科夫的橋
-02824,quest.desc.mm m_nit_seems_that_the_power_grid_is,Quest descriptions,1024,嗯……\n看來電網停擺是因爲有座輸電塔出了故障。\n好消息是可以從商場北側直接過去，壞消息是那片區域被封鎖了，而且充斥着輻射與異常現象。\n獵人，你得去找條地下通道。但願食屍鬼已經挖通了一條，入口肯定就在商場東北部。\n去那找找隧道，從食屍鬼羣中殺出一條血路穿過去。\n到達後把故障輸電塔修好，修理包會提前給你。\n最後囑咐一句，帶上抗輻射藥片或者穿身好點的防護服，防輻射肯定用得上。\n祝你好運，獵人！
+02824,quest.desc.mmm_nit_seems_that_the_power_grid_is,Quest descriptions,1024,嗯……\n看來電網停擺是因爲有座輸電塔出了故障。\n好消息是可以從商場北側直接過去，壞消息是那片區域被封鎖了，而且充斥着輻射與異常現象。\n獵人，你得去找條地下通道。但願食屍鬼已經挖通了一條，入口肯定就在商場東北部。\n去那找找隧道，從食屍鬼羣中殺出一條血路穿過去。\n到達後把故障輸電塔修好，修理包會提前給你。\n最後囑咐一句，帶上抗輻射藥片或者穿身好點的防護服，防輻射肯定用得上。\n祝你好運，獵人！
 02825,quest.name.the_psy_helmet_p_1,Quest names,64,尋找醫生
 02826,item.key.laboratory_elevator_key,Keys,64,實驗室電梯鑰匙
 02827,item.name.key_used_to_access_the_elevator_of_the,Item names or description,64,用於進入實驗室電梯的鑰匙
@@ -3112,7 +3112,7 @@
 03111,item.name.wa_devil_suit,Item Name - Armor name,64,WA 惡魔衣裝
 03112,misc.insert.i_want_peace_with_everyone,Insert,256,我希望與所有人都和平共處
 03113,misc.insert.i_want_to_be_rich,Insert,256,我要發財
-03114,misc.insert.i_want_to_be_imm ortal,Insert,256,我要永生
+03114,misc.insert.i_want_to_be_immortal,Insert,256,我要永生
 03115,menu.endgame.resurrect_igor_and_mr_junk,End game player options,64,復活伊戈爾和垃圾佬
 03116,menu.main.mods,Main menu,64,模組
 03117,menu.main.modding_menu,Main menu,64,模組選單
@@ -3215,9 +3215,9 @@
 03214,item.name.paiga_12_short_handguard,item name,32,Paiga-12 短護木
 03215,item.name.paiga_12_tactical_handguard,item name,32,Paiga-12 戰術護木
 03216,item.name.paiga_12_long_handguard,item name,32,Paiga-12 長護木
-03217,ammo.name.12x70mm_ap_buckshot,Amm unition name,32,12x70mm 穿甲鹿彈
+03217,ammo.name.12x70mm_ap_buckshot,ammunition name,32,12x70mm 穿甲鹿彈
 03218,weapon.name.oug,Weapon name,32,OUG
-03219,weapon.name.oug_9x19mm ,Weapon name,32,OUG 9x19mm 
+03219,weapon.name.oug_9x19mm,Weapon name,32,OUG 9x19mm 
 03220,item.name.oug_30_round_magazine,Item name,32,OUG 30發彈匣
 03221,item.name.oug_30_round_desert_magazine,Item name,32,OUG 30發沙色彈匣
 03222,item.name.oug_60_round_magazine,Item name,32,OUG 60發彈匣
@@ -3228,7 +3228,7 @@
 03227,item.name.oug_default_handguard,Item name,32,OUG 標準護木
 03228,item.name.oug_handguard,Item name,32,OUG 護木
 03229,item.name.oug_scope,Item name,32,OUG 瞄準鏡
-03230,weapon.name.np9_9x19mm ,Weapon name,32,NP9 9x19mm 
+03230,weapon.name.np9_9x19mm,Weapon name,32,NP9 9x19mm 
 03231,weapon.name.np9_45acp,Weapon name,32,NP9 .45 ACP
 03232,item.name.np9_20_round_magazine,Item name,32,NP9 20發彈匣
 03233,item.name.np9_30_round_magazine,Item name,32,NP9 30發彈匣
@@ -3244,7 +3244,7 @@
 03243,storage.stash.grenades,Stash page name,32,手榴彈
 03244,storage.stash.valuables,Stash page name,32,貴重物品
 03245,storage.stash.injectors,Stash page name,32,針劑
-03246,skill.hunter.desc.grenade_range_flashbang_imm unity,Hunter Skill Description,256,手榴彈範圍提升30% ，閃光免疫，自傷無效
+03246,skill.hunter.desc.grenade_range_flashbang_immunity,Hunter Skill Description,256,手榴彈範圍提升30% ，閃光免疫，自傷無效
 03247,settings.sound.explosion_ringing,Sound Setting,64,爆炸耳鳴
 03248,settings.audio.adjust_the_volume_of_the_tinnitus,Audio Setting Description,128,爆炸後耳鳴聲的音量
 03249,enemy_name.rotfang,Enemy Name,32,腐牙
@@ -3260,10 +3260,10 @@
 03259,item.desc.key_used_to_open_the_shortcut_in_the,Item Description,128,用於開啓下水道捷徑的鑰匙
 03260,item.name.horizon_suit,Item name,64,地平線護甲
 03261,item.desc.deflect_15,Item Description,256,15% 概率偏轉子彈
-03262,item.name.comm ander_voss_suit,Item name,64,指揮官沃斯護甲
+03262,item.name.commander_voss_suit,Item name,64,指揮官沃斯護甲
 03263,item.desc.deflect_15_heal_25,Item Description,256,15% 幾率彈開子彈。\n觸發時恢復等同於偏轉傷害 25% 的生命值。
-03264,npc.name.comm ander_voss,NPC name,32,指揮官 沃斯
-03265,item.name.comm ander_voss_ec_74,Item Name,32,指揮官沃斯 EC 74
+03264,npc.name.commander_voss,NPC name,32,指揮官 沃斯
+03265,item.name.commander_voss_ec_74,Item Name,32,指揮官沃斯 EC 74
 03266,dialogue.any_news,Dialogue,32,有什麼消息嗎？
 03267,dialogue.horizon_docks,Dialogue,None,是啊，都傳開了，工業區來了一幫自稱“地平線”的新勢力。\n既不是軍隊也不是強盜，倒像是一身精良裝備且心懷鬼胎的企業武裝。\n他們封鎖了碼頭，膽敢靠近的人……全都人間蒸發了。
 03268,quest.name.improving_the_base,Quest name,32,建設基地
@@ -3362,7 +3362,7 @@
 03365,item.name.container_12_7x55mm_bp_round,Item name,64,容器：12.7x55mm 穿甲彈
 03366,item.name.container_12_7x55mm_hp_round,Item name,64,容器：12.7x55mm 空尖彈
 03367,item.name.container_12_7x55mm_ps_round,Item name,64,容器：12.7x55mm 鋼芯彈
-03368,item.name.container_45_acp,Item name,64,容器：.45 ACP
+03368,item.name.container_45_acp,Item name,64,容器：.45 ACP 彈
 03369,item.name.container_45_acp_ap,Item name,64,容器：.45 ACP 穿甲彈
 03370,item.name.container_45_acp_subsonic,Item name,64,容器：.45 ACP 亞音速彈
 03371,item.name.container_5_45x39mm_ps,Item name,64,容器：5.45x39mm 鋼芯彈
@@ -3371,9 +3371,9 @@
 03374,item.name.container_5_45x39mm_horizon,Item name,64,容器：5.45x39mm 地平線彈
 03375,item.name.container_5_45x39mm_hp,Item name,64,容器：5.45x39mm 空尖彈
 03376,item.name.container_5_45x39mm_subsonic,Item name,64,容器：5.45x39mm 亞音速彈
-03377,item.name.container_5_56x45mm_m855,Item name,64,容器：5.56x45mm M855彈
+03377,item.name.container_5_56x45mm_m855,Item name,64,容器：5.56x45mm m855 彈
 03378,item.name.container_5_56x45mm_hp,Item name,64,容器：5.56x45mm 空尖彈
-03379,item.name.container_5_56x45mm_m995,Item name,64,容器：5.56x45mm M995彈
+03379,item.name.container_5_56x45mm_m995,Item name,64,容器：5.56x45mm m995 彈
 03380,item.name.container_5_56x45mm_subsonic,Item name,64,容器：5.56x45mm 亞音速彈
 03381,item.name.container_5_7x28mm_r37,Item name,64,容器：5.7x28mm R37彈
 03382,item.name.container_5_7x28mm_ss190,Item name,64,容器：5.7x28mm SS190彈
@@ -3385,11 +3385,11 @@
 03388,item.name.container_7_62x39mm_bp,Item name,64,容器：7.62x39mm 穿甲彈
 03389,item.name.container_7_62x39mm_hp,Item name,64,容器：7.62x39mm 空尖彈
 03390,item.name.container_7_62x39mm_subsonic,Item name,64,容器：7.62x39mm 亞音速彈
-03391,item.name.container_7_62x51mm_m80,Item name,64,容器：7.62x51mm M80彈
+03391,item.name.container_7_62x51mm_m80,Item name,64,容器：7.62x51mm m80 彈
 03392,item.name.container_7_62x51mm_fmj,Item name,64,容器：7.62x51mm 全金屬被甲彈
-03393,item.name.container_7_62x51mm_m61,Item name,64,容器：7.62x51mm M61彈
+03393,item.name.container_7_62x51mm_m61,Item name,64,容器：7.62x51mm m61 彈
 03394,item.name.container_7_62x54r_mm_ps,Item name,64,容器：7.62x54Rmm 鋼芯彈
-03395,item.name.container_7_62x54rmm_snb,Item name,64,容器：7.62x54Rmm SNB彈
+03395,item.name.container_7_62x54rmm_snb,Item name,64,容器：7.62x54Rmm SNB 彈
 03396,item.name.container_9x18mm_ps,Item name,64,容器：9x18mm 鋼芯彈
 03397,item.name.container_9x18mm_pbm,Item name,64,容器：9x18mm PBM彈
 03398,item.name.container_9x19mm_pso,Item name,64,容器：9x19mm 運動彈
@@ -3464,7 +3464,7 @@
 03467,tutorial.letter_for_barman,Tutorial text,128,給酒保的信
 03468,stats.boss_valentin,Stats,48,首領：瓦倫丁
 03469,stats.boss_devil,Stats,48,首領：惡魔
-03470,stats.boss_comm ander_voss,Stats,48,首領：沃斯指揮官
+03470,stats.boss_commander_voss,Stats,48,首領：沃斯指揮官
 03471,settings.video.borderless_when_fullscreen,Video settings,64,全屏無邊框
 03472,settings.gameplay.gamepad_aim_assist,Gameplay settings,64,手把輔助瞄準
 03473,settings.gameplay.npc_markers,Gameplay settings,64,NPC標記
@@ -3764,13 +3764,13 @@
 03767,chest.igor_collected_label,Chests,64,伊戈爾蒐集的雜物
 03768,item.name.the_guy_who_saved_me_from_that_strange_sentence,Item names or description,192,救我脫離那個奇怪水晶的人留下了這把鑰匙，也許我應該進一步調查
 03769,credits.production_babies_header,Credits,64,開發期間新生兒
-03770,skill.hunter.desc.grenade_range_flashbang_imm unity_alt,Hunter Skill Description,256,手榴彈的爆炸範圍增加30% ，且不再傷害或致盲自己
+03770,skill.hunter.desc.grenade_range_flashbang_immunity_alt,Hunter Skill Description,256,手榴彈的爆炸範圍增加30% ，且不再傷害或致盲自己
 03771,quest.desc.sewers_rotfang_scientists_alt,Quest description,None,嗨，獵人！\n還記得那次你去下水道嗎？醫生告訴我，有科學家報告說那裏有奇怪的動靜。\n他們懷疑是從腐牙出沒的區域傳來的。去看看，重點檢查機器之類的東西。\n完成這次任務，你將獲得科學家陣營的聲望。
 03772,dialogue.horizon_docks_reworded,Dialogue,None,聽說工業區出現了一個自稱爲地平線的新組織。\n他們既不是軍隊，也不是匪幫，而是裝備精良、意圖不明的企業人員。\n他們封鎖了碼頭，靠近的人要麼拿錢離開...要麼就消失。
 03773,credits.lead_marketing_artist,Credits,64,首席市場美術
 03774,credits.social_media_manager,Credits,64,社交媒體經理
 03775,credits.executive_producer,Credits,64,執行製作人
-03776,credits.head_of_comm unications,Credits,64,傳播負責人
+03776,credits.head_of_communications,Credits,64,傳播負責人
 03777,credits.localization,Credits,64,翻譯
 03778,credits.lockit_qa,Credits,64,翻譯 QA
 03779,credits.studio_director,Credits,64,工作坊總監
@@ -3814,7 +3814,7 @@
 03817,achievement.desc.unlock_all_six_train_skins,Achievement Description,256,解鎖全部六個列車皮膚
 03818,achievement.desc.complete_crimson_corporation_questline,Achievement Description,256,完成深紅公司任務線
 03819,achievement.desc.defeat_orel_leader_of_the_makeshift_camp,Achievement Description,256,擊殺奧廖爾[臨時營地]
-03820,achievement.desc.defeat_voss_comm ander_of_horizon,Achievement Description,256,擊殺地平線指揮官沃斯
+03820,achievement.desc.defeat_voss_commander_of_horizon,Achievement Description,256,擊殺地平線指揮官沃斯
 03821,achievement.desc.defeat_the_devil_in_the_parking_lot,Achievement Description,256,擊殺惡魔[商場地下停車場]
 03822,achievement.desc.defeat_valentine_in_zakov_city,Achievement Description,256,擊殺瓦倫丁[扎科夫]
 03823,achievement.desc.obtain_450_reputation_with_scientists,Achievement Description,256,在科學家陣營中達到450點聲望
@@ -3840,7 +3840,7 @@
 03843,faction.inter.class_4,Interfactions,48,4 級護甲
 03844,faction.inter.class_5,Interfactions,48,5 級護甲
 03845,faction.inter.class_6,Interfactions,48,6 級護甲
-03846,ui.all_dumm ies_resetted,User Interface,128,已重置所有假人
+03846,ui.all_dummies_resetted,User Interface,128,已重置所有假人
 03847,ui.no_armor_selected,User Interface,128,已選擇無護甲假人
 03848,ui.class_1_armor_selected,User Interface,128,已選擇 1 級護甲假人
 03849,ui.class_2_armor_selected,User Interface,128,已選擇 2 級護甲假人
@@ -4017,7 +4017,7 @@
 04020,difficulty.menu.axis_death_penalty,Difficulty Menu,16,死亡懲罰
 04021,difficulty.menu.keep_your_gear,Difficulty Menu,24,保留裝備
 04022,difficulty.menu.lose_most_gear,Difficulty Menu,24,失去大部分裝備
-04023,difficulty.menu.recomm ended,Difficulty Menu,16,推薦
+04023,difficulty.menu.recommended,Difficulty Menu,16,推薦
 04024,difficulty.menu.select,Difficulty Menu,16,選擇
 04025,difficulty.menu.custom_desc,Difficulty Menu,32,自定義全部設定
 04026,difficulty.menu.axis_weapon_reliability,Difficulty Menu,24,武器可靠性
@@ -4038,8 +4038,8 @@
 04041,npc.text.harm_radiation,NPC text,96,這輻射太高了。
 04042,npc.text.harm_low_health,NPC text,96,我傷得很重。
 04043,npc.text.harm_wound,NPC text,96,傷口情況很糟。
-04044,npc.text.prologue_ghoul_comm ent,NPC text,96,那些到底是什麼東西？
-04045,npc.text.prologue_bandit_comm ent,NPC text,96,強盜真不少，也許我能繞過去。
+04044,npc.text.prologue_ghoul_comment,NPC text,96,那些到底是什麼東西？
+04045,npc.text.prologue_bandit_comment,NPC text,96,強盜真不少，也許我能繞過去。
 04046,tutorial.open_inventory_for_medkit,Tutorial text,128,打開物品欄使用醫療包
 04047,tutorial.clear_weapon_jam,Tutorial text,128,你的武器卡殼了。快清膛！
 04048,npc.text.prologue_viktor_kit,NPC text,96,你的槍狀況不佳，給你個修理包。
@@ -4062,9 +4062,9 @@
 04065,settings.gameplay.auto_switch_ammo,Gameplay settings,64,自動切換彈藥
 04066,settings.gameplay.auto_switch_ammo_description,Gameplay setting tooltip,256,當前彈藥耗盡時，若物品欄中某種兼容彈藥的數量多於當前所用彈藥總數，則自動裝填儲備最充足的兼容彈藥。
 04067,ui.auto_switching_ammo,"User Interface, player reload",128,自動切換爲[ITEM_NAME]
-04068,ammo.type.5_56x45mm_m856a1,Ammo Types,64,5.56x45mm M856A1
-04069,item.name.container_5_56x45mm_m856a1,Item name,64,容器：5.56x45mm M856A1 彈
-04070,item.name.container_50_bmg,Item name,64,容器：.50 BMG
+04068,ammo.type.5_56x45mm_m856a1,Ammo Types,64,5.56x45mm m856A1
+04069,item.name.container_5_56x45mm_m856a1,Item name,64,容器：5.56x45mm m856A1 彈
+04070,item.name.container_50_bmg,Item name,64,容器：.50 BMG 彈
 04071,difficulty.menu.standard_difficulty_text,Difficulty menu,750,推薦新手選擇，此難度能提供原汁原味的《ZERO Sievert》平衡體驗。\n資源和物資不再唾手可得，仔細搜刮並提前規劃才能獲得足夠補給；\n敵人將構成實質性威脅，其反應果斷且傷害不俗，因此戰鬥時需要穩定瞄準併合理走位；\n角色擁有一定的生命值，足以讓你在犯錯後存活，但切不可掉以輕心。
 04072,settings.sound.human_attack_voice,Sound Setting,64,人類攻擊語音
 04073,settings.sound.human_attack_voice_desc,Audio Setting Description,128,當被敵對人類發現時播放語音提示，此設定不影響生物或玩家狀態警告。
