@@ -38,7 +38,7 @@
 00037,difficulty.menu.mutant_damage_dealt,"Difficulty Menu, damage dealt to mutants",32,變異生物傷害
 00038,difficulty.menu.lose_equipment,Difficulty Menu,32,丟失裝備
 00039,difficulty.menu.lose_ammo,Difficulty Menu,32,丟失彈藥
-00040,difficulty.menu.lose_medication,Difficulty Menu,32,丟失藥品
+00040,difficulty.menu.lose_medication,Difficulty Menu,32,丟失藥物
 00041,difficulty.menu.lose_consumable,Difficulty Menu,32,丟失消耗品
 00042,difficulty.menu.lose_keys,Difficulty Menu,32,丟失鑰匙
 00043,difficulty.menu.lose_other_item,Difficulty Menu,32,丟失其他物品
@@ -48,7 +48,7 @@
 00047,difficulty.menu.price_armors,Difficulty Menu,32,護甲價格
 00048,difficulty.menu.price_backpacks,Difficulty Menu,32,背包價格
 00049,difficulty.menu.price_ammo,Difficulty Menu,32,彈藥價格
-00050,difficulty.menu.price_medications,Difficulty Menu,32,藥品價格
+00050,difficulty.menu.price_medications,Difficulty Menu,32,藥物價格
 00051,trade.menu.buy_for,Trading menu,32,購買
 00052,general.next,"General Usage, go forward a step or menu",16,繼續
 00053,ui.back,User Interface,40,返回
@@ -61,7 +61,7 @@
 00060,quest.reward.reward,Quest Rewards,24,報酬
 00061,quest.reward.exp,Quest Rewards,16,經驗
 00062,quest.reward.rep,Quest Rewards,16,聲望
-00063,crafting.requirements,"General Usage, quest or crafting conditions",24,需求
+00063,crafting.requirements,"General Usage, quest or crafting conditions",24,要求
 00064,general.general,"General Usage, meaning general usage",24,普通
 00065,general.deal,"General Usage, accepting a deal or offer",18,接受
 00066,map.area.forest,Map/Area Name,28,森林
@@ -74,10 +74,10 @@
 00073,map.area.rural_area,Map/Area Name,28,農業區
 00074,trade.scrap.are_you_sure_you_want_to_scrap_this_item,Scrap Menu,72,確定要分解此物品嗎？
 00075,trade.scrap.no_keep_it,Scrap Menu,32,不，留着吧
-00076,trade.scrap.yes_destroy_it,Scrap Menu,32,是的
+00076,trade.scrap.yes_destroy_it,Scrap Menu,32,是的，銷毀它
 00077,map.marker.add_marker,Marker context menu,24,添加標記
 00078,map.marker.remove_marker,Marker context menu,24,移除標記
-00079,crafting.menu.medication,Crafting Menu,24,藥品
+00079,crafting.menu.medication,Crafting Menu,24,藥物
 00080,trade.trader.ammunition,Trader Pages,48,彈藥
 00081,storage.stash.food,Stash page name,32,食物
 00082,crafting.menu.repair_kit,Crafting Menu,24,修理套件
@@ -86,7 +86,7 @@
 00085,crafting.menu.modules_tier_1,Crafting Menu,24,一階模組
 00086,crafting.menu.modules_tier_2,Crafting Menu,24,二階模組
 00087,crafting.menu.required_items,Crafting Menu,24,所需物品
-00088,crafting.menu.no_additional_requirements,Crafting Menu,32,無額外需求
+00088,crafting.menu.no_additional_requirements,Crafting Menu,32,無額外要求
 00089,crafting.menu.craft,Crafting Menu,24,製作
 00090,inventory.menu.inventory,Inventory Menu,32,儲藏
 00091,inventory.menu.ground,Inventory Menu,32,地面
@@ -933,7 +933,7 @@
 00932,ui.note_when_in_fullscreen_the_game_will,User Interface,128,在全屏模式下，遊戲將始終縮放爲顯示器的默認解析度。
 00933,ui.our_privacy_policy,User Interface,40,隱私政策
 00934,ui.play_without_analytics,User Interface,40,不啓用數據分析遊玩
-00935,ui.player_needs,User Interface,40,玩家需求
+00935,ui.player_needs,User Interface,40,玩家要求
 00936,difficulty.menu.presets,User Interface,40,預設
 00937,menu.nav.relations,Menu button that goes to the Relations screen.,20,關係
 00938,ui.remove,User Interface,40,移除
@@ -2355,7 +2355,7 @@
 02354,difficulty.modifier.price_armor,Difficulty modifier names,72,價格：護甲
 02355,difficulty.modifier.price_backpack,Difficulty modifier names,72,價格：背包
 02356,difficulty.modifier.price_ammo,Difficulty modifier names,72,價格：彈藥
-02357,difficulty.modifier.price_medication,Difficulty modifier names,72,價格：藥品
+02357,difficulty.modifier.price_medication,Difficulty modifier names,72,價格：藥物
 02358,difficulty.modifier.character_health,Difficulty modifier names,72,角色生命值
 02359,difficulty.modifier.minimum_transportable_weight,Difficulty modifier names,72,可攜帶物最低重量
 02360,difficulty.modifier.hunger_thirst_decay_rate,Difficulty modifier names,72,飢餓/口渴感降低速率
@@ -2371,7 +2371,7 @@
 02370,difficulty.modifier.mutant_damage_dealt,Difficulty modifier names,72,變異生物受到的傷害
 02371,difficulty.modifier.lose_equipment,Difficulty modifier names,72,損失裝備
 02372,difficulty.modifier.lose_ammo,Difficulty modifier names,72,損失彈藥
-02373,difficulty.modifier.lose_medication,Difficulty modifier names,72,損失藥品
+02373,difficulty.modifier.lose_medication,Difficulty modifier names,72,損失藥物
 02374,difficulty.modifier.lose_consumable,Difficulty modifier names,72,損失可消耗物品
 02375,difficulty.modifier.lose_keys,Difficulty modifier names,72,丟失鑰匙
 02376,difficulty.modifier.lose_other_item,Difficulty modifier names,72,損失其他物品
@@ -3401,7 +3401,7 @@
 03404,item.name.container_scrap_armor,Item name,64,容器：廢棄護甲
 03405,item.name.container_scrap_food,Item name,64,容器：廢棄食物
 03406,item.name.container_scrap_material,Item name,64,容器：廢棄材料
-03407,item.name.container_scrap_meds,Item name,64,容器：廢棄藥品
+03407,item.name.container_scrap_meds,Item name,64,容器：廢棄藥物
 03408,item.name.container_scrap_weapon,Item name,64,容器：廢棄武器
 03409,tutorial.find_the_body_to_the_east,Tutorial text,64,找到東邊的遺體
 03410,faction.inter.turn_on,Interfactions,48,打開
@@ -4096,3 +4096,4 @@
 05002,suppressor 7.62x51 PTS/UDK Ghillie,Weapon Mods,64,7.62x51 吉利偽裝消音器（PTS/UDK 規格）
 05003,".50 bmg standard",Ammo Types,64,.50 BMG 標準
 05004,"N1o ghillie stock",Weapon Mods,64,N1o 吉利偽裝槍托
+05005,"Confirm",User Interface,40,確認
