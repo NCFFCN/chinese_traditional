@@ -88,7 +88,7 @@
 00087,crafting.menu.required_items,Crafting Menu,24,所需物品
 00088,crafting.menu.no_additional_requirements,Crafting Menu,32,無額外需求
 00089,crafting.menu.craft,Crafting Menu,24,製作
-00090,inventory.menu.inventory,Inventory Menu,32,庫存
+00090,inventory.menu.inventory,Inventory Menu,32,儲藏
 00091,inventory.menu.ground,Inventory Menu,32,地面
 00092,item.medication.anti_bleed_gel,Medication Items,32,止血凝膠
 00093,item.medication.bandage,Medication Items,32,繃帶
@@ -256,15 +256,15 @@
 00255,base.upgrade.building_kit_workshop_1,Upgrade Base Kit,48,建造套件：工坊 1
 00256,base.upgrade.building_kit_workshop_2,Upgrade Base Kit,48,建造套件：工坊 2
 00257,weapon.mod.foregrip,Weapon Mods,64,前握把
-00258,weapon.mod.muzzle_brake_ppd_3c_for_9x18_9x19,Weapon Mods,64,9x18mm、9x19mm PPD-3C 制退器
-00259,weapon.mod.tr_15_wm_stock_war_machine,Weapon Mods,64,TR-15 「戰爭機器」槍托
+00258,weapon.mod.muzzle_brake_ppd_3c_for_9x18_9x19,Weapon Mods,64,9x18、9x19 PPD-3C 制退器
+00259,weapon.mod.tr_15_wm_stock_war_machine,Weapon Mods,64,TR-15「戰爭機器」槍托
 00260,weapon.mod.tr_15_b_mag_magazine_gen_t3_desert,Weapon Mods,64,TR-15 B 沙色彈匣 GEN T3
 00261,weapon.mod.tr_15_pistol_grip,Weapon Mods,64,TR-15 手槍握把
 00262,weapon.mod.batko_mkm_handguard,Weapon Mods,64,Batko MKM 護木
 00263,weapon.mod.ec_standard_stock,Weapon Mods,64,EC 標準槍托
 00264,weapon.mod.vs_98_5_round_magazine,Weapon Mods,64,VS-98 5發彈匣
 00265,weapon.mod.ec_standard_handguard,Weapon Mods,64,EC 標準護木
-00266,weapon.mod.suppressor_762x25,Weapon Mods,64,7.62x25mm 消音器
+00266,weapon.mod.suppressor_762x25,Weapon Mods,64,7.62x25 消音器
 00267,weapon.mod.ec_series_long_barrel,Weapon Mods,64,EC 長槍管
 00268,weapon.mod.milosun_red_dot,Weapon Mods,64,Milosun 紅點瞄準鏡
 00269,weapon.mod.prk_standard_handguard,Weapon Mods,64,PRK 標準護木
@@ -289,13 +289,13 @@
 00288,weapon.mod.n1o_standard_stock,Weapon Mods,64,N1o 標準槍托
 00289,weapon.mod.g76_standard_stock,Weapon Mods,64,G76 標準槍托
 00290,weapon.mod.fanaz_60_round_magazine,Weapon Mods,64,Fanaz 60發彈匣
-00291,weapon.mod.muzzle_brake_7_62x51_and_7_62x39_revenge,Weapon Mods,64,7.62x51mm、7.62x39mm 「復仇」制退器
+00291,weapon.mod.muzzle_brake_7_62x51_and_7_62x39_revenge,Weapon Mods,64,7.62x51、7.62x39「復仇」制退器
 00292,weapon.mod.tr_15_tactical_stock_grey,Weapon Mods,64,TR-15 灰色戰術槍托
 00293,weapon.mod.tr_15_standard_magazine,Weapon Mods,64,TR-15 標準彈匣
 00294,weapon.mod.tr_15_desert_pistol_grip,Weapon Mods,64,TR-15 沙色手槍握把
 00295,weapon.mod.stv_40_15_round_magazine,Weapon Mods,64,STV-40 15發彈匣
 00296,weapon.mod.vs_98_10_round_magazine,Weapon Mods,64,VS-98 10發彈匣
-00297,weapon.mod.suppressor_5_7x28,Weapon Mods,64,5.7x28mm 消音器
+00297,weapon.mod.suppressor_5_7x28,Weapon Mods,64,5.7x28 消音器
 00298,weapon.mod.ec_series_short_barrel,Weapon Mods,64,EC 短槍管
 00299,weapon.mod.edatech_dot,Weapon Mods,64,Edatech 紅點瞄準鏡
 00300,weapon.mod.prk_standard_grip,Weapon Mods,64,PRK 標準握把
@@ -304,13 +304,13 @@
 00303,weapon.mod.grusa_single_rail,Weapon Mods,64,Grusa 單導軌
 00304,weapon.mod.edl_10_round_magazine,Weapon Mods,64,EDL 10發彈匣
 00305,weapon.mod.sha_12_short_suppressor,Weapon Mods,64,Sha-12 短消音器
-00306,weapon.mod.suppressor_5_56x45_cak_cbss_desert,Weapon Mods,64,5.56x45mm CAK CBSS 沙色消音器
-00307,weapon.mod.tr_15_handguard_lone_moon,Weapon Mods,64,TR-15 「孤月」護木
+00306,weapon.mod.suppressor_5_56x45_cak_cbss_desert,Weapon Mods,64,5.56x45 CAK CBSS 沙色消音器
+00307,weapon.mod.tr_15_handguard_lone_moon,Weapon Mods,64,TR-15「孤月」護木
 00308,weapon.mod.zz_vel_handguard,Weapon Mods,64,ZZ VEL 護木
 00309,weapon.mod.ec_wooden_foregrip,Weapon Mods,64,EC 木質前握把
 00310,weapon.mod.frd_20_round_magazine,Weapon Mods,64,FRD 20發彈匣
 00311,weapon.mod.ec_standard_magazine,Weapon Mods,64,EC 標準彈匣
-00312,weapon.mod.suppressor_9x19,Weapon Mods,64,9x19mm 消音器
+00312,weapon.mod.suppressor_9x19,Weapon Mods,64,9x19 消音器
 00313,weapon.mod.ec_handguard,Weapon Mods,64,EC 護木
 00314,weapon.mod.cu_scope,Weapon Mods,64,CU 瞄準鏡
 00315,weapon.mod.skop_standard_pistol_grip,Weapon Mods,64,Skop 標準手槍握把
@@ -319,14 +319,14 @@
 00318,weapon.mod.tactical_green_laser,Weapon Mods,64,戰術綠色雷射
 00319,weapon.mod.g76_long_handguard_desert,Weapon Mods,64,G76 沙色長護木
 00320,weapon.mod.fanaz_30_round_magazine,Weapon Mods,64,Fanaz 30發彈匣
-00321,weapon.mod.muzzle_brake_5_56x45_revenge,Weapon Mods,64,5.56x45mm 「復仇」制退器
+00321,weapon.mod.muzzle_brake_5_56x45_revenge,Weapon Mods,64,5.56x45「復仇」制退器
 00322,weapon.mod.tr_15_tactical_stock_desert,Weapon Mods,64,TR-15 沙色戰術槍托
 00323,weapon.mod.tr_15_iron_sight,Weapon Mods,64,TR-15 金屬瞄具
 00324,weapon.mod.n4o1_standard_pistol_grip,Weapon Mods,64,N4o1 標準手槍握把
 00325,weapon.mod.stv_40_10_round_magazine,Weapon Mods,64,STV-40 10發彈匣
 00326,weapon.mod.ec_stock,Weapon Mods,64,EC 槍托
 00327,weapon.mod.stas_12_standard_stock,Weapon Mods,64,Stas 12 標準槍托
-00328,weapon.mod.suppressor_5_45x39_tbs,Weapon Mods,64,5.45x39mm TBS 消音器
+00328,weapon.mod.suppressor_5_45x39_tbs,Weapon Mods,64,5.45x39 TBS 消音器
 00329,weapon.mod.ec_101_tactical_magazine,Weapon Mods,64,EC-101 戰術彈匣
 00330,weapon.mod.alton_scope,Weapon Mods,64,Alton 瞄準鏡
 00331,weapon.mod.renindon_700_extended_magazine,Weapon Mods,64,Renindon 700 擴展彈匣
@@ -334,12 +334,12 @@
 00333,weapon.mod.grusa_tactical_suppressor,Weapon Mods,64,Grusa 戰術消音器
 00334,weapon.mod.edl_5_round_magazine,Weapon Mods,64,EDL 5發彈匣
 00335,weapon.mod.sha_12_standard_brake,Weapon Mods,64,Sha-12 標準制退器
-00336,weapon.mod.suppressor_5_56x45_cak_cbss,Weapon Mods,64,5.56x45mm CAK CBSS 消音器
+00336,weapon.mod.suppressor_5_56x45_cak_cbss,Weapon Mods,64,5.56x45 CAK CBSS 消音器
 00337,weapon.mod.tr_15_desert_handguard,Weapon Mods,64,TR-15 沙色護木
 00338,weapon.mod.zz_vel_pistol_grip,Weapon Mods,64,ZZ VEL 手槍握把
 00339,weapon.mod.ec_74u_handguard,Weapon Mods,64,EC-74U 護木
 00340,weapon.mod.frd_10_round_magazine,Weapon Mods,64,FRD 10發彈匣
-00341,weapon.mod.suppressor_9x18,Weapon Mods,64,9x18mm 消音器
+00341,weapon.mod.suppressor_9x18,Weapon Mods,64,9x18 消音器
 00342,weapon.mod.ec_standard_pistol_grip,Weapon Mods,64,EC 標準手槍握把
 00343,weapon.mod.tsu_scope,Weapon Mods,64,TSU 瞄準鏡
 00344,weapon.mod.skop_long_barrel,Weapon Mods,64,Skop 長槍管
@@ -347,14 +347,14 @@
 00346,weapon.mod.tactical_red_laser,Weapon Mods,64,戰術紅色雷射
 00347,weapon.mod.g76_long_handguard,Weapon Mods,64,G76 長護木
 00348,weapon.mod.fanaz_20_round_magazine,Weapon Mods,64,Fanaz 20發彈匣
-00349,weapon.mod.muzzle_brake_5_56x45_tvs_cqb,Weapon Mods,64,5.56x45mm TVS CQB 制退器
+00349,weapon.mod.muzzle_brake_5_56x45_tvs_cqb,Weapon Mods,64,5.56x45 TVS CQB 制退器
 00350,weapon.mod.tr_15_stock_ktr_green,Weapon Mods,64,TR-15 KTR 綠色槍托
 00351,weapon.mod.tr_15_handguard_tnr_mt16,Weapon Mods,64,TR-15 TNR mt16 護木
 00352,weapon.mod.sector_50_rounds_magazine,Weapon Mods,64,Sector 50發彈鼓
 00353,weapon.mod.tr_15_muzzle_brake,Weapon Mods,64,TR-15 槍口制退器
 00354,weapon.mod.stv_40_handguard,Weapon Mods,64,STV-40 護木
 00355,weapon.mod.stas_12_attachment_rail,Weapon Mods,64,Stas 12 導軌
-00356,weapon.mod.suppressor_5_45x39_hexaboom,Weapon Mods,64,5.45x39mm Hexaboom 消音器
+00356,weapon.mod.suppressor_5_45x39_hexaboom,Weapon Mods,64,5.45x39 Hexaboom 消音器
 00357,weapon.mod.ec_101_standard_magazine,Weapon Mods,64,EC-101 標準彈匣
 00358,weapon.mod.break_scope,Weapon Mods,64,Break 瞄準鏡
 00359,weapon.mod.renindon_700_clip_magazine,Weapon Mods,64,Renindon 700 彈匣
@@ -368,7 +368,7 @@
 00367,weapon.mod.modern_tactical_torch,Weapon Mods,64,現代戰術手電筒
 00368,weapon.mod.frd_advanced_handguard,Weapon Mods,64,FRD 高級護木
 00369,weapon.mod.ec_b_mag_magazine_gen_t3,Weapon Mods,64,EC B 彈匣 GEN T3
-00370,weapon.mod.suppressor_762x54,Weapon Mods,64,7.62x54Rmm 消音器
+00370,weapon.mod.suppressor_762x54,Weapon Mods,64,7.62x54R 消音器
 00371,weapon.mod.nts_red_dot,Weapon Mods,64,NTS 紅點瞄準鏡
 00372,weapon.mod.skop_short_barrel,Weapon Mods,64,Skop 短槍管
 00373,weapon.mod.bb_91_30_round_magazine,Weapon Mods,64,BB 91 30發彈匣
@@ -376,7 +376,7 @@
 00375,weapon.mod.grusa_50_round_magazine,Weapon Mods,64,Grusa 50發彈鼓
 00376,weapon.mod.g76_short_handguard_desert,Weapon Mods,64,G76 沙色短護木
 00377,weapon.mod.fanaz_advanced_rail,Weapon Mods,64,Fanaz 高級導軌
-00378,weapon.mod.muzzle_brake_5_45x39_zpww,Weapon Mods,64,5.45x39mm ZPWW 制退器
+00378,weapon.mod.muzzle_brake_5_45x39_zpww,Weapon Mods,64,5.45x39 ZPWW 制退器
 00379,weapon.mod.tr_15_stock_ktr_black,Weapon Mods,64,TR-15 KTR 黑色槍托
 00380,weapon.mod.tr_15_handguard_kv_rail,Weapon Mods,64,TR-15 KV-rail 護木
 00381,weapon.mod.sector_21_rounds_magazine,Weapon Mods,64,Sector 21發彈匣
@@ -390,7 +390,7 @@
 00389,weapon.mod.nb5_20_round_magazine,Weapon Mods,64,NB5 20發彈匣
 00390,weapon.mod.n1o_skop_magazine_20_round,Weapon Mods,64,N1o/Skop 20發彈匣
 00391,weapon.mod.grusa_short_barrel,Weapon Mods,64,Grusa 短槍管
-00392,weapon.mod.muzzle_brake_annikilator_for_5_56x45_7,Weapon Mods,64,5.56x45mm、7.62x51mm、9x19mm 「終結者」制退器
+00392,weapon.mod.muzzle_brake_annikilator_for_5_56x45_7,Weapon Mods,64,5.56x45、7.62x51、9x19「終結者」制退器
 00393,weapon.mod.sha_12_20_round_magazine,Weapon Mods,64,Sha-12 20發彈匣
 00394,weapon.mod.tr_15_b_mag_magazine_gen_t3,Weapon Mods,64,TR-15 B 彈匣 GEN T3
 00395,weapon.mod.n4o1_standard_handguard,Weapon Mods,64,N4o1 標準護木
@@ -398,7 +398,7 @@
 00397,weapon.mod.ec_stock_yuas,Weapon Mods,64,EC YUAS 槍托
 00398,weapon.mod.frd_polymer_handguard,Weapon Mods,64,FRD 聚合物護木
 00399,weapon.mod.ec_60_round_magazine,Weapon Mods,64,EC 60發彈匣
-00400,weapon.mod.suppressor_7_62x51_pts_udk,Weapon Mods,64,7.62x51mm PTS/UDK 消音器
+00400,weapon.mod.suppressor_7_62x51_pts_udk,Weapon Mods,64,7.62x51 PTS/UDK 消音器
 00401,weapon.mod.ec_tacto_savv_pistol_grip_desert,Weapon Mods,64,EC Tacto SAVV 沙色手槍握把
 00402,weapon.mod.lion_scope,Weapon Mods,64,獅子瞄準鏡
 00403,weapon.mod.prk_standard_stock,Weapon Mods,64,PRK 標準槍托
@@ -407,7 +407,7 @@
 00406,weapon.mod.grusa_30_round_magazine,Weapon Mods,64,Grusa 20發彈匣
 00407,weapon.mod.g76_short_handguard,Weapon Mods,64,G76 短護木
 00408,weapon.mod.fanaz_attachment_rail,Weapon Mods,64,Fanaz 高級導軌
-00409,weapon.mod.muzzle_brake_5_45x39_ppd_3c,Weapon Mods,64,5.45x39mm PPD-3C 制退器
+00409,weapon.mod.muzzle_brake_5_45x39_ppd_3c,Weapon Mods,64,5.45x39 PPD-3C 制退器
 00410,weapon.mod.tr_15_stock_ktr_desert,Weapon Mods,64,TR-15 KTR 沙色槍托
 00411,weapon.mod.tr_15_handguard_cak_xru,Weapon Mods,64,TR-15 CAK XRU 護木
 00412,weapon.mod.n4o1_short_barrel,Weapon Mods,64,N4o1 短槍管
@@ -421,13 +421,13 @@
 00420,weapon.mod.nb5_handguard,Weapon Mods,64,NB5 標準護木
 00421,weapon.mod.n1o_modern_stock,Weapon Mods,64,N1o 現代槍托
 00422,weapon.mod.g76_advanced_stock,Weapon Mods,64,G76 高級槍托
-00423,weapon.mod.muzzle_brake_tvs_cqb_for_9x18_9x19,Weapon Mods,64,9x18mm 9x19mm TVS CQB 制退器
+00423,weapon.mod.muzzle_brake_tvs_cqb_for_9x18_9x19,Weapon Mods,64,9x18 9x19 TVS CQB 制退器
 00424,weapon.mod.sha_12_10_round_magazine,Weapon Mods,64,Sha-12 10發彈匣
 00425,weapon.mod.tr_15_extended_magazine,Weapon Mods,64,TR-15 擴展彈鼓
 00426,weapon.mod.tr_15_green_pistol_grip,Weapon Mods,64,TR-15 綠色手槍握把
 00427,weapon.mod.frd_wooden_handguard,Weapon Mods,64,FRD 木質護木
 00428,weapon.mod.ec_handguard_thukov_desert,Weapon Mods,64,EC Thukov 沙色護木
-00429,weapon.mod.suppressor_762x39,Weapon Mods,64,7.62x39mm 消音器
+00429,weapon.mod.suppressor_762x39,Weapon Mods,64,7.62x39 消音器
 00430,weapon.mod.ec_tacto_savv_pistol_grip,Weapon Mods,64,EC Tacto SAVV 手槍握把
 00431,weapon.mod.snake_sight,Weapon Mods,64,Sanke 瞄準鏡
 00432,weapon.mod.prk_drum_magazine,Weapon Mods,64,PRK 彈鼓
@@ -435,7 +435,7 @@
 00434,weapon.mod.nozin_wooden_stock,Weapon Mods,64,Nozin 木質槍托
 00435,weapon.mod.grusa_20_round_magazine,Weapon Mods,64,Grusa 20發彈匣
 00436,weapon.mod.g76_long_barrel,Weapon Mods,64,G76 長槍管
-00437,weapon.mod.muzzle_brake_5_45x39_tvs_cqb,Weapon Mods,64,5.45x39mm TVS CQB 制退器
+00437,weapon.mod.muzzle_brake_5_45x39_tvs_cqb,Weapon Mods,64,5.45x39 TVS CQB 制退器
 00438,weapon.mod.tr_15_stock,Weapon Mods,64,TR-15 槍托
 00439,weapon.mod.tr_15_green_handguard,Weapon Mods,64,TR-15 綠色護木
 00440,weapon.mod.zz_vel_30_round_magazine,Weapon Mods,64,ZZ VEL 30發彈匣
@@ -447,7 +447,7 @@
 00446,weapon.mod.skop_long_handguard,Weapon Mods,64,Skop 長護木
 00447,weapon.mod.boulder_attachment_rail,Weapon Mods,64,Boulder 導軌
 00448,weapon.mod.nb5_standard_handguard,Weapon Mods,64,NB5 標準護木
-00449,weapon.mod.n1o_archangel_stock,Weapon Mods,64,N1o「大天使」 槍托
+00449,weapon.mod.n1o_archangel_stock,Weapon Mods,64,N1o「大天使」槍托
 00450,weapon.ec_101,Weapons,64,EC 101
 00451,weapon.santa_ec_74,Weapons,64,聖誕 EC 74
 00452,weapon.nb5,Weapons,64,NB5
@@ -571,23 +571,23 @@
 00570,armor.cyclops_suit,Armor,64,??? 獨眼巨人防護服
 00571,storage.storage_kit,Storage,64,儲存擴展包
 00572,item.book.book_cardio,Books,64,健身運動
-00573,item.book.read_this_to_gain_1_point_in_cardio,Books,128,閱讀可習得1點
+00573,item.book.read_this_to_gain_1_point_in_cardio,Books,128,閱讀可習得 1 點
 00574,item.book.book_charisma,Books,64,領導魅力
-00575,item.book.gain_point.charisma,Books,128,閱讀可獲得1點魅力
+00575,item.book.gain_point.charisma,Books,128,閱讀可獲得 1 點魅力
 00576,item.book.book_cooking,Books,64,烹飪
-00577,item.book.gain_point.cooking,Books,128,閱讀可習得1點烹飪
+00577,item.book.gain_point.cooking,Books,128,閱讀可習得 1 點烹飪
 00578,item.book.read_this_book,Books,128,閱讀本書
 00579,item.book.book_gunsmith,Books,64,槍械工藝
-00580,item.book.gain_point.gunsmith,Books,128,閱讀可習得1點槍械工藝
+00580,item.book.gain_point.gunsmith,Books,128,閱讀可習得 1 點槍械工藝
 00581,item.book.basic_gunsmith_book,Books,64,基礎槍械工藝
 00582,item.book.read_this_book_to_learn_new_barter_and,Books,128,閱讀可習得新的交易或製造技能
 00583,item.book.advanced_gunsmith_book,Books,64,高級槍械工藝
 00584,item.book.book_medicine,Books,64,基礎醫學
-00585,item.book.gain_point.medicine,Books,128,閱讀可習得1點醫學
+00585,item.book.gain_point.medicine,Books,128,閱讀可習得 1 點醫學
 00586,item.book.book_shooting,Books,64,射擊
-00587,item.book.gain_point.shooting,Books,128,閱讀可習得1點射擊
+00587,item.book.gain_point.shooting,Books,128,閱讀可習得 1 點射擊
 00588,item.book.book_style,Books,64,時尚
-00589,item.book.read_this_to_gain_1_point_in_style,Books,128,閱讀可習得1點時尚
+00589,item.book.read_this_to_gain_1_point_in_style,Books,128,閱讀可習得 1 點時尚
 00590,item.book.respec_book_cardio,Books,64,運動專精重置
 00591,item.book.read_this_book_to_change_your,Books,128,閱讀本書可更改專精，\n但會失去所有已獲專精點數。
 00592,item.book.respec_book_charisma,Books,64,交際專精重置
@@ -664,7 +664,7 @@
 00663,chest.weapon_box_tier_ii,Chests,64,二級武器箱
 00664,chest.weapon_box_tier_iii,Chests,64,三級武器箱
 00665,chest.wood_crate,Chests,64,木箱
-00666,chest.your_stash,Chests,64,你的庫存
+00666,chest.your_stash,Chests,64,你的儲藏
 00667,chest.yuli_antonov,Chests,64,尤利·安東諾夫
 00668,trade.barter.aaa_battery,Barter,72,AAA電池
 00669,trade.barter.alcohol,Barter,72,酒精
@@ -958,8 +958,8 @@
 00957,ui.weapon1,User Interface,40,武器1
 00958,ui.weapon2,User Interface,40,武器2
 00959,ui.yes,User Interface,40,是
-00960,item.has_been_added_to_your_inventory,ITEM_NAME (x quantity) has been added to your inventory,96,已添加至庫存
-00961,ui.not_enough_inventory_space,User interface,96,庫存空間不足！
+00960,item.has_been_added_to_your_inventory,ITEM_NAME (x quantity) has been added to your inventory,96,已添加至儲藏
+00961,ui.not_enough_inventory_space,User interface,96,儲藏空間不足！
 00962,ui.savedata_is_from_a_newer_version_of,User Interface,72,存檔來自較新版本的遊戲
 00963,ui.no_file_found,User Interface,72,未找到檔案
 00964,ui.you_are_no_longer_thirsty,User Interface,128,你不再口渴
@@ -978,7 +978,7 @@
 00977,ui.module_and_building_kit_levels_do_not,User Interface,128,不適用於當前模組等級
 00978,ui.you_don_t_have_this_module_installed,User Interface,128,未安裝此模組
 00979,ui.you_can_install_modules_only_in_the,User Interface,128,只能在地堡中安裝模組
-00980,ui.stash_upgraded,User Interface,128,庫存已升級
+00980,ui.stash_upgraded,User Interface,128,儲藏已升級
 00981,ui.you_are_no_longer_hungry,User Interface,128,你不再飢餓
 00982,ui.you_don_t_have_the_required_skill,User Interface,128,缺少所需技能
 00983,ui.you_don_t_have_the_required_base_module,User Interface,128,缺少所需模組
@@ -990,7 +990,7 @@
 00989,ui.you_have_been_healed,User Interface,128,你已接受醫治
 00990,ui.no_armor_in_the_slot,User Interface,128,未裝備護甲
 00991,ui.trader_does_not_have_enough_roubles,User Interface,128,商人盧布不足
-00992,ui.not_enough_inventory_space_to_scrap,User Interface,128,庫存空間不足！
+00992,ui.not_enough_inventory_space_to_scrap,User Interface,128,儲藏空間不足！
 00993,stats.fire_mode_semi_automatic,"User Interface, stating the current fire mode",48,射擊模式：半自動
 00994,stats.fire_mode_automatic,"User Interface, stating the current fire mode",48,射擊模式：自動
 00995,ui.skill_successfully_reset,User Interface,128,專精已重置
@@ -1010,9 +1010,9 @@
 01009,ui.you_already_have_this_quest,User Interface,128,已接受此任務！
 01010,ui.you_have_reached_the_max_task_limit,User Interface,128,已達到任務數量上限！
 01011,ui.this_weapon_has_no_ammo,User Interface,128,此武器沒有彈藥
-01012,ui.not_enough_inventory_space_to_unload,User Interface,128,庫存空間不足！
+01012,ui.not_enough_inventory_space_to_unload,User Interface,128,儲藏空間不足！
 01013,ui.you_can_only_uninstall_modules_in_the,User Interface,128,只能在地堡中解除安裝模組
-01014,ui.storage_module_cannot_be_uninstalled,User Interface,128,無法解除安裝庫存模組
+01014,ui.storage_module_cannot_be_uninstalled,User Interface,128,無法解除安裝儲藏模組
 01015,player.interaction.quest_completed,Player Interaction,128,任務完成！
 01016,player.interaction.lights_off,Player Interaction,128,關燈
 01017,player.interaction.lights_on,Player Interaction,128,開燈
@@ -1152,7 +1152,7 @@
 01151,npc.interaction.not_much_as_you_can_see_this_crystal,"User Interface, interaction with NPC",1400,沒多少……這塊晶體與衆不同，會釋放極強的輻射，多虧了密封設施我們才安然無恙。\n目前還沒弄清釋放的頻率，更別提其本質了。\n不過這輻射確實邪門，似乎帶點催眠效果。我幹這行以來還是頭回見。\n來扎科夫之前，聽說烏克蘭某座廢棄核電站裏也有類似的地方和晶體，再多的就不知道了。\n那邊傳出的情報寥寥無幾，不過扎科夫這邊同樣也是消息封閉。\n真是暴殄天物，要是能有充足的資源和專業裝置，天知道能發現什麼。\n我最好還是閉嘴吧，這種想法可不受待見，免得被大頭兵聽見找麻煩。
 01152,npc.interaction.nothing_in_particular_some_days_i_need,"User Interface, interaction with NPC",1400,沒什麼特別的，出來呼吸新鮮空氣。\n一直待在地堡里老難受了。
 01153,npc.interaction.now_that_you_have_killed_several_green,"User Interface, interaction with NPC",1400,幹掉了綠軍的幾名士兵，也算是讓他們見識到你不好惹了。\n給你個建議：和阿爾捷莫維奇聊聊，看能不能讓深紅公司的商人進駐地堡。\n無論陣營之間如何交戰，零希沃特地堡仍然是安全區。\n這並非由我的上司甚至當地政府決定，而是此地堡受相關的國際協議保護。\n我們想進去的話只能硬闖，但地堡裏的平民太多了，造成平民傷亡在政治層面上絕非明智之舉。\n所以去和阿爾捷莫維奇聊聊吧，找個折中的辦法。零希沃特地堡裏多個商人的話，能讓我們都賺上一筆。
-01154,npc.interaction.npc_can_give_you_usefull_information,"User Interface, interaction with NPC",1400,NPC可以提供有用的信息和任務，或者和你交易。
+01154,npc.interaction.npc_can_give_you_usefull_information,"User Interface, interaction with NPC",1400,NPC 可以提供有用的信息和任務，或者和你交易。
 01155,npc.interaction.of_any_kind_people_come_in_here_npc,"User Interface, interaction with NPC",1400,什麼樣的都有。\n人們只需告訴我想要什麼。我的工作就是尋找願意爲了報酬而去冒險的傢伙。
 01156,npc.interaction.of_course_it_is_no_mutant_or_bandit,"User Interface, interaction with NPC",1400,廢話，怪物和強盜永遠通過不了這道大門。
 01157,npc.interaction.oh_oh_beautiful_isn_t_it_npc_dialogue,"User Interface, interaction with NPC",1400,噢！噢！很漂亮，對不對？\n垃圾佬從一個孩子身上拿到的。噢！垃圾佬沒有偷！不！不！垃圾佬不偷東西！\n那孩子穿着這身漂亮衣服，但幸運的是他死了。對，死了。多麼美好的一天！\n垃圾佬拿走了衣服，現在它只屬於垃圾佬了！只屬於他一個人！
@@ -1310,7 +1310,7 @@
 01309,ui.approx_roubles_made,"User Interface, exit screen",64,戰利品等值盧布
 01310,ui.killed_by,"User Interface, exit screen",40,死於
 01311,ui.show_difficulty_settings,"User Interface, exit screen",64,顯示難度設定
-01312,ui.stash,Teleport Location,16,庫存
+01312,ui.stash,Teleport Location,16,儲藏
 01313,faction.inter.talk,Interfactions,48,交談
 01314,faction.inter.sleep,Interfactions,48,睡覺
 01315,faction.inter.enter,Interfactions,48,進入
@@ -1369,7 +1369,7 @@
 01368,tutorial.in_order_to_leave_the_bunker_and_go_on,Tutorial,256,要離開地堡狩獵，你需要和列車長談談。\n他就在地堡外。出發前記得找他聊聊，他會向你解釋如何從地圖上撤離。
 01369,tutorial.there_is_a_room_in_the_bunker_that_you,Tutorial,256,地堡內吧檯左邊有一個房間，你可以將其當成基地。\n你可以使用工作臺製作新物品，使用箱子存儲物品，安裝各種模組。
 01370,tutorial.by_accessing_your_personal_device_j,Tutorial,256,訪問你的個人終端[J]，查看地圖和任務，規劃模組安裝以及使用其他功能。
-01371,tutorial.press_tab_to_access_your_inventory_and,Tutorial,256,按[TAB]進入庫存並裝備背包。\n如果你需要了解更多遊戲機制，請按[ESC]查閱教學。\n祝你好運，獵人！
+01371,tutorial.press_tab_to_access_your_inventory_and,Tutorial,256,按[TAB]進入儲藏並裝備背包。\n如果你需要了解更多遊戲機制，請按[ESC]查閱教學。\n祝你好運，獵人！
 01372,train.skin.scientists,Train Skin Option Name,64,科學家
 01373,faction.loners,Factions,24,獨狼
 01374,faction.bandit,Factions,24,強盜
@@ -1397,8 +1397,8 @@
 01396,item.stats.max_dur,Item Stats,16,耐久上限
 01397,item.stats.cond_gain,Item Stats,16,耐久恢復
 01398,tips.loading.hold_ctrl_while_dragging_an_item_to,Loading screen tips,256,拿起物品並按住[Ctrl]拖放以分開
-01399,tips.loading.scroll_mouse_wheel_to_select_a,Loading screen tips,256,滾動滑鼠滾輪選擇不同的交互選項
-01400,tips.loading.hold_ctrl_and_click_an_item_to_move_it,Loading screen tips,256,滾動滾輪以選擇不同的交互選項
+01399,tips.loading.scroll_mouse_wheel_to_select_a,Loading screen tips,256,滾動滑鼠滾輪選擇不同的互動選項
+01400,tips.loading.hold_ctrl_and_click_an_item_to_move_it,Loading screen tips,256,滾動滾輪以選擇不同的互動選項
 01401,tips.loading.weapons_can_be_modded_only_in_the_bunker,Loading screen tips,256,武器只能在地堡中改裝
 01402,tips.loading.hunger_and_thirst_do_not_decrease_in,Loading screen tips,256,在地堡中，飢餓和口渴不會加劇
 01403,tips.loading.weight_carried_and_running_influence,Loading screen tips,256,負重和奔跑會加劇疲勞
@@ -1410,13 +1410,13 @@
 01409,tips.loading.use_a_repair_kit_restore_the,Loading screen tips,256,使用修理套件恢復槍械和護甲的耐久
 01410,tips.loading.once_you_have_reached_the_maximum,Loading screen tips,256,基礎技能達到最高等級後可以選擇一項專精
 01411,tips.loading.you_move_slowly_if_overencumbered,Loading screen tips,256,超重後只能緩慢移動
-01412,tips.loading.to_increase_the_number_of_stashes_in,Loading screen tips,256,安裝庫存模組以增加庫存頁
+01412,tips.loading.to_increase_the_number_of_stashes_in,Loading screen tips,256,安裝儲藏模組以增加儲藏頁
 01413,tips.loading.you_can_die_quickly_choose_wisely_when,Loading screen tips,256,死亡如影隨形，三思而後行
 01414,tips.loading.you_can_only_die_of_radiation_when_the,Loading screen tips,256,指示器變爲紅色表明當前輻射程度足以致死
 01415,tips.loading.enemies_have_reduced_vision_at_night,Loading screen tips,256,在夜間，敵人的視距會降低
 01416,tips.loading.wounds_decrease_your_max_hp,Loading screen tips,256,傷口會降低你的生命上限
 01417,tips.loading.press_fire_button_to_end_an_animation,Loading screen tips,256,開火會結束角色的其他動作
-01418,tips.loading.press_r_to_rotate_an_item_whilst_in,Loading screen tips,256,按R旋轉庫存中的物品
+01418,tips.loading.press_r_to_rotate_an_item_whilst_in,Loading screen tips,256,按R旋轉儲藏中的物品
 01419,tips.loading.you_can_mitigate_your_weapons_recoil,Loading screen tips,256,反向拖動滑鼠以抵消槍械後坐力
 01420,tips.loading.reticle_placement_matters_reduce,Loading screen tips,256,射擊時將準星直接指向目標可減少跳彈
 01421,tips.loading.swapping_to_a_pistol_is_faster_than,Loading screen tips,256,作爲切換速度最快的槍械，手槍是完美的副手備用武器
@@ -1434,7 +1434,7 @@
 01433,tips.loading.shotguns_and_smgs_offer_unmatched,Loading screen tips,256,霰彈槍和衝鋒槍在近距離內提供強大火力
 01434,tips.loading.snipers_dmr_s_have_the_longest,Loading screen tips,256,狙擊步槍和精確射手步槍擁有最遠的有效射程，但在近距離內難以正中目標
 01435,tips.loading.counter_incoming_flashbangs_by_looking,Loading screen tips,256,調整視野以免受閃光彈致盲影響
-01436,tips.loading.join_the_discord_server_to_stay_up_to,Loading screen tips,256,加入Discord服務器以掌握遊戲開發的最新動態（點擊主選單的版本說明）
+01436,tips.loading.join_the_discord_server_to_stay_up_to,Loading screen tips,256,加入 Discord 服務器以掌握遊戲開發的最新動態（點擊主選單的版本說明）
 01437,map.marker.igor_s_house,Marker names,48,伊戈爾的屋子
 01438,item.desc.normal,Item description,32,普通
 01439,map.marker.crimson_outpost,Marker names,48,深紅公司前哨站
@@ -1478,13 +1478,13 @@
 01477,skill.desc.decrease_the_price_of_entering_a_map,Skill Descriptions,128,進入地圖的費用 -25% 
 01478,skill.name.just_because_it_is_you,Skill Names,64,專享好物
 01479,skill.desc.traders_sell_more_quantity_of_items,Skill Descriptions,128,商人出售更多物品
-01480,skill.name.inventory_1,Skill Names,64,庫存 1
+01480,skill.name.inventory_1,Skill Names,64,儲藏 1
 01481,skill.desc.unlock_more_items_from_traders,Skill Descriptions,128,解鎖更多商人售賣物品
 01482,skill.name.lost_and_found,Skill Names,64,失物招領
 01483,skill.desc.unlock_the_trader_which_sells_random,Skill Descriptions,128,解鎖出售隨機物品的商人
 01484,skill.name.survival_kit,Skill Names,64,生存工具包
 01485,skill.desc.traders_sell_more_medikit_and_ammo,Skill Descriptions,128,商人出售更多的醫療包和彈藥
-01486,skill.name.inventory_2,Skill Names,64,庫存 2
+01486,skill.name.inventory_2,Skill Names,64,儲藏 2
 01487,skill.name.quest_devourer,Skill Names,64,任務狂人
 01488,skill.desc.increase_quest_experience_by_30,Skill Descriptions,128,任務經驗 +30% 
 01489,skill.name.deposit_1,Skill Names,64,儲存 1
@@ -1581,7 +1581,7 @@
 01580,skill.desc.when_you_re_not_starving_or_dehydrated,Skill Descriptions,256,喫飽喝足後提高生命上限和耐力上限
 01581,skill.value.desc.10_2_hp_per_level_15_2_stamina_per_level,Skill Value Descriptions,128, +10（每級額外 +2）生命上限\n +15（每級額外 +2）耐力上限
 01582,skill.name.gunsmith,Skill Names,64,生物材料學
-01583,skill.desc.allows_you_to_craft_amm unition_ammo,Skill Descriptions,256,可根據等級製作彈藥（需要彈藥製造機1級）和修理包
+01583,skill.desc.allows_you_to_craft_amm unition_ammo,Skill Descriptions,256,可根據等級製作彈藥（需要彈藥製造機 1 級）和修理包
 01584,skill.name.modder,Skill Names,64,武器改裝
 01585,skill.desc.mounted_mods_are_more_effective,Skill Descriptions,256,提高武器改裝效果
 01586,skill.value.desc.15_3_effectivness_of_mounted_mod_per,Skill Value Descriptions,128, +15% （每級額外 +3% ）武器改裝效果
@@ -1600,11 +1600,11 @@
 01599,base.building.slot_5,Base Building Slots,24,欄位 5
 01600,base.building.slot_6,Base Building Slots,24,欄位 6
 01601,base.building.slot_7,Base Building Slots,24,欄位 7
-01602,base.building.modules_are_used_to_obtain_passive,Base Building Info,320,模組能提供被動加成。\n安裝後初始爲0級。\n想升級獲取加成就得在工作臺製作對應的套件。\n模組可隨時拆除，但建造耗材概不退還。
+01602,base.building.modules_are_used_to_obtain_passive,Base Building Info,320,模組能提供被動加成。\n安裝後初始爲 0 級。\n想升級獲取加成就得在工作臺製作對應的套件。\n模組可隨時拆除，但建造耗材概不退還。
 01603,base.module.name.infirmary,Base Module Names,32,醫務室
 01604,base.module.desc.allow_crafting_medication_and_grants,"Base Module Descriptions, general",320,允許製作藥物，並提供提升整體生命值的被動加成
 01605,base.module.desc.increase_max_hp_less_chance_of,"Base Module Descriptions, alt a",320,增加生命上限，降低出血幾率\n緩慢恢復生命值
-01606,base.module.desc.provide_more_chest_to_store_items,"Base Module Descriptions, general",320,提供更多庫存頁
+01606,base.module.desc.provide_more_chest_to_store_items,"Base Module Descriptions, general",320,提供更多儲藏頁
 01607,base.module.desc.1_personal_chest,"Base Module Descriptions, alt a",320,儲物箱 +1
 01608,base.module.name.bedroom,Base Module Names,32,休息室
 01609,base.module.desc.comfortable_bed_that_heals_your_wounds,"Base Module Descriptions, general",320,休息時獲得更多恢復\n提高各項技能升級速度
@@ -1642,7 +1642,7 @@
 01641,base.module.name.ammo_producer,Base Module Names,32,制彈機
 01642,base.module.desc.provide_scrap_ammo_every_day_and,"Base Module Descriptions, general",320,允許你製作彈藥，每天產出彈藥廢料
 01643,base.module.desc.30_scrap_ammo_every_day_and_allows_you,"Base Module Descriptions, alt a",320,彈藥廢料 +30
-01644,base.module.desc.50_scrap_ammo_every_day_and_get_30,"Base Module Descriptions, alt b",320,彈藥廢料 +50，製作彈藥數量 +30% 
+01644,base.module.desc.50_scrap_ammo_every_day_and_get_30,"Base Module Descriptions, alt b",320,彈藥廢料 +50 ，製作彈藥數量 +30% 
 01645,base.module.name.workshop,Base Module Names,32,工坊
 01646,base.module.desc.you_can_repair_weapons_and_armor_by,"Base Module Descriptions, alt a",320,允許你修理武器和護甲
 01647,base.module.desc.repair_costs_50_less,"Base Module Descriptions, alt b",320,修理成本 -50% 
@@ -1816,7 +1816,7 @@
 01815,npc.text.ok_i_found_the_sawmill,NPC text,96,很好，找到地方了。
 01816,npc.text.ok_here_should_be_fine,NPC text,96,好...這裏應該沒問題了。
 01817,npc.text.otherwise_get_out_of_my_way,NPC text,96,不然就滾一邊去！
-01818,npc.text.our_money_conbined_with_inventory,NPC text,96,我們的資金加上庫存價值過高
+01818,npc.text.our_money_conbined_with_inventory,NPC text,96,我們的資金加上儲藏價值過高
 01819,npc.text.priviet,NPC text,96,同志！
 01820,npc.text.put_down_that_weapon,NPC text,96,放下武器。
 01821,npc.text.put_down_that_weapon_sentence_exclaim,NPC text,96,放下武器！
@@ -1916,10 +1916,10 @@
 01915,quest.desc.not_bad_hunter_let_s_see_if_you_can,Quest descriptions,1024,還不錯，獵人。那就看看你能不能打破我在森林裏的記錄了。
 01916,quest.name.supply_p_1,Quest names,64,急需物資（第 1 階段）
 01917,quest.desc.hey_hunter_nrecently_few_supplies_have,Quest descriptions,1024,嘿，獵人！\n最近很少有物資運過來，但人總是要喫飯的。\n我們需要人幫忙補充物資。
-01918,quest.objective.find_10_bread,Quest objectives,128,找到10個麵包
+01918,quest.objective.find_10_bread,Quest objectives,128,找到 10 個麵包
 01919,quest.name.supply_p_2,Quest names,64,急需物資（第 2 階段）
 01920,quest.desc.great_nnow_that_we_re_settled_on_the,Quest descriptions,1024,太好了！\n既然生活必需品有了，我希望你能給我再帶些保質期更長的食物，比如罐頭食品。
-01921,quest.objective.find_3_generic_chocolate,Quest objectives,128,找到3塊健怡巧克力
+01921,quest.objective.find_3_generic_chocolate,Quest objectives,128,找到 3 塊健怡巧克力
 01922,quest.name.chocolate_for_everyone,Quest names,64,無人不愛巧克力
 01923,quest.desc.chocolate_is_becoming_a_luxury_good,Quest descriptions,1024,巧克力現在已經成爲奢侈品了。給我帶一些吧。我必有重賞。
 01924,quest.name.what_s_on_the_flash_drive,Quest names,64,USB裏有什麼？
@@ -1930,7 +1930,7 @@
 01929,quest.objective.kill_15_wolfs,Quest objectives,128,殺死15只狼
 01930,quest.name.new_arrivals,Quest names,64,新軍抵達
 01931,quest.desc.very_interesting_from_the_flash_drives,Quest descriptions,1024,真有意思。我看了你帶來的USB，發現工業區的港口熱鬧着呢。去那裏看看到底是怎麼回事。
-01932,quest.objective.find_2_cooking_pots,Quest objectives,128,找到2個烹飪鍋
+01932,quest.objective.find_2_cooking_pots,Quest objectives,128,找到 2 個烹飪鍋
 01933,quest.name.cutlery,Quest names,64,蒐集餐具
 01934,quest.desc.hey_hunter_ni_have_a_very_simple_but,Quest descriptions,1024,嘿，獵人！\n我這有一項簡單枯燥的工作。\n住在這的畜生喫完我做的飯後就順走了餐具，真是幫混蛋。要是他們在這開間酒吧，指不定哪天就發瘋了。\n總之我需要叉子、刀子和湯匙。\n把它們帶過來吧。
 01935,quest.name.what_s_cooking,Quest names,64,何以烹飪
@@ -2004,7 +2004,7 @@
 02003,quest.name.preparing_for_battle,Quest names,64,整裝備戰
 02004,quest.desc.helicopter_blackbox_infested,Quest descriptions,1024,通過直升機的黑匣子，我們獲悉機組人員在沼澤中發現了一種奇怪的紫色水晶。\n之後就發生了反常的輻射爆發。\n此水晶似乎位於沼澤村。倒黴的是那個地方到處都是食屍鬼，我們不久前封鎖了入口。\n我會試着組織隊伍來將這個村莊夷爲平地，爲此我們需要大量的資源。\n現在我們也正在緊鑼密鼓地蒐集資源。\n你也需要儘自己的一份力量，獵人。\n對了！別忘了伏特加！
 02005,quest.name.clear_the_swamp,Quest names,64,沼澤掃蕩
-02006,quest.desc.here_s_the_plan_hunter_nentering_the,Quest descriptions,1024,計劃如下，獵人。\n直接闖進被食屍鬼佔據的村莊無疑是找死。\n村莊只有一個入口，所以我們會試着用亮光引它們出來，行動必須在晚上進行。\n晚上10點到凌晨3點進入沼澤，我的手下會等你的。\n建議帶上自動武器或彈匣大點的霰彈槍，儘可能減少裝彈次數。\n最後一件事，在混戰中儘量別射中我的人，明白嗎？
+02006,quest.desc.here_s_the_plan_hunter_nentering_the,Quest descriptions,1024,計劃如下，獵人。\n直接闖進被食屍鬼佔據的村莊無疑是找死。\n村莊只有一個入口，所以我們會試着用亮光引它們出來，行動必須在晚上進行。\n晚上 10 點到凌晨 3 點進入沼澤，我的手下會等你的。\n建議帶上自動武器或彈匣大點的霰彈槍，儘可能減少裝彈次數。\n最後一件事，在混戰中儘量別射中我的人，明白嗎？
 02007,quest.objective.clear_the_swamp,Quest objectives,128,肅清沼澤
 02008,quest.name.radioactive_meat,Quest names,64,輻射肉
 02009,quest.desc.you_re_new_here_huh_nwell_i_m_always,Quest descriptions,1024,你是新來的吧？\n我一直在找人幫我研究。\n放心，酬勞少不了你的。\n很好！我需要一些生肉來進行實驗，我想看看輻射對當地動物羣造成了什麼樣的影響。
@@ -2158,7 +2158,7 @@
 02157,faction.you_have_joined_a_faction,"User Interface, joined faction",128,你已加入[FACTION_NAME]
 02158,ui.reputation_level_required,"User Interface, reputation required",128,你的聲望必須達到[REPUTATION_MINIMUM]
 02159,quest.quest_accepted,"User Interface, quest accepted",128,已接受任務：[QUEST_NAME]
-02160,item.item_added_to_inventory,"User Interface, item added to inventory",128,[ITEM_QUANTITY]x[ITEM_NAME]已添加到庫存中
+02160,item.item_added_to_inventory,"User Interface, item added to inventory",128,[ITEM_QUANTITY]x[ITEM_NAME]已添加到儲藏中
 02161,skill.level_up_skill,"User Interface, level up skill",64,[SKILL_NAME]達到[SKILL_LEVEL]級
 02162,controls.menu.change_ammo,Controls menu,48,切換彈藥
 02163,controls.menu.move_up,Controls menu,48,向上移動
@@ -2166,7 +2166,7 @@
 02165,controls.menu.move_right,Controls menu,48,向右移動
 02166,controls.menu.move_left,Controls menu,48,向左移動
 02167,controls.menu.run,Controls menu,48,奔跑
-02168,controls.menu.open_close_inventory,Controls menu,48,打開/關閉庫存
+02168,controls.menu.open_close_inventory,Controls menu,48,打開/關閉儲藏
 02169,controls.menu.reload,Controls menu,48,換彈
 02170,controls.menu.torch_on_off,Controls menu,48,手電筒開/關
 02171,controls.menu.laser_on_off,Controls menu,48,雷射開/關
@@ -2241,7 +2241,7 @@
 02240,item.name.lost_backpack_found_in_the_makeshift,Item names or description,192,在臨時營地找到的丟失背包
 02241,item.name.key_used_to_access_the_secret,Item names or description,192,用於進入商場地下祕密撤離點的鑰匙
 02242,item.name.scientist_analyzer_industrial_area,Item names or description,192,在工業區找到的科學家分析儀
-02243,item.name.key_used_to_access_2nd_storage_room_of,Item names or description,192,用於進入石油工廠2號庫房的門禁卡
+02243,item.name.key_used_to_access_2nd_storage_room_of,Item names or description,192,用於進入石油工廠 2 號庫房的門禁卡
 02244,item.name.lost_document_found_in_the_industrial,Item names or description,192,在工業區找到的遺失檔案
 02245,item.name.key_used_to_access_the_office_room_in,Item names or description,192,用於進入商場地下室辦公室的鑰匙
 02246,item.name.analyzer_found_near_a_big_chemical,Item names or description,192,在大型化學異常附近找到的分析儀
@@ -2261,7 +2261,7 @@
 02260,item.name.use_this_item_to_build_lights,Item names or description,192,使用此物品設定燈光效果
 02261,item.name.key_svaruski_store,Item names or description,192,用於進入商場 Skaruvksi 珠寶店上鎖房間的鑰匙
 02262,item.name.scientiest_s_analyzer_found_in_the_swamp,Item names or description,192,在沼澤找到的科學家分析儀
-02263,item.name.use_this_item_to_increase_your_storage,Item names or description,192,使用此物品後，庫存頁 +1
+02263,item.name.use_this_item_to_increase_your_storage,Item names or description,192,使用此物品後，儲藏頁 +1
 02264,item.name.bread,Item names,48,麵包
 02265,item.name.rotten_bread,Item names,48,變質的麵包
 02266,item.name.butter,Item names,48,牛油
@@ -2304,7 +2304,7 @@
 02303,item.name.wolf_meat,Item names,48,狼肉
 02304,item.name.wurstel,Item names,48,德式香腸
 02305,difficulty.menu.tooltip.all_npcs_will_drop_their_armor_the,Difficulty menu tooltips,512,所有NPC都會掉落護甲，耐久取決於他們所受的傷害
-02306,difficulty.menu.tooltip.factor_by_which_the_value_of_an_item,Difficulty menu tooltips,512,出售物品時價值所乘的倍率。\n例如：價值100盧布的物品，買入價爲 100 ，售出價爲 100x出售倍率。
+02306,difficulty.menu.tooltip.factor_by_which_the_value_of_an_item,Difficulty menu tooltips,512,出售物品時價值所乘的倍率。\n例如：價值 100 盧布的物品，買入價爲 100 ，售出價爲[100x出售倍率]。
 02307,difficulty.menu.tooltip.npc_service_price_factor,Difficulty menu tooltips,512,地堡中NPC提供各項服務的費用
 02308,difficulty.menu.tooltip.hunt_reputation_factor,Difficulty menu tooltips,512,狩獵結束時獲得的經驗
 02309,difficulty.menu.tooltip.single_item_per_container_factor,Difficulty menu tooltips,512,容器中每項物品所包含的數量
@@ -2312,14 +2312,14 @@
 02311,difficulty.menu.tooltip.trader_money_factor,Difficulty menu tooltips,512,商人的盧布數量
 02312,difficulty.menu.tooltip.multiplier_whereby_all_items_sold_by,Difficulty menu tooltips,512,商人的商品數量
 02313,difficulty.menu.tooltip.note_this_value_is_applied_only_to_the,Difficulty menu tooltips,512,此設定僅適用於玩家所受傷害
-02314,difficulty.menu.tooltip.unused_npcs_will_always_drop_armor,Difficulty menu tooltips,512,無效，NPC總會掉落護甲
+02314,difficulty.menu.tooltip.unused_npcs_will_always_drop_armor,Difficulty menu tooltips,512,無效，NPC 總會掉落護甲
 02315,difficulty.menu.tooltip.upon_death_the_save_files_related_to,Difficulty menu tooltips,512,死亡時，相關的存檔將被刪除\n遊戲崩潰不會被視爲死亡
 02316,difficulty.menu.tooltip.upon_death_you_lose_all_items_that_are,Difficulty menu tooltips,512,死亡時，你會失去所有不屬於上述類別的物品
-02317,difficulty.menu.tooltip.upon_death_you_lose_all_the_amm unition,Difficulty menu tooltips,512,死亡時，你會失去庫存中的所有彈藥
-02318,difficulty.menu.tooltip.upon_death_you_lose_all_the_consumable,Difficulty menu tooltips,512,死亡時，你會失去庫存中的所有消耗品
+02317,difficulty.menu.tooltip.upon_death_you_lose_all_the_amm unition,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有彈藥
+02318,difficulty.menu.tooltip.upon_death_you_lose_all_the_consumable,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有消耗品
 02319,difficulty.menu.tooltip.upon_death_you_lose_all_the_equipment,Difficulty menu tooltips,512,死亡時，你會失去所有裝備
-02320,difficulty.menu.tooltip.upon_death_you_lose_all_the_keys_in,Difficulty menu tooltips,512,死亡時，你會失去庫存中的所有鑰匙
-02321,difficulty.menu.tooltip.upon_death_you_lose_all_the_medication,Difficulty menu tooltips,512,死亡時，你會失去庫存中的所有醫療用品
+02320,difficulty.menu.tooltip.upon_death_you_lose_all_the_keys_in,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有鑰匙
+02321,difficulty.menu.tooltip.upon_death_you_lose_all_the_medication,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有醫療用品
 02322,loadout.equipment.choose_your_equipment,Equipment setup,96,選擇你的裝備
 02323,inventory.info.duration,Inventory info,12,生效時間
 02324,inventory.info.wound,Inventory info,12,傷口
@@ -2399,7 +2399,7 @@
 02398,credits.head_of_comm unity,Credits,64,社區負責人
 02399,credits.marketing_manager,Credits,64,市場經理
 02400,credits.comm unity_social_media_manager,Credits,64,社區與社交媒體經理
-02401,credits.qa_manager,Credits,64,QA經理
+02401,credits.qa_manager,Credits,64,品質保證經理
 02402,credits.ceo,Credits,64,首席執行官
 02403,credits.comm unity_player_experience_manager,Credits,64,社區與玩家體驗經理
 02404,credits.creative_director,Credits,64,創意總監
@@ -2411,12 +2411,12 @@
 02410,credits.associate_producer,Credits,64,助理製作人
 02411,credits.trailers_by,Credits,64,預告片製作
 02412,credits.key_art_by,Credits,64,主視覺設計
-02413,credits.qa_tester,Credits,64,QA 測試員
+02413,credits.qa_tester,Credits,64,品質保證測試員
 02414,credits.development_manager,Credits,64,開發經理
-02415,credits.senior_qa_tester,Credits,64,高級QA 測試員
-02416,credits.qa_project_manager,Credits,64,QA 項目經理
-02417,credits.qa_team_lead,Credits,64,QA 團隊負責人
-02418,credits.qa_testers,Credits,64,QA 測試員
+02415,credits.senior_qa_tester,Credits,64,高級品質保證測試員
+02416,credits.qa_project_manager,Credits,64,品質保證項目經理
+02417,credits.qa_team_lead,Credits,64,品質保證團隊負責人
+02418,credits.qa_testers,Credits,64,品質保證測試員
 02419,credits.special_thanks,Credits,64,特別鳴謝
 02420,credits.discord_moderation_team,Credits,64,Discord管理團隊
 02421,credits.music_by,Credits,64,配樂
@@ -2492,7 +2492,7 @@
 02491,quest.soldier_nmy_men_have_reported_a_large,Quest text,1024,士兵！\n我的人報告說深紅公司已經傾巢出動，各個地區都有他們的小隊！\n做好準備，士兵，這是一場戰爭...
 02492,quest.good_job_hunter_now_my_men_will_take,Quest text,1024,幹得好，獵人！我會派人接管和改造這個前哨站，而你有另一個任務。\n綠軍發現了你在他們地堡區放置的攝像頭，已經開始了清洗行動。\n我們的一個間諜暴露了。\n他最後的蹤跡在沼澤，希望你能趕在綠軍之前找到他。
 02493,quest.well_done_soldier_nnow_you_have_to,Quest text,1024,幹得好，士兵！\n現在此對付那隻老鼠了。他叫埃爾莫萊·弗拉索夫，幾周前加入綠軍。\n我必須承認這狗孃養的有點東西，要騙過我可真不簡單。\n我的人發現了他，但被他逃掉了。他現在在臨時營地。\n格殺勿論，士兵。記得把狗牌帶回來，我們給雷納德準備一份大禮...
-02494,quest.ok_soldier_the_outpost_is_almost_ready,Quest text,1024,很好，士兵！前哨站差不多建好了。\n我已經派人到那裏接手指揮，但深紅公司可不會坐視。\n你的任務是幹掉深紅公司派來商場的殺手。根據情報，他們一個在 Lio -ju 服裝店，一個在 Abibas 鞋店和工具店附近，還有一個在數碼產品店。\n士兵，做得乾淨點。
+02494,quest.ok_soldier_the_outpost_is_almost_ready,Quest text,1024,很好，士兵！前哨站差不多建好了。\n我已經派人到那裏接手指揮，但深紅公司可不會坐視。\n你的任務是幹掉深紅公司派來商場的殺手。根據情報，他們一個在 Lio-ju 服裝店，一個在 Abibas 鞋店和工具店附近，還有一個在數碼產品店。\n士兵，做得乾淨點。
 02495,quest.it_s_time_to_see_what_s_left_in_the,Quest text,1024,是時候看看商場的槍店裏還剩些什麼了。\n去那裏找一個裝備箱。也許我們可以搞到些新傢伙。
 02496,quest.nice_work_hunter_nnow_it_is_only_a,Quest text,1024,幹得好，獵人！\n現在他們的一舉一動都在我們的掌控之下。\n下一個任務的目標是幹掉幾個綠軍士官。\n這不足以讓他們傷筋動骨，但引起的混亂將爲我們爭取行動的時間。
 02497,quest.we_know_that_the_green_army_is,Quest text,1024,我們得知綠軍正在臨時營地建立新的前哨站。\n我需要你去偵察一下，找到前哨站的確切位置，放置 GPS定位器。\n現在他們抽調不出多少人手，你可以輕鬆完成任務。
@@ -2513,13 +2513,13 @@
 02512,quest.damn_none_of_our_scout_teams_has_just,Quest text,1024,該死！\n我們的偵察小隊在沼澤被襲擊了！這是他們最後的座標。\n快去，獵人！\n也許還有倖存者...
 02513,quest.the_barman_told_me_about_you_you_seem,Quest text,1024,酒保跟我說起過你，你很有潛力。\n森林地區的匪幫佔據了鋸木廠，我要你去那裏把保險箱裏的東西帶回來。地圖上的大片平整區域就是鋸木廠，很容易找到。\n保險箱裏裝的是什麼？這不關你的事，獵人。搞清楚你的身份，執行命令！
 02514,player.prompt.close_the_valve,Player prompt,32,關閉閥門
-02515,ui.popup.cannot_upgrade_storage_while_stash_is,User Interface Popup,160,查看庫存時無法升級庫存模組！
+02515,ui.popup.cannot_upgrade_storage_while_stash_is,User Interface Popup,160,查看儲藏時無法升級儲藏模組！
 02516,npc.dialogue.i_have_already_given_you_the_equipment,NPC dialogue,512,我已經給過你了。
 02517,npc.dialogue.come_back_next_time,NPC dialogue,512,下次再來。
 02518,quest.objective.find_the_green_army_convoy,Quest objectives,128,尋找綠軍車隊
-02519,quest.objective.find_and_remove_the_cctv_number_1,Quest objectives,256,尋找並拆除1號監控攝像頭
-02520,quest.objective.find_and_remove_the_cctv_number_2,Quest objectives,256,尋找並拆除2號監控攝像頭
-02521,quest.objective.find_and_remove_the_cctv_number_3,Quest objectives,256,尋找並拆除3號監控攝像頭
+02519,quest.objective.find_and_remove_the_cctv_number_1,Quest objectives,256,尋找並拆除 1 號監控攝像頭
+02520,quest.objective.find_and_remove_the_cctv_number_2,Quest objectives,256,尋找並拆除 2 號監控攝像頭
+02521,quest.objective.find_and_remove_the_cctv_number_3,Quest objectives,256,尋找並拆除 3 號監控攝像頭
 02522,quest.objective.locate_the_empty_room,Quest objectives,256,找到空房間
 02523,quest.objective.place_gps_on_the_generator,Quest objectives,256,在發電動馬達上放置 GPS
 02524,quest.objective.place_gps_near_the_trucks,Quest objectives,256,在卡車旁放置 GPS
@@ -2530,7 +2530,7 @@
 02529,quest.objective.find_the_crash_site,Quest objectives,256,尋找失事地點
 02530,quest.objective.locate_the_ Woody_pub,Quest objectives,256,定位 Woody 酒吧
 02531,quest.objective.locate_abibas_shop,Quest objectives,256,定位 Abibas 鞋店
-02532,quest.objective.locate_lio_ju_shop,Quest objectives,256,定位 Lio -ju 服裝店
+02532,quest.objective.locate_lio_ju_shop,Quest objectives,256,定位 Lio-ju 服裝店
 02533,quest.objective.locate_the_pharmacy,Quest objectives,256,定位藥店
 02534,quest.objective.locate_skaruvksi_shop,Quest objectives,256,定位 Skaruvksi 珠寶店
 02535,ui.popup.you_have_already_joined_the_crimson,User Interface Popup,128,你已加入深紅公司
@@ -2721,7 +2721,7 @@
 02720,achievement.desc.defeat_arman_in_the_makeshift_camp,Achievement Description,256,擊殺阿爾曼[臨時營地]
 02721,achievement.desc.loot_from_10_hidden_stashes,Achievement Description,256,搜刮 10 個物資藏匿點
 02722,achievement.desc.complete_igor_s_questline,Achievement Description,256,完成伊戈爾的任務線
-02723,achievement.desc.litter_the_ground_with_1000_bullets_in,Achievement Description,256,在單次行動中消耗1000發彈藥
+02723,achievement.desc.litter_the_ground_with_1000_bullets_in,Achievement Description,256,在單次行動中消耗 1000 發彈藥
 02724,achievement.desc.complete_the_game_with_permadeath,Achievement Description,256,啓用永久死亡並通關
 02725,achievement.desc.heal_bleed_heal_hp_at_10hp_or_less,Achievement Description,256,在生命不超過 10 時使用醫療用品
 02726,achievement.desc.reach_maximum_relationship_with_any,Achievement Description,256,在任意陣營中達到聲望上限
@@ -2782,7 +2782,7 @@
 02781,skill.hunter.name.stalker,Hunter Skill Name,24,潛行者
 02782,skill.hunter.desc.slows_rate_at_which_you_absorb,Hunter Skill Description,256,受到的輻射降低 50% ，異常傷害降低 30% 
 02783,skill.hunter.name.grenade_expert,Hunter Skill Name,24,投彈手
-02784,skill.hunter.desc.grenade_range,Hunter Skill Description,256,手榴彈的爆炸範圍增加30% 
+02784,skill.hunter.desc.grenade_range,Hunter Skill Description,256,手榴彈的爆炸範圍增加 30% 
 02785,skill.hunter.name.explorer,Hunter Skill Name,24,探險家
 02786,skill.hunter.desc.adds_an_additional_extraction_point_to,Hunter Skill Description,256,發現一個額外的撤離點
 02787,skill.hunter.name.adrenaline_rush,Hunter Skill Name,24,腎上腺素
@@ -2913,7 +2913,7 @@
 02912,base.module.desc.provide_scrap_material_every_day,"Base Module Descriptions, alt a",64,每天產出普通廢料
 02913,base.module.desc.scrap_daily,"Base Module Descriptions, alt b",64,每天產出普通廢料、武器廢料和護甲廢料
 02914,base.module.desc.scrap_daily_plus_items,"Base Module Descriptions, alt c",64,每天產出更多普通廢料、武器廢料和護甲廢料\n可在狩獵期間分解物品，獲得的廢料減少 50% 
-02915,base.upgrade.building_kit_forge_3,Upgrade Base Kit,64,建造套件：鍛造台3
+02915,base.upgrade.building_kit_forge_3,Upgrade Base Kit,64,建造套件：鍛造台 3
 02916,container.name.items_collected_by_igor,Container name,64,伊戈爾蒐集的雜物
 02917,this_is_short_for_display.tooltip,This is short for Display Tooltip. This is used to say this is the action you press to see a tooltip.,32,提示信息
 02918,item.name.n45o1,Item names or description,32,N45O1
@@ -2947,11 +2947,11 @@
 02946,npc.title.crimson_corp,NPC title part (Crimson Corp. scientist),64,深紅公司
 02947,skill.hunter.level.mythic,Hunter level name,32,神話
 02948,skill.hunter.level.legendary,Hunter level name,32,傳奇
-02949,base.module.desc.unlock_a_total_of_1_stash_pages,Base Module description,256,解鎖1庫存頁
-02950,base.module.desc.unlock_a_total_of_3_stash_pages,Base Module description,256,解鎖3庫存頁
-02951,base.module.desc.unlock_a_total_of_6_stash_pages,Base Module description,256,解鎖6庫存頁
-02952,base.module.desc.unlock_a_total_of_9_stash_pages,Base Module description,256,解鎖9庫存頁
-02953,base.module.desc.unlock_a_total_of_12_stash_pages,Base Module description,256,解鎖12庫存頁
+02949,base.module.desc.unlock_a_total_of_1_stash_pages,Base Module description,256,解鎖 1 儲藏頁
+02950,base.module.desc.unlock_a_total_of_3_stash_pages,Base Module description,256,解鎖 3 儲藏頁
+02951,base.module.desc.unlock_a_total_of_6_stash_pages,Base Module description,256,解鎖 6 儲藏頁
+02952,base.module.desc.unlock_a_total_of_9_stash_pages,Base Module description,256,解鎖 9 儲藏頁
+02953,base.module.desc.unlock_a_total_of_12_stash_pages,Base Module description,256,解鎖 12 儲藏頁
 02954,base.module.desc.medication_bleed_10,Base Module description,256,允許你製作更多醫療用品\n -10% 流血幾率
 02955,base.module.desc.medication_bleed_15,Base Module description,256,允許你製作更多醫療用品\n -15% 流血幾率\n每分鐘恢復2生命\n每分鐘緩解 0.1 輻射
 02956,base.module.desc.medication_bleed_30,Base Module description,256,允許你製作更多醫療用品\n -30% 流血幾率\n每分鐘恢復5生命\n每分鐘緩解 0.2 輻射
@@ -3057,7 +3057,7 @@
 03056,workshop.failed_to_find_mod_meta_file,Steam Workshop error message,160,無法找到模組元檔案
 03057,workshop.error_folder_of_mod_not_found_or_not,Steam Workshop error message,160,錯誤：未找到或無法讀取模組檔案夾。
 03058,workshop.notice_steam_stopped_replying_unable,Steam Workshop error message,160,注意：Steam 中止響應，無法找回狀態。
-03059,workshop.steam_returned_invalid_during_upload,Steam Workshop error message,160,上傳時Steam返回無效。請檢查 Steam 雲存儲是否已滿或模組/圖標過大。
+03059,workshop.steam_returned_invalid_during_upload,Steam Workshop error message,160,上傳時 Steam 返回無效。請檢查 Steam 雲存儲是否已滿或模組/圖標過大。
 03060,workshop.warning_problem_getting_progress_from,Steam Workshop error message,160,警告：從 Steam 獲取進度時出現問題（可能已上傳）。
 03061,workshop.mod_successfully_uploaded_to_steamworks,Steam Workshop error message,160,模組已成功上傳至 Steam 工坊。
 03062,ui.button.close.close_window,Window Close Buttons,30,關閉窗口
@@ -3206,7 +3206,7 @@
 03205,telling_player_they_need_to.select_reward,Telling player they need to select a reward to continue.,40,選擇獎勵
 03206,settings.sound.opening_sound_of_the_pda,Sound Setting,64,開啓個人終端
 03207,settings.sound.general_pda_sounds,Sound Setting,64,個人終端
-03208,item.name.single_use_storage_kit,Item name,32,附加庫存模組
+03208,item.name.single_use_storage_kit,Item name,32,附加儲藏模組
 03209,weapon.name.paiga_12,Weapon name,32,Paiga-12
 03210,item.name.paiga_12_5_round_magazine,item name,32,Paiga-12 5發彈匣
 03211,item.name.paiga_12_10_round_magazine,item name,32,Paiga-12 10發彈匣
@@ -3267,7 +3267,7 @@
 03266,dialogue.any_news,Dialogue,32,有什麼消息嗎？
 03267,dialogue.horizon_docks,Dialogue,None,是啊，都傳開了，工業區來了一幫自稱“地平線”的新勢力。\n既不是軍隊也不是強盜，倒像是一身精良裝備且心懷鬼胎的企業武裝。\n他們封鎖了碼頭，膽敢靠近的人……全都人間蒸發了。
 03268,quest.name.improving_the_base,Quest name,32,建設基地
-03269,quest.desc.you_can_upgrade_your_base_by,Quest description,None,你可以通過安裝新模組來建設基地。\n打開個人終端，進入基地頁面， 點擊一個空欄，選擇一個模組並點擊“安裝”。\n在工作臺製作模組，右鍵點擊庫存中的模組並使用，即可將模組安裝到基地中。
+03269,quest.desc.you_can_upgrade_your_base_by,Quest description,None,你可以通過安裝新模組來建設基地。\n打開個人終端，進入基地頁面， 點擊一個空欄，選擇一個模組並點擊“安裝”。\n在工作臺製作模組，右鍵點擊儲藏中的模組並使用，即可將模組安裝到基地中。
 03270,item.name.7_62x25mm_chemical,Item name,32,7.62x25mm 化學
 03271,item.name.5_45x39mm_bp,Item name,32,5.45x39mm 穿甲彈
 03272,item.name.5_45x39mm_horizon,Item name,32,5.45x39mm 地平線
@@ -3283,12 +3283,12 @@
 03286,item.name.bck_backpack,Item name,32,BCK 背包
 03287,item.name.trf_backpack,Item name,32,TRF 背包
 03288,item.name.ptq_backpack,Item name,32,PTQ 背包
-03289,item.name.backpack_cc_01,Item name,32,背包 CC -01
-03290,item.name.backpack_cc_02,Item name,32,背包 CC -02
-03291,item.name.backpack_cc_03,Item name,32,背包 CC -03
-03292,item.name.backpack_ga_01,Item name,32,背包 GA -01
-03293,item.name.backpack_ga_02,Item name,32,背包 GA -02
-03294,item.name.backpack_ga_03,Item name,32,背包 GA -03
+03289,item.name.backpack_cc_01,Item name,32,背包 CC-01
+03290,item.name.backpack_cc_02,Item name,32,背包 CC-02
+03291,item.name.backpack_cc_03,Item name,32,背包 CC-03
+03292,item.name.backpack_ga_01,Item name,32,背包 GA-01
+03293,item.name.backpack_ga_02,Item name,32,背包 GA-02
+03294,item.name.backpack_ga_03,Item name,32,背包 GA-03
 03295,difficulty.menu.backpack_tier_1,Difficulty Menu,32,掉落 1 級背包
 03296,difficulty.menu.backpack_tier_2,Difficulty Menu,32,掉落 2 級背包
 03297,difficulty.menu.backpack_tier_3,Difficulty Menu,32,掉落 3 級背包
@@ -3458,7 +3458,7 @@
 03461,difficulty.menu.custom,Difficulty Menu,32,自定義
 03462,chest.box,Chests,64,箱子
 03463,npc.train,NPCs,48,火車
-03464,ui.in_stash,User Interface,40,庫存
+03464,ui.in_stash,User Interface,40,儲藏
 03465,faction.inter.give_medkit,Interfactions,48,送出醫療包
 03466,tutorial.let_s_trade,Tutorial text,128,來交易吧
 03467,tutorial.letter_for_barman,Tutorial text,128,給酒保的信
@@ -3472,8 +3472,8 @@
 03475,settings.auto_close_pda,Setting option,128,自動關閉個人終端
 03476,menu.main.new,Main menu,64,新
 03477,npc.serge_nt_desya_popo,NPCs,48,德西亞·波波中士
-03478,misc.32.paiga_12_20_round_magazine_item_name,item name,32,Paiga -12的20發彈匣
-03479,misc.32.paiga_12_tactical_handguard_item_name,Weapon Mods,64,Paiga -12戰術護木
+03478,misc.32.paiga_12_20_round_magazine_item_name,item name,32,Paiga-12 的20發彈匣
+03479,misc.32.paiga_12_tactical_handguard_item_name,Weapon Mods,64,Paiga-12 戰術護木
 03480,dialogue.horizon_docks_alt,Dialogue,None,是啊，都傳開了，工業區來了一幫自稱“地平線”的新勢力。\n既不是軍隊也不是強盜，倒像是一身精良裝備且心懷鬼胎的企業武裝。\n他們封鎖了碼頭，膽敢靠近的人……全都人間蒸發了。
 03481,npc.name.ivan,NPC name,48,伊萬
 03482,npc.name.vasiliy,NPC name,48,瓦西里
@@ -3928,12 +3928,12 @@
 03931,trade.barter.good_condition_car_battery,Barter,72,狀況良好的汽車電池
 03932,trade.barter.motel_briefcase,Barter,72,汽車旅館公事包
 03933,trade.barter.special_tool_box_old_train_station,Barter,72,特殊工具箱[舊火車站]
-03934,trade.barter.laboratory_documents_1,Barter,72,實驗室1號檔案
-03935,trade.barter.laboratory_documents_2,Barter,72,實驗室2號檔案
+03934,trade.barter.laboratory_documents_1,Barter,72,實驗室 1 號檔案
+03935,trade.barter.laboratory_documents_2,Barter,72,實驗室 2 號檔案
 03936,trade.barter.special_tool_box_sewer,Barter,72,特殊工具箱[下水道]
 03937,trade.barter.rotor_sewer,Barter,72,轉子[下水道]
 03938,trade.barter.briefcase_sewer,Barter,72,公事包[下水道]
-03939,trade.barter.usb_data_1_mall,Barter,72,1號USB[商場]
+03939,trade.barter.usb_data_1_mall,Barter,72,1 號 USB[商場]
 03940,trade.barter.rare_whisky_mall,Barter,72,高品質的威士忌[商場]
 03941,trade.barter.shoes_mall,Barter,72,鞋[商場]
 03942,trade.barter.special_tool_box_1_mall,Barter,72,1號特殊工具箱[商場]
@@ -3956,15 +3956,15 @@
 03959,trade.barter.briefcase_industrial_area,Barter,72,公事包[工業區]
 03960,trade.barter.electric_motor_industrial_area,Barter,72,電動馬達[工業區]
 03961,trade.barter.car_battery_zakov,Barter,72,汽車電池[扎科夫]
-03962,trade.barter.briefcase_1_zakov,Barter,72,1號公事包[扎科夫]
-03963,trade.barter.briefcase_2_zakov,Barter,72,2號公事包[扎科夫]
+03962,trade.barter.briefcase_1_zakov,Barter,72,1 號公事包[扎科夫]
+03963,trade.barter.briefcase_2_zakov,Barter,72,2 號公事包[扎科夫]
 03964,trade.barter.special_tool_box_1_zakov,Barter,72,1號特殊工具箱[扎科夫]
 03965,trade.barter.usb_data_1_zakov,Barter,72,1號USB[扎科夫]
 03966,trade.barter.fire_station_documents_zakov,Barter,72,消防站檔案[扎科夫]
 03967,trade.barter.police_station_documents_zakov,Barter,72,警察局檔案[扎科夫]
 03968,trade.barter.gas_tank_zakov,Barter,72,氣罐[扎科夫]
 03969,trade.barter.med_box_zakov,Barter,72,醫療箱[扎科夫]
-03970,trade.barter.briefcase_3_zakov,Barter,72,3號公事包[扎科夫]
+03970,trade.barter.briefcase_3_zakov,Barter,72,3 號公事包[扎科夫]
 03971,trade.barter.expensive_coffee_zakov,Barter,72,珍貴咖啡[扎科夫]
 03972,trade.barter.sapphire_necklace_zakov,Barter,72,藍寶石項鍊[扎科夫]
 03973,trade.barter.carton_of_cigarettes_zakov,Barter,72,條裝香菸[扎科夫]
@@ -4058,7 +4058,7 @@
 04061,tutorial.ftue.weapon_durability_wears_down_hud_1,First Time User Experience UI,256,我的武器會隨着使用而磨損。
 04062,ui.start_prologue,User Interface,40,開始序章
 04063,ui.start_main_game,User Interface,40,開始正式遊戲
-04064,tutorial.ftue.interactable_scroll,First Time User Experience UI,256,使用滑鼠滾輪選擇要進行的交互
+04064,tutorial.ftue.interactable_scroll,First Time User Experience UI,256,使用滑鼠滾輪選擇要進行的互動
 04065,settings.gameplay.auto_switch_ammo,Gameplay settings,64,自動切換彈藥
 04066,settings.gameplay.auto_switch_ammo_description,Gameplay setting tooltip,256,當前彈藥耗盡時，若物品欄中某種兼容彈藥的數量多於當前所用彈藥總數，則自動裝填儲備最充足的兼容彈藥。
 04067,ui.auto_switching_ammo,"User Interface, player reload",128,自動切換爲[ITEM_NAME]
@@ -4093,6 +4093,6 @@
 
 05000,"When ON, tap to toggle sprinting on and off; when OFF, hold the key to sprint.",Gameplay setting tooltip,128,開啟時，點擊切換衝刺狀態；關閉時，按住按鍵衝刺
 05001,"When ON, weapons wear at 25% of the normal rate, so they seldom reach the jam threshold.",Difficulty menu tooltips,128,開啟時，武器磨損速度爲正常的25% ，所以很少會達到卡殼閾值
-05002,suppressor 7.62x51 PTS/UDK Ghillie,Weapon Mods,64,吉利偽裝消音器 7.62x51mm （PTS/UDK 規格）
+05002,suppressor 7.62x51 PTS/UDK Ghillie,Weapon Mods,64,7.62x51 吉利偽裝消音器（PTS/UDK 規格）
 05003,".50 bmg standard",Ammo Types,64,.50 BMG 標準
 05004,"N1o ghillie stock",Weapon Mods,64,N1o 吉利偽裝槍托
