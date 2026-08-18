@@ -16,7 +16,7 @@
 00015,difficulty.menu.rookie,Difficulty Menu,32,新手
 00016,loadout.name.survivor,Loadout name,20,倖存者
 00017,difficulty.menu.hunter,Difficulty Menu,32,獵人
-00018,difficulty.menu.sell_multiplier,Difficulty Menu,32,商品價格
+00018,difficulty.menu.sell_multiplier,Difficulty Menu,32,商品賣出價格
 00019,difficulty.menu.items_amount,Difficulty Menu,32,物品數量
 00020,difficulty.menu.amount_of_single_item,Difficulty Menu,32,單項物品數量
 00021,difficulty.menu.minimum_weapons_durability,Difficulty Menu,32,掉落武器耐久下限
@@ -88,7 +88,7 @@
 00087,crafting.menu.required_items,Crafting Menu,24,所需物品
 00088,crafting.menu.no_additional_requirements,Crafting Menu,32,無額外要求
 00089,crafting.menu.craft,Crafting Menu,24,製作
-00090,inventory.menu.inventory,Inventory Menu,32,儲藏
+00090,inventory.menu.inventory,Inventory Menu,32,背包
 00091,inventory.menu.ground,Inventory Menu,32,地面
 00092,item.medication.anti_bleed_gel,Medication Items,32,止血凝膠
 00093,item.medication.bandage,Medication Items,32,繃帶
@@ -958,8 +958,8 @@
 00957,ui.weapon1,User Interface,40,武器1
 00958,ui.weapon2,User Interface,40,武器2
 00959,ui.yes,User Interface,40,是
-00960,item.has_been_added_to_your_inventory,ITEM_NAME (x quantity) has been added to your inventory,96,已添加至儲藏
-00961,ui.not_enough_inventory_space,User interface,96,儲藏空間不足！
+00960,item.has_been_added_to_your_inventory,ITEM_NAME (x quantity) has been added to your inventory,96,已添加至背包
+00961,ui.not_enough_inventory_space,User interface,96,背包空間不足！
 00962,ui.savedata_is_from_a_newer_version_of,User Interface,72,存檔來自較新版本的遊戲
 00963,ui.no_file_found,User Interface,72,未找到檔案
 00964,ui.you_are_no_longer_thirsty,User Interface,128,你不再口渴
@@ -978,7 +978,7 @@
 00977,ui.module_and_building_kit_levels_do_not,User Interface,128,不適用於當前模組等級
 00978,ui.you_don_t_have_this_module_installed,User Interface,128,未安裝此模組
 00979,ui.you_can_install_modules_only_in_the,User Interface,128,只能在地堡中安裝模組
-00980,ui.stash_upgraded,User Interface,128,儲藏已升級
+00980,ui.stash_upgraded,User Interface,128,倉庫已升級
 00981,ui.you_are_no_longer_hungry,User Interface,128,你不再飢餓
 00982,ui.you_don_t_have_the_required_skill,User Interface,128,缺少所需技能
 00983,ui.you_don_t_have_the_required_base_module,User Interface,128,缺少所需模組
@@ -990,7 +990,7 @@
 00989,ui.you_have_been_healed,User Interface,128,你已接受醫治
 00990,ui.no_armor_in_the_slot,User Interface,128,未裝備護甲
 00991,ui.trader_does_not_have_enough_roubles,User Interface,128,商人盧布不足
-00992,ui.not_enough_inventory_space_to_scrap,User Interface,128,儲藏空間不足！
+00992,ui.not_enough_inventory_space_to_scrap,User Interface,128,背包空間不足！
 00993,stats.fire_mode_semi_automatic,"User Interface, stating the current fire mode",48,射擊模式：半自動
 00994,stats.fire_mode_automatic,"User Interface, stating the current fire mode",48,射擊模式：自動
 00995,ui.skill_successfully_reset,User Interface,128,專精已重置
@@ -1009,10 +1009,10 @@
 01008,ui.you_have_to_choose_an_item_as_your,User Interface,128,必須選擇一項物品！
 01009,ui.you_already_have_this_quest,User Interface,128,已接受此任務！
 01010,ui.you_have_reached_the_max_task_limit,User Interface,128,已達到任務數量上限！
-01011,ui.this_weapon_has_no_ammo,User Interface,128,此武器沒有彈藥
-01012,ui.not_enough_inventory_space_to_unload,User Interface,128,儲藏空間不足！
+01011,ui.this_weapon_has_no_ammo,User Interface,128,這把武器沒有彈藥
+01012,ui.not_enough_inventory_space_to_unload,User Interface,128,背包空間不足！
 01013,ui.you_can_only_uninstall_modules_in_the,User Interface,128,只能在地堡中解除安裝模組
-01014,ui.storage_module_cannot_be_uninstalled,User Interface,128,無法解除安裝儲藏模組
+01014,ui.storage_module_cannot_be_uninstalled,User Interface,128,無法解除安裝倉庫模組
 01015,player.interaction.quest_completed,Player Interaction,128,任務完成！
 01016,player.interaction.lights_off,Player Interaction,128,關燈
 01017,player.interaction.lights_on,Player Interaction,128,開燈
@@ -1055,7 +1055,7 @@
 01054,controls.menu.all_controls_have_been_reset,Controls Menu,64,所有按鍵已重置
 01055,controls.menu.waiting_for_input,"Controls Menu, waiting for key/button to be pressed",32,請綁定按鍵...
 01056,player.action.item_consumed,Player action,96,已使用[ITEM_NAME]
-01057,item.document.your_reputation_with_this_faction_has,"User Interface, turning in documents",128,你在此陣營的聲望提高[AMOUNT]
+01057,item.document.your_reputation_with_this_faction_has,"User Interface, turning in documents",128,你在這個陣營的聲望提高[AMOUNT]
 01058,trade.unlocked_at_reputation_level,"User Interface, loot trader",128,聲望達到[LOOT_LEVEL]時解鎖
 01059,npc.interaction.x,"User Interface, interaction with NPC",1400,……
 01060,npc.interaction.a_light_this_bright_should_lure_them,"User Interface, interaction with NPC",1400,這麼亮的燈應該能把他們引出來，然後我們就動手。
@@ -1144,14 +1144,14 @@
 01143,npc.interaction.my_name_is_henry_davies_and_i_was_in,"User Interface, interaction with NPC",1400,我是亨利·戴維斯，扎科夫實驗室的負責人。
 01144,npc.interaction.my_name_is_reynard_i_am_the_commander,"User Interface, interaction with NPC",1400,我是雷納德，深紅公司駐紮科夫部隊的指揮官。
 01145,npc.interaction.my_name_is_sacriel_npc_dialogue,"User Interface, interaction with NPC",1400,我叫薩克雷爾，剛來地堡不久。\n我還沒完全適應這裏，但要做好準備，大約一個月後就給你安排任務。
-01146,npc.interaction.my_name_is_viktor_artemovich_npc,"User Interface, interaction with NPC",1400,我是維克托·阿爾捷莫維奇，綠軍的指揮官。\n災難發生時，我們奉命來此保護平民和控制局勢。沒想到的是，幾天後，地區周邊出現了一道古怪的屏障，隔絕任何人進出。\n我們動用了一切手段試圖建立無線電通訊，但全都無濟於事。\n外界根本沒人知道這裏面究竟發生了什麼。
+01146,npc.interaction.my_name_is_viktor_artemovich_npc,"User Interface, interaction with NPC",1400,我是維克托·阿爾捷莫維奇，綠軍的指揮官。\n災難發生時，我們奉命來保護平民和控制局勢。沒想到的是，幾天後，地區周邊出現了一道古怪的屏障，隔絕任何人進出。\n我們動用了一切手段試圖建立無線電通訊，但全都無濟於事。\n外界根本沒人知道這裏面究竟發生了什麼。
 01147,npc.interaction.my_name_is_viktor_korolev_npc_dialogue,"User Interface, interaction with NPC",1400,我叫維克托·科羅廖夫，但大家都管我叫“醫生”。我以前是扎科夫醫院的醫生和研究員。\n爆炸發生後，政府授權我成立一個部門來研究生物的變異。\n項目不愁經費，這值得高興...成千上萬的人在爆炸中喪生，或許高興也不合適。\n不過我又有什麼辦法呢？總之就是撞大運了。
 01148,npc.interaction.my_name_is_not_important_i_m_just_a,"User Interface, interaction with NPC",1400,我的名字不重要，大家同行而已。\n我在這一帶混了很久。\n憑着以往的經驗，到處溜達跟散步一樣輕鬆。
 01149,npc.interaction.next_step,"User Interface, interaction with NPC",1400,繼續
 01150,npc.interaction.not_much_but_orders_are_orders,"User Interface, interaction with NPC",1400,湊活吧。命令就是命令...
 01151,npc.interaction.not_much_as_you_can_see_this_crystal,"User Interface, interaction with NPC",1400,沒多少……這塊晶體與衆不同，會釋放極強的輻射，多虧了密封設施我們才安然無恙。\n目前還沒弄清釋放的頻率，更別提其本質了。\n不過這輻射確實邪門，似乎帶點催眠效果。我幹這行以來還是頭回見。\n來扎科夫之前，聽說烏克蘭某座廢棄核電站裏也有類似的地方和晶體，再多的就不知道了。\n那邊傳出的情報寥寥無幾，不過扎科夫這邊同樣也是消息封閉。\n真是暴殄天物，要是能有充足的資源和專業裝置，天知道能發現什麼。\n我最好還是閉嘴吧，這種想法可不受待見，免得被大頭兵聽見找麻煩。
 01152,npc.interaction.nothing_in_particular_some_days_i_need,"User Interface, interaction with NPC",1400,沒什麼特別的，出來呼吸新鮮空氣。\n一直待在地堡里老難受了。
-01153,npc.interaction.now_that_you_have_killed_several_green,"User Interface, interaction with NPC",1400,幹掉了綠軍的幾名士兵，也算是讓他們見識到你不好惹了。\n給你個建議：和阿爾捷莫維奇聊聊，看能不能讓深紅公司的商人進駐地堡。\n無論陣營之間如何交戰，零希沃特地堡仍然是安全區。\n這並非由我的上司甚至當地政府決定，而是此地堡受相關的國際協議保護。\n我們想進去的話只能硬闖，但地堡裏的平民太多了，造成平民傷亡在政治層面上絕非明智之舉。\n所以去和阿爾捷莫維奇聊聊吧，找個折中的辦法。零希沃特地堡裏多個商人的話，能讓我們都賺上一筆。
+01153,npc.interaction.now_that_you_have_killed_several_green,"User Interface, interaction with NPC",1400,幹掉了綠軍的幾名士兵，也算是讓他們見識到你不好惹了。\n給你個建議：和阿爾捷莫維奇聊聊，看能不能讓深紅公司的商人進駐地堡。\n無論陣營之間如何交戰，零希沃特地堡仍然是安全區。\n這並非由我的上司甚至當地政府決定，而是這個地堡受相關的國際協議保護。\n我們想進去的話只能硬闖，但地堡裏的平民太多了，造成平民傷亡在政治層面上絕非明智之舉。\n所以去和阿爾捷莫維奇聊聊吧，找個折中的辦法。零希沃特地堡裏多個商人的話，能讓我們都賺上一筆。
 01154,npc.interaction.npc_can_give_you_usefull_information,"User Interface, interaction with NPC",1400,NPC 可以提供有用的信息和任務，或者和你交易。
 01155,npc.interaction.of_any_kind_people_come_in_here_npc,"User Interface, interaction with NPC",1400,什麼樣的都有。\n人們只需告訴我想要什麼。我的工作就是尋找願意爲了報酬而去冒險的傢伙。
 01156,npc.interaction.of_course_it_is_no_mutant_or_bandit,"User Interface, interaction with NPC",1400,廢話，怪物和強盜永遠通過不了這道大門。
@@ -1168,12 +1168,12 @@
 01167,npc.interaction.refill_hunger_and_thirst,"User Interface, interaction with NPC",1400,果腹
 01168,npc.interaction.repair_armor,"User Interface, interaction with NPC",1400,修理護甲
 01169,npc.interaction.repair_equipment,"User Interface, interaction with NPC",1400,修理裝備
-01170,npc.interaction.so_do_you_want_to_join_us_that_would,"User Interface, interaction with NPC",1400,你想加入我們？一個明智的選擇，獵人！\n你可以幫助我們對抗綠軍，並加強我們對這個地區的控制。下次你再來找我，我一定會給你安排工作的。\n\n\n確定要加入深紅公司嗎？\n你在此陣營的聲望上限將變爲1000，允許你解鎖新的裝備和額外的任務。\n你將成爲綠軍的敵人。
+01170,npc.interaction.so_do_you_want_to_join_us_that_would,"User Interface, interaction with NPC",1400,你想加入我們？一個明智的選擇，獵人！\n你可以幫助我們對抗綠軍，並加強我們對這個地區的控制。下次你再來找我，我一定會給你安排工作的。\n\n\n確定要加入深紅公司嗎？\n你在這個陣營的聲望上限將變爲1000，允許你解鎖新的裝備和額外的任務。\n你將成爲綠軍的敵人。
 01171,npc.interaction.so_it_was_you_good_job_hunter_npc,"User Interface, interaction with NPC",1400,原來是你？幹得好，獵人！\n那些食屍鬼一直在殺我的人。\n深紅公司非常感謝你。
 01172,npc.interaction.so_that_s_your_brother_vadim,"User Interface, interaction with NPC",1400,那是你哥瓦迪姆？
 01173,npc.interaction.so_they_want_me_dead_npc_dialogue,"User Interface, interaction with NPC",1400,他們想要我死？哈！\n我知道這一天遲早會來，綠軍不會容忍我這麼一塊絆腳石。\n他們命令你來幹這個？\n那麼，你到底是獵人還是士兵？\n隨你的便吧，我已經又老又糊塗了，可我僅剩的這點體面不允許我向你開口求饒。
 01174,npc.interaction.so_you_want_a_crimson_corporation,"User Interface, interaction with NPC",1400,你想讓深紅公司的人進地堡來？\n真該死！這個提議簡直令人作嘔。\n薛帕德擅長玩弄政治，但他十足十是個蠢貨！我一點也不在乎外面的世界發生了什麼，我有我的職責。\n\n我接受你的提議，可你，獵人，你不再是綠軍的夥伴。交易和任務依然有效，但不要指望我的士兵會在外邊幫你。\n滾吧，等你回來的時候就能看到那羣得志的小人了。
-01175,npc.interaction.so_you_want_to_enlist_npc_dialogue,"User Interface, interaction with NPC",1400,你想參軍？非常好，獵人！\n我正需要你這樣經驗豐富的好手。下次你再來找我，我看看能不能給你找點活幹。\n\n\n確定要加入綠軍嗎？\n你在此陣營的聲望上限將變爲1000，允許你解鎖新的裝備和額外的任務。\n你將成爲深紅公司的敵人。
+01175,npc.interaction.so_you_want_to_enlist_npc_dialogue,"User Interface, interaction with NPC",1400,你想參軍？非常好，獵人！\n我正需要你這樣經驗豐富的好手。下次你再來找我，我看看能不能給你找點活幹。\n\n\n確定要加入綠軍嗎？\n你在這個陣營的聲望上限將變爲1000，允許你解鎖新的裝備和額外的任務。\n你將成爲深紅公司的敵人。
 01176,npc.interaction.sorry_comrade_i_have_something_else_to,"User Interface, interaction with NPC",1400,對不起，同志！我還有別的事要做。
 01177,npc.interaction.tell_me_more_about_the_forest,"User Interface, interaction with NPC",1400,跟我講講森林
 01178,npc.interaction.tell_me_more_about_the_industrial_area,"User Interface, interaction with NPC",1400,跟我講講工業區
@@ -1186,7 +1186,7 @@
 01185,npc.interaction.tell_me_more_about_your_faction,"User Interface, interaction with NPC",1400,跟我講講你們
 01186,npc.interaction.tell_me_something,"User Interface, interaction with NPC",1400,我想問些事情
 01187,npc.interaction.tell_me_something_dickhead,"User Interface, interaction with NPC",1400,屌毛，我問，你答
-01188,npc.interaction.that_s_because_you_re_from_the_zero,"User Interface, interaction with NPC",1400,那是因爲你來自零希沃特地堡，早就被綠軍洗腦了。\n按協議他們根本不此進駐紮科夫，只不過爆炸後局勢惡化。\n他們便打着疏散居民的幌子進來，卻賴着不走想查明事發原因。\n明面上說是保護倖存者，全都是扯淡。\n我們早就截獲了好幾段他們指揮官的無線電通話。\n不知道他們指望能查出什麼，反正這邊也沒什麼好藏着掖着的……
+01188,npc.interaction.that_s_because_you_re_from_the_zero,"User Interface, interaction with NPC",1400,那是因爲你來自零希沃特地堡，早就被綠軍洗腦了。\n按協議他們根本不該進駐紮科夫，只不過爆炸後局勢惡化。\n他們便打着疏散居民的幌子進來，卻賴着不走想查明事發原因。\n明面上說是保護倖存者，全都是扯淡。\n我們早就截獲了好幾段他們指揮官的無線電通話。\n不知道他們指望能查出什麼，反正這邊也沒什麼好藏着掖着的……
 01189,npc.interaction.the_green_army_is_a_delegation_npc,"User Interface, interaction with NPC",1400,綠軍是本地陸軍的分支。\n在屏障出現並隔絕通訊後，我決定繼續執行上級的命令。我們盡一切努力讓這裏的文明之火不至於熄滅。\n有人說我們已經變成了一個獨裁政權，但事實是我們必須動用武力來維持秩序。無法想象沒有我們的話這個地方會變成什麼樣子。
 01190,npc.interaction.the_only_way_to_leave_the_map_is_to,"User Interface, interaction with NPC",1400,撤離點是唯一的途徑。\n它們在個人終端地圖上顯示爲綠色圓圈。\n祝你好運！
 01191,npc.interaction.there_s_mr_junk_s_treasure_npc_dialogue,"User Interface, interaction with NPC",1400,那是垃圾佬的寶貝！別盯着它看！\n垃圾佬會不高興的！\n別打開那扇門！不！不！不！\n你敢！
@@ -1230,7 +1230,7 @@
 01229,npc.interaction.where_are_you_from,"User Interface, interaction with NPC",1400,你來自哪裏？
 01230,npc.interaction.where_can_i_find_some_jobs,"User Interface, interaction with NPC",1400,去哪兒找活幹？
 01231,npc.interaction.where_can_i_find_some_tasks,"User Interface, interaction with NPC",1400,我在哪能找到任務？
-01232,npc.interaction.where_can_i_store_my_items,"User Interface, interaction with NPC",1400,我的物品此存放在哪兒？
+01232,npc.interaction.where_can_i_store_my_items,"User Interface, interaction with NPC",1400,我的物品該存放在哪兒？
 01233,npc.interaction.where_do_you_come_from,"User Interface, interaction with NPC",1400,你從哪裏來的？
 01234,npc.interaction.who_am_i_who_are_you_npc_dialogue,"User Interface, interaction with NPC",1400,我是誰？我還沒問你是誰，就這樣闖進我家！\n唉...抱歉，我不習慣有客人。\n我叫伊戈爾，以前是個獵人。哦，不是現在那些被稱爲獵人的傢伙。災難發生前，我靠着我不愛說話的莫辛老夥計和一把Toz -34以狩獵動物爲生。\n不，別打什麼歪主意。如果你要得到它們，就得先殺了我。
 01235,npc.interaction.who_are_you_and_why_are_you_here,"User Interface, interaction with NPC",1400,你是誰？在這裏做什麼？
@@ -1310,7 +1310,7 @@
 01309,ui.approx_roubles_made,"User Interface, exit screen",64,戰利品等值盧布
 01310,ui.killed_by,"User Interface, exit screen",40,死於
 01311,ui.show_difficulty_settings,"User Interface, exit screen",64,顯示難度設定
-01312,ui.stash,Teleport Location,16,儲藏
+01312,ui.stash,Teleport Location,16,倉庫
 01313,faction.inter.talk,Interfactions,48,交談
 01314,faction.inter.sleep,Interfactions,48,睡覺
 01315,faction.inter.enter,Interfactions,48,進入
@@ -1369,7 +1369,7 @@
 01368,tutorial.in_order_to_leave_the_bunker_and_go_on,Tutorial,256,要離開地堡狩獵，你需要和列車長談談。\n他就在地堡外。出發前記得找他聊聊，他會向你解釋如何從地圖上撤離。
 01369,tutorial.there_is_a_room_in_the_bunker_that_you,Tutorial,256,地堡內吧檯左邊有一個房間，你可以將其當成基地。\n你可以使用工作臺製作新物品，使用箱子存儲物品，安裝各種模組。
 01370,tutorial.by_accessing_your_personal_device_j,Tutorial,256,訪問你的個人終端[J]，查看地圖和任務，規劃模組安裝以及使用其他功能。
-01371,tutorial.press_tab_to_access_your_inventory_and,Tutorial,256,按[TAB]進入儲藏並裝備背包。\n如果你需要了解更多遊戲機制，請按[ESC]查閱教學。\n祝你好運，獵人！
+01371,tutorial.press_tab_to_access_your_inventory_and,Tutorial,256,按[TAB]進入背包並裝備背包。\n如果你需要了解更多遊戲機制，請按[ESC]查閱教學。\n祝你好運，獵人！
 01372,train.skin.scientists,Train Skin Option Name,64,科學家
 01373,faction.loners,Factions,24,獨狼
 01374,faction.bandit,Factions,24,強盜
@@ -1410,13 +1410,13 @@
 01409,tips.loading.use_a_repair_kit_restore_the,Loading screen tips,256,使用修理套件恢復槍械和護甲的耐久
 01410,tips.loading.once_you_have_reached_the_maximum,Loading screen tips,256,基礎技能達到最高等級後可以選擇一項專精
 01411,tips.loading.you_move_slowly_if_overencumbered,Loading screen tips,256,超重後只能緩慢移動
-01412,tips.loading.to_increase_the_number_of_stashes_in,Loading screen tips,256,安裝儲藏模組以增加儲藏頁
+01412,tips.loading.to_increase_the_number_of_stashes_in,Loading screen tips,256,安裝倉庫模組以增加倉庫頁
 01413,tips.loading.you_can_die_quickly_choose_wisely_when,Loading screen tips,256,死亡如影隨形，三思而後行
 01414,tips.loading.you_can_only_die_of_radiation_when_the,Loading screen tips,256,指示器變爲紅色表明當前輻射程度足以致死
 01415,tips.loading.enemies_have_reduced_vision_at_night,Loading screen tips,256,在夜間，敵人的視距會降低
 01416,tips.loading.wounds_decrease_your_max_hp,Loading screen tips,256,傷口會降低你的生命上限
 01417,tips.loading.press_fire_button_to_end_an_animation,Loading screen tips,256,開火會結束角色的其他動作
-01418,tips.loading.press_r_to_rotate_an_item_whilst_in,Loading screen tips,256,按R旋轉儲藏中的物品
+01418,tips.loading.press_r_to_rotate_an_item_whilst_in,Loading screen tips,256,按R旋轉背包/倉庫中的物品
 01419,tips.loading.you_can_mitigate_your_weapons_recoil,Loading screen tips,256,反向拖動滑鼠以抵消槍械後坐力
 01420,tips.loading.reticle_placement_matters_reduce,Loading screen tips,256,射擊時將準星直接指向目標可減少跳彈
 01421,tips.loading.swapping_to_a_pistol_is_faster_than,Loading screen tips,256,作爲切換速度最快的槍械，手槍是完美的副手備用武器
@@ -1478,13 +1478,13 @@
 01477,skill.desc.decrease_the_price_of_entering_a_map,Skill Descriptions,128,進入地圖的費用 -25% 
 01478,skill.name.just_because_it_is_you,Skill Names,64,專享好物
 01479,skill.desc.traders_sell_more_quantity_of_items,Skill Descriptions,128,商人出售更多物品
-01480,skill.name.inventory_1,Skill Names,64,儲藏 1
+01480,skill.name.inventory_1,Skill Names,64,倉庫 1
 01481,skill.desc.unlock_more_items_from_traders,Skill Descriptions,128,解鎖更多商人售賣物品
 01482,skill.name.lost_and_found,Skill Names,64,失物招領
 01483,skill.desc.unlock_the_trader_which_sells_random,Skill Descriptions,128,解鎖出售隨機物品的商人
 01484,skill.name.survival_kit,Skill Names,64,生存工具包
 01485,skill.desc.traders_sell_more_medikit_and_ammo,Skill Descriptions,128,商人出售更多的醫療包和彈藥
-01486,skill.name.inventory_2,Skill Names,64,儲藏 2
+01486,skill.name.inventory_2,Skill Names,64,倉庫 2
 01487,skill.name.quest_devourer,Skill Names,64,任務狂人
 01488,skill.desc.increase_quest_experience_by_30,Skill Descriptions,128,任務經驗 +30% 
 01489,skill.name.deposit_1,Skill Names,64,儲存 1
@@ -1604,7 +1604,7 @@
 01603,base.module.name.infirmary,Base Module Names,32,醫務室
 01604,base.module.desc.allow_crafting_medication_and_grants,"Base Module Descriptions, general",320,允許製作藥物，並提供提升整體生命值的被動加成
 01605,base.module.desc.increase_max_hp_less_chance_of,"Base Module Descriptions, alt a",320,增加生命上限，降低出血幾率\n緩慢恢復生命值
-01606,base.module.desc.provide_more_chest_to_store_items,"Base Module Descriptions, general",320,提供更多儲藏頁
+01606,base.module.desc.provide_more_chest_to_store_items,"Base Module Descriptions, general",320,提供更多倉庫頁
 01607,base.module.desc.1_personal_chest,"Base Module Descriptions, alt a",320,儲物箱 +1
 01608,base.module.name.bedroom,Base Module Names,32,休息室
 01609,base.module.desc.comfortable_bed_that_heals_your_wounds,"Base Module Descriptions, general",320,休息時獲得更多恢復\n提高各項技能升級速度
@@ -1816,7 +1816,7 @@
 01815,npc.text.ok_i_found_the_sawmill,NPC text,96,很好，找到地方了。
 01816,npc.text.ok_here_should_be_fine,NPC text,96,好...這裏應該沒問題了。
 01817,npc.text.otherwise_get_out_of_my_way,NPC text,96,不然就滾一邊去！
-01818,npc.text.our_money_conbined_with_inventory,NPC text,96,我們的資金加上儲藏價值過高
+01818,npc.text.our_money_conbined_with_inventory,NPC text,96,我們的資金加上倉庫價值過高
 01819,npc.text.priviet,NPC text,96,同志！
 01820,npc.text.put_down_that_weapon,NPC text,96,放下武器。
 01821,npc.text.put_down_that_weapon_sentence_exclaim,NPC text,96,放下武器！
@@ -2002,11 +2002,11 @@
 02001,quest.desc.bunker_bodies_rescue,Quest descriptions,1024,你看到地堡入口處的那些屍體了吧，我們還不知道發生了什麼事。\n我們有些直升機在沼澤附近墜毀，既沒有發出求救也不是發生故障，只是無緣無故地墜毀了。\n當他們找到第一批屍體時，我們就知道這片地區出現了怪事。\n你看到屍體的情況了嗎？天哪，我從來沒見過這樣的。\n最近一架直升機墜毀在車輛無法進入的沼澤中間。救援行動很危險。\n你得去那裏看看能不能恢復直升機的飛行記錄儀。至於機組人員，我覺得無力迴天了...
 02002,quest.objective.retrieve_the_flight_recorder,Quest objectives,128,拿回飛行記錄儀
 02003,quest.name.preparing_for_battle,Quest names,64,整裝備戰
-02004,quest.desc.helicopter_blackbox_infested,Quest descriptions,1024,通過直升機的黑匣子，我們獲悉機組人員在沼澤中發現了一種奇怪的紫色水晶。\n之後就發生了反常的輻射爆發。\n此水晶似乎位於沼澤村。倒黴的是那個地方到處都是食屍鬼，我們不久前封鎖了入口。\n我會試着組織隊伍來將這個村莊夷爲平地，爲此我們需要大量的資源。\n現在我們也正在緊鑼密鼓地蒐集資源。\n你也需要儘自己的一份力量，獵人。\n對了！別忘了伏特加！
+02004,quest.desc.helicopter_blackbox_infested,Quest descriptions,1024,通過直升機的黑匣子，我們獲悉機組人員在沼澤中發現了一種奇怪的紫色水晶。\n之後就發生了反常的輻射爆發。\n這個水晶似乎位於沼澤村。倒黴的是那個地方到處都是食屍鬼，我們不久前封鎖了入口。\n我會試着組織隊伍來將這個村莊夷爲平地，爲此我們需要大量的資源。\n現在我們也正在緊鑼密鼓地蒐集資源。\n你也需要儘自己的一份力量，獵人。\n對了！別忘了伏特加！
 02005,quest.name.clear_the_swamp,Quest names,64,沼澤掃蕩
 02006,quest.desc.here_s_the_plan_hunter_nentering_the,Quest descriptions,1024,計劃如下，獵人。\n直接闖進被食屍鬼佔據的村莊無疑是找死。\n村莊只有一個入口，所以我們會試着用亮光引它們出來，行動必須在晚上進行。\n晚上 10 點到凌晨 3 點進入沼澤，我的手下會等你的。\n建議帶上自動武器或彈匣大點的霰彈槍，儘可能減少裝彈次數。\n最後一件事，在混戰中儘量別射中我的人，明白嗎？
 02007,quest.objective.clear_the_swamp,Quest objectives,128,肅清沼澤
-02008,quest.name.radioactive_meat,Quest names,64,輻射肉
+02008,quest.name.radioactive_meat,Quest names,64,放射性肉
 02009,quest.desc.you_re_new_here_huh_nwell_i_m_always,Quest descriptions,1024,你是新來的吧？\n我一直在找人幫我研究。\n放心，酬勞少不了你的。\n很好！我需要一些生肉來進行實驗，我想看看輻射對當地動物羣造成了什麼樣的影響。
 02010,quest.objective.find_10_raw_meat,Quest objectives,128,找到10塊生肉
 02011,quest.name.strange_crystal_p_1,Quest names,64,奇特水晶（第 1 階段）
@@ -2035,7 +2035,7 @@
 02034,quest.desc.mall_guy_intro,Quest descriptions,1024,你肯定已經見過那個在商場閒逛的傢伙了！\n一個猛男，對不對？他那身護甲真是讓人印象深刻。
 02035,quest.desc.bunker_bodies_green_army,Quest descriptions,1024,你應該注意到了地堡入口處的那些屍體。\n綠軍有幾架直升機在沼澤失事，其間沒有呼救，也沒有報告故障，莫名其妙就墜毀了。\n找到第一批屍體時，我們意識到那裏發生了非常可怕的事情。\n你看到屍體的慘狀了嗎？天哪，我從來沒見過這樣的。\n現在又有一架直升機墜毀了。如果你動作夠快，也許能趕在綠軍之前到達那裏，拿到飛行記錄儀。
 02036,quest.desc.good_job_hunter_nnow_we_should_be_able,Quest descriptions,1024,幹得漂亮，獵人！\n現在我們應該能接收到周邊區域的無線電信號了。\n你在臨時營地時可能注意到了那座舊火車站，。核電站爆炸後，綠軍疏散期間曾用它運送物資，沒多久就因輻射被迫撤離。\n如今火車站落入了強盜手裏。那裏早被搜刮一空了，本來不用搭理他們，但那是通往工業區和其他地圖的唯一要道。\n想過去就得肅清車站，不用趕盡殺絕，幹掉那片的地頭蛇奧廖爾就行。\n解決他之後，這幫人絕對不敢再攔路。\n完事後綠軍估計會派些新任務，記得去找阿爾特莫維奇談談。
-02037,quest.desc.hmm_the_key_is_ruined_but_i_think_it,Quest descriptions,1024,嗯……鑰匙壞了，不過估計還能用。\n保險起見先多配幾把，萬一弄丟了還能找我買。想必你已經清楚此怎麼做了，我不清楚實驗室裏有什麼，更不知道具體要找什麼，總之目標是找到能打通核電站道路的情報。\n目前通往商場的鐵路被淹了，以前可不是這樣。\n八成是爆炸發生後赤紅公司故意放的水，顯然想拖延時間重整旗鼓，不想讓外人靠近核電站周邊。\n臨時營地的實驗室曾受赤紅公司控制，裏面肯定有關鍵情報。\n祝你好運！
+02037,quest.desc.hmm_the_key_is_ruined_but_i_think_it,Quest descriptions,1024,嗯……鑰匙壞了，不過估計還能用。\n保險起見先多配幾把，萬一弄丟了還能找我買。想必你已經清楚該怎麼做了，我不清楚實驗室裏有什麼，更不知道具體要找什麼，總之目標是找到能打通核電站道路的情報。\n目前通往商場的鐵路被淹了，以前可不是這樣。\n八成是爆炸發生後赤紅公司故意放的水，顯然想拖延時間重整旗鼓，不想讓外人靠近核電站周邊。\n臨時營地的實驗室曾受赤紅公司控制，裏面肯定有關鍵情報。\n祝你好運！
 02038,quest.desc.heeeey_the_ghoul_slaughterer_is_back,Quest descriptions,1024,哇哦！食屍鬼殺手回來了！\n好了，獵人，是時候深入村莊，尋找更多關於水晶的信息了。\n多加小心。
 02039,quest.desc.radio_station_noticed,Quest descriptions,1024,你一定注意到了廣播站裏的建築，那是深紅公司的舊實驗室。\n實驗室入口被鎖住了，你需要門禁卡才能進去。我的朋友馬拉特·洛吉諾夫搞到了一張壞掉的，我們也許能修好它，或者複製一張。\n馬拉特在工業區西北角的列車墳場有一個小基地。我已經好幾天沒收到他的消息了，不過這也是常有的事。\n去工業區找他，把門禁卡帶回來。
 02040,quest.desc.strange_electrical_anomalies_you_say,Quest descriptions,1024,你說奇怪的閃電異常？該死！\n我們必須修復那個無線電塔，獵人，它可以讓我們獲取周邊地區的訊息。\n不要擔心異常，我相信只要是會動的東西都可以被殺死。\n咳咳，我會給你準備好修理箱。\n祝你好運！
@@ -2158,7 +2158,7 @@
 02157,faction.you_have_joined_a_faction,"User Interface, joined faction",128,你已加入[FACTION_NAME]
 02158,ui.reputation_level_required,"User Interface, reputation required",128,你的聲望必須達到[REPUTATION_MINIMUM]
 02159,quest.quest_accepted,"User Interface, quest accepted",128,已接受任務：[QUEST_NAME]
-02160,item.item_added_to_inventory,"User Interface, item added to inventory",128,[ITEM_QUANTITY]x[ITEM_NAME]已添加到儲藏中
+02160,item.item_added_to_inventory,"User Interface, item added to inventory",128,[ITEM_QUANTITY]x[ITEM_NAME]已添加到背包中
 02161,skill.level_up_skill,"User Interface, level up skill",64,[SKILL_NAME]達到[SKILL_LEVEL]級
 02162,controls.menu.change_ammo,Controls menu,48,切換彈藥
 02163,controls.menu.move_up,Controls menu,48,向上移動
@@ -2166,7 +2166,7 @@
 02165,controls.menu.move_right,Controls menu,48,向右移動
 02166,controls.menu.move_left,Controls menu,48,向左移動
 02167,controls.menu.run,Controls menu,48,奔跑
-02168,controls.menu.open_close_inventory,Controls menu,48,打開/關閉儲藏
+02168,controls.menu.open_close_inventory,Controls menu,48,打開/關閉背包
 02169,controls.menu.reload,Controls menu,48,換彈
 02170,controls.menu.torch_on_off,Controls menu,48,手電筒開/關
 02171,controls.menu.laser_on_off,Controls menu,48,雷射開/關
@@ -2195,10 +2195,10 @@
 02194,settings.data.disclaimer_link,Data collection settings,64,免責聲明鏈接
 02195,settings.settings_game_analytics,Settings titles,64,設定 - 遊戲分析
 02196,settings.settings_resolution,Settings titles,64,設定 - 解析度
-02197,settings.settings_audio,Settings titles,64,設定 - 音頻
+02197,settings.settings_audio,Settings titles,64,設定 - 音效
 02198,settings.settings_controls,Settings titles,64,設定 - 控制
-02199,settings.settings_video,Settings titles,64,設定 - 影片
-02200,settings.settings_gameplay,Settings titles,64,設定 - 玩法
+02199,settings.settings_video,Settings titles,64,設定 - 影像
+02200,settings.settings_gameplay,Settings titles,64,設定 - 遊戲玩法
 02201,settings.settings_devices,Settings titles,64,設定 - 裝置
 02202,settings.settings_languages,Settings titles,64,設定 - 語言
 02203,settings.audio.heartbeat,Audio settings,64,心跳
@@ -2261,7 +2261,7 @@
 02260,item.name.use_this_item_to_build_lights,Item names or description,192,使用此物品設定燈光效果
 02261,item.name.key_svaruski_store,Item names or description,192,用於進入商場 Skaruvksi 珠寶店上鎖房間的鑰匙
 02262,item.name.scientiest_s_analyzer_found_in_the_swamp,Item names or description,192,在沼澤找到的科學家分析儀
-02263,item.name.use_this_item_to_increase_your_storage,Item names or description,192,使用此物品後，儲藏頁 +1
+02263,item.name.use_this_item_to_increase_your_storage,Item names or description,192,使用此物品來使儲存空間 +1
 02264,item.name.bread,Item names,48,麵包
 02265,item.name.rotten_bread,Item names,48,變質的麵包
 02266,item.name.butter,Item names,48,牛油
@@ -2315,11 +2315,11 @@
 02314,difficulty.menu.tooltip.unused_npcs_will_always_drop_armor,Difficulty menu tooltips,512,無效，NPC 總會掉落護甲
 02315,difficulty.menu.tooltip.upon_death_the_save_files_related_to,Difficulty menu tooltips,512,死亡時，相關的存檔將被刪除\n遊戲崩潰不會被視爲死亡
 02316,difficulty.menu.tooltip.upon_death_you_lose_all_items_that_are,Difficulty menu tooltips,512,死亡時，你會失去所有不屬於上述類別的物品
-02317,difficulty.menu.tooltip.upon_death_you_lose_all_the_ammunition,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有彈藥
-02318,difficulty.menu.tooltip.upon_death_you_lose_all_the_consumable,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有消耗品
+02317,difficulty.menu.tooltip.upon_death_you_lose_all_the_ammunition,Difficulty menu tooltips,512,死亡時，你會失去背包中的所有彈藥
+02318,difficulty.menu.tooltip.upon_death_you_lose_all_the_consumable,Difficulty menu tooltips,512,死亡時，你會失去背包中的所有消耗品
 02319,difficulty.menu.tooltip.upon_death_you_lose_all_the_equipment,Difficulty menu tooltips,512,死亡時，你會失去所有裝備
-02320,difficulty.menu.tooltip.upon_death_you_lose_all_the_keys_in,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有鑰匙
-02321,difficulty.menu.tooltip.upon_death_you_lose_all_the_medication,Difficulty menu tooltips,512,死亡時，你會失去儲藏中的所有醫療用品
+02320,difficulty.menu.tooltip.upon_death_you_lose_all_the_keys_in,Difficulty menu tooltips,512,死亡時，你會失去背包中的所有鑰匙
+02321,difficulty.menu.tooltip.upon_death_you_lose_all_the_medication,Difficulty menu tooltips,512,死亡時，你會失去背包中的所有醫療用品
 02322,loadout.equipment.choose_your_equipment,Equipment setup,96,選擇你的裝備
 02323,inventory.info.duration,Inventory info,12,生效時間
 02324,inventory.info.wound,Inventory info,12,傷口
@@ -2491,7 +2491,7 @@
 02490,quest.ah_poor_man_so_when_you_arrived_he_was,Quest text,1024,哦，可憐的傢伙...所以你到的時候他還活着，並且報告說綠軍正前往商場？他們很可能要在那裏建立新的前哨站。\n好了，獵人！我們必須把商場也納入掌控。\n拿上這些信號發射器，把它們放置在商場的三個監控室裏。前兩個監控室在商場內部，分別鄰近正門和東門。第三個在地下停車場的中央。\n祝你好運！
 02491,quest.soldier_nmy_men_have_reported_a_large,Quest text,1024,士兵！\n我的人報告說深紅公司已經傾巢出動，各個地區都有他們的小隊！\n做好準備，士兵，這是一場戰爭...
 02492,quest.good_job_hunter_now_my_men_will_take,Quest text,1024,幹得好，獵人！我會派人接管和改造這個前哨站，而你有另一個任務。\n綠軍發現了你在他們地堡區放置的攝像頭，已經開始了清洗行動。\n我們的一個間諜暴露了。\n他最後的蹤跡在沼澤，希望你能趕在綠軍之前找到他。
-02493,quest.well_done_soldier_nnow_you_have_to,Quest text,1024,幹得好，士兵！\n現在此對付那隻老鼠了。他叫埃爾莫萊·弗拉索夫，幾周前加入綠軍。\n我必須承認這狗孃養的有點東西，要騙過我可真不簡單。\n我的人發現了他，但被他逃掉了。他現在在臨時營地。\n格殺勿論，士兵。記得把狗牌帶回來，我們給雷納德準備一份大禮...
+02493,quest.well_done_soldier_nnow_you_have_to,Quest text,1024,幹得好，士兵！\n現在該對付那隻老鼠了。他叫埃爾莫萊·弗拉索夫，幾周前加入綠軍。\n我必須承認這狗孃養的有點東西，要騙過我可真不簡單。\n我的人發現了他，但被他逃掉了。他現在在臨時營地。\n格殺勿論，士兵。記得把狗牌帶回來，我們給雷納德準備一份大禮...
 02494,quest.ok_soldier_the_outpost_is_almost_ready,Quest text,1024,很好，士兵！前哨站差不多建好了。\n我已經派人到那裏接手指揮，但深紅公司可不會坐視。\n你的任務是幹掉深紅公司派來商場的殺手。根據情報，他們一個在 Lio-ju 服裝店，一個在 Abibas 鞋店和工具店附近，還有一個在數碼產品店。\n士兵，做得乾淨點。
 02495,quest.it_s_time_to_see_what_s_left_in_the,Quest text,1024,是時候看看商場的槍店裏還剩些什麼了。\n去那裏找一個裝備箱。也許我們可以搞到些新傢伙。
 02496,quest.nice_work_hunter_nnow_it_is_only_a,Quest text,1024,幹得好，獵人！\n現在他們的一舉一動都在我們的掌控之下。\n下一個任務的目標是幹掉幾個綠軍士官。\n這不足以讓他們傷筋動骨，但引起的混亂將爲我們爭取行動的時間。
@@ -2501,7 +2501,7 @@
 02500,quest.okay_soldier_the_location_you_found,Quest text,1024,幹得好，士兵！你找的地方很不錯。\n下一個任務的目標是尋找卡車和發電動馬達。\n從後門前往地下停車場，那裏應該有許多卡車。\n發電動馬達在商場內部東北角。\n放置好 GPS定位器，我的人會搞定其他事項。
 02501,quest.good_job_hunter_nwe_are_already,Quest text,1024,幹得好，獵人！\n我們得到了一張照片，綠軍正駐紮在商場的Keri鞋店附近。\n他們對商場的監控做了手腳，我們必須在鞋店裏放置攝像頭，這樣才能掌握他們的一舉一動。
 02502,quest.damn_nthen_it_is_very_likely_that,Quest text,1024,該死！\n我們的隊伍中肯定有內鬼！\n我會發起一次清洗，同時我們必須對深紅公司進行報復。\n士兵，履行你的職責，給他們點顏色瞧瞧！
-02503,quest.there_is_movement_at_the_new_green,Quest text,1024,商場裏的綠軍新基地有動靜。\n似乎有名綠軍士官已抵達現場協調行動。\n試着除掉他，獵人。這事辦成之後，我們就能控制此地區了。
+02503,quest.there_is_movement_at_the_new_green,Quest text,1024,商場裏的綠軍新基地有動靜。\n似乎有名綠軍士官已抵達現場協調行動。\n試着除掉他，獵人。這事辦成之後，我們就能控制這個地區了。
 02504,quest.hey_hunter_nthanks_again_for_clearing,Quest text,1024,嗨，獵人！\n再次感謝你肅清了港口！\n我碰到了點兒麻煩。一個運送物資的車隊沒有按時抵達。\n最後的蹤跡在森林裏。去看看發生了什麼。
 02505,quest.damn_it_was_it_the_bandits_then_ni_m,Quest text,1024,又是該死的匪幫？\n意料之中，那幫傢伙一直在襲擾我們的補給線。\n搞定他們，獵人。
 02506,quest.were_they_all_torn_apart_then_nmost,Quest text,1024,他們被撕碎了？\n很可能是「大塊頭」！另一支小隊剛剛報告在沼澤發現了蹤跡。\n我不想讓我的人再冒險了，所以這個任務交給你，獵人。
@@ -2513,7 +2513,7 @@
 02512,quest.damn_none_of_our_scout_teams_has_just,Quest text,1024,該死！\n我們的偵察小隊在沼澤被襲擊了！這是他們最後的座標。\n快去，獵人！\n也許還有倖存者...
 02513,quest.the_barman_told_me_about_you_you_seem,Quest text,1024,酒保跟我說起過你，你很有潛力。\n森林地區的匪幫佔據了鋸木廠，我要你去那裏把保險箱裏的東西帶回來。地圖上的大片平整區域就是鋸木廠，很容易找到。\n保險箱裏裝的是什麼？這不關你的事，獵人。搞清楚你的身份，執行命令！
 02514,player.prompt.close_the_valve,Player prompt,32,關閉閥門
-02515,ui.popup.cannot_upgrade_storage_while_stash_is,User Interface Popup,160,查看儲藏時無法升級儲藏模組！
+02515,ui.popup.cannot_upgrade_storage_while_stash_is,User Interface Popup,160,查看倉庫時無法升級倉庫模組！
 02516,npc.dialogue.i_have_already_given_you_the_equipment,NPC dialogue,512,我已經給過你了。
 02517,npc.dialogue.come_back_next_time,NPC dialogue,512,下次再來。
 02518,quest.objective.find_the_green_army_convoy,Quest objectives,128,尋找綠軍車隊
@@ -2559,26 +2559,26 @@
 02558,container.grigoriy_memorial,Container,64,格里戈里紀念地
 02559,quest.objective.green_army_sergeant,Quest objectives,256,綠軍中士
 02560,quest.objective.kill_bogdanov,Quest objectives,256,幹掉波格丹諾夫
-02561,ui.popup.speed_reload_not_allowed_with_this,User Interface Popup,128,此武器彈匣類型無法快速換彈
+02561,ui.popup.speed_reload_not_allowed_with_this,User Interface Popup,128,這把武器的彈匣類型無法快速換彈
 02562,ui.popup.gun_skills_can_only_be_freely_changed,User Interface Popup,128,只能在地堡中更改槍械技能
 02563,ui.popup.improved_x_rank,User Interface Popup (will become Improved sniper rank or Improved pistol rank),128,[TYPE]等級提升
 02564,skill.gun.name.close_quarters_training,Gun Skill Name,64,近戰訓練
-02565,skill.gun.desc.minimum_effective_range_of_this_weapon,Gun Skill Description,512,此武器最小有效射程減少40% 
+02565,skill.gun.desc.minimum_effective_range_of_this_weapon,Gun Skill Description,512,這類武器最小有效射程減少40% 
 02566,skill.gun.name.reload_artist_scopes,Gun Skill Name,64,目不斜視
 02567,skill.gun.desc.allows_you_to_remain_zoomed_in_while,Gun Skill Description,512,換彈時可保持開鏡狀態
 02568,skill.gun.name.reload_artist_speed_reload,Gun Skill Name,64,快速換彈
 02569,skill.gun.desc.double_press_the_reload_button_to,Gun Skill Description,512,雙擊換彈按鍵以快速更換彈匣，丟失彈匣中的彈藥
 02570,skill.gun.name.run_and_gun,Gun Skill Name,64,奔跑射擊
-02571,skill.gun.desc.you_can_now_shoot_this_weapon_while,Gun Skill Description,512,在奔跑時可使用此武器射擊
+02571,skill.gun.desc.you_can_now_shoot_this_weapon_while,Gun Skill Description,512,在奔跑時可使用這類武器射擊
 02572,skill.gun.name.marksman_awareness,Gun Skill Name,64,目光如炬
-02573,skill.gun.desc.when_using_this_weapon_while_scoped,Gun Skill Description,512,使用此武器瞄準時，準星立即可見，並獲得額外開鏡視野
+02573,skill.gun.desc.when_using_this_weapon_while_scoped,Gun Skill Description,512,使用這類武器瞄準時，準星立即可見，並獲得額外開鏡視野
 02574,skill.gun.name.fast_focus,Gun Skill Name,64,快速瞄準
 02575,skill.gun.desc.hover_over_the_target_with_the_cursor,Gun Skill Description,512,準星懸停在目標上時加速縮小
-02576,skill.gun.desc.switching_to_this_type_of_weapon_is_50,Gun Skill Description,512,切換到此武器的速度提高 50% 
+02576,skill.gun.desc.switching_to_this_type_of_weapon_is_50,Gun Skill Description,512,切換到這類武器的速度提高 50% 
 02577,skill.gun.name.penetrating_shot,Gun Skill Name,64,穿透射擊
 02578,skill.gun.desc.a_killing_shot_will_result_in_the,Gun Skill Description,512,子彈穿透第一個目標
 02579,skill.gun.name.empowered_backup,Gun Skill Name,64,後備火力
-02580,skill.gun.desc.for_2_5_seconds_after_swapping_to_this,Gun Skill Description,512,在切換到此武器後的 2.5 秒內傷害提高 15% 
+02580,skill.gun.desc.for_2_5_seconds_after_swapping_to_this,Gun Skill Description,512,在切換到這類武器後的 2.5 秒內傷害提高 15% 
 02581,skill.gun.name.first_bullet,Gun Skill Name,64,強力首發
 02582,skill.gun.desc.the_first_bullet_of_each_magazine,Gun Skill Description,512,每個彈匣的第一發子彈傷害提高 30% 
 02583,skill.gun.name.impaler_shot,Gun Skill Name,64,阻滯射擊
@@ -2598,7 +2598,7 @@
 02597,skill.gun.name.crosshair_myopia,Gun Skill Name,64,準星調校
 02598,skill.gun.desc.increases_the_radius_of_the_circle_in,Gun Skill Description,512,擴大準星的命中判定範圍，減少跳彈
 02599,skill.gun.name.emergency_sprint,Gun Skill Name,64,緊急衝刺
-02600,skill.gun.desc.after_switching_to_this_weapon_your,Gun Skill Description,512,在切換到此武器後的3秒內移動速度提高 20% 
+02600,skill.gun.desc.after_switching_to_this_weapon_your,Gun Skill Description,512,在切換到這類武器後的3秒內移動速度提高 20% 
 02601,skill.gun.name.armor_no_problem,Gun Skill Name,64,無視護甲
 02602,skill.gun.desc.all_shots_have_an_additional_20_chance,Gun Skill Description,512,彈丸有額外 20% 幾率穿透護甲
 02603,skill.gun.name.suppressive_fire,Gun Skill Name,64,壓制射擊
@@ -2622,7 +2622,7 @@
 02621,tutorial.ftue.i_should_reload_my_gun,First Time User Experience UI,256,我需要裝填子彈。
 02622,tutorial.ftue.i_have_a_gun_in_my_inventory,First Time User Experience UI,256,我帶着一把槍呢。
 02623,tutorial.ftue.i_still_have_no_bullets_in_my_gun,First Time User Experience UI,256,我的槍裏沒子彈。
-02624,tutorial.ftue.i_really_should_be_holding_my_gun,First Time User Experience UI,256,我真此拿上我的槍。
+02624,tutorial.ftue.i_really_should_be_holding_my_gun,First Time User Experience UI,256,我真該拿上我的槍。
 02625,tutorial.ftue.i_have_to_reload_my_gun,First Time User Experience UI,256,我必須往我的槍裏塞點兒什麼。
 02626,tutorial.ftue.i_should_turn_in_my_quest_at_the_barman,First Time User Experience UI,256,我應該去酒保那裏交任務。
 02627,tutorial.ftue.i_should_find_a_doctor,First Time User Experience UI,256,我應該去找醫生。
@@ -2807,7 +2807,7 @@
 02806,npc.text.i_should_be_in_the_right_place,NPC text,64,我應該是來對地方了…
 02807,npc.text.i_need_a_key_to_get_in_though,NPC text,64,不過需要鑰匙才能進去。
 02808,quest.name.power_grid_documents,Quest names,64,電網檔案
-02809,quest.desc.there_is_a_bridge_blocking_the_road_to,Quest descriptions,1024,通往扎科夫的必經之路被一座橋攔着。\n根據其他獵人的報告，那座橋的狀況還不錯。\n要放下這座橋，就必須使用商場的電力，但部分電網出了故障。\n在商場地下北部區域，靠近後門的地方，應該有電網的相關檔案。\n如果能拿到這些檔案，我們就知道此怎麼做了。\n祝你好運，獵人！
+02809,quest.desc.there_is_a_bridge_blocking_the_road_to,Quest descriptions,1024,通往扎科夫的必經之路被一座橋攔着。\n根據其他獵人的報告，那座橋的狀況還不錯。\n要放下這座橋，就必須使用商場的電力，但部分電網出了故障。\n在商場地下北部區域，靠近後門的地方，應該有電網的相關檔案。\n如果能拿到這些檔案，我們就知道該怎麼做了。\n祝你好運，獵人！
 02810,quest.name.exploring_zakov,Quest names,64,探索扎科夫
 02811,quest.desc.ha_great_job_hunter_nthe_train_can_now,Quest descriptions,1024,哈！幹得好，獵人！\n列車現在可以直達城市了。\n我需要你去摸一摸情況。
 02812,quest.desc.hey_hunter_ni_have_a_new_challenge_for,Quest descriptions,1024,嗨，獵人！\n我需要你對各地區的撤離點做一遍檢查。\n這活不輕鬆，不過放心，報酬絕對讓你滿意。
@@ -2908,7 +2908,7 @@
 02907,tutorial.beyond_max_range_will_not_do_any_damage,"User Interface, Tutorial",128,超出最大射程，無法造成傷害
 02908,settings.helper_dialogue,Setting name,32,遊戲幫助
 02909,settings.display_helper_dialogue_prompts_to,Tooltip that describes Helper Dialogue setting,128,顯示遊戲幫助提示
-02910,achievement.name.all_that_for_a_drop_of_blood,Achievement Name,64,鎖住！
+02910,achievement.name.all_that_for_a_drop_of_blood,Achievement Name,64,就為了那一滴血！
 02911,notice_to_player_about.you_are_overencumbered,Notice to player about weight limit,64,已超重！
 02912,base.module.desc.provide_scrap_material_every_day,"Base Module Descriptions, alt a",64,每天產出普通廢料
 02913,base.module.desc.scrap_daily,"Base Module Descriptions, alt b",64,每天產出普通廢料、武器廢料和護甲廢料
@@ -2931,7 +2931,7 @@
 02930,item.name.apar_wooden_handguard,Item names or description,32,APAR 木質護木
 02931,item.name.ec_12_standard_stock,Item names or description,32,EC-12 標準槍托
 02932,dialogue.so_be_it_hunter,Dialogue,128,...那就這樣吧，獵人...
-02933,dialogue.i_shall_leave_this_reality,Dialogue,128,...我此離開這個現實了...
+02933,dialogue.i_shall_leave_this_reality,Dialogue,128,...我該離開這個現實了...
 02934,dialogue.yet_across_the_void_countless_worlds,Dialogue,128,然而縱觀虛空，仍有無數世界在黑暗中顫抖
 02935,dialogue.their_light_barely_flickers_as_shadows,Dialogue,128,...陰影悄悄逼近，它們的光愈見黯淡...
 02936,misc.you_already_have_this_module_installed,,64,你已經安裝此模組了
@@ -2947,11 +2947,11 @@
 02946,npc.title.crimson_corp,NPC title part (Crimson Corp. scientist),64,深紅公司
 02947,skill.hunter.level.mythic,Hunter level name,32,神話
 02948,skill.hunter.level.legendary,Hunter level name,32,傳奇
-02949,base.module.desc.unlock_a_total_of_1_stash_pages,Base Module description,256,解鎖 1 儲藏頁
-02950,base.module.desc.unlock_a_total_of_3_stash_pages,Base Module description,256,解鎖 3 儲藏頁
-02951,base.module.desc.unlock_a_total_of_6_stash_pages,Base Module description,256,解鎖 6 儲藏頁
-02952,base.module.desc.unlock_a_total_of_9_stash_pages,Base Module description,256,解鎖 9 儲藏頁
-02953,base.module.desc.unlock_a_total_of_12_stash_pages,Base Module description,256,解鎖 12 儲藏頁
+02949,base.module.desc.unlock_a_total_of_1_stash_pages,Base Module description,256,解鎖 1 倉庫頁
+02950,base.module.desc.unlock_a_total_of_3_stash_pages,Base Module description,256,解鎖 3 倉庫頁
+02951,base.module.desc.unlock_a_total_of_6_stash_pages,Base Module description,256,解鎖 6 倉庫頁
+02952,base.module.desc.unlock_a_total_of_9_stash_pages,Base Module description,256,解鎖 9 倉庫頁
+02953,base.module.desc.unlock_a_total_of_12_stash_pages,Base Module description,256,解鎖 12 倉庫頁
 02954,base.module.desc.medication_bleed_10,Base Module description,256,允許你製作更多醫療用品\n -10% 流血幾率
 02955,base.module.desc.medication_bleed_15,Base Module description,256,允許你製作更多醫療用品\n -15% 流血幾率\n每分鐘恢復2生命\n每分鐘緩解 0.1 輻射
 02956,base.module.desc.medication_bleed_30,Base Module description,256,允許你製作更多醫療用品\n -30% 流血幾率\n每分鐘恢復5生命\n每分鐘緩解 0.2 輻射
@@ -3022,7 +3022,7 @@
 03021,misc.insert.place_transmitter,Insert,256,放置信號發射器
 03022,misc.insert.place_cctv,Insert,256,放置監控攝像頭
 03023,item.name.key_to_a_locked_door_in_the_sewer,Item name,64,下水道門鑰匙
-03024,item.desc.the_guy_who_saved_me_from_that_strange,Item description,256,救我脫離那個奇怪水晶的人留下了這把鑰匙。也許我此繼續調查下去。
+03024,item.desc.the_guy_who_saved_me_from_that_strange,Item description,256,救我脫離那個奇怪水晶的人留下了這把鑰匙。也許我該繼續調查下去。
 03025,item.move,Player action (moving items around inventory),32,移動
 03026,notice_to_player_about.you_are_encumbered,Notice to player about weight limit,64,已超重！
 03027,npc.interaction.repair_armour_below_class_5,"User Interface, interaction with NPC",256,由於知識所限，我只能修復 5 級以下的護甲。
@@ -3080,8 +3080,8 @@
 03079,difficulty.menu.class_6_maximum_durability,Difficulty Menu,64,6 級護甲耐久上限
 03080,difficulty.menu.save,Difficulty Menu,32,儲存
 03081,difficulty.menu.difficulty_settings_saved,Difficulty Menu,64,難度設定已儲存
-03082,settings.sound.ui_radiation,Sound Setting,64,輻射UI
-03083,settings.adjust_the_volume_of_the_radiation,Setting description,64,輻射UI音效的音量
+03082,settings.sound.ui_radiation,Sound Setting,64,輻射 UI
+03083,settings.adjust_the_volume_of_the_radiation,Setting description,64,輻射 UI 音效的音量
 03084,settings.reload_mod_data,Settings Button,64,重新加載模組數據
 03085,mod.ui.mods_pending_reload,Mod screen notice,32,模組等待重新加載
 03086,mod.ui.error_in_mod,Mod screen notice,32,模組錯誤
@@ -3126,7 +3126,7 @@
 03125,map.desc.steel_and_concrete_have_become_the,Map description,128,鋼鐵與混凝土構成了完美的狩獵場
 03126,map.desc.low_visibility_high_danger_nowhere_to,Map description,128,能見度低，危險重重，無處可藏
 03127,map.desc.don_t_trust_the_quiet_corridors,Map description,128,別相信寂靜的走廊
-03128,map.desc.urban_warfare_at_its_deadliest_only,Map description,128,致命的城區熱戰，唯有強者才能在此生存
+03128,map.desc.urban_warfare_at_its_deadliest_only,Map description,128,致命的城區熱戰，唯有強者才能在這生存
 03129,npc.text.hey_wake_up,NPC text,64,喂，醒醒！
 03130,npc.text.can_you_hear_me,NPC text,64,能聽到我說話嗎？
 03131,npc.text.you_are_lucky_i_found_you,NPC text,64,還好我發現了你，算你走運...
@@ -3206,7 +3206,7 @@
 03205,telling_player_they_need_to.select_reward,Telling player they need to select a reward to continue.,40,選擇獎勵
 03206,settings.sound.opening_sound_of_the_pda,Sound Setting,64,開啓個人終端
 03207,settings.sound.general_pda_sounds,Sound Setting,64,個人終端
-03208,item.name.single_use_storage_kit,Item name,32,附加儲藏模組
+03208,item.name.single_use_storage_kit,Item name,32,附加倉庫模組
 03209,weapon.name.paiga_12,Weapon name,32,Paiga-12
 03210,item.name.paiga_12_5_round_magazine,item name,32,Paiga-12 5發彈匣
 03211,item.name.paiga_12_10_round_magazine,item name,32,Paiga-12 10發彈匣
@@ -3267,7 +3267,7 @@
 03266,dialogue.any_news,Dialogue,32,有什麼消息嗎？
 03267,dialogue.horizon_docks,Dialogue,None,是啊，都傳開了，工業區來了一幫自稱“地平線”的新勢力。\n既不是軍隊也不是強盜，倒像是一身精良裝備且心懷鬼胎的企業武裝。\n他們封鎖了碼頭，膽敢靠近的人……全都人間蒸發了。
 03268,quest.name.improving_the_base,Quest name,32,建設基地
-03269,quest.desc.you_can_upgrade_your_base_by,Quest description,None,你可以通過安裝新模組來建設基地。\n打開個人終端，進入基地頁面， 點擊一個空欄，選擇一個模組並點擊“安裝”。\n在工作臺製作模組，右鍵點擊儲藏中的模組並使用，即可將模組安裝到基地中。
+03269,quest.desc.you_can_upgrade_your_base_by,Quest description,None,你可以通過安裝新模組來建設基地。\n打開個人終端，進入基地頁面， 點擊一個空欄，選擇一個模組並點擊“安裝”。\n在工作臺製作模組，右鍵點擊倉庫中的模組並使用，即可將模組安裝到基地中。
 03270,item.name.7_62x25mm_chemical,Item name,32,7.62x25mm 化學
 03271,item.name.5_45x39mm_bp,Item name,32,5.45x39mm 穿甲彈
 03272,item.name.5_45x39mm_horizon,Item name,32,5.45x39mm 地平線
@@ -3437,7 +3437,7 @@
 03440,settings.display_markers_to_help_locating_npc,Setting description,128,顯示標記以輔助定位地堡內的 NPC
 03441,settings.gameplay.automatically_close_the_pda_when_hit,Gameplay setting tooltip,128,在受到攻擊時自動關閉個人終端
 03442,settings.gameplay.automatically_close_the_inventory_when,Gameplay setting tooltip,128,在受到攻擊時自動關閉物品欄
-03443,map.teleport.shooting_range,Teleport Location,16,大型試槍區
+03443,map.teleport.shooting_range,Teleport Location,16,射擊場
 03444,ui.shootingrange.hit_upper,Shooting range displayed data,16,命中
 03445,ui.shootingrange.glance,Shooting range displayed data,16,跳彈
 03446,general.weapon,General use word,32,武器
@@ -3458,7 +3458,7 @@
 03461,difficulty.menu.custom,Difficulty Menu,32,自定義
 03462,chest.box,Chests,64,箱子
 03463,npc.train,NPCs,48,火車
-03464,ui.in_stash,User Interface,40,儲藏
+03464,ui.in_stash,User Interface,40,倉庫
 03465,faction.inter.give_medkit,Interfactions,48,送出醫療包
 03466,tutorial.let_s_trade,Tutorial text,128,來交易吧
 03467,tutorial.letter_for_barman,Tutorial text,128,給酒保的信
@@ -3865,8 +3865,8 @@
 03868,ui.you_can_only_use_this_item_in_the_swamp,User Interface,128,只能在沼澤使用此物品
 03869,ui.weapon,"User Interface, exit screen",40,武器：
 03870,ui.ammo,"User Interface, exit screen",40,彈藥：
-03871,ui.this_container_is_empty,User Interface,128,此收納盒是空的
-03872,ui.this_container_is_full,User Interface,128,此收納盒已滿！
+03871,ui.this_container_is_empty,User Interface,128,這個收納盒是空的
+03872,ui.this_container_is_full,User Interface,128,這個收納盒已滿！
 03873,chest.camera,Chests,64,攝像機
 03874,item.name.cassette_hunters_guitar_track,Item Name,32,磁帶 - 獵人吉他曲
 03875,item.name.cassette_zero_sievert_ost,Item Name,32,磁帶 - 零希沃特原聲帶
@@ -4097,3 +4097,13 @@
 05003,".50 bmg standard",Ammo Types,64,.50 BMG 標準
 05004,"N1o ghillie stock",Weapon Mods,64,N1o 吉利偽裝槍托
 05005,"Confirm",User Interface,40,確認
+
+06000,"BELOW IS FOR https://steamcommunity.com/sharedfiles/filedetails/?id=3472098846",Comment,128,"BELOW IS FOR https://steamcommunity.com/sharedfiles/filedetails/?id=3472098846"
+06001,"Legendary Merchant",NPCs,48,傳奇商人
+06002,"Bye.","User Interface, interaction with NPC",1400,再見
+06003,"Trade","User Interface, interaction with NPC",1400,交易
+06004,"I have some questions.","User Interface, interaction with NPC",1400,我有一些問題想問
+06005,"Who are you exactly?","User Interface, interaction with NPC",1400,你究竟是誰？
+06006,"I am a legendary hunter. But I have accumulated too many rubles and items, so I came out to sell them. I never deal with ordinary items, but with very rare items.",NPC dialogue,512,我是一位傳奇獵人。一直以來我積攢了很多盧布和物品，所以我要清理一下我那些收藏。我這裡不賣那些普通垃圾，只賣極為稀有的物品。
+06007,"How do I trade with you?","User Interface, interaction with NPC",1400,我該如何與你進行交易？
+06008,"I've dealt with many cases with Barman. Depending on how Loner sees you, the items I can give you will vary. If you complete quests and buy or sell items to Barman or me, your reputation will naturally increase. And by the way, I like blue cigarettes...",NPC dialogue,512,我處理過很多酒保的案子。根據獨狼對你的看法，我能給你的物品也會有所不同。完成任務，和酒保或我買賣物品，你的聲望自然會提升。對了，我喜歡藍色的香菸…
