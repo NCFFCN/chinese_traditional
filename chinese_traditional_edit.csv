@@ -105,7 +105,7 @@
 00104,loadout.name.bruiser,Loadout name,20,鬥士
 00105,loadout.get_in_close_and_make_them_hurt_what,Loadouts - Description,160,貼身肉搏，予以敵人迎頭痛擊！雖然射程不足，但在近距離擁有壓倒性優勢。
 00106,loadout.name.marksman,Loadout name,20,神射手
-00107,loadout.they_ll_never_see_it_coming_scout_out,Loadouts - Description,160,他們永遠無法預見死亡的到來。遠距離偵察，一個接着一個，遠遠地幹掉敵人。
+00107,loadout.they_ll_never_see_it_coming_scout_out,Loadouts - Description,160,他們永遠無法預見死亡的到來。遠距離偵察，一個接着一個，遠遠地擊殺敵人。
 00108,loadout.name.ranger,Loadout name,20,游擊隊員
 00109,loadout.precision_on_the_move_great_at_mid_to,Loadouts - Description,160,飄搖不定，若即若離，依靠射程優勢打擊敵人，在他們逼近時則用短兵還以顏色。
 00110,loadout.name.tactical_operator,Loadout name,20,戰術幹員
@@ -273,7 +273,7 @@
 00272,weapon.mod.grusa_double_rail,Weapon Mods,64,OTs-14 雙導軌
 00273,weapon.mod.g76_short_barrel,Weapon Mods,64,G36 短槍管
 00274,weapon.mod.fanaz_standard_pistol_grip,Weapon Mods,64,FAMAS 標準手槍握把
-00275,weapon.mod.sha_12_long_suppressor,Weapon Mods,64,ASH-12 長消音器
+00275,weapon.mod.sha_12_long_suppressor,Weapon Mods,64,ShAK-12 長消音器
 00276,weapon.mod.n4o1_standard_stock,Weapon Mods,64,M4A1 標準槍托
 00277,weapon.mod.tr_15_black_handguard,Weapon Mods,64,AR-15 黑色護木
 00278,weapon.mod.zz_vel_magazine,Weapon Mods,64,AS Val 彈匣
@@ -284,7 +284,7 @@
 00283,weapon.mod.ec_desert_handguard,Weapon Mods,64,AK 沙漠色護木
 00284,weapon.mod.spec_scope,Weapon Mods,64,Spec 瞄準鏡
 00285,weapon.mod.skop_standard_handguard,Weapon Mods,64,SCAR 標準護木
-00286,weapon.mod.boulder_standard_grip,Weapon Mods,64,Protecta 標準握把
+00286,weapon.mod.boulder_standard_grip,Weapon Mods,64,Armsel Striker 標準握把
 00287,weapon.mod.nb5_pistol_grip,Weapon Mods,64,MP5 手槍握把
 00288,weapon.mod.n1o_standard_stock,Weapon Mods,64,M1A 標準槍托
 00289,weapon.mod.g76_standard_stock,Weapon Mods,64,G36 標準槍托
@@ -303,7 +303,7 @@
 00302,weapon.mod.nc_47_short_barrel,Weapon Mods,64,Mk47 短槍管
 00303,weapon.mod.grusa_single_rail,Weapon Mods,64,OTs-14 單導軌
 00304,weapon.mod.edl_10_round_magazine,Weapon Mods,64,DVL-10 10 發彈匣
-00305,weapon.mod.sha_12_short_suppressor,Weapon Mods,64,ASH-12 短消音器
+00305,weapon.mod.sha_12_short_suppressor,Weapon Mods,64,ShAK-12 短消音器
 00306,weapon.mod.suppressor_5_56x45_cak_cbss_desert,Weapon Mods,64,5.56x45 KAC QDSS 沙漠色消音器
 00307,weapon.mod.tr_15_handguard_lone_moon,Weapon Mods,64,AR-15「孤月」護木
 00308,weapon.mod.zz_vel_handguard,Weapon Mods,64,AS Val 護木
@@ -333,7 +333,7 @@
 00332,weapon.mod.n1o_skop_magazine_50_round,Weapon Mods,64,M1A/SCAR 50 發彈鼓
 00333,weapon.mod.grusa_tactical_suppressor,Weapon Mods,64,OTs-14 戰術消音器
 00334,weapon.mod.edl_5_round_magazine,Weapon Mods,64,DVL-10 5發彈匣
-00335,weapon.mod.sha_12_standard_brake,Weapon Mods,64,ASH-12 標準槍口制退器
+00335,weapon.mod.sha_12_standard_brake,Weapon Mods,64,ShAK-12 標準槍口制退器
 00336,weapon.mod.suppressor_5_56x45_cak_cbss,Weapon Mods,64,5.56x45 KAC QDSS 消音器
 00337,weapon.mod.tr_15_desert_handguard,Weapon Mods,64,AR-15 沙漠色護木
 00338,weapon.mod.zz_vel_pistol_grip,Weapon Mods,64,AS Val 手槍握把
@@ -362,7 +362,7 @@
 00361,weapon.mod.n1o_skop_magazine_30_round,Weapon Mods,64,M1A/SCAR 30 發彈匣
 00362,weapon.mod.grusa_tactical_barrel,Weapon Mods,64,OTs-14 戰術槍管
 00363,weapon.mod.edl_pistol_grip,Weapon Mods,64,DVL-10 手槍握把
-00364,weapon.mod.sha_12_standard_sight,Weapon Mods,64,ASH-12 標準瞄準鏡
+00364,weapon.mod.sha_12_standard_sight,Weapon Mods,64,ShAK-12 標準瞄準鏡
 00365,weapon.mod.tr_15_b_mag_magazine_gen_t3_green,Weapon Mods,64,PMAG 30 AR/M4 GEN M3 綠色彈匣
 00366,weapon.mod.tr_15_lyua_c_handguard,Weapon Mods,64,AR-15 LYUA-C 護木
 00367,weapon.mod.modern_tactical_torch,Weapon Mods,64,現代戰術手電筒
@@ -386,12 +386,12 @@
 00385,weapon.mod.ec_handguard_pentagoon,Weapon Mods,64,AK Pentagoon 護木
 00386,weapon.mod.suppressor_45,Weapon Mods,64,.45 消音器
 00387,weapon.mod.skop_stock,Weapon Mods,64,SCAR 槍托
-00388,weapon.mod.boulder_6_round_magazine,Weapon Mods,64,Protecta 6發彈鼓
+00388,weapon.mod.boulder_6_round_magazine,Weapon Mods,64,Armsel Striker 6發彈鼓
 00389,weapon.mod.nb5_20_round_magazine,Weapon Mods,64,MP5 20 發彈匣
 00390,weapon.mod.n1o_skop_magazine_20_round,Weapon Mods,64,M1A/SCAR 20 發彈匣
 00391,weapon.mod.grusa_short_barrel,Weapon Mods,64,OTs-14 短槍管
 00392,weapon.mod.muzzle_brake_annikilator_for_5_56x45_7,Weapon Mods,64,5.56x45、7.62x51、9x19「終結者」槍口制退器
-00393,weapon.mod.sha_12_20_round_magazine,Weapon Mods,64,ASH-12 20 發彈匣
+00393,weapon.mod.sha_12_20_round_magazine,Weapon Mods,64,ShAK-12 20 發彈匣
 00394,weapon.mod.tr_15_b_mag_magazine_gen_t3,Weapon Mods,64,PMAG 30 AR/M4 GEN M3 彈匣
 00395,weapon.mod.n4o1_standard_handguard,Weapon Mods,64,M4A1 標準護木
 00396,weapon.mod.standard_tactical_torch,Weapon Mods,64,標準戰術手電筒
@@ -417,12 +417,12 @@
 00416,weapon.mod.ec_handguard_aggrexxor,Weapon Mods,64,AK Aggrexxor 護木
 00417,weapon.mod.suppressor_12x70,Weapon Mods,64,12x70 消音器
 00418,weapon.mod.skop_standard_stock,Weapon Mods,64,SCAR 標準槍托
-00419,weapon.mod.boulder_12_round_magazine,Weapon Mods,64,Protecta 12發彈鼓
+00419,weapon.mod.boulder_12_round_magazine,Weapon Mods,64,Armsel Striker 12發彈鼓
 00420,weapon.mod.nb5_handguard,Weapon Mods,64,MP5 標準護木
 00421,weapon.mod.n1o_modern_stock,Weapon Mods,64,M1A 現代槍托
 00422,weapon.mod.g76_advanced_stock,Weapon Mods,64,G36 高級槍托
 00423,weapon.mod.muzzle_brake_tvs_cqb_for_9x18_9x19,Weapon Mods,64,9x18 9x19 TVS CQB 槍口制退器
-00424,weapon.mod.sha_12_10_round_magazine,Weapon Mods,64,ASH-12 10 發彈匣
+00424,weapon.mod.sha_12_10_round_magazine,Weapon Mods,64,ShAK-12 10 發彈匣
 00425,weapon.mod.tr_15_extended_magazine,Weapon Mods,64,AR-15 擴展彈鼓
 00426,weapon.mod.tr_15_green_pistol_grip,Weapon Mods,64,AR-15 綠色手槍握把
 00427,weapon.mod.frd_wooden_handguard,Weapon Mods,64,SVD 木質護木
@@ -445,7 +445,7 @@
 00444,weapon.mod.ec_handguard_thukov,Weapon Mods,64,AK Thukov 護木
 00445,weapon.mod.vadoo_scope,Weapon Mods,64,Vuduu 瞄準鏡
 00446,weapon.mod.skop_long_handguard,Weapon Mods,64,SCAR 長護木
-00447,weapon.mod.boulder_attachment_rail,Weapon Mods,64,Protecta 導軌
+00447,weapon.mod.boulder_attachment_rail,Weapon Mods,64,Armsel Striker 導軌
 00448,weapon.mod.nb5_standard_handguard,Weapon Mods,64,MP5 標準護木
 00449,weapon.mod.n1o_archangel_stock,Weapon Mods,64,M1A「大天使」槍托
 00450,weapon.ec_101,Weapons,64,AK-101
@@ -455,14 +455,14 @@
 00454,weapon.frd,Weapons,64,SVD
 00455,weapon.bbsh_41,Weapons,64,PPSh-41
 00456,weapon.n4o1,Weapons,64,M4A1
-00457,weapon.wintar_bk,Weapons,64,VSS Vintorez
+00457,weapon.wintar_bk,Weapons,64,VSS
 00458,weapon.ecm,Weapons,64,AKM
 00459,weapon.skop_l,Weapons,64,SCAR-L
 00460,weapon.g_76,Weapons,64,G36
 00461,weapon.tus_34,Weapons,64,TOZ-34
-00462,weapon.marauder_700_modern,Weapons,64,M2010 ESR
+00462,weapon.marauder_700_modern,Weapons,64,M24E1
 00463,weapon.nozin_makant,Weapons,64,Mosin Nagant
-00464,weapon.sha_12,Weapons,64,ASH-12
+00464,weapon.sha_12,Weapons,64,ShAK-12
 00465,weapon.stas_12,Weapons,64,Franchi SPAS-12
 00466,weapon.bb_19_moose,Weapons,64,PP-19 Bizon
 00467,weapon.grusa_4,Weapons,64,OTs-14 Groza 9x39mm
@@ -472,10 +472,10 @@
 00471,weapon.mp_133,Weapons,64,MP-133
 00472,weapon.fanaz,Weapons,64,FAMAS
 00473,weapon.stv_40,Weapons,64,SVT-40
-00474,weapon.boulder,Weapons,64,Protecta
+00474,weapon.boulder,Weapons,64,Armsel Striker
 00475,weapon.pn_pokarov,Weapons,64,Makarov PM
 00476,weapon.ets,Weapons,64,Stechkin APS
-00477,weapon.spyder,Weapons,64,Škorpion vz. 61
+00477,weapon.spyder,Weapons,64,Škorpion vz.61
 00478,weapon.f90,Weapons,64,P90
 00479,weapon.vlok_17,Weapons,64,Glock 17
 00480,weapon.pp_kokarev,Weapons,64,PPS-43
@@ -491,7 +491,7 @@
 00490,weapon.rp_57,Weapons,64,FN 57
 00491,weapon.batko_mkm,Weapons,64,TAPCO SKS
 00492,weapon.marauder_700,Weapons,64,雷明頓 M700
-00493,weapon.nc_47_chimera,Weapons,64,Mk47
+00493,weapon.nc_47_chimera,Weapons,64,Mk47 Mutant
 00494,weapon.zz_vel,Weapons,64,AS Val
 00495,weapon.mkm,Weapons,64,SKS
 00496,weapon.grusa_1,Weapons,64,OTs-14 Groza 7.62x39mm
@@ -710,7 +710,7 @@
 00709,trade.barter.hair_dryer,Barter,72,吹風機
 00710,trade.barter.hammer,Barter,72,錘子
 00711,trade.barter.hard_disk,Barter,72,硬碟
-00712,trade.barter.high_quality_toilet_paper,Barter,72,高品質的衛生紙
+00712,trade.barter.high_quality_toilet_paper,Barter,72,高級衛生紙
 00713,trade.barter.hose,Barter,72,水管
 00714,trade.barter.hydrogen_peroxide,Barter,72,雙氧水
 00715,trade.barter.knife,Barter,72,刀
@@ -818,7 +818,7 @@
 00817,item.consumable.molbaro_cigarette,Consumable,64,萬寶路香菸
 00818,item.consumable.mre,Consumable,64,軍用口糧
 00819,item.consumable.pasta,Consumable,64,義大利麵
-00820,item.consumable.premium_chocolate,Consumable,64,高品質的巧克力
+00820,item.consumable.premium_chocolate,Consumable,64,高級巧克力
 00821,item.consumable.raw_meat,Consumable,64,生肉
 00822,item.consumable.red_wine,Consumable,64,紅酒
 00823,item.consumable.rotten_bread,Consumable,64,變質的麵包
@@ -858,7 +858,7 @@
 00857,item.injector.rad_shield_injector,Injector,64,抗輻射注射器
 00858,item.injector.healing_stimulant_injector,Injector,64,腎上腺素注射器
 00859,item.key.key_to_2nd_storage_room_of_oil_factory,Keys,96,石油工廠 2 號庫房門禁卡
-00860,item.key.police_station_key,Keys,96,警察局鑰匙
+00860,item.key.police_station_key,Keys,96,警局鑰匙
 00861,item.key.laboratory_main_room_key,Keys,96,實驗室主房間門禁卡
 00862,item.key.laboratory_supply_key,Keys,96,實驗室庫房門禁卡
 00863,item.key.key_to_the_gun_store_in_the_mall,Keys,96,商場槍店門禁卡
@@ -1151,7 +1151,7 @@
 01150,npc.interaction.not_much_but_orders_are_orders,"User Interface, interaction with NPC",1400,還行吧。但命令就是命令...
 01151,npc.interaction.not_much_as_you_can_see_this_crystal,"User Interface, interaction with NPC",1400,沒多少……這塊晶體與衆不同，會釋放極強的輻射，多虧了密封設施我們才安然無恙。\n目前還沒弄清釋放的頻率，更別提其本質了。\n不過這輻射確實邪門，似乎帶點催眠效果。我幹這行以來還是頭回見。\n來扎科夫之前，聽說烏克蘭某座廢棄核電廠裏也有類似的地方和晶體，再多的就不知道了。\n那邊傳出的情報寥寥無幾，不過扎科夫這邊同樣也是消息封閉。\n真是暴殄天物，要是能有充足的資源和專業裝置，天知道能發現什麼。\n我最好還是閉嘴吧，這種想法可不受待見，免得被大頭兵聽見找麻煩。
 01152,npc.interaction.nothing_in_particular_some_days_i_need,"User Interface, interaction with NPC",1400,沒什麼特別的，出來呼吸新鮮空氣。\n一直待在地堡里老難受了。
-01153,npc.interaction.now_that_you_have_killed_several_green,"User Interface, interaction with NPC",1400,幹掉了綠軍的幾名士兵，也算是讓他們見識到你不好惹了。\n給你個建議：和阿爾捷莫維奇聊聊，看能不能讓深紅公司的商人進駐地堡。\n無論陣營之間如何交戰，零希沃特地堡仍然是安全區。\n這並非由我的上司甚至當地政府決定，而是這個地堡受相關的國際協議保護。\n我們想進去的話只能硬闖，但地堡裏的平民太多了，造成平民傷亡在政治層面上絕非明智之舉。\n所以去和阿爾捷莫維奇聊聊吧，找個折中的辦法。零希沃特地堡裏多個商人的話，能讓我們都賺上一筆。
+01153,npc.interaction.now_that_you_have_killed_several_green,"User Interface, interaction with NPC",1400,擊殺了綠軍的幾名士兵，也算是讓他們見識到你不好惹了。\n給你個建議：和阿爾捷莫維奇聊聊，看能不能讓深紅公司的商人進駐地堡。\n無論陣營之間如何交戰，零希沃特地堡仍然是安全區。\n這並非由我的上司甚至當地政府決定，而是這個地堡受相關的國際協議保護。\n我們想進去的話只能硬闖，但地堡裏的平民太多了，造成平民傷亡在政治層面上絕非明智之舉。\n所以去和阿爾捷莫維奇聊聊吧，找個折中的辦法。零希沃特地堡裏多個商人的話，能讓我們都賺上一筆。
 01154,npc.interaction.npc_can_give_you_usefull_information,"User Interface, interaction with NPC",1400,NPC 可以提供有用的信息和任務，或者和你交易。
 01155,npc.interaction.of_any_kind_people_come_in_here_npc,"User Interface, interaction with NPC",1400,什麼樣的都有。\n人們只需告訴我想要什麼。我的工作就是尋找願意爲了報酬而去冒險的傢伙。
 01156,npc.interaction.of_course_it_is_no_mutant_or_bandit,"User Interface, interaction with NPC",1400,廢話，怪物和強盜永遠通過不了這道大門。
@@ -1887,7 +1887,7 @@
 01886,quest.desc.the_crimson_corporation_got_in_touch,Daily quest descriptions,96,深紅公司有訊息傳來。
 01887,quest.desc.the_scientists_are_doing_another,Daily quest descriptions,96,科學家們又在做實驗了。
 01888,quest.objective.kill_lazar,Quest objectives,128,擊殺拉扎爾
-01889,quest.desc.are_you_ready_for_some_real_action_you,Quest descriptions,1024,準備好動真格了嗎？你必須擊殺森林強盜的首領拉扎爾。\n他位於村莊的警察局，也許你在狩獵期間已經見過他了。\n做好準備，守衛總是衆星捧月似的圍着他。\n把他幹掉沒那麼簡單，但之後你就可以自由地進入警察局，想要什麼拿什麼。
+01889,quest.desc.are_you_ready_for_some_real_action_you,Quest descriptions,1024,準備好動真格了嗎？你必須擊殺森林強盜的首領拉扎爾。\n他位於村莊的警局，也許你在狩獵期間已經見過他了。\n做好準備，守衛總是衆星捧月似的圍着他。\n把他擊殺沒那麼簡單，但之後你就可以自由地進入警局，想要什麼拿什麼。
 01890,quest.name.first_steps,Quest names,64,始於足下
 01891,quest.name.first_steps_p_1,Quest names,64,蹣跚學步（第 1 階段）
 01892,quest.desc.bunker_intro_first_job,Quest descriptions,1024,你好，陌生人！歡迎來到零希沃特地堡。\n我不知道你是怎麼過來的，但坦白說我不在乎。\n我不是針對你，只是我們見過的新人多了去了，但回來的人寥寥無幾。所以我現在不會浪費時間記住你的。\n首先就看看你的本事吧，我會給你一項簡單的工作：在森林那兒活下來。\n祝你好運！
@@ -2034,7 +2034,7 @@
 02033,quest.desc.good_would_you_be_willing_to_go_into,Quest descriptions,1024,很好！你願意進入更高級的區域嗎？\n我需要蜘蛛和亮爪怪的身體部位。工業區就有，但在沼澤更容易找到。
 02034,quest.desc.mall_guy_intro,Quest descriptions,1024,你肯定已經見過那個在商場閒逛的傢伙了！\n一個猛男，對不對？他那身護甲真是讓人印象深刻。
 02035,quest.desc.bunker_bodies_green_army,Quest descriptions,1024,你應該注意到了地堡入口處的那些屍體。\n綠軍有幾架直升機在沼澤失事，其間沒有呼救，也沒有報告故障，莫名其妙就墜毀了。\n找到第一批屍體時，我們意識到那裏發生了非常可怕的事情。\n你看到屍體的慘狀了嗎？天哪，我從來沒見過這樣的。\n現在又有一架直升機墜毀了。如果你動作夠快，也許能趕在綠軍之前到達那裏，拿到飛行記錄儀。
-02036,quest.desc.good_job_hunter_nnow_we_should_be_able,Quest descriptions,1024,幹得漂亮，獵人！\n現在我們應該能接收到周邊區域的無線電信號了。\n你在臨時營地時可能注意到了那座舊火車站，。核電廠爆炸後，綠軍疏散期間曾用它運送物資，沒多久就因輻射被迫撤離。\n如今火車站落入了強盜手裏。那裏早被搜刮一空了，本來不用搭理他們，但那是通往工業區和其他地圖的唯一要道。\n想過去就得肅清車站，不用趕盡殺絕，幹掉那片的地頭蛇奧廖爾就行。\n解決他之後，這幫人絕對不敢再攔路。\n完事後綠軍估計會派些新任務，記得去找阿爾特莫維奇談談。
+02036,quest.desc.good_job_hunter_nnow_we_should_be_able,Quest descriptions,1024,幹得漂亮，獵人！\n現在我們應該能接收到周邊區域的無線電信號了。\n你在臨時營地時可能注意到了那座舊火車站，。核電廠爆炸後，綠軍疏散期間曾用它運送物資，沒多久就因輻射被迫撤離。\n如今火車站落入了強盜手裏。那裏早被搜刮一空了，本來不用搭理他們，但那是通往工業區和其他地圖的唯一要道。\n想過去就得肅清車站，不用趕盡殺絕，擊殺那片的地頭蛇奧廖爾就行。\n解決他之後，這幫人絕對不敢再攔路。\n完事後綠軍估計會派些新任務，記得去找阿爾特莫維奇談談。
 02037,quest.desc.hmm_the_key_is_ruined_but_i_think_it,Quest descriptions,1024,嗯……鑰匙壞了，不過估計還能用。\n保險起見先多配幾把，萬一弄丟了還能找我買。想必你已經清楚該怎麼做了，我不清楚實驗室裏有什麼，更不知道具體要找什麼，總之目標是找到能打通核電廠道路的情報。\n目前通往商場的鐵路被淹了，以前可不是這樣。\n八成是爆炸發生後赤紅公司故意放的水，顯然想拖延時間重整旗鼓，不想讓外人靠近核電廠周邊。\n臨時營地的實驗室曾受赤紅公司控制，裏面肯定有關鍵情報。\n祝你好運！
 02038,quest.desc.heeeey_the_ghoul_slaughterer_is_back,Quest descriptions,1024,哇哦！食屍鬼殺手回來了！\n好了，獵人，是時候深入村莊，尋找更多關於水晶的信息了。\n多加小心。
 02039,quest.desc.radio_station_noticed,Quest descriptions,1024,你一定注意到了廣播站裏的建築，那是深紅公司的舊實驗室。\n實驗室入口被鎖住了，你需要門禁卡才能進去。我的朋友馬拉特·洛吉諾夫搞到了一張壞掉的，我們也許能修好它，或者複製一張。\n馬拉特在工業區西北角的列車墳場有一個小基地。我已經好幾天沒收到他的消息了，不過這也是常有的事。\n去工業區找他，把門禁卡帶回來。
@@ -2083,7 +2083,7 @@
 02082,quest.desc.one_of_our_hunters_and_my_personal,Quest descriptions,1024,我們的一位獵人和我自己的朋友正在執行一項特殊任務，目標是找到貴重檔案的位置。\n他進入臨時營地後，我們失去了聯繫，幸運的是我們知道他最後出現的位置。\n去臨時營地看看他的情況。\n我希望他還活着...
 02083,quest.objective.find_the_missing_hunter,Quest objectives,128,找到失蹤獵人
 02084,quest.name.documents_p_2,Quest names,64,貴重檔案（第 2 階段）
-02085,quest.desc.so_he_s_dead_may_he_rest_in_peace_nthe,Quest descriptions,1024,原來他死了...願他安息。\n好消息是他找到了檔案的位置，他筆記上寫的好像是森林村莊的警察局。\n壞消息是你必須殺一條血路進去。你知道那裏駐紮着更有組織的強盜。\n檔案應該在保險箱裏。進入警察局後記得找找看。\n祝你好運，獵人！
+02085,quest.desc.so_he_s_dead_may_he_rest_in_peace_nthe,Quest descriptions,1024,原來他死了...願他安息。\n好消息是他找到了檔案的位置，他筆記上寫的好像是森林村莊的警局。\n壞消息是你必須殺一條血路進去。你知道那裏駐紮着更有組織的強盜。\n檔案應該在保險箱裏。進入警局後記得找找看。\n祝你好運，獵人！
 02086,quest.objective.retrieve_the_documents,Quest objectives,128,取回檔案
 02087,quest.objective.find_the_crystal_in_the_swamp,Quest objectives,128,尋找沼澤水晶
 02088,quest.name.inspect_the_village,Quest names,64,偵察村莊
@@ -2100,7 +2100,7 @@
 02099,quest.name.building_an_outpost,Quest names,64,建立前哨站
 02100,quest.name.the_cctv_camera,Quest names,64,監控攝像頭
 02101,quest.name.lost_informations,Quest names,64,遺失信息
-02102,quest.name.eliminate_the_assassins,Quest names,64,幹掉殺手
+02102,quest.name.eliminate_the_assassins,Quest names,64,擊殺殺手
 02103,quest.name.monitoring_p_2,Quest names,64,天羅地網
 02104,quest.name.find_the_cctv_cameras,Quest names,64,尋找監控攝像頭
 02105,quest.name.the_key_to_the_laboratory,Quest names,64,實驗室門禁卡
@@ -2131,9 +2131,9 @@
 02130,quest.desc.hey_hunter_nlisten_i_have_a_big_favor,Quest descriptions,1024,嘿，獵人！\n我有個難以啓齒的請求...\n射傷我腿的那個綠軍士兵叫波格丹諾夫。這個該死的混蛋必須付出代價.\n..他在臨時營地，你知道我想要你做什麼...\n謝謝你，獵人。
 02131,quest.desc.oh_oh_can_you_do_something_for_mr_junk,Quest descriptions,1024,噢！噢！你能幫「垃圾」先生做件事嗎？\n現在格里戈里復活了，他一定很想要回他的戒指，可「垃圾」先生在來這裡之前把它藏在沼澤了。\n如果你爲「垃圾」先生取回戒指，他會賣給你一些寶貝！\n不！不！「垃圾」先生愛他的寶貝...不！噢！但更重要的是讓格里戈里開心。\n對！對！你把戒指給「垃圾」先生，他會賣給你一些寶貝！\n「垃圾」先生還會把他找到的這件漂亮衣服給你！
 02132,quest.objective.retrieve_grigoriy_s_ring,Quest objectives,128,取回格里戈里的戒指
-02133,quest.objective.type.quest_objective_type_kill_a,"Quest objective types, Kill A",160,幹掉位於 [MAP_NAME] 的 [AMOUNT_TO_KILL] 個 [TARGET_TO_KILL]
-02134,quest.objective.type.quest_objective_type_kill_b,"Quest objective types, Kill B",160,幹掉 [AMOUNT_TO_KILL] 個 [TARGET_TO_KILL]
-02135,quest.objective.type.quest_objective_type_contract,"Quest objective types, Contract",160,幹掉位於 [MAP_NAME] 的目標： [OBJECT_NAME]
+02133,quest.objective.type.quest_objective_type_kill_a,"Quest objective types, Kill A",160,擊殺位於 [MAP_NAME] 的 [AMOUNT_TO_KILL] 個 [TARGET_TO_KILL]
+02134,quest.objective.type.quest_objective_type_kill_b,"Quest objective types, Kill B",160,擊殺 [AMOUNT_TO_KILL] 個 [TARGET_TO_KILL]
+02135,quest.objective.type.quest_objective_type_contract,"Quest objective types, Contract",160,擊殺位於 [MAP_NAME] 的目標： [OBJECT_NAME]
 02136,quest.objective.type.quest_objective_type_collect,Quest objective type：Collect,160,收集 [AMOUNT_TO_COLLECT] 個 [ITEM_NAME]
 02137,quest.objective.type.quest_objective_type_collect_weapon,Quest objective type：Collect Weapon,160,收集 [AMOUNT_TO_COLLECT] [ITEM_NAME]
 02138,quest.objective.type.quest_objective_type_survive_a,Quest objective type：Survive A,160,成功從 [MAP_NAME] 撤離 [AMOUNT_TO_SURVIVE] 次
@@ -2235,7 +2235,7 @@
 02234,item.name.scientist_analyzer_makeshift_camp,Item names or description,192,在臨時營地找到的科學家分析儀
 02235,item.name.lost_document_found_in_the_makeshift,Item names or description,192,在臨時營地找到的遺失檔案
 02236,item.name.key_used_to_enter_the_laboratory_in,Item names or description,192,用於進入臨時營地實驗室的門禁卡
-02237,item.name.single_use_key_used_to_open_the_locked,Item names or description,192,一次性鑰匙，可打開位於村莊警察局上鎖的房間
+02237,item.name.single_use_key_used_to_open_the_locked,Item names or description,192,一次性鑰匙，可打開位於村莊警局上鎖的房間
 02238,item.name.key_used_to_access_the_turbine_room_in,Item names or description,192,用於進入商場地下機房的門禁卡
 02239,item.name.immediate_use_of_food_and_drink_in_the,Item names or description,192,在地堡中顯示食物和飲料動畫
 02240,item.name.lost_backpack_found_in_the_makeshift,Item names or description,192,在臨時營地找到的失去背包
@@ -2288,7 +2288,7 @@
 02287,item.name.raw_meat,Consumable,64,生肉
 02288,item.name.molbaro_cigarette,Consumable,64,萬寶路香菸
 02289,item.name.red_wine,Consumable,64,紅酒
-02290,item.name.premium_chocolate,Consumable,64,高品質的巧克力
+02290,item.name.premium_chocolate,Consumable,64,高級巧克力
 02291,item.name.salami,Consumable,64,薩拉米香腸
 02292,item.name.rotten_salami,Consumable,64,變質的薩拉米香腸
 02293,item.name.sandwich_with_butter,Consumable,64,牛油三明治
@@ -2304,7 +2304,7 @@
 02303,item.name.wolf_meat,Consumable,64,狼肉
 02304,item.name.wurstel,Consumable,64,德式香腸
 02305,difficulty.menu.tooltip.all_npcs_will_drop_their_armor_the,Difficulty menu tooltips,512,所有NPC都會掉落護甲，耐久取決於他們所受的傷害
-02306,difficulty.menu.tooltip.factor_by_which_the_value_of_an_item,Difficulty menu tooltips,512,出售物品時價值所乘的倍率。\n例如：價值 100 盧布的物品，買入價爲 100，售出價爲 [100x出售倍率] 。
+02306,difficulty.menu.tooltip.factor_by_which_the_value_of_an_item,Difficulty menu tooltips,512,出售物品時價值所乘的倍率。\n例如：價值 100 盧布的物品，買入價爲 100，出售倍率爲 1.1，售價爲 100x1.1=110。
 02307,difficulty.menu.tooltip.npc_service_price_factor,Difficulty menu tooltips,512,地堡中NPC提供各項服務的費用
 02308,difficulty.menu.tooltip.hunt_reputation_factor,Difficulty menu tooltips,512,狩獵結束時獲得的經驗
 02309,difficulty.menu.tooltip.single_item_per_container_factor,Difficulty menu tooltips,512,容器中每項物品所包含的數量
@@ -2492,9 +2492,9 @@
 02491,quest.soldier_nmy_men_have_reported_a_large,Quest text,1024,士兵！\n我的人報告說深紅公司已經傾巢出動，各個地區都有他們的小隊！\n做好準備，士兵，這是一場戰爭...
 02492,quest.good_job_hunter_now_my_men_will_take,Quest text,1024,幹得好，獵人！我會派人接管和改造這個前哨站，而你有另一個任務。\n綠軍發現了你在他們地堡區放置的攝像頭，已經開始了清洗行動。\n我們的一個間諜暴露了。\n他最後的蹤跡在沼澤，希望你能趕在綠軍之前找到他。
 02493,quest.well_done_soldier_nnow_you_have_to,Quest text,1024,幹得好，士兵！\n現在該對付那隻老鼠了。他叫埃爾莫萊·弗拉索夫，幾周前加入綠軍。\n我必須承認這狗孃養的有點東西，要騙過我可真不簡單。\n我的人發現了他，但被他逃掉了。他現在在臨時營地。\n格殺勿論，士兵。記得把狗牌帶回來，我們給雷納德準備一份大禮...
-02494,quest.ok_soldier_the_outpost_is_almost_ready,Quest text,1024,很好，士兵！前哨站差不多建好了。\n我已經派人到那裏接手指揮，但深紅公司可不會坐視。\n你的任務是幹掉深紅公司派來商場的殺手。根據情報，他們一個在 Lio-ju 服裝店，一個在 Abibas 鞋店和工具店附近，還有一個在數碼產品店。\n士兵，做得乾淨點。
+02494,quest.ok_soldier_the_outpost_is_almost_ready,Quest text,1024,很好，士兵！前哨站差不多建好了。\n我已經派人到那裏接手指揮，但深紅公司可不會坐視。\n你的任務是擊殺深紅公司派來商場的殺手。根據情報，他們一個在 Lio-ju 服裝店，一個在 Abibas 鞋店和工具店附近，還有一個在數碼產品店。\n士兵，做得乾淨點。
 02495,quest.it_s_time_to_see_what_s_left_in_the,Quest text,1024,是時候看看商場的槍店裏還剩些什麼了。\n去那裏找一個裝備箱。也許我們可以搞到些新傢伙。
-02496,quest.nice_work_hunter_nnow_it_is_only_a,Quest text,1024,幹得好，獵人！\n現在他們的一舉一動都在我們的掌控之下。\n下一個任務的目標是幹掉幾個綠軍士官。\n這不足以讓他們傷筋動骨，但引起的混亂將爲我們爭取行動的時間。
+02496,quest.nice_work_hunter_nnow_it_is_only_a,Quest text,1024,幹得好，獵人！\n現在他們的一舉一動都在我們的掌控之下。\n下一個任務的目標是擊殺幾個綠軍士官。\n這不足以讓他們傷筋動骨，但引起的混亂將爲我們爭取行動的時間。
 02497,quest.we_know_that_the_green_army_is,Quest text,1024,我們得知綠軍正在臨時營地建立新的前哨站。\n我需要你去偵察一下，找到前哨站的確切位置，放置 GPS 定位器。\n現在他們抽調不出多少人手，你可以輕鬆完成任務。
 02498,quest.good_job_on_that_spy_soldier_nnow_we,Quest text,1024,間諜問題處理得不錯！\n接下來我們可以開展下一步行動了。去商場內部偵察一下，找個相對空曠、能直接改造成前哨站的地方。\n從地圖上看，超市裝卸區南邊似乎是空的。\n去確認下現在還是不是那樣。
 02499,quest.the_crimson_corporation_attacked_the,Quest text,1024,深紅公司襲擊了我們在建的前哨站，這證實了間諜的存在。還好我加派了人手，他們這次行動徒勞無功。\n那隻骯髒的老鼠肯定在地堡裏放置了攝像頭，你得把它們都找出來。
@@ -2506,7 +2506,7 @@
 02505,quest.damn_it_was_it_the_bandits_then_ni_m,Quest text,1024,又是該死的匪幫？\n意料之中，那幫傢伙一直在襲擾我們的補給線。\n搞定他們，獵人。
 02506,quest.were_they_all_torn_apart_then_nmost,Quest text,1024,他們被撕碎了？\n很可能是「大塊頭」！另一支小隊剛剛報告在沼澤發現了蹤跡。\n我不想讓我的人再冒險了，所以這個任務交給你，獵人。
 02507,quest.while_disembarking_at_the_industrial,Quest text,1024,在工業區的港口登陸時，我的人落下了一個裝有電子元件的公事包。\n該死的新兵蛋子！\n去把它取回來，獵人。它應該在港口的東南角。
-02508,quest.mmm_okay_it_seems_that_hunter_had,Quest text,1024,嗯...那個獵人似乎找到了一份什麼檔案，但不幸地撞見了拉扎爾，佔據了森林村莊的匪幫頭目。\n他一定把檔案藏在警察局裏了。\n去把它取回來...\n哦，順便把拉扎爾也殺了。這不是他第一次干擾我們的行動了。
+02508,quest.mmm_okay_it_seems_that_hunter_had,Quest text,1024,嗯...那個獵人似乎找到了一份什麼檔案，但不幸地撞見了拉扎爾，佔據了森林村莊的匪幫頭目。\n他一定把檔案藏在警局裏了。\n去把它取回來...\n哦，順便把拉扎爾也殺了。這不是他第一次干擾我們的行動了。
 02509,quest.i_sent_some_of_my_men_to_clear_out_the,Quest text,1024,我派人清理了汽車旅館的入口，不過停車場裏似乎還有一處感染源。任務目標是將其清除，並進入旅館，從一位已經犧牲的同志身上取回一份檔案。尤利·安東諾夫，我的參謀之一，當時駐紮在臨時營地。\n我們沒想到輻射會擴散那麼遠。\n他的屍體應該在汽車旅館最裏面的房間裏。\n我們目前抽調不出人手，所以你有興趣的話，這活就歸你了，獵人。
 02510,quest.i_have_an_easy_job_if_you_re,Quest text,1024,有個簡單的活。\n去臨時營地的汽車旅館，確認一下那裏是否有什麼危險。
 02511,quest.na_hunter_was_working_for_us_near_the,Quest text,1024,在森林地區，有一個獵人爲我們工作。上一次聯絡時，他說自己躲在村莊北邊的那排院子裏，但他已經超過24小時沒有傳來消息了，我想他可能遭遇了不測。\n去找到他，把與他有關的一切都帶回來，讓我們看看他是否發現了什麼。
@@ -2536,29 +2536,29 @@
 02535,ui.popup.you_have_already_joined_the_crimson,User Interface Popup,128,你已加入深紅公司
 02536,ui.popup.minimum_required_reputation,User Interface Popup (followed by reputation value),128,所需聲望
 02537,ui.popup.you_ve_enlisted_with_the_green_army,User Interface Popup,128,你已加入綠軍
-02538,quest.objective.eliminate_orel,Quest objectives,256,幹掉奧廖爾
+02538,quest.objective.eliminate_orel,Quest objectives,256,擊殺奧廖爾
 02539,quest.objective.find_the_lost_convoy,Quest objectives,256,尋找失蹤車隊
 02540,quest.objective.find_the_outpost_and_place_the_gps,Quest objectives,256,尋找前哨站並放置 GPS
 02541,quest.objective.find_the_spy,Quest objectives,256,尋找間諜
 02542,quest.objective.place_the_transmitter_in_the_location_1,Quest objectives,256,在1號地點放置信號發射器
 02543,quest.objective.place_the_transmitter_in_the_location_2,Quest objectives,256,在2號地點放置信號發射器
 02544,quest.objective.place_the_transmitter_in_the_location_3,Quest objectives,256,在3號地點放置信號發射器
-02545,quest.objective.eliminate_sergeant_desya_popo,Quest objectives,256,幹掉中士 德西亞·波波
-02546,quest.desc.there_is_movement_at_the_new_green,Quest description,1024,綠軍在商場的新前哨站有動靜。\n似乎來了一名士官負責那裏的指揮工作。\n去把他幹掉，獵人，然後我們可以試着奪取那裏的控制權。
-02547,quest.objective.eliminate_the_captain_in_the_forest,Quest objectives,256,幹掉森林的小隊隊長
-02548,quest.objective.eliminate_the_captain_in_the_makeshift,Quest objectives,256,幹掉臨時營地的小隊隊長
-02549,quest.objective.eliminate_the_captain_in_the,Quest objectives,256,幹掉工業區的小隊隊長
-02550,quest.objective.eliminate_the_captain_in_the_mall,Quest objectives,256,幹掉商場的小隊隊長
-02551,quest.objective.eliminate_the_captain_in_the_swamp,Quest objectives,256,幹掉沼澤的小隊隊長
+02545,quest.objective.eliminate_sergeant_desya_popo,Quest objectives,256,擊殺中士 德西亞·波波
+02546,quest.desc.there_is_movement_at_the_new_green,Quest description,1024,綠軍在商場的新前哨站有動靜。\n似乎來了一名士官負責那裏的指揮工作。\n去把他擊殺，獵人，然後我們可以試着奪取那裏的控制權。
+02547,quest.objective.eliminate_the_captain_in_the_forest,Quest objectives,256,擊殺森林的小隊隊長
+02548,quest.objective.eliminate_the_captain_in_the_makeshift,Quest objectives,256,擊殺臨時營地的小隊隊長
+02549,quest.objective.eliminate_the_captain_in_the,Quest objectives,256,擊殺工業區的小隊隊長
+02550,quest.objective.eliminate_the_captain_in_the_mall,Quest objectives,256,擊殺商場的小隊隊長
+02551,quest.objective.eliminate_the_captain_in_the_swamp,Quest objectives,256,擊殺沼澤的小隊隊長
 02552,quest.objective.find_the_entrance_of_the_motel,Quest objectives,256,尋找汽車旅館入口
 02553,quest.objective.crimson_corp_soldier,Quest objectives (a person to eliminate),256,深紅公司士兵
-02554,quest.objective.kill_the_crimson_assassin_1,Quest objectives,256,幹掉深紅公司 1 號殺手
-02555,quest.objective.kill_the_crimson_assassin_2,Quest objectives,256,幹掉深紅公司 2 號殺手
-02556,quest.objective.kill_the_crimson_assassin_3,Quest objectives,256,幹掉深紅公司 3 號殺手
+02554,quest.objective.kill_the_crimson_assassin_1,Quest objectives,256,擊殺深紅公司 1 號殺手
+02555,quest.objective.kill_the_crimson_assassin_2,Quest objectives,256,擊殺深紅公司 2 號殺手
+02556,quest.objective.kill_the_crimson_assassin_3,Quest objectives,256,擊殺深紅公司 3 號殺手
 02557,quest.objective.eliminate_the_infestation,Quest objectives,256,清除感染源
 02558,container.grigoriy_memorial,Container,64,格里戈里紀念碑
 02559,quest.objective.green_army_sergeant,Quest objectives,256,綠軍中士
-02560,quest.objective.kill_bogdanov,Quest objectives,256,幹掉波格丹諾夫
+02560,quest.objective.kill_bogdanov,Quest objectives,256,擊殺波格丹諾夫
 02561,ui.popup.speed_reload_not_allowed_with_this,User Interface Popup,128,這把武器的彈匣類型無法快速換彈
 02562,ui.popup.gun_skills_can_only_be_freely_changed,User Interface Popup,128,只能在地堡中更改槍械技能
 02563,ui.popup.improved_x_rank,User Interface Popup (will become Improved sniper rank or Improved pistol rank),128, [TYPE] 等級提升
@@ -2716,9 +2716,9 @@
 02715,achievement.desc.complete_the_quest_radiation_effect,Achievement Description,256,完成任務「輻射效果」
 02716,achievement.desc.complete_50_trades,Achievement Description,256,完成 50 次交易
 02717,achievement.desc.defeat_100_ghouls,Achievement Description,256,擊殺 100 隻食屍鬼
-02718,achievement.desc.defeat_lazar_in_the_forest_zone,Achievement Description,256,擊殺拉扎爾 [森林]
-02719,achievement.desc.defeat_kibba_the_boss_of_the_mall,Achievement Description,256,擊殺基巴 [商場]
-02720,achievement.desc.defeat_arman_in_the_makeshift_camp,Achievement Description,256,擊殺阿爾曼 [臨時營地]
+02718,achievement.desc.defeat_lazar_in_the_forest_zone,Achievement Description,256,擊殺位於森林的拉扎爾
+02719,achievement.desc.defeat_kibba_the_boss_of_the_mall,Achievement Description,256,擊殺位於商場的基巴
+02720,achievement.desc.defeat_arman_in_the_makeshift_camp,Achievement Description,256,擊殺位於臨時營地的阿爾曼
 02721,achievement.desc.loot_from_10_hidden_stashes,Achievement Description,256,搜刮 10 個隱藏儲藏
 02722,achievement.desc.complete_igor_s_questline,Achievement Description,256,完成伊戈爾的任務線
 02723,achievement.desc.litter_the_ground_with_1000_bullets_in,Achievement Description,256,在單次行動中消耗 1000 發彈藥
@@ -2741,12 +2741,12 @@
 02740,item.rotate,This is a control (to rotate an item),64,旋轉
 02741,item.quick_move,This is a control (to quickly move an item),64,快速移動
 02742,item.split_stack,This is a control (to split a stack of items in half),64,分開
-02743,quest.objective.eliminate_lazar,Quest objective,64,幹掉拉扎爾
+02743,quest.objective.eliminate_lazar,Quest objective,64,擊殺拉扎爾
 02744,quest.hey_soldier_nnow_that_we_have_access,Quest text,1024,嘿，士兵！\n我們終於打通了進入扎科夫的路，是時候在那裏建立營地了。城市東南有片工地，在中央放置一個 GPS 定位器，之後你就不用操心了。\n去吧！
 02745,quest.hey_hunter_nnow_that_we_have_access_to,Quest text,1024,嘿，獵人！\n我們終於打通了進入扎科夫的路，是時候在那裏建立營地了。城市東南有片工地，在中央放置一個 GPS 定位器，之後你就不用操心了。\n祝你好運，獵人！
 02746,quest.objective.place_the_gps_marker_in_the,Quest objectives,64,在扎科夫的工地放置 GPS
-02747,quest.desc.hey_soldier_nnow_that_we_ve,Quest descriptions,1024,嘿，士兵！\n營地已經完工了，有新任務給你。\n警察局裏有些機密檔案，去把它們取回來。
-02748,quest.desc.hey_hunter_nnow_that_we_ve_established,Quest descriptions,1024,嘿，獵人！\n營地已經完工了，有新任務給你。\n消防站裏有些機密檔案，去把它們取回來。
+02747,quest.desc.hey_soldier_nnow_that_we_ve,Quest descriptions,1024,嘿，士兵！\n營地已經完工了，有新任務給你。\n警局裏有些機密檔案，去把它們取回來。
+02748,quest.desc.hey_hunter_nnow_that_we_ve_established,Quest descriptions,1024,嘿，獵人！\n營地已經完工了，有新任務給你。\n消防局裏有些機密檔案，去把它們取回來。
 02749,quest.desc.hey_hunter_nsome_medical_supplies,Quest descriptions,1024,嘿，獵人！\n我們急需醫療用品。\n現在就出發，去扎科夫找找藥店在哪裡。
 02750,quest.objective.find_the_entrance_of_the_pharmacy_in,Quest objectives,64,尋找扎科夫藥店的入口
 02751,skill.hunter.name.nudist,Hunter Skill Name,24,赤裸狂奔
@@ -2793,7 +2793,7 @@
 02792,skill.hunter.desc.you_move_40_faster_when_not_holding_a,Hunter Skill Description,256,在未裝備武器時移動速度 +40%
 02793,quest.name.stylish_one_p_1,Quest names,64,時髦帥仔
 02794,quest.name.stylish_one_p_2,Quest names,64,死纏爛打
-02795,quest.desc.mall_guy_good_condition,Quest descriptions,1024,你肯定已經見過那個在商場閒逛的傢伙了！\n一個猛男，對不對？\n他那身護甲真是讓人印象深刻。你要是能把他幹掉，我就給你件同款。
+02795,quest.desc.mall_guy_good_condition,Quest descriptions,1024,你肯定已經見過那個在商場閒逛的傢伙了！\n一個猛男，對不對？\n他那身護甲真是讓人印象深刻。你要是能把他擊殺，我就給你件同款。
 02796,quest.desc.bounty_reward_perk,Quest descriptions,1024,幹得不錯，殺手。\n現在有一項新挑戰。單挑他15次，我就給你一件更好的。
 02797,quest.name.bowel_problems,Quest names,64,人有三急
 02798,quest.desc.listen_hunter_everyone_has_to_go_to,Quest descriptions,1024,聽着，獵人…人總得拉屎的。\n去商場檢查各處洗手間的狀況。\n這會在狩獵期間方便所有人。
@@ -2811,8 +2811,8 @@
 02810,quest.name.exploring_zakov,Quest names,64,探索扎科夫
 02811,quest.desc.ha_great_job_hunter_nthe_train_can_now,Quest descriptions,1024,哈！幹得好，獵人！\n列車現在可以直達城市了。\n我需要你去摸一摸情況。
 02812,quest.desc.hey_hunter_ni_have_a_new_challenge_for,Quest descriptions,1024,嘿，獵人！\n我需要你對各地區的撤離點做一遍檢查。\n這活不輕鬆，不過放心，報酬絕對讓你滿意。
-02813,quest.name.fire_station_documents,Quest names,64,消防站檔案
-02814,quest.name.police_station_documents,Quest names,64,警察局檔案
+02813,quest.name.fire_station_documents,Quest names,64,消防局檔案
+02814,quest.name.police_station_documents,Quest names,64,警局檔案
 02815,quest.name.need_for_gasoline,Quest names,64,急需汽油
 02816,quest.desc.good_job_soldier_nnow_we_must_find_as,Quest descriptions,1024,幹得好，士兵！\n我們的車輛正渴望着寶貴的汽油。\n找到扎科夫加油站，同志們對此感激不盡！
 02817,quest.objective.find_the_gas_station_in_zakov,Quest objectives,64,尋找扎科夫加油站
@@ -2955,8 +2955,8 @@
 02954,base.module.desc.medication_bleed_10,Base Module description,256,允許你製作更多醫療用品\n -10% 出血機率
 02955,base.module.desc.medication_bleed_15,Base Module description,256,允許你製作更多醫療用品\n -15% 出血機率\n每分鐘恢復2生命值\n每分鐘緩解 0.1 輻射
 02956,base.module.desc.medication_bleed_30,Base Module description,256,允許你製作更多醫療用品\n -30% 出血機率\n每分鐘恢復5生命值\n每分鐘緩解 0.2 輻射
-02957,item.name.zakov_police_station_documents,Documents,32,扎科夫警察局檔案
-02958,item.name.zakov_s_police_station_armory_key,Keys,96,扎科夫警察局鑰匙
+02957,item.name.zakov_police_station_documents,Documents,32,扎科夫警局檔案
+02958,item.name.zakov_s_police_station_armory_key,Keys,96,扎科夫警局鑰匙
 02959,tutorial.ftue.i_think_the_bunker_exit_is_in_the_south,FTUE text,128,地堡出口可不在這。
 02960,player.prompt.construction_area,Player prompt,32,工地
 02961,player.prompt.apartment_block,Player prompt,32,公寓樓
@@ -2983,10 +2983,10 @@
 02982,base.module.desc.comfortable_bed_that_restores_you_faster,Base Module description,128,提供良好的睡眠和高效的恢復
 02983,settings.gameplay.increase_weapons_max_range,Gameplay settings,48,提高武器的最大有效射程
 02984,settings.gameplay.decrease_weapons_min_range,Gameplay settings,48,降低武器的最小有效射程
-02985,item.desc.single_use_key_used_to_open_the_locked,Item description,256,一次性鑰匙，用於打開扎科夫警察局上鎖的軍械庫
+02985,item.desc.single_use_key_used_to_open_the_locked,Item description,256,一次性鑰匙，用於打開扎科夫警局上鎖的軍械庫
 02986,ui.popup.this_will_delete_all_savedata_stored,Menu popup text,512,刪除存本地和雲存檔。\n你將失去所有物品、技能和任務進度。\n確定要這樣做嗎？
-02987,quest.item.zakov_fire_station_documents,Quest item,64,扎科夫消防站檔案
-02988,quest.objective.eliminate_the_crimson_in_the_swamp,Quest objective,96,幹掉沼澤的深紅公司士兵
+02987,quest.item.zakov_fire_station_documents,Quest item,64,扎科夫消防局檔案
+02988,quest.objective.eliminate_the_crimson_in_the_swamp,Quest objective,96,擊殺沼澤的深紅公司士兵
 02989,displaying_which_ammo_the.current,Displaying which ammo the player is currently holding,48,目前:
 02990,quest.objective.second_part_of_the_crystal_documents,Quest objective,128,《啓示錄》第二部分
 02991,quest.objective.first_part_of_the_crystal_documents,Quest objective,128,《啓示錄》第一部分
@@ -3039,7 +3039,7 @@
 03038,workshop.uploading_mod,Status of Steam Workshop Mod upload,50,正在上傳模組...
 03039,display_for_the_name_of_the.mod_name,Display for the name of the mod Mod Name：Dave's Gun Mod,40,模組名稱:
 03040,we_are_going_through_the.stage,We are going through the upload process so this will say stage 8 of 12,40,進度
-03041,misc.4_of_12.value1_of_value2,4 of 12,40, [VALUE1] （共 [VALUE2] ）
+03041,misc.4_of_12.value1_of_value2,4 of 12,40,[VALUE1]（共 [VALUE2]）
 03042,workshop.status,Status of Steam Workshop Mod upload,40,狀態:
 03043,workshop.steam_response,Status of Steam Workshop Mod upload,40,Steam 響應:
 03044,workshop.progress,Status of Steam Workshop Mod upload,40,進度:
@@ -3097,9 +3097,9 @@
 03096,workshop.missing_version_in_metadata_ini,Steam Workshop error message (do not translate file name or version),64,metadata.ini 缺少 「版本」
 03097,workshop.missing_author_in_metadata_ini,Steam Workshop error message (do not translate file name or author),64,metadata.ini 缺少 「作者」
 03098,workshop.icon_png_is_required_in_mod_folder,Steam Workshop error message (do not translate file name),64,icon.png 必須在模組檔案夾內
-03099,item.name.carret_n82,Weapons,64,Barrett M82
-03100,item.name.carret_n82_10_round_magazine,Weapon Mods,64,Barrett M82 10 發彈匣
-03101,item.name.carret_n82_5_round_magazine,Weapon Mods,64,Barrett M82 5發彈匣
+03099,item.name.carret_n82,Weapons,64,M82A1
+03100,item.name.carret_n82_10_round_magazine,Weapon Mods,64,M82A1 10 發彈匣
+03101,item.name.carret_n82_5_round_magazine,Weapon Mods,64,M82A1 5發彈匣
 03102,quest.name.clear_the_way_again,Quest Name,128,捲土重來
 03103,quest.desc.most_of_our_forces_are_focusing_on,Quest description,None,我們大多數人手都投入到了扎科夫，這讓Orel有機可乘。他又成了臨時營地的土皇帝。\n我搞到了一把大傢伙，獵人。如果你能挫挫Orel的銳氣，它就是你的了。\n提醒你一下，Orel躲在舊火車站那裏。\n搞定他之後，我會賣彈藥給你，但得等到下一次補貨。
 03104,item.name.foregrip_desert,Weapon Mods,64,沙漠色前握把
@@ -3107,7 +3107,7 @@
 03106,item.name.pistol_50_bmg,Weapons,64,.50 BMG 手槍
 03107,item.name.pistol_50_bmg_handguard,Weapon Mods,64,.50 BMG 手槍護木
 03108,quest.name.a_new_devil,Quest Name,64,地下魔影
-03109,quest.desc.some_hunters_have_reported_an_unique,Quest description,None,有獵人報告說商場的地下停車場裏遊蕩着一個古怪的觀察者。\n\n幹掉它。
+03109,quest.desc.some_hunters_have_reported_an_unique,Quest description,None,有獵人報告說商場的地下停車場裏遊蕩着一個古怪的觀察者。\n\n擊殺它。
 03110,npc.name.devil,NPCs,48,惡魔
 03111,item.name.wa_devil_suit,Armor,64,WA 惡魔衣裝
 03112,misc.insert.i_want_peace_with_everyone,Insert,256,我希望與所有人都和平共處
@@ -3299,8 +3299,8 @@
 03302,ui.popup.containers_accept_only_full_stacks,Pop up text,64,容器只接收整組物品。
 03303,quest.desc.special_tool_box_located_inside_the.sawmill_forest,Quest descriptions,512,特殊工具箱：位於森林的鋸木廠內。
 03304,quest.desc.special_tool_box_located_outside_the,Quest descriptions,512,特殊工具箱：位於森林的鋸木廠外。
-03305,quest.desc.rare_vodka_located_in_forest_village,Quest descriptions,512,高品質的伏特加：位於森林村莊。
-03306,quest.desc.police_briefcase_located_inside_the,Quest descriptions,512,警用公事包：位於森林的警察局內。
+03305,quest.desc.rare_vodka_located_in_forest_village,Quest descriptions,512,高級伏特加：位於森林村莊。
+03306,quest.desc.police_briefcase_located_inside_the,Quest descriptions,512,警用公事包：位於森林的警局內。
 03307,quest.desc.rare_circuit_located_near_the_radio,Quest descriptions,512,稀有電路：位於臨時營地的無線電塔附近。
 03308,quest.desc.good_condition_car_battery_located,Quest descriptions,512,狀況良好的汽車電池：位於臨時營地的汽車旅館附近。
 03309,quest.desc.motel_briefcase_located_inside_the,Quest descriptions,512,汽車旅館公事包：位於臨時營地的汽車旅館內，右下角的房間。
@@ -3310,8 +3310,8 @@
 03313,quest.desc.special_tool_box_located_near_the,Quest descriptions,512,特殊工具箱：位於沼澤下水道入口附近。
 03314,quest.desc.rotor_located_inside_the_sewer_in_the,Quest descriptions,512,轉子：位於沼澤下水道內，匪幫控制的區域。
 03315,quest.desc.briefcase_located_inside_the_sewer_in,Quest descriptions,512,公事包：位於沼澤下水道內，在北部的實驗室裏。
-03316,quest.desc. USB _data_located_inside_the_mall_in,Quest descriptions,512, USB ：位於商場內，在靠近入口的某個監控室裏。
-03317,quest.desc.rare_whisky_located_inside_the_mall_in,Quest descriptions,512,高品質的威士忌：位於商場內的 Woody 酒吧。
+03316,quest.desc.usb_data_located_inside_the_mall_in,Quest descriptions,512, USB ：位於商場內，在靠近入口的某個監控室裏。
+03317,quest.desc.rare_whisky_located_inside_the_mall_in,Quest descriptions,512,高級威士忌：位於商場內的 Woody 酒吧。
 03318,quest.desc.shoes_located_inside_the_mall_in,Quest descriptions,512,鞋：位於商場內的Keri或Adibas鞋店。
 03319,quest.desc.special_tool_box_located_inside_the.mall_tools_shop,Quest descriptions,512,特殊工具箱：位於商場內的工具店裏。
 03320,quest.desc.dumbbell_located_inside_the_mall_in,Quest descriptions,512,啞鈴：位於商場內的健身房裏。
@@ -3322,23 +3322,23 @@
 03325,quest.desc.box_of_ammo_located_inside_the_mall_in,Quest descriptions,512,彈藥箱：位於商場內的槍店裏。
 03326,quest.desc.sapphire_necklace_located_inside_the,Quest descriptions,512,藍寶石項鍊：位於商場內的 Skaruvksi 珠寶店。
 03327,quest.desc.rotor_located_outside_the_mall_to_the,Quest descriptions,512,轉子：位於商場外，在北邊。
-03328,quest.desc. USB _data_located_in_the_mall,Quest descriptions,512, USB ：位於商場地下，在監控室裏。
+03328,quest.desc.usb_data_located_in_the_mall,Quest descriptions,512, USB ：位於商場地下，在監控室裏。
 03329,quest.desc.special_tool_box_located_in_the_mall,Quest descriptions,512,特殊工具箱：位於商場地下，在傳送帶房裏。
 03330,quest.desc.cctv_camera_located_at_the_mall,Quest descriptions,512,監控攝像頭：位於商場地下出口處。
 03331,quest.desc.cctv_camera_located_in_the_mall,Quest descriptions,512,監控攝像頭：位於商場地下，在自動扶梯房裏。
 03332,quest.desc.concrete_bag_located_in_the_industrial,Quest descriptions,512,水泥箱：位於工業區，港口附近。
 03333,quest.desc.rotor_located_in_the_industrial_area,Quest descriptions,512,轉子：位於工業區，石油工廠外。
 03334,quest.desc.special_tool_box_located_in_the,Quest descriptions,512,特殊工具箱：位於工業區，列車墳場附近。
-03335,quest.desc. USB _data_located_in_the_industrial,Quest descriptions,512, USB ：位於工業區，石油工廠內的員工辦公室裏。
+03335,quest.desc.usb_data_located_in_the_industrial,Quest descriptions,512, USB ：位於工業區，石油工廠內的員工辦公室裏。
 03336,quest.desc.briefcase_located_in_the_industrial,Quest descriptions,512,公事包：位於工業區，石油工廠內的主管辦公室裏。
 03337,quest.desc.electric_motor_located_in_the,Quest descriptions,512,電動馬達：位於工業區，石油工廠內的機械室裏。
 03338,quest.desc.car_battery_located_in_zakov,Quest descriptions,512,汽車電池：位於扎科夫。
 03339,quest.desc.briefcase_located_in_zakov_in_the_city,Quest descriptions,512,公事包：位於扎科夫，在城市公園裏。
 03340,quest.desc.briefcase_located_in_zakov_in_the.shopping_area,Quest descriptions,512,公事包：位於扎科夫，在商業區。
 03341,quest.desc.special_tool_box_located_in_zakov_near,Quest descriptions,512,特殊工具箱：位於扎科夫，儲藏附近。
-03342,quest.desc. USB _data_located_in_zakov_inside_the,Quest descriptions,512, USB ：位於扎科夫，儲藏內的辦公室裏。
-03343,quest.desc.fire_station_documents_located_in,Quest descriptions,512,消防站檔案：位於扎科夫，消防站內。
-03344,quest.desc.police_station_documents_located_in,Quest descriptions,512,警察局檔案：位於扎科夫，警察局內。
+03342,quest.desc.usb_data_located_in_zakov_inside_the,Quest descriptions,512, USB ：位於扎科夫，儲藏內的辦公室裏。
+03343,quest.desc.fire_station_documents_located_in,Quest descriptions,512,消防局檔案：位於扎科夫，消防局內。
+03344,quest.desc.police_station_documents_located_in,Quest descriptions,512,警局檔案：位於扎科夫，警局內。
 03345,quest.desc.gas_tank_located_in_zakov_inside_the,Quest descriptions,512,氣罐：位於扎科夫，加油站內。
 03346,quest.desc.med_box_located_in_zakov_inside_the,Quest descriptions,512,醫療箱：位於扎科夫，藥店內。
 03347,quest.desc.briefcase_located_in_zakov_inside_the.post_office,Quest descriptions,512,公事包：位於扎科夫，郵局內。
@@ -3352,7 +3352,7 @@
 03355,quest.desc.book_located_in_zakov_inside_the,Quest descriptions,512,書：位於扎科夫，學校內的某間教室裏。
 03356,quest.desc.pasta_located_in_zakov_inside_the,Quest descriptions,512,義大利麵：位於扎科夫，商場內的貨架附近。
 03357,quest.desc.cctv_camera_located_in_zakov_in_the,Quest descriptions,512,監控攝像頭：位於扎科夫，辦公樓的休息區。
-03358,quest.desc. USB _data_located_in_zakov_in_the,Quest descriptions,512, USB ：位於扎科夫，辦公樓的藍色辦公室內。
+03358,quest.desc.usb_data_located_in_zakov_in_the,Quest descriptions,512, USB ：位於扎科夫，辦公樓的藍色辦公室內。
 03359,quest.desc.briefcase_located_in_zakov_in_the.financial_offices_largest,Quest descriptions,512,公事包：位於扎科夫，辦公樓最大的辦公室內。
 03360,quest.desc.briefcase_located_in_zakov_inside_the.watcher_headquarters_main,Quest descriptions,512,公事包：位於扎科夫，觀察者總部的主控室內。
 03361,item.name.container_12x70mm_buckshot,Item name,64,容器：12x70mm 散彈
@@ -3742,7 +3742,7 @@
 03745,misc.insert.wa_cyclops_suit,Insert,256,WA 獨眼巨人防護服
 03746,misc.insert.crystal_backpack,Insert,256,晶體背包
 03747,misc.insert.nu_backpack,Insert,256,NU 背包
-03748,misc.insert.rs_25,Insert,256,RS 25
+03748,misc.insert.rs_25,Insert,256,SR-25
 03749,misc.insert.repair_kit_for_the_power_grid,Insert,256,電網修理套件
 03750,misc.insert.you_have_already_joined_the_green_army,Insert,256,你已加入綠軍
 03751,misc.insert.contruction_area,Insert,256,工地
@@ -3767,14 +3767,14 @@
 03770,skill.hunter.desc.grenade_range_flashbang_immunity_alt,Hunter Skill Description,256,手榴彈的爆炸範圍增加30%，且不再傷害或致盲自己
 03771,quest.desc.sewers_rotfang_scientists_alt,Quest description,None,嘿，獵人！\n還記得那次你去下水道嗎？醫生告訴我，有科學家報告說那裏有奇怪的動靜。\n他們懷疑是從腐牙出沒的區域傳來的。去看看，重點檢查機器之類的東西。\n完成這次任務，你將獲得科學家陣營的聲望。
 03772,dialogue.horizon_docks_reworded,Dialogue,None,聽說工業區出現了一個自稱爲地平線的新組織。\n他們既不是軍隊，也不是匪幫，而是裝備精良、意圖不明的企業人員。\n他們封鎖了碼頭，靠近的人要麼拿錢離開...要麼就消失。
-03773,credits.lead_marketing_artist,Credits,64,首席市場美術
+03773,credits.lead_marketing_artist,Credits,64,首席行銷美術
 03774,credits.social_media_manager,Credits,64,社交媒體經理
 03775,credits.executive_producer,Credits,64,執行製作人
 03776,credits.head_of_communications,Credits,64,傳播負責人
-03777,credits.localization,Credits,64,翻譯
-03778,credits.lockit_qa,Credits,64,翻譯 QA
-03779,credits.studio_director,Credits,64,工作坊總監
-03780,credits.localization_manager,Credits,64,翻譯經理
+03777,credits.localization,Credits,64,本土化
+03778,credits.lockit_qa,Credits,64,本土化品質保證
+03779,credits.studio_director,Credits,64,工作室總監
+03780,credits.localization_manager,Credits,64,本土化經理
 03781,credits.russian,Credits,64,俄語
 03782,credits.chinese_simplified,Credits,64,簡體中文
 03783,credits.german,Credits,64,德語
@@ -3782,7 +3782,7 @@
 03785,credits.korean,Credits,64,韓語
 03786,credits.portuguese_brazil,Credits,64,葡萄牙語（巴西）
 03787,credits.spanish_europe,Credits,64,西班牙語（歐洲）
-03788,credits.spanish_latin_america,Credits,64,西班牙語（拉美）
+03788,credits.spanish_latin_america,Credits,64,西班牙語（拉丁美洲）
 03789,credits.font_creation,Credits,64,字體制作
 03790,achievement.name.that_must_ve_hurt,Achievement Name,48,那一定很痛
 03791,achievement.name.ready_for_action,Achievement Name,48,整裝待發
@@ -3813,16 +3813,16 @@
 03816,achievement.desc.unlock_your_first_train_skin,Achievement Description,256,解鎖第一個列車皮膚
 03817,achievement.desc.unlock_all_six_train_skins,Achievement Description,256,解鎖全部六個列車皮膚
 03818,achievement.desc.complete_crimson_corporation_questline,Achievement Description,256,完成深紅公司任務線
-03819,achievement.desc.defeat_orel_leader_of_the_makeshift_camp,Achievement Description,256,擊殺奧廖爾 [臨時營地]
+03819,achievement.desc.defeat_orel_leader_of_the_makeshift_camp,Achievement Description,256,擊殺位於臨時營地裏的奧廖爾
 03820,achievement.desc.defeat_voss_commander_of_horizon,Achievement Description,256,擊殺地平線指揮官沃斯
-03821,achievement.desc.defeat_the_devil_in_the_parking_lot,Achievement Description,256,擊殺惡魔 [商場地下停車場]
-03822,achievement.desc.defeat_valentine_in_zakov_city,Achievement Description,256,擊殺瓦倫丁 [扎科夫]
+03821,achievement.desc.defeat_the_devil_in_the_parking_lot,Achievement Description,256,擊殺位於商場地下停車場裏的惡魔
+03822,achievement.desc.defeat_valentine_in_zakov_city,Achievement Description,256,擊殺位於扎科夫裏的瓦倫丁
 03823,achievement.desc.obtain_450_reputation_with_scientists,Achievement Description,256,在科學家陣營中達到450點聲望
 03824,achievement.desc.complete_the_green_army_s_questline,Achievement Description,256,完成綠軍的任務線
-03825,achievement.desc.defeat_the_phantom_of_the_swamp,Achievement Description,256,擊殺「幻影」 [沼澤]
+03825,achievement.desc.defeat_the_phantom_of_the_swamp,Achievement Description,256,擊殺位於沼澤裏的「幻影」
 03826,achievement.desc.complete_the_secret_ending,Achievement Description,256,完成彩蛋結局
 03827,achievement.desc.own_each_of_the_bosses_unique_armors,Achievement Description,256,收集齊各個首領的專屬護甲
-03828,achievement.desc.defeat_rotking_who_hides_in_the_sewers,Achievement Description,256,擊殺腐爛之王 [沼澤下水道]
+03828,achievement.desc.defeat_rotking_who_hides_in_the_sewers,Achievement Description,256,擊殺位於沼澤下水道裏的腐爛之王
 03829,achievement.desc.loot_the_phantom_s_hidden_stash,Achievement Description,256,搜刮「幻影」的隱藏儲藏
 03830,achievement.desc.find_mr_junk,Achievement Description,256,找到「垃圾」先生
 03831,achievement.desc.defeat_the_outer_deity,Achievement Description,256,擊殺外神
@@ -3920,65 +3920,65 @@
 03923,trade.barter.phantom_s_stash_coordinate,Barter,72,「幻影」的隱藏儲藏座標
 03924,chest.phantom_s_stash,Chests,64,「幻影」的隱藏儲藏
 03925,map.marker.phantom_s_stash,Marker names,48,「幻影」的隱藏儲藏
-03926,trade.barter.special_tool_box_sawmill_indoor,Barter,72,特殊工具箱 [鋸木廠室內]
-03927,trade.barter.special_tool_box_sawmill_outdoor,Barter,72,特殊工具箱 [鋸木廠室外]
-03928,trade.barter.rare_vodka,Barter,72,高品質的伏特加
+03926,trade.barter.special_tool_box_sawmill_indoor,Barter,72,位於鋸木廠內的特殊工具箱
+03927,trade.barter.special_tool_box_sawmill_outdoor,Barter,72,位於鋸木廠外的特殊工具箱
+03928,trade.barter.rare_vodka,Barter,72,高級伏特加
 03929,trade.barter.police_briefcase,Barter,72,警用公事包
 03930,trade.barter.rare_circuit,Barter,72,稀有電路
 03931,trade.barter.good_condition_car_battery,Barter,72,狀況良好的汽車電池
 03932,trade.barter.motel_briefcase,Barter,72,汽車旅館公事包
-03933,trade.barter.special_tool_box_old_train_station,Barter,72,特殊工具箱 [舊火車站]
+03933,trade.barter.special_tool_box_old_train_station,Barter,72,位於舊火車站的特殊工具箱
 03934,trade.barter.laboratory_documents_1,Barter,72,實驗室 1 號檔案
 03935,trade.barter.laboratory_documents_2,Barter,72,實驗室 2 號檔案
-03936,trade.barter.special_tool_box_sewer,Barter,72,特殊工具箱 [下水道]
-03937,trade.barter.rotor_sewer,Barter,72,轉子 [下水道]
-03938,trade.barter.briefcase_sewer,Barter,72,公事包 [下水道]
-03939,trade.barter. USB _data_1_mall,Barter,72,1 號 USB [商場]
-03940,trade.barter.rare_whisky_mall,Barter,72,高品質的威士忌 [商場]
-03941,trade.barter.shoes_mall,Barter,72,鞋 [商場]
-03942,trade.barter.special_tool_box_1_mall,Barter,72,1號特殊工具箱 [商場]
-03943,trade.barter.dumbell_mall,Barter,72,啞鈴 [商場]
-03944,trade.barter.med_box_mall,Barter,72,醫療箱 [商場]
-03945,trade.barter.rotor_1_mall,Barter,72,1號轉子 [商場]
-03946,trade.barter.toilet_paper_mall,Barter,72,衛生紙 [商場]
-03947,trade.barter.gamestation_mall,Barter,72,遊戲機 [商場]
-03948,trade.barter.box_of_ammo_mall,Barter,72,彈藥箱 [商場]
-03949,trade.barter.sapphire_necklace_mall,Barter,72,藍寶石項鍊 [商場]
-03950,trade.barter.rotor_2_mall,Barter,72,2 號轉子 [商場]
-03951,trade.barter. USB _data_2_mall,Barter,72,2 號 USB [商場]
-03952,trade.barter.special_tool_box_2_mall,Barter,72,2號特殊工具箱 [商場]
-03953,trade.barter.cctv_camera_1_mall,Barter,72,1號監控攝像頭 [商場]
-03954,trade.barter.cctv_camera_2_mall,Barter,72,2號監控攝像頭 [商場]
-03955,trade.barter.concrete_bag_industrial_area,Barter,72,水泥箱 [工業區]
-03956,trade.barter.rotor_industrial_area,Barter,72,轉子 [工業區]
-03957,trade.barter.special_tool_box_1_industrial_area,Barter,72,1號特殊工具箱 [工業區]
-03958,trade.barter. USB _data_1_industrial_area,Barter,72,1 號 USB [工業區]
-03959,trade.barter.briefcase_industrial_area,Barter,72,公事包 [工業區]
-03960,trade.barter.electric_motor_industrial_area,Barter,72,電動馬達 [工業區]
-03961,trade.barter.car_battery_zakov,Barter,72,汽車電池 [扎科夫]
-03962,trade.barter.briefcase_1_zakov,Barter,72,1 號公事包 [扎科夫]
-03963,trade.barter.briefcase_2_zakov,Barter,72,2 號公事包 [扎科夫]
-03964,trade.barter.special_tool_box_1_zakov,Barter,72,1號特殊工具箱 [扎科夫]
-03965,trade.barter. USB _data_1_zakov,Barter,72,1號 USB [扎科夫]
-03966,trade.barter.fire_station_documents_zakov,Barter,72,消防站檔案 [扎科夫]
-03967,trade.barter.police_station_documents_zakov,Barter,72,警察局檔案 [扎科夫]
-03968,trade.barter.gas_tank_zakov,Barter,72,氣罐 [扎科夫]
-03969,trade.barter.med_box_zakov,Barter,72,醫療箱 [扎科夫]
-03970,trade.barter.briefcase_3_zakov,Barter,72,3 號公事包 [扎科夫]
-03971,trade.barter.expensive_coffee_zakov,Barter,72,珍貴咖啡 [扎科夫]
-03972,trade.barter.sapphire_necklace_zakov,Barter,72,藍寶石項鍊 [扎科夫]
-03973,trade.barter.carton_of_cigarettes_zakov,Barter,72,條裝香菸 [扎科夫]
-03974,trade.barter.dumbell_zakov,Barter,72,啞鈴 [扎科夫]
-03975,trade.barter.shoes_1_zakov,Barter,72,1 號鞋 [扎科夫]
-03976,trade.barter.shoes_2_zakov,Barter,72,2 號鞋 [扎科夫]
-03977,trade.barter.expensive_wine_zakov,Barter,72,珍貴紅酒 [扎科夫]
-03978,trade.barter.book_zakov,Barter,72,書 [扎科夫]
-03979,trade.barter.pasta_zakov,Barter,72,義大利麵 [扎科夫]
-03980,trade.barter.cctv_zakov,Barter,72,監控攝像頭 [扎科夫]
-03981,trade.barter. USB _data_2_zakov,Barter,72,2 號 USB [扎科夫]
-03982,trade.barter.briefcase_4_zakov,Barter,72,4 號公事包 [扎科夫]
-03983,trade.barter.briefcase_5_zakov,Barter,72,5 號公事包 [扎科夫]
-03984,trade.barter.briefcase_6_zakov,Barter,72,6 號公事包 [扎科夫]
+03936,trade.barter.special_tool_box_sewer,Barter,72,位於下水道的特殊工具箱
+03937,trade.barter.rotor_sewer,Barter,72,位於下水道的轉子
+03938,trade.barter.briefcase_sewer,Barter,72,位於下水道的公事包
+03939,trade.barter.usb_data_1_mall,Barter,72,位於商場的 1 號 USB
+03940,trade.barter.rare_whisky_mall,Barter,72,位於商場的高級威士忌
+03941,trade.barter.shoes_mall,Barter,72,位於商場的鞋
+03942,trade.barter.special_tool_box_1_mall,Barter,72,位於商場的的 1 號特殊工具箱
+03943,trade.barter.dumbell_mall,Barter,72,位於商場的啞鈴
+03944,trade.barter.med_box_mall,Barter,72,位於商場的醫療箱
+03945,trade.barter.rotor_1_mall,Barter,72,位於商場的 1 號轉子
+03946,trade.barter.toilet_paper_mall,Barter,72,位於商場的衛生紙
+03947,trade.barter.gamestation_mall,Barter,72,位於商場的遊戲機
+03948,trade.barter.box_of_ammo_mall,Barter,72,位於商場的彈藥箱
+03949,trade.barter.sapphire_necklace_mall,Barter,72,位於商場的藍寶石項鍊
+03950,trade.barter.rotor_2_mall,Barter,72,位於商場的 2 號轉子
+03951,trade.barter.usb_data_2_mall,Barter,72,位於商場的 2 號 USB
+03952,trade.barter.special_tool_box_2_mall,Barter,72,位於商場的 2 號特殊工具箱
+03953,trade.barter.cctv_camera_1_mall,Barter,72,位於商場的 1 號監控攝像頭
+03954,trade.barter.cctv_camera_2_mall,Barter,72,位於商場的 2 號監控攝像頭
+03955,trade.barter.concrete_bag_industrial_area,Barter,72,位於工業區的水泥
+03956,trade.barter.rotor_industrial_area,Barter,72,位於工業區的轉子
+03957,trade.barter.special_tool_box_1_industrial_area,Barter,72,位於工業區的 1 號特殊工具箱
+03958,trade.barter.usb_data_1_industrial_area,Barter,72,位於工業區的 1 號 USB
+03959,trade.barter.briefcase_industrial_area,Barter,72,位於工業區的公事包
+03960,trade.barter.electric_motor_industrial_area,Barter,72,位於工業區的電動馬達
+03961,trade.barter.car_battery_zakov,Barter,72,位於扎科夫的汽車電池
+03962,trade.barter.briefcase_1_zakov,Barter,72,位於扎科夫的1 號公事包
+03963,trade.barter.briefcase_2_zakov,Barter,72,位於扎科夫的2 號公事包
+03964,trade.barter.special_tool_box_1_zakov,Barter,72,位於扎科夫的 1 號特殊工具箱
+03965,trade.barter.usb_data_1_zakov,Barter,72,位於扎科夫的 1 號 USB
+03966,trade.barter.fire_station_documents_zakov,Barter,72,位於扎科夫的消防局檔案
+03967,trade.barter.police_station_documents_zakov,Barter,72,位於扎科夫的警局檔案
+03968,trade.barter.gas_tank_zakov,Barter,72,位於扎科夫的煤氣罐
+03969,trade.barter.med_box_zakov,Barter,72,位於扎科夫的醫療箱
+03970,trade.barter.briefcase_3_zakov,Barter,72,位於扎科夫的 3 號公事包
+03971,trade.barter.expensive_coffee_zakov,Barter,72,位於扎科夫的珍貴咖啡
+03972,trade.barter.sapphire_necklace_zakov,Barter,72,位於扎科夫的藍寶石項鍊
+03973,trade.barter.carton_of_cigarettes_zakov,Barter,72,位於扎科夫的條裝香菸
+03974,trade.barter.dumbell_zakov,Barter,72,位於扎科夫的啞鈴
+03975,trade.barter.shoes_1_zakov,Barter,72,位於扎科夫的 1 號鞋
+03976,trade.barter.shoes_2_zakov,Barter,72,位於扎科夫的 2 號鞋
+03977,trade.barter.expensive_wine_zakov,Barter,72,位於扎科夫的珍貴紅酒
+03978,trade.barter.book_zakov,Barter,72,位於扎科夫的書
+03979,trade.barter.pasta_zakov,Barter,72,位於扎科夫的義大利麵
+03980,trade.barter.cctv_zakov,Barter,72,位於扎科夫的監控攝像頭
+03981,trade.barter.usb_data_2_zakov,Barter,72,位於扎科夫的 2 號 USB
+03982,trade.barter.briefcase_4_zakov,Barter,72,位於扎科夫的 4 號公事包
+03983,trade.barter.briefcase_5_zakov,Barter,72,位於扎科夫的 5 號公事包
+03984,trade.barter.briefcase_6_zakov,Barter,72,位於扎科夫的 6 號公事包
 03985,ui.you_have_unlocked_a_new_train_type,User Interface,128,已解鎖列車塗裝
 03986,settings.vsync,Settings Option,64,垂直同步
 03987,item.name.ghillie_suit,Armor,64,吉利服
@@ -4119,15 +4119,17 @@
 05000,"When ON, tap to toggle sprinting on and off; when OFF, hold the key to sprint.",Gameplay setting tooltip,128,開啟時，點擊切換衝刺狀態；關閉時，按住按鍵衝刺
 05001,"When ON, weapons wear at 25% of the normal rate, so they seldom reach the jam threshold.",Difficulty menu tooltips,128,開啟時，武器磨損速度爲正常的25%，所以很少會達到卡殼閾值
 05002,suppressor 7.62x51 PTS/UDK Ghillie,Weapon Mods,64,7.62x51 PTS/UDK 吉利偽裝消音器
-05003,".50 bmg standard",Ammo Types,64,.50 BMG 標準
-05004,"M1A ghillie stock",Weapon Mods,64,M1A 吉利偽裝槍托
-05005,"Confirm",User Interface,40,確認
+05003,.50 bmg standard,Ammo Types,64,.50 BMG 標準
+05004,M1A ghillie stock,Weapon Mods,64,M1A 吉利偽裝槍托
+05005,Confirm,User Interface,40,確認
 
-06000,"Legendary Merchant",NPCs,48,傳奇商人
-06001,"Bye.","User Interface, interaction with NPC",1400,再見
-06002,"Trade","User Interface, interaction with NPC",1400,交易
-06003,"I have some questions.","User Interface, interaction with NPC",1400,我有一些問題想問
-06004,"Who are you exactly?","User Interface, interaction with NPC",1400,你究竟是誰？
+06000,Legendary Merchant,NPCs,48,傳奇商人
+06001,Bye.,"User Interface, interaction with NPC",1400,再見
+06002,Trade,"User Interface, interaction with NPC",1400,交易
+06003,I have some questions.,"User Interface, interaction with NPC",1400,我有一些問題想問
+06004,Who are you exactly?,"User Interface, interaction with NPC",1400,你究竟是誰？
 06005,"I am a legendary hunter. But I have accumulated too many rubles and items, so I came out to sell them. I never deal with ordinary items, but with very rare items.",NPC dialogue,512,我是一位傳奇獵人。一直以來我積攢了很多盧布和物品，所以我要清理一下我那些收藏。我這裡不賣那些普通垃圾，只賣極為稀有的物品。
-06006,"How do I trade with you?","User Interface, interaction with NPC",1400,我該如何與你進行交易？
-06007,"I've dealt with many cases with Barman. Depending on how Loner sees you, the items I can give you will vary. If you complete quests and buy or sell items to Barman or me, your reputation will naturally increase. And by the way, I like blue cigarettes...",NPC dialogue,512,我處理過很多酒保的案子。根據獨行俠對你的看法，我能給你的物品也會有所不同。完成任務，和酒保或我買賣物品，你的聲望自然會提升。對了，我喜歡藍色的香菸…
+06006,How do I trade with you?,"User Interface, interaction with NPC",1400,我該如何與你進行交易？
+06007,"I've dealt with many cases with Barman. Depending on how Loner sees you, the items I can give you will vary. If you complete quests and buy or sell items to Barman or me, your reputation will naturally increase. And by the way, I like blue cigarettes...",NPC dialogue,512,我處理過很多酒保的案子。根據獨行俠對你的看法，我能給你的物品也會有所不同。完成任務，和酒保或我買賣物品，你的聲望自然會提升。對了，我喜歡藍色的香菸...
+06008,ULR .50 BMG Pisto,Weapons,64,.50 BMG 手槍
+06009,Santa AK-74,Weapons,64,聖誕 AK-74
