@@ -27,7 +27,7 @@ Character Health,Difficulty Menu,32,角色生命值
 Minimum Transportable Weight,Difficulty Menu,32,負重上限
 Hunger/Thirst Decay Rate,Difficulty Menu,32,飢餓/口渴消耗
 Reputation Multiplier,Difficulty Menu,32,聲望倍率
-Skill Experience Multiplier,Difficulty Menu,32,技能經驗倍率
+Skill Experience Multiplier,Difficulty Menu,32,技能經驗值倍率
 Reputation From Quests,Difficulty Menu,32,任務聲望報酬
 Roubles From Quests,Difficulty Menu,32,任務盧布報酬
 Items From Quests,Difficulty Menu,32,任務物品報酬
@@ -58,7 +58,7 @@ Go,"General Usage, select an option or go to a place",16,前往
 Extras,"General Usage, indicating additional options",16,其他
 Track,"General Usage, track a requirement or object",16,追蹤
 Reward,Quest Rewards,24,報酬
-Exp,Quest Rewards,16,經驗
+Exp,Quest Rewards,16,經驗值
 Rep,Quest Rewards,16,聲望
 Requirements,"General Usage, quest or crafting conditions",24,需求
 General,"General Usage, meaning general usage",24,一般
@@ -98,13 +98,13 @@ Improvised medikit,Medication Items,32,簡易醫療包
 Standard medikit,Medication Items,32,標準醫療包
 Modern medikit,Medication Items,32,現代醫療包
 Medikit T-000,Medication Items,32,T-000 醫療包
-Anti-rad pills,Medication Items,32,抗輻射藥片
-Assault,Loadout name,20,突擊手
+Anti-rad pills,Medication Items,32,抗輻射藥丸
+Assault,Loadout name,20,突擊
 The tried and tested choice. A versatile loadout that's generally effective at most ranges but excels at none of them.,Loadouts - Description,160,經典可靠的組合。在大多數距離內都有效，但沒有特別突出的優勢。
-Bruiser,Loadout name,20,拳擊手
+Bruiser,Loadout name,20,鬥士
 Get in close and make them hurt! What it lacks in range it makes up for in close-range superiority.,Loadouts - Description,160,貼身肉搏，予以敵人迎頭痛擊！雖然射程不足，但在近距離擁有壓倒性優勢。
 Marksman,Loadout name,20,神射手
-They'll never see it coming. Scout out targets from afar and pick them off one-by-one. Just don't let them get too close.,Loadouts - Description,160,他們永遠無法預見死亡的到來。遠距離偵察，一個接着一個，遠遠地幹掉敵人。
+They'll never see it coming. Scout out targets from afar and pick them off one-by-one. Just don't let them get too close.,Loadouts - Description,160,他們永遠無法預見死亡的到來。遠距離偵察，一個接着一個，遠遠地擊殺敵人。
 Ranger,Loadout name,20,游擊隊員
 Precision on the move. Great at mid-to-long range engagements with the ability to outrange most guns. Keep a sidearm handy for when they're too close.,Loadouts - Description,160,飄搖不定，若即若離，依靠射程優勢打擊敵人，在他們逼近時則用短兵還以顏色。
 Tactical Operator,Loadout name,20,戰術幹員
@@ -183,7 +183,7 @@ Armor repair kit,Armor Repair,48,護甲修理套件
 "To use this repair kit put the weapon in the primary slot, right click the repair kit and use the green box.",Armor Repair Description,256,要使用此修理套件，請將武器裝備至主欄位，並右鍵使用以進行修理
 "To use this repair kit put the weapon in the primary slot, right click the repair kit and use the item.",Item description,256,要使用此修理套件，請將武器裝備至主欄位，並右鍵使用以進行修理
 "To use this repair kit equip the armor, right click the repair kit and use the item.",Armor Repair Description,256,要使用此修理套件，請裝備護甲，並右鍵點擊修理套件以進行修理
-Weapon repair kit,Weapon Repair,48,總狩獵次數
+Weapon repair kit,Weapon Repair,48,武器修理套件
 Total Hunts,Stats,48,總狩獵次數
 Hunts Survived,Stats,48,成功撤離次數
 Survival Rate %,Stats,48,成功率%
@@ -191,7 +191,7 @@ Best survival streak,Stats,48,最高連續撤離次數
 Current survival streak,Stats,48,目前連續撤離次數
 Total money received,Stats,48,狩獵行動總收入
 Most money from a single hunt,Stats,48,單次狩獵最高收入
-Most exp from a single hunt,Stats,48,單次狩獵獲得的最高經驗
+Most exp from a single hunt,Stats,48,單次狩獵獲得的最高經驗值
 Total human killed,Stats,48,總人類擊殺
 Bandits,Stats/Factions,48,強盜
 Green army,Stats/Factions,48,綠軍
@@ -271,7 +271,7 @@ NC 47 long barrel,Weapon Mods,64,Mk47 長槍管
 Grusa double rail,Weapon Mods,64,OTs-14 雙導軌
 G76 short barrel,Weapon Mods,64,G36 短槍管
 Fanaz standard pistol grip,Weapon Mods,64,FAMAS 標準手槍握把
-Sha-12 long suppressor,Weapon Mods,64,ASH-12 長消音器
+Sha-12 long suppressor,Weapon Mods,64,ShAK-12 長消音器
 N4o1 standard stock,Weapon Mods,64,M4A1 標準槍托
 TR-15 black handguard,Weapon Mods,64,AR-15 黑色護木
 ZZ VEL magazine,Weapon Mods,64,AS Val 彈匣
@@ -301,7 +301,7 @@ NB5 stock,Weapon Mods,64,MP5 槍托
 NC 47 short barrel,Weapon Mods,64,Mk47 短槍管
 Grusa single rail,Weapon Mods,64,OTs-14 單導軌
 EDL 10 round magazine,Weapon Mods,64,DVL-10 10發彈匣
-Sha-12 short suppressor,Weapon Mods,64,ASH-12 短消音器
+Sha-12 short suppressor,Weapon Mods,64,ShAK-12 短消音器
 Suppressor 5.56x45 CAK CBSS desert,Weapon Mods,64,5.56x45 KAC QDSS 沙漠色消音器
 TR-15 Handguard Lone Moon,Weapon Mods,64,AR-15「孤月」護木
 ZZ VEL handguard,Weapon Mods,64,AS Val 護木
@@ -331,7 +331,7 @@ Renindon 700 extended magazine,Weapon Mods,64,雷明頓 M700 擴展彈匣
 N1o/skop magazine 50 round,Weapon Mods,64,M1A/SCAR 50發彈鼓
 Grusa tactical suppressor,Weapon Mods,64,OTs-14 戰術消音器
 EDL 5 round magazine,Weapon Mods,64,DVL-10 5發彈匣
-Sha-12 standard brake,Weapon Mods,64,ASH-12 標準槍口制退器
+Sha-12 standard brake,Weapon Mods,64,ShAK-12 標準槍口制退器
 Suppressor 5.56x45 CAK CBSS,Weapon Mods,64,5.56x45 KAC QDSS 消音器
 TR-15 desert handguard,Weapon Mods,64,AR-15 沙漠色護木
 ZZ VEL pistol grip,Weapon Mods,64,AS Val 手槍握把
@@ -360,7 +360,7 @@ NB5 30 round magazine,Weapon Mods,64,MP5 30發彈匣
 N1o/skop magazine 30 round,Weapon Mods,64,M1A/SCAR 30發彈匣
 Grusa tactical barrel,Weapon Mods,64,OTs-14 戰術槍管
 EDL pistol grip,Weapon Mods,64,DVL-10 手槍握把
-Sha-12 standard sight,Weapon Mods,64,ASH-12 標準瞄準鏡
+Sha-12 standard sight,Weapon Mods,64,ShAK-12 標準瞄準鏡
 TR-15 B mag magazine GEN T3 Green,Weapon Mods,64,PMAG 30 AR/M4 GEN M3 綠色彈匣
 TR-15 LYUA-C Handguard,Weapon Mods,64,AR-15 LYUA-C 護木
 modern tactical torch,Weapon Mods,64,現代戰術手電筒
@@ -389,7 +389,7 @@ NB5 20 round magazine,Weapon Mods,64,MP5 20發彈匣
 N1o/skop magazine 20 round,Weapon Mods,64,M1A/SCAR 20發彈匣
 Grusa short barrel,Weapon Mods,64,OTs-14 短槍管
 "Muzzle brake annikilator for 5.56x45, 7.62x51, 9x19",Weapon Mods,64,5.56x45、7.62x51、9x19「終結者」槍口制退器
-Sha-12 20 round magazine,Weapon Mods,64,ASH-12 20發彈匣
+Sha-12 20 round magazine,Weapon Mods,64,ShAK-12 20發彈匣
 TR-15 B mag magazine GEN T3,Weapon Mods,64,PMAG 30 AR/M4 GEN M3 彈匣
 N4o1 standard handguard,Weapon Mods,64,M4A1 標準護木
 standard tactical torch,Weapon Mods,64,標準戰術手電筒
@@ -420,7 +420,7 @@ NB5 handguard,Weapon Mods,64,MP5 標準護木
 N1o modern stock,Weapon Mods,64,M1A 現代槍托
 G76 advanced stock,Weapon Mods,64,G36 高級槍托
 "Muzzle brake TVS CQB for 9x18, 9x19",Weapon Mods,64,9x18 9x19 TVS CQB 槍口制退器
-Sha-12 10 round magazine,Weapon Mods,64,ASH-12 10發彈匣
+Sha-12 10 round magazine,Weapon Mods,64,ShAK-12 10發彈匣
 TR-15 extended magazine,Weapon Mods,64,AR-15 擴展彈鼓
 TR-15 green pistol grip,Weapon Mods,64,AR-15 綠色手槍握把
 FRD wooden handguard,Weapon Mods,64,SVD 木質護木
@@ -458,12 +458,12 @@ ECM,Weapons,64,AKM
 Skop L,Weapons,64,SCAR-L
 G 76,Weapons,64,G36
 Tus 34,Weapons,64,TOZ-34
-Marauder 700 Modern,Weapons,64,M2010 ESR
+Marauder 700 Modern,Weapons,64,雷明頓 M700 PCR
 Nozin Makant,Weapons,64,Mosin Nagant
-Sha-12,Weapons,64,ASH-12
+Sha-12,Weapons,64,ShAK-12
 Stas 12,Weapons,64,Franchi SPAS-12
 BB 19 MOOSE,Weapons,64,PP-19 Bizon
-Grusa 4,Weapons,64,OTs-14 Groza 9x39mm
+Grusa 4,Weapons,64,Groza-4
 VRIZZ Sector .45 acp,Weapons,64,KRISS Vector .45 ACP
 EC 74,Weapons,64,AK-74
 Sawed off double shotgun,Weapons,64,鋸短散彈槍
@@ -489,10 +489,10 @@ Skop H,Weapons,64,SCAR-H
 RP 57,Weapons,64,FN 57
 Batko MKM,Weapons,64,TAPCO SKS
 Marauder 700,Weapons,64,雷明頓 M700
-NC 47 CHIMERA,Weapons,64,Mk47
+NC 47 CHIMERA,Weapons,64,Mk47 Mutant
 ZZ VEL,Weapons,64,AS Val
 MKM,Weapons,64,SKS
-Grusa 1,Weapons,64,OTs-14 Groza 7.62x39mm
+Grusa 1,Weapons,64,Groza-1
 VNP,Weapons,64,UMP
 12.7x55mm BP round,Ammo Types,64,12.7x55mm 穿甲彈
 12.7x55mm HP round,Ammo Types,64,12.7x55mm 空尖彈
@@ -570,7 +570,7 @@ Armor ???,Armor,64,??? 護甲
 Storage kit,Storage,64,儲物套件
 Book cardio,Books,64,運動
 Read this to gain 1 point in cardio,Books,128,閱讀此書可獲得 1 點運動
-Book charisma,Books,64,領導魅力
+Book charisma,Books,64,魅力
 Read this book to gain 1 point in charisma,Books,128,閱讀此書可獲得 1 點魅力
 Book cooking,Books,64,烹飪
 Read this book to gain 1 point in cooking,Books,128,閱讀此書可獲得 1 點烹飪
@@ -580,7 +580,7 @@ Read this book to gain 1 point in gunsmith,Books,128,閱讀此書可獲得 1 點
 Basic gunsmith book,Books,64,基礎槍械工藝
 Read this book to learn new barter and crafting options,Books,128,閱讀此書可獲得新的交易與製作選項
 Advanced gunsmith book,Books,64,高級槍械工藝
-Book medicine,Books,64,基礎醫學
+Book medicine,Books,64,醫學
 Read this book to gain 1 point in medicine,Books,128,閱讀此書可獲得 1 點醫學
 Book shooting,Books,64,射擊
 Read this book to gain 1 point in shooting,Books,128,閱讀此書可獲得 1 點射擊
@@ -708,7 +708,7 @@ Grigoriy's ring,Quest names,64,格里戈里的戒指
 Hair dryer,Barter,72,吹風機
 Hammer,Barter,72,錘子
 Hard disk,Barter,72,硬碟
-High quality toilet paper,Barter,72,高品質的衛生紙
+High quality toilet paper,Barter,72,高級衛生紙
 Hose,Barter,72,水管
 hydrogen peroxide,Barter,72,雙氧水
 Knife,Barter,72,刀
@@ -816,7 +816,7 @@ milk,Consumable,64,牛奶
 molbaro cigarette,Consumable,64,萬寶路香菸
 mre,Consumable,64,軍用口糧
 pasta,Consumable,64,義大利麵
-premium chocolate,Consumable,64,高品質的巧克力
+premium chocolate,Consumable,64,高級巧克力
 raw meat,Consumable,64,生肉
 red wine,Consumable,64,紅酒
 rotten bread,Consumable,64,變質的麵包
@@ -856,7 +856,7 @@ Chow-Down Injector,Injector,64,營養注射器
 Rad Shield Injector,Injector,64,抗輻射注射器
 Healing Stimulant Injector,Injector,64,腎上腺素注射器
 Key to 2nd storage room of oil factory,Keys,96,石油工廠 2 號庫房門禁卡
-Police station key,Keys,96,警察局鑰匙
+Police station key,Keys,96,警局鑰匙
 Laboratory main room key,Keys,96,實驗室主房間門禁卡
 Laboratory supply key,Keys,96,實驗室庫房門禁卡
 Key to the gun store in the mall,Keys,96,商場槍店門禁卡
@@ -886,7 +886,7 @@ Questname,User Interface,40,任務
 Refill hunger for price roubles,User Interface,40,吃點東西，需支付[PRICE]盧布
 Repair armor for price roubles,User Interface,40,修理護甲，需支付[PRICE]盧布
 accept and play,User Interface,40,接受並開始
-Audio,User Interface,40,音訊
+Audio,User Interface,40,音效
 Choose an item as a reward,User Interface,40,選擇一項物品作爲報酬
 Choose your equipment,User Interface,40,選擇你的裝備
 combat,User Interface,40,戰鬥
@@ -1139,18 +1139,18 @@ Mmm... Tongue and eyes huh - NPC Dialogue,"User Interface, interaction with NPC"
 Mmm...Ok bye!,"User Interface, interaction with NPC",1400,嗯...好的，再見！
 I can see you're a clever person - NPC Dialogue,"User Interface, interaction with NPC",1400,看得出來你是個聰明人，問這種問題時，千萬要小心...\n我只是不想讓你遇到什麼糟糕的事。
 My brother Vadim and I have been tasked to guard the main door.,"User Interface, interaction with NPC",1400,我和我哥瓦迪姆奉命看守大門。
-"My name is Akim Sokolov, but everyone calls me The Guide - NPC Dialogue","User Interface, interaction with NPC",1400,我叫阿基姆·索科洛夫，但大家都管我叫“嚮導”。\n我在扎科夫土生土長，很熟悉這個地方。需要幫忙指路的話，儘管找我。
+"My name is Akim Sokolov, but everyone calls me The Guide - NPC Dialogue","User Interface, interaction with NPC",1400,我叫阿基姆·索科洛夫，但大家都管我叫「嚮導」。\n我在扎科夫土生土長，很熟悉這個地方。需要幫忙指路的話，儘管找我。
 My name is Henry Davies and I was in charge of the lab in Zakov.,"User Interface, interaction with NPC",1400,我是亨利·戴維斯，扎科夫實驗室的負責人。
 "My name is Reynard, I am the commander of the Crimson Corporation forces stationed at Zakov.","User Interface, interaction with NPC",1400,我是雷納德，深紅公司駐紮科夫部隊的指揮官。
 My name is Sacriel - NPC Dialogue,"User Interface, interaction with NPC",1400,我叫薩克雷爾，剛來地堡不久。\n我還沒完全適應這裡，但要做好準備，大約一個月後就給你安排任務。
 My name is Viktor Artemovich - NPC Dialogue,"User Interface, interaction with NPC",1400,我是維克托·阿爾捷莫維奇，綠軍的指揮官。\n災難發生時，我們奉命來保護平民和控制局勢。沒想到的是，幾天後，地區周邊出現了一道古怪的屏障，隔絕任何人進出。\n我們動用了一切手段試圖建立無線電通訊，但全都無濟於事。\n外界根本沒人知道這裡面究竟發生了什麼。
-My name is Viktor Korolev - NPC Dialogue,"User Interface, interaction with NPC",1400,我叫維克托·科羅廖夫，但大家都管我叫“醫生”。我以前是扎科夫醫院的醫生和研究員。\n爆炸發生後，政府授權我成立一個部門來研究生物的變異。\n項目不愁經費，這值得高興...成千上萬的人在爆炸中喪生，或許高興也不合適。\n不過我又有什麼辦法呢？總之就是撞大運了。
-"My name is not important, I'm just a Hunter like you - NPC Dialogue","User Interface, interaction with NPC",1400,我的名字不重要，大家同行而已。\n我在這一帶混了很久。\n憑着以往的經驗，到處溜達跟散步一樣輕鬆。
+My name is Viktor Korolev - NPC Dialogue,"User Interface, interaction with NPC",1400,我叫維克托·科羅廖夫，但大家都管我叫「醫生」。我以前是扎科夫醫院的醫生和研究員。\n爆炸發生後，政府授權我成立一個部門來研究生物的變異。\n項目不愁經費，這值得高興...成千上萬的人在爆炸中喪生，或許高興也不合適。\n不過我又有什麼辦法呢？總之就是撞大運了。
+"My name is not important, I'm just a Hunter like you - NPC Dialogue","User Interface, interaction with NPC",1400,我的名字不重要，大家同行而已。\n我在這一帶混了很久。\n憑着以往的經驗值，到處溜達跟散步一樣輕鬆。
 Next step,"User Interface, interaction with NPC",1400,繼續
 Not much. But orders are orders...,"User Interface, interaction with NPC",1400,還行吧。但命令就是命令...
 "Not much... As you can see, this crystal is different from the others - NPC Dialogue","User Interface, interaction with NPC",1400,沒多少……這塊晶體與衆不同，會釋放極強的輻射，多虧了密封設施我們才安然無恙。\n目前還沒弄清釋放的頻率，更別提其本質了。\n不過這輻射確實邪門，似乎帶點催眠效果。我幹這行以來還是頭回見。\n來扎科夫之前，聽說烏克蘭某座廢棄核電廠裏也有類似的地方和晶體，再多的就不知道了。\n那邊傳出的情報寥寥無幾，不過扎科夫這邊同樣也是消息封閉。\n真是暴殄天物，要是能有充足的資源和專業裝置，天知道能發現什麼。\n我最好還是閉嘴吧，這種想法可不受待見，免得被大頭兵聽見找麻煩。
 "Nothing in particular, some days I need to get fresh air.\nLiving in the bunker all the time is not easy.","User Interface, interaction with NPC",1400,沒什麼特別的，出來呼吸新鮮空氣。\n一直待在地堡里老難受了。
-"Now that you have killed several Green Army soldiers you have shown them that you mean business.\nI propose something to you: talk to Artemovich and see the possibility of having a Crimson Corporation trader inside the bunker.\nNo matter how much our factions are fighting, the ZERO Sievert bunker is still a safe zone.\nIt was not decided by my leaders or even the local government, there are international agreements regarding that bunker.\nThe only way for us to access it would be through force but there are too many civilians in the bunker and having dead civilians is not a wise political move.\nSo, talk to Artemovich and find a compromise. Having a trader in the ZERO Sievert would also benefit our pockets.","User Interface, interaction with NPC",1400,幹掉了綠軍的幾名士兵，也算是讓他們見識到你不好惹了。\n給你個建議：和阿爾捷莫維奇聊聊，看能不能讓深紅公司的商人進駐地堡。\n無論陣營之間如何交戰，零希沃特地堡仍然是安全區。\n這並非由我的上司甚至當地政府決定，而是這個地堡受相關的國際協議保護。\n我們想進去的話只能硬闖，但地堡裏的平民太多了，造成平民傷亡在政治層面上絕非明智之舉。\n所以去和阿爾捷莫維奇聊聊吧，找個折中的辦法。零希沃特地堡裏多個商人的話，能讓我們都賺上一筆。
+"Now that you have killed several Green Army soldiers you have shown them that you mean business.\nI propose something to you: talk to Artemovich and see the possibility of having a Crimson Corporation trader inside the bunker.\nNo matter how much our factions are fighting, the ZERO Sievert bunker is still a safe zone.\nIt was not decided by my leaders or even the local government, there are international agreements regarding that bunker.\nThe only way for us to access it would be through force but there are too many civilians in the bunker and having dead civilians is not a wise political move.\nSo, talk to Artemovich and find a compromise. Having a trader in the ZERO Sievert would also benefit our pockets.","User Interface, interaction with NPC",1400,擊殺了綠軍的幾名士兵，也算是讓他們見識到你不好惹了。\n給你個建議：和阿爾捷莫維奇聊聊，看能不能讓深紅公司的商人進駐地堡。\n無論陣營之間如何交戰，零希沃特地堡仍然是安全區。\n這並非由我的上司甚至當地政府決定，而是這個地堡受相關的國際協議保護。\n我們想進去的話只能硬闖，但地堡裏的平民太多了，造成平民傷亡在政治層面上絕非明智之舉。\n所以去和阿爾捷莫維奇聊聊吧，找個折中的辦法。零希沃特地堡裏多個商人的話，能讓我們都賺上一筆。
 "Npc can give you usefull information, task and trade with you.","User Interface, interaction with NPC",1400,NPC 可以提供有用的信息和任務，或者和你交易。
 Of any kind. People come in here - NPC Dialogue,"User Interface, interaction with NPC",1400,什麼樣的都有。\n人們只需告訴我想要什麼。我的工作就是尋找願意爲了報酬而去冒險的傢伙。
 Of course it is! No mutant or bandit has ever walked through that door.,"User Interface, interaction with NPC",1400,廢話，怪物和強盜永遠通過不了這道大門。
@@ -1172,7 +1172,7 @@ So it was you? Good job Hunter - NPC Dialogue,"User Interface, interaction with 
 So that's your brother Vadim?,"User Interface, interaction with NPC",1400,那是你哥瓦迪姆？
 So they want me dead - NPC Dialogue,"User Interface, interaction with NPC",1400,他們想要我死？哈！\n我知道這一天遲早會來，綠軍不會容忍我這麼一塊絆腳石。\n他們命令你來幹這個？\n那麼，你到底是獵人還是士兵？\n隨你的便吧，我已經又老又糊塗了，可我僅剩的這點體面不允許我向你開口求饒。
 So you want a Crimson Corporation trader - NPC Dialogue,"User Interface, interaction with NPC",1400,你想讓深紅公司的人進地堡來？\n真該死！這個提議簡直令人作嘔。\n薛帕德擅長玩弄政治，但他十足十是個蠢貨！我一點也不在乎外面的世界發生了什麼，我有我的職責。\n\n我接受你的提議，可你，獵人，你不再是綠軍的夥伴。交易和任務依然有效，但不要指望我的士兵會在外邊幫你。\n滾吧，等你回來的時候就能看到那羣得志的小人了。
-So you want to enlist - NPC Dialogue,"User Interface, interaction with NPC",1400,你想參軍？非常好，獵人！\n我正需要你這樣經驗豐富的好手。下次你再來找我，我看看能不能給你找點活幹。\n\n\n確定要加入綠軍嗎？\n你在這個陣營的聲望上限將變爲1000，允許你解鎖新的裝備和額外的任務。\n你將成爲深紅公司的敵人。
+So you want to enlist - NPC Dialogue,"User Interface, interaction with NPC",1400,你想參軍？非常好，獵人！\n我正需要你這樣經驗值豐富的好手。下次你再來找我，我看看能不能給你找點活幹。\n\n\n確定要加入綠軍嗎？\n你在這個陣營的聲望上限將變爲1000，允許你解鎖新的裝備和額外的任務。\n你將成爲深紅公司的敵人。
 Sorry comrade! I have something else to do,"User Interface, interaction with NPC",1400,對不起，同志！我還有別的事要做。
 Tell me more about The forest,"User Interface, interaction with NPC",1400,跟我講講森林
 Tell me more about The industrial area,"User Interface, interaction with NPC",1400,跟我講講工業區
@@ -1208,7 +1208,7 @@ What can you tell me about an old nuclear power plant in Ukraine?,"User Interfac
 What can you tell me about this area?,"User Interface, interaction with NPC",1400,你能跟我講講這個地方嗎？
 What did you discover?,"User Interface, interaction with NPC",1400,你發現了什麼？
 What do you mean? Oh! Oh - NPC Dialogue,"User Interface, interaction with NPC",1400,什麼意思？噢！對！對！\n「垃圾」先生是誰？嗯...\n「垃圾」先生是誰？噢！「垃圾」先生的名字是「垃圾」先生！對，因爲人們都這麼叫他。\n因爲「垃圾」先生喜歡收集寶貝。\n「垃圾」先生不懂，你應該問問他們，但「垃圾」先生認爲他們現在都死了。\n對！對！死了！死了！
-What do you want?,"User Interface, interaction with NPC",1400,你想怎樣？
+What do you want?,"User Interface, interaction with NPC",1400,你想要什麼？
 What does Crimson Corporation have to do with the accident?,"User Interface, interaction with NPC",1400,深紅公司和這次事故有什麼關係？
 What does the Crimson Corporation do?,"User Interface, interaction with NPC",1400,深紅公司是做什麼的？
 What happened at Zakov,"User Interface, interaction with NPC",1400,扎科夫發生了什麼？
@@ -1299,7 +1299,7 @@ Lights 1 - color,"User Interface, lights color",32,1 號燈光顏色
 Lights 2 - color,"User Interface, lights color",32,2 號燈光顏色
 survived,"User Interface, exit screen",40,成功撤離
 killed in action,"User Interface, exit screen",40,死亡
-experience,"User Interface, exit screen",40,狩獵經驗
+experience,"User Interface, exit screen",40,狩獵經驗值
 Current,"User Interface, exit screen",40,目前
 Next Level,"User Interface, exit screen",40,升級所需
 skip,"User Interface, exit screen",40,跳過
@@ -1381,8 +1381,8 @@ Rad Regen/s,Injector stats,16,輻射恢復/秒
 Rad Defence,Injector stats,16,輻射防禦
 Hunger/s,Injector stats,16,飢餓恢復/秒
 Thirst/s,Injector stats,16,口渴恢復/秒
-Min Dur.,Item Stats,16,最低耐久
-Max Dur.,Item Stats,16,最大耐久
+Min Dur.,Item Stats,16,耐久下限
+Max Dur.,Item Stats,16,耐久上限
 Cond. Gain,Item Stats,16,耐久恢復
 Hold ctrl while dragging an item to divide its quantity,Loading screen tips,256,拿起物品並按住[Ctrl]拖放以分開
 Scroll mouse wheel to select a different interaction option,Loading screen tips,256,滾動滑鼠滾輪選擇不同的互動選項
@@ -1434,7 +1434,7 @@ If you haven't slept in a while you'll start to lose stamina max,"Tips, currentl
 You can repair weapons and armor by yourself if you have the workshop module,"Tips, currently unused",256,有工作坊模組就能自己修理武器和護甲
 "Pay attention to your stamina, always keep some in case you need to escape quickly","Tips, currently unused",256,多留意體力值，務必要留一點以備不時之需
 By increasing your reputation level you'll unlock new missions and new equipment from the vendors,"Tips, currently unused",256,提高聲望等級，就能從供應商處解鎖新的任務和裝備
-If you die you will receive half the experience,"Tips, currently unused",256,死亡會失去一半的經驗
+If you die you will receive half the experience,"Tips, currently unused",256,死亡會失去一半的經驗值
 "In each map there are hidden stashes, they can contain anything.","Tips, currently unused",256,每張地圖都有隱藏儲藏，什麼物資都有可能出現。
 Transfusion 1,Skill Names,64,輸血 1
 Increase max HP by 10,Skill Descriptions,128,最大生命值 +10
@@ -1464,7 +1464,7 @@ Charisma 2,Skill Names,64,魅力 2
 Increase selling price by 7%,Skill Descriptions,128,賣出價格 +7%
 Friend or the train conductor,Skill Names,64,列車長的朋友
 Decrease the price of entering a map by 25%,Skill Descriptions,128,進入地圖的費用 -25%
-Just because it is you,Skill Names,64,只因為是你
+Just because it is you,Skill Names,64,因為是你
 Traders sell more quantity of items,Skill Descriptions,128,商人販賣物品數量增加
 Inventory 1,Skill Names,64,背包 1
 Unlock more items from traders,Skill Descriptions,128,解鎖更多商人售賣的物品
@@ -1474,7 +1474,7 @@ Survival kit,Skill Names,64,生存套件
 Traders sell more medikit and ammo,Skill Descriptions,128,商人販賣更多醫療箱與彈藥
 Inventory 2,Skill Names,64,背包 2
 Quest devourer,Skill Names,64,任務吞噬者
-Increase quest experience by 30%,Skill Descriptions,128,任務經驗 +30%
+Increase quest experience by 30%,Skill Descriptions,128,任務經驗值 +30%
 Deposit 1,Skill Names,64,儲存 1
 You gain 1 more personal chest,Skill Descriptions,128,獲得 1 個額外個人儲藏箱
 Deposit 2,Skill Names,64,儲存 2
@@ -1500,7 +1500,7 @@ Increase your movement speed by 10%,Skill Descriptions,128,移動速度 +10%
 Good finder,Skill Names,64,善於尋找
 Slightly increase the amount of items found in chests,Skill Descriptions,128,略微增加箱子內物品數量
 Wanderer,Skill Names,64,流浪者
-Increase max weight by 5 and gain 5% more expereince,Skill Descriptions,128,最大負重 +5，獲得經驗 +5%
+Increase max weight by 5 and gain 5% more expereince,Skill Descriptions,128,最大負重 +5，獲得經驗值 +5%
 Sharp eye,Skill Names,64,鷹眼
 Increase the amount of secret stash on maps,Skill Descriptions,128,增加地圖上的隱藏儲藏數量
 Fast hands,Skill Names,64,快手
@@ -1606,12 +1606,12 @@ Nothing is wasted! Gain more materials when you scrap them,"Base Module Descript
 +30% scrapped items,"Base Module Descriptions, alt b",320,分解物品 +30%
 Gym,Base Module Names,32,健身房
 A small gym where you can work out.\nGrants more stamina and cardio experience rate,"Base Module Descriptions, general",320,鍛鍊身體的小型健身房。\n可提升最大耐力與有氧技能升級速度。
-+10 stamina.\n+20% cardio experience rate,"Base Module Descriptions, alt a",320,最大耐力 +10\n運動經驗 +20%
-+20 stamina.\n+40% cardio experience rate,"Base Module Descriptions, alt b",320,最大耐力 +20\n運動經驗 +40%
++10 stamina.\n+20% cardio experience rate,"Base Module Descriptions, alt a",320,最大耐力 +10\n運動經驗值 +20%
++20 stamina.\n+40% cardio experience rate,"Base Module Descriptions, alt b",320,最大耐力 +20\n運動經驗值 +40%
 Shooting range,Base Module Names,32,射擊場
-Train your shooting skill.\nGain more weapon damage and shooting experience rate,"Base Module Descriptions, general",320,訓練射擊技能。\n獲得更多武器傷害與射擊經驗加成
+Train your shooting skill.\nGain more weapon damage and shooting experience rate,"Base Module Descriptions, general",320,訓練射擊技能。\n獲得更多武器傷害與射擊經驗值加成
 +5% weapon damage.\n+20% shooting experience rate,"Base Module Descriptions, alt a",320,武器傷害 +5%\n射擊經驗值 +20%
-+10% weapon damage.\n+40% shooting experience rate,"Base Module Descriptions, alt b",320,武器傷害 +10%\n射擊經驗率值 +40%
++10% weapon damage.\n+40% shooting experience rate,"Base Module Descriptions, alt b",320,武器傷害 +10%\n射擊經驗值率值 +40%
 Radio station,Base Module Names,32,電台
 in development - do not install,"Base Module Descriptions, general",320,開發中 - 請勿安裝
 Allows to see all the minimap,"Base Module Descriptions, alt a",320,允許查看完整小地圖
@@ -1870,7 +1870,7 @@ One of the Green Army grunts has a task.,Daily quest descriptions,96,綠軍士�
 The Crimson Corporation got in touch.,Daily quest descriptions,96,深紅公司有訊息傳來。
 The scientists are doing another experiment.,Daily quest descriptions,96,科學家們又在做實驗了。
 Kill Lazar,Quest objectives,128,擊殺拉扎爾
-"Are you ready for some real action? You have to kill Lazar, the leader of the forest bandits.\nHe is located in the police station of the village, maybe you have already met him during one of your hunts.\nPrepare yourself well, he is always surrounded by his guards.\nIt won't be easy to kill him, but afterwards you'll be able to freely enter the police station and take what you want.",Quest descriptions,1024,準備好動真格了嗎？你必須擊殺森林強盜的首領拉扎爾。\n他位於村莊的警察局，也許你在狩獵期間已經見過他了。\n做好準備，守衛總是衆星捧月似的圍着他。\n把他幹掉沒那麼簡單，但之後你就可以自由地進入警察局，想要什麼拿什麼。
+"Are you ready for some real action? You have to kill Lazar, the leader of the forest bandits.\nHe is located in the police station of the village, maybe you have already met him during one of your hunts.\nPrepare yourself well, he is always surrounded by his guards.\nIt won't be easy to kill him, but afterwards you'll be able to freely enter the police station and take what you want.",Quest descriptions,1024,準備好動真格了嗎？你必須擊殺森林強盜的首領拉扎爾。\n他位於村莊的警局，也許你在狩獵期間已經見過他了。\n做好準備，守衛總是衆星捧月似的圍着他。\n把他擊殺沒那麼簡單，但之後你就可以自由地進入警局，想要什麼拿什麼。
 First steps,Quest names,64,蹣跚學步
 First steps p.1,Quest names,64,蹣跚學步（第 1 階段）
 "Hey stranger! Welcome to the ZERO Sievert bunker.\nI don't know how you got here and frankly I don't care.\nIt's nothing personal, it's just that we see a lot of new faces here and only a few of them come back, so I won't waste my time remembering yours for now.\nFirst let's see what you can do, I'll give you a simple job: go to the forest and survive.\nGood luck!",Quest descriptions,1024,你好，陌生人！歡迎來到零希沃特地堡。\n我不知道你是怎麼過來的，但坦白說我不在乎。\n我不是針對你，只是我們見過的新人多了去了，但回來的人寥寥無幾。所以我現在不會浪費時間記住你的。\n首先就看看你的本事吧，我會給你一項簡單的工作：在森林那兒活下來。\n祝你好運！
@@ -2017,7 +2017,7 @@ Body parts p.2,Quest names,64,身體部位（第 2 階段）
 "Good! Would you be willing to go into more advanced areas?\nI need spider and blink parts, you can find them in the industrial zone but more easily in the swamp",Quest descriptions,1024,很好！你願意進入更高級的區域嗎？\n我需要蜘蛛和亮爪怪的身體部位。工業區就有，但在沼澤更容易找到。
 "You must know about the guy who hangs around the mall, a very tough guy.\nAnyway, his armour is of incredible quality. If you kill him a few times, I'll give you one.",Quest descriptions,1024,你肯定已經見過那個在商場閒逛的傢伙了！\n一個猛男，對不對？他那身護甲真是讓人印象深刻。
 "You must have noticed those bodies at the entrance to the bunker, we don't know what's going on yet.\nSome of Green Army helicopters crashed in the vicinity of the swamp, no call for help or malfunction, just crashed for no apparent reason.\nWhen they recovered the first bodies, we realised that something very strange was happening in that area.\nDid you see the condition of the bodies? My God, I've never seen anything like it.\nThe last helicopter fell recently, if you hurry you should get there before the Green Army and be able to get the flight recorder.",Quest descriptions,1024,你應該注意到了地堡入口處的那些屍體。\n綠軍有幾架直升機在沼澤失事，其間沒有呼救，也沒有報告故障，莫名其妙就墜毀了。\n找到第一批屍體時，我們意識到那裏發生了非常可怕的事情。\n你看到屍體的慘狀了嗎？天哪，我從來沒見過這樣的。\n現在又有一架直升機墜毀了。如果你動作夠快，也許能趕在綠軍之前到達那裏，拿到飛行記錄儀。
-"Good job Hunter!\nNow we should be able to pick up radio signals from the surrounding areas.\nWhile you were in the makeshift camp you may have noticed an old train station, it was used by the Green Army during the evacuation after the explosion at the plant to get supplies to the camp. After a short time they were forced to leave that area because of radiation.\nNow that train station is under the control of bandits, it wouldn't be a problem because there is very little left to loot now but it is the only way to the industrial zone and the other maps.\nIf we want to get to them you have to clear the station. No need to kill them all, just eliminate Orel, he is the leader in that area.\nAfter you do that I am sure they will let us pass every time.\nAfter this work I am sure the Green Army will give you some missions to do so make sure you talk to Artemovich.",Quest descriptions,1024,幹得漂亮，獵人！\n現在我們應該能接收到周邊區域的無線電信號了。\n你在臨時營地時可能注意到了那座舊火車站，。核電廠爆炸後，綠軍疏散期間曾用它運送物資，沒多久就因輻射被迫撤離。\n如今火車站落入了強盜手裏。那裏早被搜刮一空了，本來不用搭理他們，但那是通往工業區和其他地圖的唯一要道。\n想過去就得肅清車站，不用趕盡殺絕，幹掉那片的地頭蛇奧廖爾就行。\n解決他之後，這幫人絕對不敢再攔路。\n完事後綠軍估計會派些新任務，記得去找阿爾特莫維奇談談。
+"Good job Hunter!\nNow we should be able to pick up radio signals from the surrounding areas.\nWhile you were in the makeshift camp you may have noticed an old train station, it was used by the Green Army during the evacuation after the explosion at the plant to get supplies to the camp. After a short time they were forced to leave that area because of radiation.\nNow that train station is under the control of bandits, it wouldn't be a problem because there is very little left to loot now but it is the only way to the industrial zone and the other maps.\nIf we want to get to them you have to clear the station. No need to kill them all, just eliminate Orel, he is the leader in that area.\nAfter you do that I am sure they will let us pass every time.\nAfter this work I am sure the Green Army will give you some missions to do so make sure you talk to Artemovich.",Quest descriptions,1024,幹得漂亮，獵人！\n現在我們應該能接收到周邊區域的無線電信號了。\n你在臨時營地時可能注意到了那座舊火車站，。核電廠爆炸後，綠軍疏散期間曾用它運送物資，沒多久就因輻射被迫撤離。\n如今火車站落入了強盜手裏。那裏早被搜刮一空了，本來不用搭理他們，但那是通往工業區和其他地圖的唯一要道。\n想過去就得肅清車站，不用趕盡殺絕，擊殺那片的地頭蛇奧廖爾就行。\n解決他之後，這幫人絕對不敢再攔路。\n完事後綠軍估計會派些新任務，記得去找阿爾特莫維奇談談。
 "Hmm...the key is ruined but I think it still works.\nTo be safe I will make a few copies and if you lose it you can buy it back from me.Alright Hunter! I think you already know what to do, I have no idea what will be inside the lab nor what you will have to look for but your goal is to find information that can open the way to the nuclear power plant for us.\nCurrently the railroad to the mall is flooded but it was not always so.\nI think it was purposely flooded by the Crimson Corporation a few days after the explosion, evidently they did not want more people to reach the areas around the plant to buy time and get organized.\nAs I said, the laboratory in the makeshift camp was under the control of the Crimson Corporation, so I think it will contain important information for us.\nGood luck!",Quest descriptions,1024,嗯……鑰匙壞了，不過估計還能用。\n保險起見先多配幾把，萬一弄丟了還能找我買。想必你已經清楚該怎麼做了，我不清楚實驗室裏有什麼，更不知道具體要找什麼，總之目標是找到能打通核電廠道路的情報。\n目前通往商場的鐵路被淹了，以前可不是這樣。\n八成是爆炸發生後赤紅公司故意放的水，顯然想拖延時間重整旗鼓，不想讓外人靠近核電廠周邊。\n臨時營地的實驗室曾受赤紅公司控制，裏面肯定有關鍵情報。\n祝你好運！
 "Heeeey! The Ghoul slaughterer is back!\nOkay Hunter, now it's time to go deeper into the village and find out more about that crystal.\nBe careful",Quest descriptions,1024,哇哦！食屍鬼殺手回來了！\n好了，獵人，是時候深入村莊，尋找更多關於水晶的信息了。\n多加小心。
 "When you went to the radio station you must have noticed the building there, maybe you even tried to go inside.\nWord on the street is that it was an old lab for the Crimson Corporation.\nThe entrance is locked and you need a key card to get in, unfortunately none of us here have one.\nSo I sent my man, Marat Loginov, to look for the key. He seems to have found a damaged one but we may be able to fix it or make a copy.\nMy man is operating in the industrial zone, he has a small base in the north-west, among the abandoned wagons. I haven't heard from him in days, but that's not unusual.\nGo to the industrial area, find him and bring me the key.",Quest descriptions,1024,你一定注意到了廣播站裏的建築，那是深紅公司的舊實驗室。\n實驗室入口被鎖住了，你需要門禁卡才能進去。我的朋友馬拉特·洛吉諾夫搞到了一張壞掉的，我們也許能修好它，或者複製一張。\n馬拉特在工業區西北角的列車墳場有一個小基地。我已經好幾天沒收到他的消息了，不過這也是常有的事。\n去工業區找他，把門禁卡帶回來。
@@ -2066,7 +2066,7 @@ Documents p.1,Quest names,64,貴重檔案（第 1 階段）
 "One of our hunters and my personal friend was on a special mission, trying to find the location of valuable documents.\nWe lost his contact when he entered the makeshift camp, fortunately we still have his last detected position.\nGo to the makeshift camp and find out what happened to him.\nI hope he is still alive...",Quest descriptions,1024,我們的一位獵人和我自己的朋友正在執行一項特殊任務，目標是找到貴重檔案的位置。\n他進入臨時營地後，我們失去了聯繫，幸運的是我們知道他最後出現的位置。\n去臨時營地看看他的情況。\n我希望他還活着...
 Find the missing Hunter,Quest objectives,128,找到失蹤獵人
 Documents p.2,Quest names,64,貴重檔案（第 2 階段）
-"So he's dead... May he rest in peace.\nThe good news is that he found the location of the documents, from his notes it seems they are in the police station in the forest village.\nThe bad news is that you'll have to fight your way in, as you know there are much more organised bandits stationed there.\nThe documents should be inside a safe, when you're inside the station try looking around.\nGood luck Hunter!",Quest descriptions,1024,原來他死了...願他安息。\n好消息是他找到了檔案的位置，他筆記上寫的好像是森林村莊的警察局。\n壞消息是你必須殺一條血路進去。你知道那裏駐紮着更有組織的強盜。\n檔案應該在保險箱裏。進入警察局後記得找找看。\n祝你好運，獵人！
+"So he's dead... May he rest in peace.\nThe good news is that he found the location of the documents, from his notes it seems they are in the police station in the forest village.\nThe bad news is that you'll have to fight your way in, as you know there are much more organised bandits stationed there.\nThe documents should be inside a safe, when you're inside the station try looking around.\nGood luck Hunter!",Quest descriptions,1024,原來他死了...願他安息。\n好消息是他找到了檔案的位置，他筆記上寫的好像是森林村莊的警局。\n壞消息是你必須殺一條血路進去。你知道那裏駐紮着更有組織的強盜。\n檔案應該在保險箱裏。進入警局後記得找找看。\n祝你好運，獵人！
 Retrieve the documents,Quest objectives,128,取回檔案
 Find the crystal in the swamp,Quest objectives,128,尋找沼澤水晶
 Inspect the village,Quest names,64,偵察村莊
@@ -2083,7 +2083,7 @@ Monitoring p. 1,Quest names,64,監視
 Building an outpost,Quest names,64,建立前哨站
 The CCTV Camera,Quest names,64,監控攝像頭
 Lost informations,Quest names,64,遺失信息
-Eliminate the assassins,Quest names,64,幹掉殺手
+Eliminate the assassins,Quest names,64,擊殺殺手
 Monitoring p. 2,Quest names,64,天羅地網
 Find the CCTV cameras,Quest names,64,尋找監控攝像頭
 The key to the laboratory,Quest names,64,實驗室門禁卡
@@ -2114,15 +2114,15 @@ My leg is still not fully healed.\nThanks to my experience I can still move thro
 "Hey Hunter!\nListen... I have a big favor to ask of you....\nThe Green Army soldier who shot me in the leg is called Bogdanov, that damn bastard must pay....\nNow I think he is in the Makeshift camp, you know what you have to do....\nThank you Hunter",Quest descriptions,1024,嘿，獵人！\n我有個難以啓齒的請求...\n射傷我腿的那個綠軍士兵叫波格丹諾夫。這個該死的混蛋必須付出代價.\n..他在臨時營地，你知道我想要你做什麼...\n謝謝你，獵人。
 Oh! Oh! Can you do something for Mr. Junk?\nNow that Grigoriy has come back to life he would love to get his ring back.\nMr. Junk hid it in the swamp before he came to this place.\nIf you do this for Mr. Junk then he will sell you some of his treasure.\nNo! No! No! Mr. Junk loves his treasure...\nOh! Oh! But it's more important to make Grigoriy happy.\nYes! Yes! Yes!\nYou bring Mr. Junk the ring and he'll sell you some of his treasure.\nMr. Junk will also give you this costume he found,Quest descriptions,1024,噢！噢！你能幫「垃圾」先生做件事嗎？\n現在格里戈里復活了，他一定很想要回他的戒指，可「垃圾」先生在來這裡之前把它藏在沼澤了。\n如果你爲「垃圾」先生取回戒指，他會賣給你一些寶貝！\n不！不！「垃圾」先生愛他的寶貝...不！噢！但更重要的是讓格里戈里開心。\n對！對！你把戒指給「垃圾」先生，他會賣給你一些寶貝！\n「垃圾」先生還會把他找到的這件漂亮衣服給你！
 Retrieve Grigoriy's ring,Quest objectives,128,取回格里戈里的戒指
-Quest objective type: Kill A,"Quest objective types, Kill A",160,幹掉位於[MAP_NAME]的[AMOUNT_TO_KILL]個[TARGET_TO_KILL]
-Quest objective type: Kill B,"Quest objective types, Kill B",160,幹掉[AMOUNT_TO_KILL]個[TARGET_TO_KILL]
-Quest objective type: Contract,"Quest objective types, Contract",160,幹掉位於[MAP_NAME]的目標：[OBJECT_NAME]
+Quest objective type: Kill A,"Quest objective types, Kill A",160,擊殺位於[MAP_NAME]的[AMOUNT_TO_KILL]個[TARGET_TO_KILL]
+Quest objective type: Kill B,"Quest objective types, Kill B",160,擊殺[AMOUNT_TO_KILL]個[TARGET_TO_KILL]
+Quest objective type: Contract,"Quest objective types, Contract",160,擊殺位於[MAP_NAME]的目標：[OBJECT_NAME]
 Quest objective type: Collect,Quest objective type：Collect,160,收集[AMOUNT_TO_COLLECT]個[ITEM_NAME]
 Quest objective type: Collect Weapon,Quest objective type：Collect Weapon,160,收集[AMOUNT_TO_COLLECT][ITEM_NAME]
 Quest objective type: Survive A,Quest objective type：Survive A,160,成功從[MAP_NAME]撤離[AMOUNT_TO_SURVIVE]次
 Quest objective type: Survive B,Quest objective type：Survive B,160,成功撤離[AMOUNT_TO_SURVIVE]次
-Quest objective type: Survive Exp A,Quest objective type：Survive Exp A,160,成功從[MAP_NAME]撤離[AMOUNT_TO_SURVIVE]次，並獲得至少[EXP_REQUIRED]狩獵經驗
-Quest objective type: Survive Exp B,Quest objective type：Survive Exp B,160,成功撤離[AMOUNT_TO_SURVIVE]次，並獲得至少[EXP_REQUIRED]狩獵經驗
+Quest objective type: Survive Exp A,Quest objective type：Survive Exp A,160,成功從[MAP_NAME]撤離[AMOUNT_TO_SURVIVE]次，並獲得至少[EXP_REQUIRED]狩獵經驗值
+Quest objective type: Survive Exp B,Quest objective type：Survive Exp B,160,成功撤離[AMOUNT_TO_SURVIVE]次，並獲得至少[EXP_REQUIRED]狩獵經驗值
 Quest objective type: Survive Money A,Quest objective type：Survive Money A,160,成功從[MAP_NAME]撤離[AMOUNT_TO_SURVIVE]次，並獲得至少[MONEY_REQUIRED]盧布的等值戰利品
 Quest objective type: Survive Money B,Quest objective type：Survive Money B,160,成功撤離[AMOUNT_TO_SURVIVE]次，並獲得至少[MONEY_REQUIRED]盧布的等值戰利品
 Quest objective type: Retrieve Analyzer A,Quest objective type：Retrieve Analyzer A,160,從位於[MAP_NAME]的火焰異常附近取回分析儀
@@ -2163,7 +2163,7 @@ Teleport to NPC,Controls menu,48,傳送到...
 Fix weapon jam,Controls menu,48,修復武器卡殼
 Quick slot,Controls menu,48,快捷欄位[SLOT_NUMBER]
 Hunter Difficulty Text,Difficulty menu,128,死亡時將失去物品欄內的所有物品……\n完畢。\n祝你玩得開心。
-Survivor Difficulty Text,Difficulty menu,750,此難度適合有一定經驗且追求適度挑戰的玩家。\n資源與物資不再充裕，迫使玩家更有策略地規劃消耗；\n敵人攻擊性更強且傷害更高，戰鬥時需要更加謹慎並講究戰術；\n角色最大生命值降低，容錯率更低。
+Survivor Difficulty Text,Difficulty menu,750,此難度適合有一定經驗值且追求適度挑戰的玩家。\n資源與物資不再充裕，迫使玩家更有策略地規劃消耗；\n敵人攻擊性更強且傷害更高，戰鬥時需要更加謹慎並講究戰術；\n角色最大生命值降低，容錯率更低。
 Rookie Difficulty Text,Difficulty menu,750,此難度專爲初次接觸《ZERO Sievert》或偏好輕鬆體驗的玩家設計。\n彈藥、食物與醫療用品等資源隨處可見；\n敵人傷害較低，能在無壓力的情況下熟悉機制並探索世界；\n角色最大生命值提升，容錯率更高。
 Fog Of War Field Of View,Video settings,64,戰爭迷霧視野盲區
 Grass Sway,Video settings,64,草地晃動
@@ -2186,7 +2186,7 @@ Settings - Languages,Settings titles,64,設定 - 語言
 Heartbeat,Audio settings,64,心跳
 Music,Audio settings,64,音樂
 Screen resolution warning,Resolution settings,750,在全螢幕模式下，遊戲將始終縮放爲顯示器的默認解析度。\n由於遊戲採用像素風格，解析度更改僅在窗口模式下生效。
-Skill Experience Multipler,Difficulty menu,64,技能經驗
+Skill Experience Multipler,Difficulty menu,64,技能經驗值
 You can not change difficulty settings in the main menu,Difficulty menu,128,無法在主選單中更改難度設定
 Steam cloud warning,Steam cloud,512,此操作將刪除本機與雲端的所有存檔數據。\n各槽位內的物品、技能及任務進度都將失去。\n確定要繼續嗎？
 Cancel,General menus,16,取消
@@ -2209,7 +2209,7 @@ scientiest's analyzer found in the forest,Item names or description,192,在森�
 scientiest's analyzer found in the makeshift camp,Item names or description,192,在臨時營地找到的科學家分析儀
 Lost document found in the makeshift camp,Item names or description,192,在臨時營地找到的遺失檔案
 Key used to enter the laboratory in the makeshift camp,Item names or description,192,用於進入臨時營地實驗室的門禁卡
-Single use key used to open the locked room in the police station located in the village,Item names or description,192,一次性鑰匙，可打開位於村莊警察局上鎖的房間
+Single use key used to open the locked room in the police station located in the village,Item names or description,192,一次性鑰匙，可打開位於村莊警局上鎖的房間
 Key used to access the turbine room in the mall basement,Item names or description,192,用於進入商場地下機房的門禁卡
 Immediate use of food and drink in the bunker without the animation,Item names or description,192,在地堡中顯示食物和飲料動畫
 Lost backpack found in the makeshift camp,Item names or description,192,在臨時營地找到的失去背包
@@ -2242,7 +2242,7 @@ Stew with meat and bean,Consumable,64,肉豆燉菜
 All NPC name will drop their armor. The durability of the armor depends on how many hits they took.,Difficulty menu tooltips,512,所有NPC都會掉落護甲，耐久取決於他們所受的傷害
 Factor by which the value of an item is multiplied when selling it.\nExample: an item with a value of 100 Rubles will be bought for 100 and sold for 100 x Sell Multiplier,Difficulty menu tooltips,512,出售物品時價值所乘的倍率。\n例如：價值 100 盧布的物品，買入價爲 100 ，售出價爲[100x出售倍率]。
 Factor that will be multiplied to the price of each service provided by NPC name in the bunker,Difficulty menu tooltips,512,地堡中NPC提供各項服務的費用
-Factor that will be multiplied to the reputation obtained at the end of each Hunt.,Difficulty menu tooltips,512,狩獵結束時獲得的經驗
+Factor that will be multiplied to the reputation obtained at the end of each Hunt.,Difficulty menu tooltips,512,狩獵結束時獲得的經驗值
 Multiplication factor of the number of each individual item in a container.,Difficulty menu tooltips,512,容器中每項物品所包含的數量
 Multiplication factor of the number of items contained in each container.,Difficulty menu tooltips,512,容器中物品總數
 Multiplication factor of the number of money a trader has.,Difficulty menu tooltips,512,商人的盧布數量
@@ -2294,7 +2294,7 @@ character health,Difficulty modifier names,72,角色生命值
 Minimum transportable weight,Difficulty modifier names,72,負重上限
 hunger/thirst decay rate,Difficulty modifier names,72,飢餓/口渴消耗
 reputation multiplier,Difficulty modifier names,72,聲望倍率
-skill experience multiplier,Difficulty modifier names,72,技能經驗倍率
+skill experience multiplier,Difficulty modifier names,72,技能經驗值倍率
 reputation from quests,Difficulty modifier names,72,任務聲望
 roubles from quests,Difficulty modifier names,72,任務盧布
 items from quests,Difficulty modifier names,72,任務物品
@@ -2353,7 +2353,7 @@ Discord moderation team,Credits,64,Discord管理團隊
 Music by,Credits,64,音樂製作
 Kickstarter,Credits,64,Kickstarter
 I sincerely thank all 659 people who supported the project.,Credits,64,由衷感謝此項目的 659 名支持者
-Special thanks go to SplatterCatGaming,Credits,64,特別鳴謝 SplatterCatGaming
+Special thanks go to SplatterCatGaming,Credits,64,特別感謝 SplatterCatGaming
 Tier V - Master Hunters,Credits,64,五階 - 大師獵人
 Tier IV - Expert Hunters,Credits,64,四階 - 專家獵人
 Tier III - Specialist Hunters,Credits,64,三階 - 精英獵人
@@ -2374,7 +2374,7 @@ Attachment 2,Weapons Mod UI,24,配件 2
 Attachment 3,Weapons Mod UI,24,配件 3
 Attachment 4,Weapons Mod UI,24,配件 4
 Attachments,Weapons Mod UI,24,配件
-Grip,Weapons Mod UI,24,前握把
+Grip,Weapons Mod UI,24,握把
 Capacity,Weapons Mod UI,24,彈匣容量
 View Distance,Weapons Mod UI,24,視距
 Mult. Range,Weapons Mod UI,24,射程倍率
@@ -2386,7 +2386,7 @@ Scrap,Item Context Usage,12,分解
 Consume,Item Context Usage,12,使用
 Unload,Item Context Usage,12,退出子彈
 Needed X item to craft,Craftw item needed,64,需要[AMOUNT_REQUIRED]以製作[ITEM_NAME]
-Needed X for quest,Quest item needed,64,需要[AMOUNT_REQUIRED]以完成“[QUEST_NAME]”
+Needed X for quest,Quest item needed,64,需要[AMOUNT_REQUIRED]以完成「[QUEST_NAME]」
 "You are stuck, hold [CTRL] and press [WASD] to move in that direction",Debug text,256,你被卡住了，按住[CTRL]以及[WASD]進行移動
 Lose Progress and Exit,Exit pause menu,64,放棄進度並離開
 small backpack,Item description,32,小背包
@@ -2412,7 +2412,7 @@ Sub-Task,Sub quest UI,16,子任務
 Extraction Point,Minimap UI,32,撤離點
 Community Event,Settings menu,32,社區活動
 Take part in community events!,Settings menu tooltip,64,參加社區活動！
-"Hey Hunter, we'd like to track your progress as you scavenge and\nexplore what's left of the world. We use some in-game analytic tech to\ngather device and gameplay data to help us understand how you\nsurvive, progress and to improve the prospects for you and other\nHunters.\n\nGameAnalytics also like to track you and collect data to help them\nimprove their tech.\n\nIf you are OK with that, choose Accept & Play. If you're not, we won't\ntrack any of it. You can change your settings at any time in the Data\nmenu.\n\nSee you in the bunker!",Data analytics prompt for user,1024,嘿，獵人，我們希望在你搜尋、\n探索世界時跟蹤你的進度。我們使用遊戲內置的分析技術\n來收集裝置和遊戲數據，以便了解你的求生方法、\n進展並改善你\n和其他獵人日後的旅途。\n\nGameAnalytics 也希望跟蹤你的進度並收集數據\n來改進技術。\n\n如果同意，請選擇“接受並遊玩”。\n如果不同意，我們將不會跟進任何內容。你可以隨時\n在數據選單中更改設定。\n\n我們地堡見！
+"Hey Hunter, we'd like to track your progress as you scavenge and\nexplore what's left of the world. We use some in-game analytic tech to\ngather device and gameplay data to help us understand how you\nsurvive, progress and to improve the prospects for you and other\nHunters.\n\nGameAnalytics also like to track you and collect data to help them\nimprove their tech.\n\nIf you are OK with that, choose Accept & Play. If you're not, we won't\ntrack any of it. You can change your settings at any time in the Data\nmenu.\n\nSee you in the bunker!",Data analytics prompt for user,1024,嘿，獵人，我們希望在你搜尋、\n探索世界時跟蹤你的進度。我們使用遊戲內置的分析技術\n來收集裝置和遊戲數據，以便了解你的求生方法、\n進展並改善你\n和其他獵人日後的旅途。\n\nGameAnalytics 也希望跟蹤你的進度並收集數據\n來改進技術。\n\n如果同意，請選擇「接受並遊玩」。\n如果不同意，我們將不會跟進任何內容。你可以隨時\n在數據選單中更改設定。\n\n我們地堡見！
 "Ok Soldier! Some of my trusted men were part of a convoy that was carrying equipment.\nThey were ambushed in the swamp and from the last radio contact it seems to have been the Crimson Corporation, which is very strange since very few people knew about this convoy...\nHopefully they are just bandits otherwise I have to consider the idea that there is a spy in our ranks...\nGo to the swamp, find the convoy and see what you can find out.",Quest text,1024,士兵，我們運送裝備的車隊在沼澤遭到了伏擊！根據最後的無線電訊息判斷，很可能是深紅公司乾的。\n這非常奇怪，因爲只有我的幾個親信知曉車隊的存在。\n希望襲擊者只是一幫遊蕩的強盜，否則我必須考慮我們的隊伍中出現間諜的可能...\n去沼澤看看能發現什麼。
 "Thanks to the retaliation we now have some time to build an outpost in the makeshift camp.,Your orders are to go to the industrial area and find a bag of cement.\nI think you can find one in the port area, where all those disused concrete blocks are.",Quest text,1024,多虧了這次報復行動，我們現在有時間在臨時營地建立前哨站了。你的任務是去工業區搞些水泥。\n你應該在港口西側入口附近的混凝土方里找找。
 "After the recent events at the Mall, the Green Army requested many reinforcements in the field.\nWe are prepared for this...\nYou must eliminate all Green Army captains, there is one on each map.\nGood luck Hunter! You'll need it...",Quest text,1024,在商場與我們發生一系列衝突後，綠軍向各個地區都派出了增援小隊。\n我們對此早有預料...\n立刻開始斬首行動，獵人。我發自內心地祝你好運，因爲這次你真的需要它.\n..
@@ -2420,9 +2420,9 @@ Take part in community events!,Settings menu tooltip,64,參加社區活動！
 "Soldier!\nMy men have reported a large amount of Crimson Corporation soldiers present everywhere. There are Crimson Captains in the field, one on each map. Your task will be to eliminate them.\nGet ready Soldier... It will be a bloodbath...",Quest text,1024,士兵！\n我的人報告說深紅公司已經傾巢出動，各個地區都有他們的小隊！\n做好準備，士兵，這是一場戰爭...
 "Good job Hunter! Now my men will take care of cleaning up the place and make it our outpost.\nIn the meantime you can take care of another matter. It seems that the Green Army has discovered the CCTV camera you planted in their bunker area.\nThey have begun to scour their soldiers and I think they have discovered one of our spies working in their ranks.\nThe last known location is in the swamp, go there and see if you can find it before the Green Army.",Quest text,1024,幹得好，獵人！我會派人接管和改造這個前哨站，而你有另一個任務。\n綠軍發現了你在他們地堡區放置的攝像頭，已經開始了清洗行動。\n我們的一個間諜暴露了。\n他最後的蹤跡在沼澤，希望你能趕在綠軍之前找到他。
 "Well done soldier!\nNow you have to deal with that bastard. His name is Ermolai Vlasov, he has been a Green Army recruit for a few weeks.\nI must say the son of a bitch did well, it's not easy to fool me.\nMy men spotted him but he managed to escape, now he is near the makeshift camp.\nKilling on sight soldier, no mercy. Once eliminated take his dogtag too, let's prepare a gift for Reynard...",Quest text,1024,幹得好，士兵！\n現在該對付那隻老鼠了。他叫埃爾莫萊·弗拉索夫，幾周前加入綠軍。\n我必須承認這狗孃養的有點東西，要騙過我可真不簡單。\n我的人發現了他，但被他逃掉了。他現在在臨時營地。\n格殺勿論，士兵。記得把狗牌帶回來，我們給雷納德準備一份大禮...
-"OK Soldier! The outpost is almost ready.\nA trusted man of mine is leading operations at the outpost, and I know that the Crimson Corporation is about to eliminate him.\nWhat you need to do is to eliminate the Crimson Corporation assassins present inside the mall. From my information there should be three of them.\nThe first one should be inside the LIO-JU clothing store.\nThe second in the area where the Abibas shoe store and the Tools store are.\nThe third in the TECH Store, next to the GUNS Store.\nGood luck soldier, do a clean job.",Quest text,1024,很好，士兵！前哨站差不多建好了。\n我已經派人到那裏接手指揮，但深紅公司可不會坐視。\n你的任務是幹掉深紅公司派來商場的殺手。根據情報，他們一個在 Lio-ju 服裝店，一個在 Abibas 鞋店和工具店附近，還有一個在數碼產品店。\n士兵，做得乾淨點。
+"OK Soldier! The outpost is almost ready.\nA trusted man of mine is leading operations at the outpost, and I know that the Crimson Corporation is about to eliminate him.\nWhat you need to do is to eliminate the Crimson Corporation assassins present inside the mall. From my information there should be three of them.\nThe first one should be inside the LIO-JU clothing store.\nThe second in the area where the Abibas shoe store and the Tools store are.\nThe third in the TECH Store, next to the GUNS Store.\nGood luck soldier, do a clean job.",Quest text,1024,很好，士兵！前哨站差不多建好了。\n我已經派人到那裏接手指揮，但深紅公司可不會坐視。\n你的任務是擊殺深紅公司派來商場的殺手。根據情報，他們一個在 Lio-ju 服裝店，一個在 Abibas 鞋店和工具店附近，還有一個在數碼產品店。\n士兵，做得乾淨點。
 It's time to see what's left in the GUNS store in the mall. Go there and look for a crate with equipment.\nMaybe we can get some new equipment,Quest text,1024,是時候看看商場的槍店裏還剩些什麼了。\n去那裏找一個裝備箱。也許我們可以搞到些新傢伙。
-Nice Work Hunter!\nNow it is only a matter of time before we receive information about their movements. Your next task is to eliminate some Green Army sergeants.\nThey will definitely be replaced but this will create some disorganization in their ranks and we will have some time for our operations.,Quest text,1024,幹得好，獵人！\n現在他們的一舉一動都在我們的掌控之下。\n下一個任務的目標是幹掉幾個綠軍士官。\n這不足以讓他們傷筋動骨，但引起的混亂將爲我們爭取行動的時間。
+Nice Work Hunter!\nNow it is only a matter of time before we receive information about their movements. Your next task is to eliminate some Green Army sergeants.\nThey will definitely be replaced but this will create some disorganization in their ranks and we will have some time for our operations.,Quest text,1024,幹得好，獵人！\n現在他們的一舉一動都在我們的掌控之下。\n下一個任務的目標是擊殺幾個綠軍士官。\n這不足以讓他們傷筋動骨，但引起的混亂將爲我們爭取行動的時間。
 "We know that the Green Army is building a new outpost in the makeshift camp but at the moment we do not know the exact location.\nI'm asking you to go out on scout, find the outpost, and place a GPS signal.\nFor now there shouldn't be many Green Army soldiers yet so you should make it on your own.",Quest text,1024,我們得知綠軍正在臨時營地建立新的前哨站。\n我需要你去偵察一下，找到前哨站的確切位置，放置 GPS 定位器。\n現在他們抽調不出多少人手，你可以輕鬆完成任務。
 "Good job on that spy, Soldier!\nNow we can get on with the next move, go recon inside the mall and look for a fairly empty place that can become our outpost on the spot.\nFrom the mall map, it looks like the area south of the loading/unloading area of the supermarket is empty.\nGo there and see if it is still like that.",Quest text,1024,間諜問題處理得不錯！\n接下來我們可以開展下一步行動了。去商場內部偵察一下，找個相對空曠、能直接改造成前哨站的地方。\n從地圖上看，超市裝卸區南邊似乎是空的。\n去確認下現在還是不是那樣。
 "The Crimson corporation attacked the outpost we were building, by now I know for a fact that there is a spy and fortunately I sent more men than they needed and because of that they were able to repel the attack.\nSurely that filthy rat must have put some CCTV cameras here in the bunker, see if you can find some.",Quest text,1024,深紅公司襲擊了我們在建的前哨站，這證實了間諜的存在。還好我加派了人手，他們這次行動徒勞無功。\n那隻骯髒的老鼠肯定在地堡裏放置了攝像頭，你得把它們都找出來。
@@ -2434,7 +2434,7 @@ Nice Work Hunter!\nNow it is only a matter of time before we receive information
 "Damn it! Was it the bandits then?\nI'm not surprised, they are creating quite a few problems for our supplies.\nHelp us to fix the situation Hunter, clear out the bandits.",Quest text,1024,又是該死的匪幫？\n意料之中，那幫傢伙一直在襲擾我們的補給線。\n搞定他們，獵人。
 "Were they all torn apart then?\nMost likely it was a Big, another team just spotted one in the swamp.\nI don't want to risk any more men, so the job is yours Hunter.",Quest text,1024,他們被撕碎了？\n很可能是「大塊頭」！另一支小隊剛剛報告在沼澤發現了蹤跡。\n我不想讓我的人再冒險了，所以這個任務交給你，獵人。
 "While disembarking at the industrial area port, my men forgot a briefcase with electronic components in it.\nDamned recruits, in such an emergency situation the Crimson Corporation sent infants.\nGo there and retrieve it Hunter, it should be in the southeastern part of the harbor.",Quest text,1024,在工業區的港口登陸時，我的人落下了一個裝有電子元件的公事包。\n該死的新兵蛋子！\n去把它取回來，獵人。它應該在港口的東南角。
-"Mmm... Okay it seems that Hunter had found the documents but then he ran into Lazar, the bandit leader in the forest village.\nI'm sure he still has the documents; he must have hidden them somewhere inside the police station.\nGo there and look for them....\nOh and while you're at it, kill Lazar too. This is not the first time he has interfered with our operations",Quest text,1024,嗯...那個獵人似乎找到了一份什麼檔案，但不幸地撞見了拉扎爾，佔據了森林村莊的匪幫頭目。\n他一定把檔案藏在警察局裏了。\n去把它取回來...\n哦，順便把拉扎爾也殺了。這不是他第一次干擾我們的行動了。
+"Mmm... Okay it seems that Hunter had found the documents but then he ran into Lazar, the bandit leader in the forest village.\nI'm sure he still has the documents; he must have hidden them somewhere inside the police station.\nGo there and look for them....\nOh and while you're at it, kill Lazar too. This is not the first time he has interfered with our operations",Quest text,1024,嗯...那個獵人似乎找到了一份什麼檔案，但不幸地撞見了拉扎爾，佔據了森林村莊的匪幫頭目。\n他一定把檔案藏在警局裏了。\n去把它取回來...\n哦，順便把拉扎爾也殺了。這不是他第一次干擾我們的行動了。
 "I sent some of my men to clear out the entrance to the motel. There seems to be a ghoul infestation in the parking lot. Our goal is to eliminate it and retrieve some documents from a soldier who died long ago, when the makeshift camp was still inhabited and we didn't know that radiation could spread that far.\nHe was one of my advisers, his name was Yuli Antonov.\nHis body should be in one of the motel rooms.\nIt will be some time before we intervene so the job is yours if you are interested, Hunter",Quest text,1024,我派人清理了汽車旅館的入口，不過停車場裏似乎還有一處感染源。任務目標是將其清除，並進入旅館，從一位已經犧牲的同志身上取回一份檔案。尤利·安東諾夫，我的參謀之一，當時駐紮在臨時營地。\n我們沒想到輻射會擴散那麼遠。\n他的屍體應該在汽車旅館最裏面的房間裏。\n我們目前抽調不出人手，所以你有興趣的話，這活就歸你了，獵人。
 "I have an easy job if you're interested, it's about scouting.\nYou need to head into the makeshift camp and find the old motel, check for any threats.",Quest text,1024,有個簡單的活。\n去臨時營地的汽車旅館，確認一下那裏是否有什麼危險。
 "\nA Hunter was working for us near the forest. He hasn't been heard from for more than 24 hours now; I think he's dead by now.\nHis job was to find out what happened to the documents we were transporting to the bunker.\nHis last known location was in the forest village in the northern area.\nSearch for his body and bring back what you find, let's see if he discovered anything before he died.",Quest text,1024,在森林地區，有一個獵人爲我們工作。上一次聯絡時，他說自己躲在村莊北邊的那排院子裏，但他已經超過24小時沒有傳來消息了，我想他可能遭遇了不測。\n去找到他，把與他有關的一切都帶回來，讓我們看看他是否發現了什麼。
@@ -2464,28 +2464,28 @@ Locate Skaruvksi shop,Quest objectives,256,定位 Skaruvksi 珠寶店
 You have already joined the Crimson Corporation,User Interface Popup,128,你已加入深紅公司
 Minimum required reputation,User Interface Popup (followed by reputation value),128,所需聲望
 You've enlisted with the Green Army,User Interface Popup,128,你已加入綠軍
-Eliminate Orel,Quest objectives,256,幹掉奧廖爾
+Eliminate Orel,Quest objectives,256,擊殺奧廖爾
 Find the lost convoy,Quest objectives,256,尋找失蹤車隊
 Find the outpost and place the GPS,Quest objectives,256,尋找前哨站並放置 GPS
 Find the Spy,Quest objectives,256,尋找間諜
 Place the transmitter in the location 1,Quest objectives,256,在1號地點放置信號發射器
 Place the transmitter in the location 2,Quest objectives,256,在2號地點放置信號發射器
 Place the transmitter in the location 3,Quest objectives,256,在3號地點放置信號發射器
-Eliminate Sergeant Desya Popo,Quest objectives,256,幹掉中士 德西亞·波波
-"There is movement at the new Green Army base in the mall.\nIt seems that a Green Army sergeant has arrived on site to coordinate operations.\nTry to eliminate him Hunter, if you do we may take control of that area.",Quest description,1024,綠軍在商場的新前哨站有動靜。\n似乎來了一名士官負責那裏的指揮工作。\n去把他幹掉，獵人，然後我們可以試着奪取那裏的控制權。
-Eliminate the Captain in the Forest,Quest objectives,256,幹掉森林的小隊隊長
-Eliminate the Captain in the Makeshift Camp,Quest objectives,256,幹掉臨時營地的小隊隊長
-Eliminate the Captain in the Industrial Area,Quest objectives,256,幹掉工業區的小隊隊長
-Eliminate the Captain in the Mall,Quest objectives,256,幹掉商場的小隊隊長
-Eliminate the Captain in the Swamp,Quest objectives,256,幹掉沼澤的小隊隊長
+Eliminate Sergeant Desya Popo,Quest objectives,256,擊殺中士 德西亞·波波
+"There is movement at the new Green Army base in the mall.\nIt seems that a Green Army sergeant has arrived on site to coordinate operations.\nTry to eliminate him Hunter, if you do we may take control of that area.",Quest description,1024,綠軍在商場的新前哨站有動靜。\n似乎來了一名士官負責那裏的指揮工作。\n去把他擊殺，獵人，然後我們可以試着奪取那裏的控制權。
+Eliminate the Captain in the Forest,Quest objectives,256,擊殺森林的小隊隊長
+Eliminate the Captain in the Makeshift Camp,Quest objectives,256,擊殺臨時營地的小隊隊長
+Eliminate the Captain in the Industrial Area,Quest objectives,256,擊殺工業區的小隊隊長
+Eliminate the Captain in the Mall,Quest objectives,256,擊殺商場的小隊隊長
+Eliminate the Captain in the Swamp,Quest objectives,256,擊殺沼澤的小隊隊長
 Find the entrance of the Motel,Quest objectives,256,尋找汽車旅館入口
 Crimson Corp. Soldier,Quest objectives (a person to eliminate),256,深紅公司士兵
-Kill the Crimson Assassin 1,Quest objectives,256,幹掉深紅公司 1 號殺手
-Kill the Crimson Assassin 2,Quest objectives,256,幹掉深紅公司 2 號殺手
-Kill the Crimson Assassin 3,Quest objectives,256,幹掉深紅公司 3 號殺手
+Kill the Crimson Assassin 1,Quest objectives,256,擊殺深紅公司 1 號殺手
+Kill the Crimson Assassin 2,Quest objectives,256,擊殺深紅公司 2 號殺手
+Kill the Crimson Assassin 3,Quest objectives,256,擊殺深紅公司 3 號殺手
 Eliminate the infestation,Quest objectives,256,清除感染源
 Green army sergeant,Quest objectives,256,綠軍中士
-Kill Bogdanov,Quest objectives,256,幹掉波格丹諾夫
+Kill Bogdanov,Quest objectives,256,擊殺波格丹諾夫
 Speed Reload not allowed with this magazine type.,User Interface Popup,128,這把武器的彈匣類型無法快速換彈
 Gun skills can only be freely changed in the Bunker.,User Interface Popup,128,只能在地堡中更改槍械技能
 Improved x rank,User Interface Popup (will become Improved sniper rank or Improved pistol rank),128,[TYPE]等級提升
@@ -2563,7 +2563,7 @@ Scope Initial Drag,Weapon Skills UI - A Weapon Type,64,初始開鏡阻滯
 Min Range,Weapon Skills UI - A Weapon Type,64,最小有效射程
 Max Range,Weapon Skills UI - A Weapon Type,64,最大有效射程
 Recover From Cursor Movement,Weapon Skills UI - A Weapon Type,64,準星移動恢復
-Hit an enemy will decrease its speed by 30% for 2 seconds.,Gun Skill Description,512,被擊中的目標在2秒內移動速度降低 30%
+Hit an enemy will decrease its speed by 30% for 2 seconds.,Gun Skill Description,512,被擊中的目標在2秒內移動速度 -30%
 Huff... this is heavy!!,Dialogue,256,呼...好沉！！
 I will move slower when carrying too much.,Dialogue,256,我背了太多東西，走不動了。
 * Wheeze! *,Dialogue,256,*大口喘息*
@@ -2584,12 +2584,12 @@ Shotgun kills,Stats,48,散彈槍擊殺
 Rifle kills,Stats,48,步槍擊殺
 DMR kills,Stats,48,精確射手步槍擊殺
 Sniper kills,Stats,48,狙擊槍擊殺
-Pistol exp,Stats - Experience,48,手槍經驗
-SMG exp,Stats - Experience,48,衝鋒槍經驗
-Shotgun exp,Stats - Experience,48,散彈槍經驗
-Rifle exp,Stats - Experience,48,步槍經驗
-DMR exp,Stats - Experience,48,精確射手步槍經驗
-Sniper exp,Stats - Experience,48,狙擊槍經驗
+Pistol exp,Stats - Experience,48,手槍經驗值
+SMG exp,Stats - Experience,48,衝鋒槍經驗值
+Shotgun exp,Stats - Experience,48,散彈槍經驗值
+Rifle exp,Stats - Experience,48,步槍經驗值
+DMR exp,Stats - Experience,48,精確射手步槍經驗值
+Sniper exp,Stats - Experience,48,狙擊槍經驗值
 First Blood,Achievement Name,48,第一滴血
 Welcome to ZERO Sievert,Achievement Name,48,歡迎來到零希沃特
 Die Trying,Achievement Name,48,視死如歸
@@ -2606,7 +2606,7 @@ Down with the Sickness,Achievement Name,48,切爾諾貝利人
 Done Deal,Achievement Name,48,成交
 Ghoulbusters,Achievement Name,48,食屍鬼剋星
 Lost in the Woods,Achievement Name,48,迷失森林
-Can I Speak to the Manager?,Achievement Name,48,“你給我滾出商場！”
+Can I Speak to the Manager?,Achievement Name,48,「你給我滾出商場！」
 Camper Eliminated,Achievement Name,48,營地鬼影
 Finder Keepers,Achievement Name,48,見者有份
 Eye for an Eye,Achievement Name,48,以眼還眼
@@ -2641,9 +2641,9 @@ Complete all of the Barman’s quests,Achievement Description,256,完成酒保�
 Complete the quest ‘Radiation Effect’,Achievement Description,256,完成任務「輻射效果」
 Complete 50 trades,Achievement Description,256,完成 50 次交易
 Defeat 100 ghouls,Achievement Description,256,擊殺 100 隻食屍鬼
-Defeat Lazar in the forest zone,Achievement Description,256,擊殺拉扎爾[森林]
-"Defeat Kibba, the boss of the mall",Achievement Description,256,擊殺基巴[商場]
-Defeat Arman in the makeshift camp,Achievement Description,256,擊殺阿爾曼[臨時營地]
+Defeat Lazar in the forest zone,Achievement Description,256,擊殺位於森林的拉扎爾
+"Defeat Kibba, the boss of the mall",Achievement Description,256,擊殺位於商場的基巴
+Defeat Arman in the makeshift camp,Achievement Description,256,擊殺位於臨時營地的阿爾曼
 Loot from 10 Hidden Stashes,Achievement Description,256,搜刮 10 個隱藏儲藏
 Complete Igor's questline,Achievement Description,256,完成伊戈爾的任務線
 Litter the ground with 1000 bullets in one raid,Achievement Description,256,在單次行動中消耗 1000 發彈藥
@@ -2666,12 +2666,12 @@ Only available from the main menu.,User Interface Popup used in reference to the
 Rotate,This is a control (to rotate an item),64,旋轉
 Quick move,This is a control (to quickly move an item),64,快速移動
 Split stack,This is a control (to split a stack of items in half),64,分開
-Eliminate Lazar,Quest objective,64,幹掉拉扎爾
+Eliminate Lazar,Quest objective,64,擊殺拉扎爾
 Hey soldier!\nNow that we have access to Zakov it is time to establish a camp there. There should be a construction zone in the southeast part of town. Find the site and place a GPS marker in the center of the site.\nYour comrades will then take care of building the encampment.\nNow go!,Quest text,1024,嘿，士兵！\n我們終於打通了進入扎科夫的路，是時候在那裏建立營地了。城市東南有片工地，在中央放置一個 GPS 定位器，之後你就不用操心了。\n去吧！
 Hey Hunter!\nNow that we have access to Zakov it is time to establish a camp there.\nThere should be a construction zone in the southeast part of town. Find the site and place a GPS marker in the center of the site.\nMy men will then take care of building the encampment.\nGood luck Hunter!,Quest text,1024,嘿，獵人！\n我們終於打通了進入扎科夫的路，是時候在那裏建立營地了。城市東南有片工地，在中央放置一個 GPS 定位器，之後你就不用操心了。\n祝你好運，獵人！
 Place the GPS marker in the contruction area in Zakov.,Quest objectives,64,在扎科夫的工地放置 GPS
-"Hey soldier!\nNow that we've established an encampment, it's time to proceed with some missions. There are some classified douments in the police station.\nFind them and bring them back soldier.",Quest descriptions,1024,嘿，士兵！\n營地已經完工了，有新任務給你。\n警察局裏有些機密檔案，去把它們取回來。
-"Hey Hunter!\nNow that we've established an encampment, it's time to proceed with some missions. There are some classified douments in the fire station.\nFind them and bring them back Hunter.",Quest descriptions,1024,嘿，獵人！\n營地已經完工了，有新任務給你。\n消防站裏有些機密檔案，去把它們取回來。
+"Hey soldier!\nNow that we've established an encampment, it's time to proceed with some missions. There are some classified douments in the police station.\nFind them and bring them back soldier.",Quest descriptions,1024,嘿，士兵！\n營地已經完工了，有新任務給你。\n警局裏有些機密檔案，去把它們取回來。
+"Hey Hunter!\nNow that we've established an encampment, it's time to proceed with some missions. There are some classified douments in the fire station.\nFind them and bring them back Hunter.",Quest descriptions,1024,嘿，獵人！\n營地已經完工了，有新任務給你。\n消防局裏有些機密檔案，去把它們取回來。
 "Hey Hunter!\nSome medical supplies always come in handy, there is a pharmacy in town.\nFind the entrance to the building.",Quest descriptions,1024,嘿，獵人！\n我們急需醫療用品。\n現在就出發，去扎科夫找找藥店在哪裡。
 Find the entrance of the pharmacy in Zakov.,Quest objectives,64,尋找扎科夫藥店的入口
 Nudist,Hunter Skill Name,24,赤裸狂奔
@@ -2718,7 +2718,7 @@ Marathon Runner,Hunter Skill Name,24,和平信使
 You move 40% faster when not holding a weapon,Hunter Skill Description,256,在未裝備武器時移動速度 +40%
 Stylish one p.1,Quest names,64,時髦帥仔
 Stylish one p.2,Quest names,64,死纏爛打
-"You must know about the guy who hangs around the mall, a very tough guy.\nAnyway, his armour is of incredible quality. If you kill him, I'll give you one in good condition.",Quest descriptions,1024,你肯定已經見過那個在商場閒逛的傢伙了！\n一個猛男，對不對？\n他那身護甲真是讓人印象深刻。你要是能把他幹掉，我就給你件同款。
+"You must know about the guy who hangs around the mall, a very tough guy.\nAnyway, his armour is of incredible quality. If you kill him, I'll give you one in good condition.",Quest descriptions,1024,你肯定已經見過那個在商場閒逛的傢伙了！\n一個猛男，對不對？\n他那身護甲真是讓人印象深刻。你要是能把他擊殺，我就給你件同款。
 "Good job on killing him.\nNow I'll leave you with a challenge, kill him 15 times to get a unique perk.",Quest descriptions,1024,幹得不錯，殺手。\n現在有一項新挑戰。單挑他15次，我就給你一件更好的。
 Bowel problems,Quest names,64,人有三急
 Listen Hunter... Everyone has to go to the bathroom.\nSurvey the Mall and find all the bathrooms.\nIt will be helpful to everyone during a Hunt.,Quest descriptions,1024,聽着，獵人…人總得拉屎的。\n去商場檢查各處洗手間的狀況。\n這會在狩獵期間方便所有人。
@@ -2737,8 +2737,8 @@ Exploring Zakov,Quest names,64,探索扎科夫
 "Ha! Great job Hunter!\nThe train can now get to the city.\nFirst do a general survey, see what the city looks like.",Quest descriptions,1024,哈！幹得好，獵人！\n列車現在可以直達城市了。\n我需要你去摸一摸情況。
 The guide,,,
 "Hey Hunter!\nI have a new challenge for you, survive all the maps.\nRest assured, you will be amply rewarded.",Quest descriptions,1024,嘿，獵人！\n我需要你對各地區的撤離點做一遍檢查。\n這活不輕鬆，不過放心，報酬絕對讓你滿意。
-Fire station documents,Quest names,64,消防站檔案
-Police station documents,Quest names,64,警察局檔案
+Fire station documents,Quest names,64,消防局檔案
+Police station documents,Quest names,64,警局檔案
 Need for gasoline,Quest names,64,急需汽油
 "Good job soldier!\nNow we must find as many supplies for our vehicles as possible. There should be a gas station in the town.\nFind it, it will help your comrades.",Quest descriptions,1024,幹得好，士兵！\n我們的車輛正渴望着寶貴的汽油。\n找到扎科夫加油站，同志們對此感激不盡！
 Find the gas station in Zakov.,Quest objectives,64,尋找扎科夫加油站
@@ -2805,8 +2805,8 @@ Gain +40% material when you scrap an item,Modules description,256,分解物品�
 A small gym where you can work out.\nGrants physical benefits.,Modules description,64,鍛鍊身體的小型健身房。\n提供體能加成。
 Stamina +10\n+3kg max carried weight\nFatigue decrease rate -20%,Modules description,64,最大耐力 +10\n +3KG 負重上限\n精力消耗 -20%
 Stamina +20\n+6kg max carried weight\nFatigue decrease rate -50%,Modules description,64,最大耐力 +20\n +6KG 負重上限\n精力消耗 -50%
-Weapon damage +3%\nWeapon mastery exp +10%,Modules description,64,武器傷害 +5% \n武器技能經驗 +10%
-Weapon damage +5%\nWeapon mastery exp +20%,Modules description,64,武器傷害 +10% \n武器技能經驗 +20%
+Weapon damage +3%\nWeapon mastery exp +10%,Modules description,64,武器傷害 +5% \n武器技能經驗值 +10%
+Weapon damage +5%\nWeapon mastery exp +20%,Modules description,64,武器傷害 +10% \n武器技能經驗值 +20%
 Provide scrap medication and scrap food everyday,Modules description,64,每天產出食物廢料和醫療用品廢料
 Provide scrap ammo everyday\nCraft more type of ammunition,Modules description,64,每天產出彈藥廢料\n允許你製作彈藥
 You can repair weapons and armor in the craftbench,Modules description,64,允許你修理武器和護甲
@@ -2878,8 +2878,8 @@ Unlock a total of 12 stash pages,Base Module description,256,解鎖 12 儲藏頁
 Allows you to craft more medication item\n-10% bleeding chance,Base Module description,256,允許你製作更多醫療用品\n -10% 出血機率
 Allows you to craft more medication item\n-15% bleeding chance\nHeal 2 HP per minute\nHeal 0.1 radiation per minute,Base Module description,256,允許你製作更多醫療用品\n -15% 出血機率\n每分鐘恢復2生命值\n每分鐘緩解 0.1 輻射
 Allows you to craft more medication item\n-30% bleeding chance\nHeal 5 HP per minute\nHeal 0.2 radiation per minute,Base Module description,256,允許你製作更多醫療用品\n -30% 出血機率\n每分鐘恢復5生命值\n每分鐘緩解 0.2 輻射
-Zakov police station documents,Documents,32,扎科夫警察局檔案
-Zakov's police station armory key,Keys,96,扎科夫警察局鑰匙
+Zakov police station documents,Documents,32,扎科夫警局檔案
+Zakov's police station armory key,Keys,96,扎科夫警局鑰匙
 I think the bunker exit is in the south,FTUE text,128,地堡出口可不在這。
 Construction area,Player prompt,32,工地
 Apartment block,Player prompt,32,公寓樓
@@ -2905,10 +2905,10 @@ Savedata is from a legacy version of the game,User Interface,72,存檔數據來�
 Comfortable bed that restores you faster.,Base Module description,128,提供良好的睡眠和高效的恢復
 Increase weapons max range,Gameplay settings,48,提高武器的最大有效射程
 Decrease weapons min range,Gameplay settings,48,降低武器的最小有效射程
-Single use key used to open the locked armory in the Zakov's police station,Item description,256,一次性鑰匙，用於打開扎科夫警察局上鎖的軍械庫
+Single use key used to open the locked armory in the Zakov's police station,Item description,256,一次性鑰匙，用於打開扎科夫警局上鎖的軍械庫
 "This will delete all savedata stored in both your local and cloud storage.\nYou will lose all your items, skills, and quest progress in every save slot.\nAre you sure you want to do this?",Menu popup text,512,刪除存本地和雲存檔。\n你將失去所有物品、技能和任務進度。\n確定要這樣做嗎？
-Zakov fire station documents,Quest item,64,扎科夫消防站檔案
-Eliminate the Crimson in the Swamp,Quest objective,96,幹掉沼澤的深紅公司士兵
+Zakov fire station documents,Quest item,64,扎科夫消防局檔案
+Eliminate the Crimson in the Swamp,Quest objective,96,擊殺沼澤的深紅公司士兵
 Current:,Displaying which ammo the player is currently holding,48,目前:
 Second part of the Crystal documents,Quest objective,128,《啓示錄》第二部分
 First part of the Crystal documents,Quest objective,128,《啓示錄》第一部分
@@ -2969,10 +2969,10 @@ Uploading...,Status of Steam Workshop Mod upload,40,正在上傳...
 Error Happened,Status of Steam Workshop Mod upload,40,發生錯誤
 Finished,Status of Steam Workshop Mod upload,40,已完成
 Done,Status of Steam Workshop Mod upload,40,確認
-Missing 'name' in mod meta file,Steam Workshop error message,160,模組元檔案中缺少 “名稱”
-Missing 'description' in mod meta file,Steam Workshop error message,160,模組元檔案中缺少 “描述”
-Missing 'version' in mod meta file,Steam Workshop error message,160,模組元檔案中缺少 “版本”
-Missing 'author' in mod meta file,Steam Workshop error message,160,模組元檔案中缺少 “作者”
+Missing 'name' in mod meta file,Steam Workshop error message,160,模組元檔案中缺少 「名稱」
+Missing 'description' in mod meta file,Steam Workshop error message,160,模組元檔案中缺少 「描述」
+Missing 'version' in mod meta file,Steam Workshop error message,160,模組元檔案中缺少 「版本」
+Missing 'author' in mod meta file,Steam Workshop error message,160,模組元檔案中缺少 「作者」
 Failed to find mod meta file,Steam Workshop error message,160,無法找到模組元檔案
 Error: Folder of mod not found or not readable.,Steam Workshop error message,160,錯誤：未找到或無法讀取模組檔案夾。
 "Notice: Steam stopped replying, unable to find status.",Steam Workshop error message,160,注意：Steam 中止響應，無法找回狀態。
@@ -3011,14 +3011,14 @@ Steam not logged in,Steam Workshop error message,64,未登錄 Steam
 Directory does not exist,Steam Workshop error message (do not translate file name),64,目錄不存在
 init.script' is a mandatory file,Steam Workshop error message (do not translate file name),64,init.script 是必需檔案
 metadata.ini' is a mandatory file,Steam Workshop error message (do not translate file name or name),64,metadata.ini 是必需檔案
-Missing 'name' in metadata.ini,Steam Workshop error message (do not translate file name or name),64,metadata.ini 缺少“名稱”
-Missing 'description' in metadata.ini,Steam Workshop error message (do not translate file name or description),64,metadata.ini 缺少 “描述”
-Missing 'version' in metadata.ini,Steam Workshop error message (do not translate file name or version),64,metadata.ini 缺少 “版本”
-Missing 'author' in metadata.ini,Steam Workshop error message (do not translate file name or author),64,metadata.ini 缺少 “作者”
+Missing 'name' in metadata.ini,Steam Workshop error message (do not translate file name or name),64,metadata.ini 缺少「名稱」
+Missing 'description' in metadata.ini,Steam Workshop error message (do not translate file name or description),64,metadata.ini 缺少 「描述」
+Missing 'version' in metadata.ini,Steam Workshop error message (do not translate file name or version),64,metadata.ini 缺少 「版本」
+Missing 'author' in metadata.ini,Steam Workshop error message (do not translate file name or author),64,metadata.ini 缺少 「作者」
 icon.png' is required in mod folder,Steam Workshop error message (do not translate file name),64,icon.png 必須在模組檔案夾內
-Carret N82,Weapons,64,Barrett M82
-Carret N82 10 round magazine,Weapon Mods,64,Barrett M82 10發彈匣
-Carret N82 5 round magazine,Weapon Mods,64,Barrett M82 5發彈匣
+Carret N82,Weapons,64,巴雷特 M82
+Carret N82 10 round magazine,Weapon Mods,64,巴雷特 M82 10發彈匣
+Carret N82 5 round magazine,Weapon Mods,64,巴雷特 M82 5發彈匣
 "Clear the way, again",Quest Name,128,捲土重來
 "Most of our forces are focusing on Zakov, this has given Orel room to do what he wants in the Makeshift Camp.\nI managed to get my hands on a very special weapon, Hunter. It's yours if you put Orel back in his place.\nAs a reminder, Orel is located in the western part of Makeshift Camp, where the old train station is.\nAfter you complete this job I should be able to sell you ammunition as well, but you will have to wait for the next restock",Quest description,None,我們大多數人手都投入到了扎科夫，這讓Orel有機可乘。他又成了臨時營地的土皇帝。\n我搞到了一把大傢伙，獵人。如果你能挫挫Orel的銳氣，它就是你的了。\n提醒你一下，Orel躲在舊火車站那裏。\n搞定他之後，我會賣彈藥給你，但得等到下一次補貨。
 foregrip desert,Weapon Mods,64,沙漠色前握把
@@ -3026,7 +3026,7 @@ foregrip green,Weapon Mods,64,綠色前握把
 Pistol .50 BMG,Weapons,64,.50 BMG 手槍
 Pistol .50 BMG handguard,Weapon Mods,64,.50 BMG 手槍護木
 A new Devil,Quest Name,64,地下魔影
-Some Hunters have reported an unique Watcher roaming the underground parking lots of the mall.\n\nFind it and kill it.,Quest description,None,有獵人報告說商場的地下停車場裏遊蕩着一個古怪的觀察者。\n\n幹掉它。
+Some Hunters have reported an unique Watcher roaming the underground parking lots of the mall.\n\nFind it and kill it.,Quest description,None,有獵人報告說商場的地下停車場裏遊蕩着一個古怪的觀察者。\n\n擊殺它。
 Devil,NPCs,48,惡魔
 WA Devil suit,Armor,64,WA 惡魔衣裝
 I want peace with everyone,Insert,256,我希望與所有人都和平共處
@@ -3050,7 +3050,7 @@ Hey. Wake up!,NPC text,64,喂，醒醒！
 Can you hear me?,NPC text,64,能聽到我說話嗎？
 You are lucky I found you...,NPC text,64,還好我發現了你，算你走運...
 ...What happened?,NPC text,64,...這是怎麼回事？
-No time. Get up. We've got company!,NPC text,64,沒時間解釋了，快起來！有“客人”來了！
+No time. Get up. We've got company!,NPC text,64,沒時間解釋了，快起來！有「客人」來了！
 Grab the equipment from the box,NPC text,64,從箱子裏獲取裝備！
 They are coming!,NPC text,64,它們來了！
 Damn wolves...,NPC text,64,該死的狼...
@@ -3181,9 +3181,9 @@ Commander Voss suit,Armor,64,指揮官沃斯護甲
 Commander Voss,NPCs,32,指揮官-沃斯
 Commander Voss EC 74,Weapons,64,指揮官沃斯 AK 74
 Any news?,Dialogue,32,有什麼消息嗎？
-"Yeah, word’s going around. A new group showed up in the industrial area. They call themselves the Horizon.\nNot army, not bandits. Corporate types with shiny gear and bad intentions.\nThey've locked down the docks and anyone who dares get too close just... vanishes without a trace.",Dialogue,None,是啊，都傳開了，工業區來了一幫自稱“地平線”的新勢力。\n既不是軍隊也不是強盜，倒像是一身精良裝備且心懷鬼胎的企業武裝。\n他們封鎖了碼頭，膽敢靠近的人……全都人間蒸發了。
+"Yeah, word’s going around. A new group showed up in the industrial area. They call themselves the Horizon.\nNot army, not bandits. Corporate types with shiny gear and bad intentions.\nThey've locked down the docks and anyone who dares get too close just... vanishes without a trace.",Dialogue,None,是啊，都傳開了，工業區來了一幫自稱「地平線」的新勢力。\n既不是軍隊也不是強盜，倒像是一身精良裝備且心懷鬼胎的企業武裝。\n他們封鎖了碼頭，膽敢靠近的人……全都人間蒸發了。
 Improving the base,Quest name,32,建設基地
-"You can upgrade your base by installing new modules.\nOpen your PDA, go to the Base Building page, click on an empty slot,\nchoose a module and click the Install button,\nthen craft its Building Kit at the crafting bench,\nright-click the kit in your inventory and use it to place the module in your base.",Quest description,None,你可以通過安裝新模組來建設基地。\n打開個人終端，進入基地頁面， 點擊一個空欄，選擇一個模組並點擊“安裝”。\n在工作臺製作模組，右鍵點擊儲藏中的模組並使用，即可將模組安裝到基地中。
+"You can upgrade your base by installing new modules.\nOpen your PDA, go to the Base Building page, click on an empty slot,\nchoose a module and click the Install button,\nthen craft its Building Kit at the crafting bench,\nright-click the kit in your inventory and use it to place the module in your base.",Quest description,None,你可以通過安裝新模組來建設基地。\n打開個人終端，進入基地頁面， 點擊一個空欄，選擇一個模組並點擊「安裝」。\n在工作臺製作模組，右鍵點擊儲藏中的模組並使用，即可將模組安裝到基地中。
 7.62x25mm Chemical,Ammo Types,64,7.62x25mm 化學
 5.45x39mm BP,Ammo Types,64,5.45x39mm 穿甲彈
 5.45x39mm Horizon,Ammo Types,64,5.45x39mm 地平線

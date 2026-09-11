@@ -27,7 +27,7 @@
 00026,difficulty.menu.minimum_transportable_weight,Difficulty Menu,32,負重上限
 00027,difficulty.menu.hunger_thirst_decay_rate,Difficulty Menu,32,飢餓/口渴消耗
 00028,difficulty.menu.reputation_multiplier,Difficulty Menu,32,聲望倍率
-00029,difficulty.menu.skill_experience_multiplier,Difficulty Menu,32,技能經驗倍率
+00029,difficulty.menu.skill_experience_multiplier,Difficulty Menu,32,技能經驗值倍率
 00030,difficulty.menu.reputation_from_quests,Difficulty Menu,32,任務聲望報酬
 00031,difficulty.menu.roubles_from_quests,Difficulty Menu,32,任務盧布報酬
 00032,difficulty.menu.items_from_quests,Difficulty Menu,32,任務物品報酬
@@ -48,7 +48,7 @@
 00047,difficulty.menu.price_armors,Difficulty Menu,32,護甲價格
 00048,difficulty.menu.price_backpacks,Difficulty Menu,32,背包價格
 00049,difficulty.menu.price_ammo,Difficulty Menu,32,彈藥價格
-00050,difficulty.menu.price_medications,Difficulty Menu,32,藥物價格
+00050,difficulty.menu.price_medications,Difficulty Menu,32,醫療用品價格
 00051,trade.menu.buy_for,Trading menu,32,購買
 00052,general.next,"General Usage, go forward a step or menu",16,繼續
 00053,ui.back,User Interface,40,返回
@@ -59,7 +59,7 @@
 00058,general.extras,"General Usage, indicating additional options",16,其他
 00059,general.track,"General Usage, track a requirement or object",16,追蹤
 00060,quest.reward.reward,Quest Rewards,24,報酬
-00061,quest.reward.exp,Quest Rewards,16,經驗
+00061,quest.reward.exp,Quest Rewards,16,經驗值
 00062,quest.reward.rep,Quest Rewards,16,聲望
 00063,crafting.requirements,"General Usage, quest or crafting conditions",24,需求
 00064,general.general,"General Usage, meaning general usage",24,一般
@@ -192,7 +192,7 @@
 00191,stats.current_survival_streak,Stats,48,目前連續撤離次數
 00192,stats.total_money_received,Stats,48,狩獵行動總收入
 00193,stats.most_money_from_a_single_hunt,Stats,48,單次狩獵最高收入
-00194,stats.most_exp_from_a_single_hunt,Stats,48,單次狩獵獲得的最高經驗
+00194,stats.most_exp_from_a_single_hunt,Stats,48,單次狩獵獲得的最高經驗值
 00195,stats.total_human_killed,Stats,48,總人類擊殺
 00196,stats.bandits,Stats,48,強盜
 00197,stats.green_army,Stats,48,綠軍
@@ -284,7 +284,7 @@
 00283,weapon.mod.ec_desert_handguard,Weapon Mods,64,AK 沙漠色護木
 00284,weapon.mod.spec_scope,Weapon Mods,64,Spec 瞄準鏡
 00285,weapon.mod.skop_standard_handguard,Weapon Mods,64,SCAR 標準護木
-00286,weapon.mod.boulder_standard_grip,Weapon Mods,64,Armsel Striker 標準握把
+00286,weapon.mod.boulder_standard_grip,Weapon Mods,64,Protecta 標準握把
 00287,weapon.mod.nb5_pistol_grip,Weapon Mods,64,MP5 手槍握把
 00288,weapon.mod.n1o_standard_stock,Weapon Mods,64,M1A 標準槍托
 00289,weapon.mod.g76_standard_stock,Weapon Mods,64,G36 標準槍托
@@ -321,7 +321,7 @@
 00320,weapon.mod.fanaz_30_round_magazine,Weapon Mods,64,FAMAS 30 發彈匣
 00321,weapon.mod.muzzle_brake_5_56x45_revenge,Weapon Mods,64,5.56x45「復仇」槍口制退器
 00322,weapon.mod.tr_15_tactical_stock_desert,Weapon Mods,64,AR-15 沙漠色戰術槍托
-00323,weapon.mod.tr_15_iron_sight,Weapon Mods,64,AR-15 金屬瞄具
+00323,weapon.mod.tr_15_iron_sight,Weapon Mods,64,AR-15 金屬瞄準鏡
 00324,weapon.mod.n4o1_standard_pistol_grip,Weapon Mods,64,M4A1 標準手槍握把
 00325,weapon.mod.stv_40_10_round_magazine,Weapon Mods,64,SVT-40 10 發彈匣
 00326,weapon.mod.ec_stock,Weapon Mods,64,AK 槍托
@@ -386,7 +386,7 @@
 00385,weapon.mod.ec_handguard_pentagoon,Weapon Mods,64,AK Pentagoon 護木
 00386,weapon.mod.suppressor_45,Weapon Mods,64,.45 消音器
 00387,weapon.mod.skop_stock,Weapon Mods,64,SCAR 槍托
-00388,weapon.mod.boulder_6_round_magazine,Weapon Mods,64,Armsel Striker 6發彈鼓
+00388,weapon.mod.boulder_6_round_magazine,Weapon Mods,64,Protecta 6發彈鼓
 00389,weapon.mod.nb5_20_round_magazine,Weapon Mods,64,MP5 20 發彈匣
 00390,weapon.mod.n1o_skop_magazine_20_round,Weapon Mods,64,M1A/SCAR 20 發彈匣
 00391,weapon.mod.grusa_short_barrel,Weapon Mods,64,OTs-14 短槍管
@@ -417,7 +417,7 @@
 00416,weapon.mod.ec_handguard_aggrexxor,Weapon Mods,64,AK Aggrexxor 護木
 00417,weapon.mod.suppressor_12x70,Weapon Mods,64,12x70 消音器
 00418,weapon.mod.skop_standard_stock,Weapon Mods,64,SCAR 標準槍托
-00419,weapon.mod.boulder_12_round_magazine,Weapon Mods,64,Armsel Striker 12發彈鼓
+00419,weapon.mod.boulder_12_round_magazine,Weapon Mods,64,Protecta 12發彈鼓
 00420,weapon.mod.nb5_handguard,Weapon Mods,64,MP5 標準護木
 00421,weapon.mod.n1o_modern_stock,Weapon Mods,64,M1A 現代槍托
 00422,weapon.mod.g76_advanced_stock,Weapon Mods,64,G36 高級槍托
@@ -445,7 +445,7 @@
 00444,weapon.mod.ec_handguard_thukov,Weapon Mods,64,AK Thukov 護木
 00445,weapon.mod.vadoo_scope,Weapon Mods,64,Vuduu 瞄準鏡
 00446,weapon.mod.skop_long_handguard,Weapon Mods,64,SCAR 長護木
-00447,weapon.mod.boulder_attachment_rail,Weapon Mods,64,Armsel Striker 導軌
+00447,weapon.mod.boulder_attachment_rail,Weapon Mods,64,Protecta 導軌
 00448,weapon.mod.nb5_standard_handguard,Weapon Mods,64,MP5 標準護木
 00449,weapon.mod.n1o_archangel_stock,Weapon Mods,64,M1A「大天使」槍托
 00450,weapon.ec_101,Weapons,64,AK-101
@@ -455,24 +455,24 @@
 00454,weapon.frd,Weapons,64,SVD
 00455,weapon.bbsh_41,Weapons,64,PPSh-41
 00456,weapon.n4o1,Weapons,64,M4A1
-00457,weapon.wintar_bk,Weapons,64,VSS
+00457,weapon.wintar_bk,Weapons,64,VSS Vintorez
 00458,weapon.ecm,Weapons,64,AKM
 00459,weapon.skop_l,Weapons,64,SCAR-L
 00460,weapon.g_76,Weapons,64,G36
 00461,weapon.tus_34,Weapons,64,TOZ-34
-00462,weapon.marauder_700_modern,Weapons,64,M24E1
+00462,weapon.marauder_700_modern,Weapons,64,雷明頓 M700 PCR
 00463,weapon.nozin_makant,Weapons,64,Mosin Nagant
 00464,weapon.sha_12,Weapons,64,ShAK-12
 00465,weapon.stas_12,Weapons,64,Franchi SPAS-12
 00466,weapon.bb_19_moose,Weapons,64,PP-19 Bizon
-00467,weapon.grusa_4,Weapons,64,OTs-14 Groza 9x39mm
+00467,weapon.grusa_4,Weapons,64,Groza-4
 00468,weapon.vrizz_sector_45_acp,Weapons,64,KRISS Vector .45 ACP
 00469,weapon.ec_74,Weapons,64,AK-74
 00470,weapon.sawed_off_double_shotgun,Weapons,64,鋸短散彈槍
 00471,weapon.mp_133,Weapons,64,MP-133
 00472,weapon.fanaz,Weapons,64,FAMAS
 00473,weapon.stv_40,Weapons,64,SVT-40
-00474,weapon.boulder,Weapons,64,Armsel Striker
+00474,weapon.boulder,Weapons,64,Protecta
 00475,weapon.pn_pokarov,Weapons,64,Makarov PM
 00476,weapon.ets,Weapons,64,Stechkin APS
 00477,weapon.spyder,Weapons,64,Škorpion vz.61
@@ -494,7 +494,7 @@
 00493,weapon.nc_47_chimera,Weapons,64,Mk47 Mutant
 00494,weapon.zz_vel,Weapons,64,AS Val
 00495,weapon.mkm,Weapons,64,SKS
-00496,weapon.grusa_1,Weapons,64,OTs-14 Groza 7.62x39mm
+00496,weapon.grusa_1,Weapons,64,Groza-1
 00497,weapon.vnp,Weapons,64,UMP
 00498,ammo.type.12_7x55mm_bp_round,Ammo Types,64,12.7x55mm 穿甲彈
 00499,ammo.type.12_7x55mm_hp_round,Ammo Types,64,12.7x55mm 空尖彈
@@ -616,7 +616,7 @@
 00615,chest.armor,Chests,64,護甲箱
 00616,chest.attachment_box,Chests,64,配件箱
 00617,chest.ammo,Chests,64,彈藥
-00618,chest.base_upgrade_box,Chests,64,基地升級模組
+00618,chest.base_upgrade_box,Chests,64,基地升級模組箱
 00619,chest.book_box,Chests,64,書箱
 00620,chest.cash_register,Chests,64,收銀機
 00621,chest.chemical_crystal,Chests,64,化學水晶
@@ -1146,7 +1146,7 @@
 01145,npc.interaction.my_name_is_sacriel_npc_dialogue,"User Interface, interaction with NPC",1400,我叫薩克雷爾，剛來地堡不久。\n我還沒完全適應這裡，但要做好準備，大約一個月後就給你安排任務。
 01146,npc.interaction.my_name_is_viktor_artemovich_npc,"User Interface, interaction with NPC",1400,我是維克托·阿爾捷莫維奇，綠軍的指揮官。\n災難發生時，我們奉命來保護平民和控制局勢。沒想到的是，幾天後，地區周邊出現了一道古怪的屏障，隔絕任何人進出。\n我們動用了一切手段試圖建立無線電通訊，但全都無濟於事。\n外界根本沒人知道這裡面究竟發生了什麼。
 01147,npc.interaction.my_name_is_viktor_korolev_npc_dialogue,"User Interface, interaction with NPC",1400,我叫維克托·科羅廖夫，但大家都管我叫「醫生」。我以前是扎科夫醫院的醫生和研究員。\n爆炸發生後，政府授權我成立一個部門來研究生物的變異。\n項目不愁經費，這值得高興...成千上萬的人在爆炸中喪生，或許高興也不合適。\n不過我又有什麼辦法呢？總之就是撞大運了。
-01148,npc.interaction.my_name_is_not_important_i_m_just_a,"User Interface, interaction with NPC",1400,我的名字不重要，大家同行而已。\n我在這一帶混了很久。\n憑着以往的經驗，到處溜達跟散步一樣輕鬆。
+01148,npc.interaction.my_name_is_not_important_i_m_just_a,"User Interface, interaction with NPC",1400,我的名字不重要，大家同行而已。\n我在這一帶混了很久。\n憑着以往的經驗值，到處溜達跟散步一樣輕鬆。
 01149,npc.interaction.next_step,"User Interface, interaction with NPC",1400,繼續
 01150,npc.interaction.not_much_but_orders_are_orders,"User Interface, interaction with NPC",1400,還行吧。但命令就是命令...
 01151,npc.interaction.not_much_as_you_can_see_this_crystal,"User Interface, interaction with NPC",1400,沒多少……這塊晶體與衆不同，會釋放極強的輻射，多虧了密封設施我們才安然無恙。\n目前還沒弄清釋放的頻率，更別提其本質了。\n不過這輻射確實邪門，似乎帶點催眠效果。我幹這行以來還是頭回見。\n來扎科夫之前，聽說烏克蘭某座廢棄核電廠裏也有類似的地方和晶體，再多的就不知道了。\n那邊傳出的情報寥寥無幾，不過扎科夫這邊同樣也是消息封閉。\n真是暴殄天物，要是能有充足的資源和專業裝置，天知道能發現什麼。\n我最好還是閉嘴吧，這種想法可不受待見，免得被大頭兵聽見找麻煩。
@@ -1173,7 +1173,7 @@
 01172,npc.interaction.so_that_s_your_brother_vadim,"User Interface, interaction with NPC",1400,那是你哥瓦迪姆？
 01173,npc.interaction.so_they_want_me_dead_npc_dialogue,"User Interface, interaction with NPC",1400,他們想要我死？哈！\n我知道這一天遲早會來，綠軍不會容忍我這麼一塊絆腳石。\n他們命令你來幹這個？\n那麼，你到底是獵人還是士兵？\n隨你的便吧，我已經又老又糊塗了，可我僅剩的這點體面不允許我向你開口求饒。
 01174,npc.interaction.so_you_want_a_crimson_corporation,"User Interface, interaction with NPC",1400,你想讓深紅公司的人進地堡來？\n真該死！這個提議簡直令人作嘔。\n薛帕德擅長玩弄政治，但他十足十是個蠢貨！我一點也不在乎外面的世界發生了什麼，我有我的職責。\n\n我接受你的提議，可你，獵人，你不再是綠軍的夥伴。交易和任務依然有效，但不要指望我的士兵會在外邊幫你。\n滾吧，等你回來的時候就能看到那羣得志的小人了。
-01175,npc.interaction.so_you_want_to_enlist_npc_dialogue,"User Interface, interaction with NPC",1400,你想參軍？非常好，獵人！\n我正需要你這樣經驗豐富的好手。下次你再來找我，我看看能不能給你找點活幹。\n\n\n確定要加入綠軍嗎？\n你在這個陣營的聲望上限將變爲1000，允許你解鎖新的裝備和額外的任務。\n你將成爲深紅公司的敵人。
+01175,npc.interaction.so_you_want_to_enlist_npc_dialogue,"User Interface, interaction with NPC",1400,你想參軍？非常好，獵人！\n我正需要你這樣經驗值豐富的好手。下次你再來找我，我看看能不能給你找點活幹。\n\n\n確定要加入綠軍嗎？\n你在這個陣營的聲望上限將變爲1000，允許你解鎖新的裝備和額外的任務。\n你將成爲深紅公司的敵人。
 01176,npc.interaction.sorry_comrade_i_have_something_else_to,"User Interface, interaction with NPC",1400,對不起，同志！我還有別的事要做。
 01177,npc.interaction.tell_me_more_about_the_forest,"User Interface, interaction with NPC",1400,跟我講講森林
 01178,npc.interaction.tell_me_more_about_the_industrial_area,"User Interface, interaction with NPC",1400,跟我講講工業區
@@ -1301,7 +1301,7 @@
 01300,ui.lights_2_color,"User Interface, lights color",32,2 號燈光顏色
 01301,ui.survived,"User Interface, exit screen",40,成功撤離
 01302,ui.killed_in_action,"User Interface, exit screen",40,死亡
-01303,ui.experience,"User Interface, exit screen",40,狩獵經驗
+01303,ui.experience,"User Interface, exit screen",40,狩獵經驗值
 01304,ui.current,"User Interface, exit screen",40,目前
 01305,ui.current_lower,"User Interface, exit screen",40,目前
 01306,ui.next_level,"User Interface, exit screen",40,升級所需
@@ -1446,7 +1446,7 @@
 01445,tips.you_can_repair_weapons_and_armor_by,"Tips, currently unused",256,有工作坊模組就能自己修理武器和護甲
 01446,tips.pay_attention_to_your_stamina_always,"Tips, currently unused",256,多留意體力值，務必要留一點以備不時之需
 01447,tips.by_increasing_your_reputation_level,"Tips, currently unused",256,提高聲望等級，就能從供應商處解鎖新的任務和裝備
-01448,tips.if_you_die_you_will_receive_half_the,"Tips, currently unused",256,死亡會損失一半的經驗
+01448,tips.if_you_die_you_will_receive_half_the,"Tips, currently unused",256,死亡會損失一半的經驗值
 01449,tips.in_each_map_there_are_hidden_stashes,"Tips, currently unused",256,每張地圖都有隱藏儲藏，什麼物資都有可能出現。
 01450,skill.name.transfusion_1,Skill Names,64,輸血 1
 01451,skill.desc.increase_max_hp_by_10,Skill Descriptions,128,最大生命值 +10
@@ -1486,7 +1486,7 @@
 01485,skill.desc.traders_sell_more_medikit_and_ammo,Skill Descriptions,128,商人販賣更多醫療箱與彈藥
 01486,skill.name.inventory_2,Skill Names,64,背包 2
 01487,skill.name.quest_devourer,Skill Names,64,任務吞噬者
-01488,skill.desc.increase_quest_experience_by_30,Skill Descriptions,128,任務經驗 +30%
+01488,skill.desc.increase_quest_experience_by_30,Skill Descriptions,128,任務經驗值 +30%
 01489,skill.name.deposit_1,Skill Names,64,儲存 1
 01490,skill.desc.you_gain_1_more_personal_chest,Skill Descriptions,128,獲得 1 個額外個人儲藏箱
 01491,skill.name.deposit_2,Skill Names,64,儲存 2
@@ -1512,7 +1512,7 @@
 01511,skill.name.good_finder,Skill Names,64,善於尋找
 01512,skill.desc.slightly_increase_the_amount_of_items,Skill Descriptions,128,略微增加箱子內物品數量
 01513,skill.name.wanderer,Skill Names,64,流浪者
-01514,skill.desc.increase_max_weight_by_5_and_gain_5,Skill Descriptions,128,負重上限 +5，獲得經驗 +5%
+01514,skill.desc.increase_max_weight_by_5_and_gain_5,Skill Descriptions,128,負重上限 +5，獲得經驗值 +5%
 01515,skill.name.sharp_eye,Skill Names,64,鷹眼
 01516,skill.desc.increase_the_amount_of_secret_stash_on,Skill Descriptions,128,增加地圖上的隱藏儲藏數量
 01517,skill.name.fast_hands,Skill Names,64,快手
@@ -1620,12 +1620,12 @@
 01619,base.module.desc.30_scrapped_items,"Base Module Descriptions, alt b",320,分解物品 +30%
 01620,base.module.name.gym,Base Module Names,32,健身房
 01621,base.module.desc.a_small_gym_where_you_can_work_out,"Base Module Descriptions, general",320,鍛鍊身體的小型健身房。\n可提升最大耐力與有氧技能升級速度。
-01622,base.module.desc.10_stamina_n_20_cardio_experience_rate,"Base Module Descriptions, alt a",320,最大耐力 +10\n運動經驗 +20%
-01623,base.module.desc.20_stamina_n_40_cardio_experience_rate,"Base Module Descriptions, alt b",320,最大耐力 +20\n運動經驗 +40%
+01622,base.module.desc.10_stamina_n_20_cardio_experience_rate,"Base Module Descriptions, alt a",320,最大耐力 +10\n運動經驗值 +20%
+01623,base.module.desc.20_stamina_n_40_cardio_experience_rate,"Base Module Descriptions, alt b",320,最大耐力 +20\n運動經驗值 +40%
 01624,base.module.name.shooting_range,Base Module Names,32,射擊場
-01625,base.module.desc.train_your_shooting_skill_ngain_more,"Base Module Descriptions, general",320,訓練射擊技能。\n獲得更多武器傷害與射擊經驗加成
+01625,base.module.desc.train_your_shooting_skill_ngain_more,"Base Module Descriptions, general",320,訓練射擊技能。\n獲得更多武器傷害與射擊經驗值加成
 01626,base.module.desc.5_weapon_damage_n_20_shooting,"Base Module Descriptions, alt a",320,武器傷害 +5%\n射擊經驗值 +20%
-01627,base.module.desc.10_weapon_damage_n_40_shooting,"Base Module Descriptions, alt b",320,武器傷害 +10%\n射擊經驗率值 +40%
+01627,base.module.desc.10_weapon_damage_n_40_shooting,"Base Module Descriptions, alt b",320,武器傷害 +10%\n射擊經驗值率值 +40%
 01628,base.module.name.radio_station,Base Module Names,32,電台
 01629,base.module.desc.in_development_do_not_install,"Base Module Descriptions, general",320,開發中 - 請勿安裝
 01630,base.module.desc.allows_to_see_all_the_minimap,"Base Module Descriptions, alt a",320,允許查看完整小地圖
@@ -2138,8 +2138,8 @@
 02137,quest.objective.type.quest_objective_type_collect_weapon,Quest objective type：Collect Weapon,160,收集 [AMOUNT_TO_COLLECT] [ITEM_NAME]
 02138,quest.objective.type.quest_objective_type_survive_a,Quest objective type：Survive A,160,成功從 [MAP_NAME] 撤離 [AMOUNT_TO_SURVIVE] 次
 02139,quest.objective.type.quest_objective_type_survive_b,Quest objective type：Survive B,160,成功撤離 [AMOUNT_TO_SURVIVE] 次
-02140,quest.objective.type.quest_objective_type_survive_exp_a,Quest objective type：Survive Exp A,160,成功從 [MAP_NAME] 撤離 [AMOUNT_TO_SURVIVE] 次，並獲得至少 [EXP_REQUIRED] 狩獵經驗
-02141,quest.objective.type.quest_objective_type_survive_exp_b,Quest objective type：Survive Exp B,160,成功撤離 [AMOUNT_TO_SURVIVE] 次，並獲得至少 [EXP_REQUIRED] 狩獵經驗
+02140,quest.objective.type.quest_objective_type_survive_exp_a,Quest objective type：Survive Exp A,160,成功從 [MAP_NAME] 撤離 [AMOUNT_TO_SURVIVE] 次，並獲得至少 [EXP_REQUIRED] 狩獵經驗值
+02141,quest.objective.type.quest_objective_type_survive_exp_b,Quest objective type：Survive Exp B,160,成功撤離 [AMOUNT_TO_SURVIVE] 次，並獲得至少 [EXP_REQUIRED] 狩獵經驗值
 02142,quest.objective.type.quest_objective_type_survive_money_a,Quest objective type：Survive Money A,160,成功從 [MAP_NAME] 撤離 [AMOUNT_TO_SURVIVE] 次，並獲得至少 [MONEY_REQUIRED] 盧布的等值戰利品
 02143,quest.objective.type.quest_objective_type_survive_money_b,Quest objective type：Survive Money B,160,成功撤離 [AMOUNT_TO_SURVIVE] 次，並獲得至少 [MONEY_REQUIRED] 盧布的等值戰利品
 02144,quest.objective.type.quest_objective_type_retrieve_analyzer_a,Quest objective type：Retrieve Analyzer A,160,從位於 [MAP_NAME] 的火焰異常附近取回分析儀
@@ -2181,7 +2181,7 @@
 02180,controls.menu.quick_slot,Controls menu,48,快捷欄位 [SLOT_NUMBER]
 02181,steam.cloud.delete_cloud_saves,"User Interface, cloud saves",64,刪除雲存檔
 02182,difficulty.menu.hunter_difficulty_text,Difficulty menu,128,死亡時將失去物品欄內的所有物品……\n完畢。\n祝你玩得開心。
-02183,difficulty.menu.survivor_difficulty_text,Difficulty menu,750,此難度適合有一定經驗且追求適度挑戰的玩家。\n資源與物資不再充裕，迫使玩家更有策略地規劃消耗；\n敵人攻擊性更強且傷害更高，戰鬥時需要更加謹慎並講究戰術；\n角色最大生命值降低，容錯率更低。
+02183,difficulty.menu.survivor_difficulty_text,Difficulty menu,750,此難度適合有一定經驗值且追求適度挑戰的玩家。\n資源與物資不再充裕，迫使玩家更有策略地規劃消耗；\n敵人攻擊性更強且傷害更高，戰鬥時需要更加謹慎並講究戰術；\n角色最大生命值降低，容錯率更低。
 02184,difficulty.menu.rookie_difficulty_text,Difficulty menu,750,此難度專爲初次接觸《ZERO Sievert》或偏好輕鬆體驗的玩家設計。\n彈藥、食物與醫療用品等資源隨處可見；\n敵人傷害較低，能在無壓力的情況下熟悉機制並探索世界；\n角色最大生命值提升，容錯率更高。
 02185,settings.video.fog_of_war_field_of_view,Video settings,64,戰爭迷霧視野盲區
 02186,settings.video.grass_sway,Video settings,64,草地晃動
@@ -2211,7 +2211,7 @@
 02210,difficulty.menu.equipment_4,Difficulty menu,64,裝備 4
 02211,difficulty.menu.equipment_5,Difficulty menu,64,裝備 5
 02212,difficulty.menu.equipment_6,Difficulty menu,64,裝備 6
-02213,difficulty.menu.skill_experience_multipler,Difficulty menu,64,技能經驗
+02213,difficulty.menu.skill_experience_multipler,Difficulty menu,64,技能經驗值
 02214,difficulty.menu.you_can_not_change_difficulty_settings,Difficulty menu,128,無法在主選單中更改難度設定
 02215,steam.cloud.steam_cloud_warning,Steam cloud,512,此操作將刪除本機與雲端的所有存檔數據。\n各槽位內的物品、技能及任務進度都將失去。\n確定要繼續嗎？
 02216,menu.general.cancel,General menus,16,取消
@@ -2284,7 +2284,7 @@
 02283,item.name.rotten_milk,Consumable,64,變質的牛奶
 02284,item.name.mre,Consumable,64,軍用口糧
 02285,item.name.pasta,Consumable,64,義大利麵
-02286,item.name.cooked_pasta,Consumable,64,煮麵料理
+02286,item.name.cooked_pasta,Consumable,64,煮熟的義大利麵
 02287,item.name.raw_meat,Consumable,64,生肉
 02288,item.name.molbaro_cigarette,Consumable,64,萬寶路香菸
 02289,item.name.red_wine,Consumable,64,紅酒
@@ -2306,7 +2306,7 @@
 02305,difficulty.menu.tooltip.all_npcs_will_drop_their_armor_the,Difficulty menu tooltips,512,所有NPC都會掉落護甲，耐久取決於他們所受的傷害
 02306,difficulty.menu.tooltip.factor_by_which_the_value_of_an_item,Difficulty menu tooltips,512,出售物品時價值所乘的倍率。\n例如：價值 100 盧布的物品，買入價爲 100，出售倍率爲 1.1，售價爲 100x1.1=110。
 02307,difficulty.menu.tooltip.npc_service_price_factor,Difficulty menu tooltips,512,地堡中NPC提供各項服務的費用
-02308,difficulty.menu.tooltip.hunt_reputation_factor,Difficulty menu tooltips,512,狩獵結束時獲得的經驗
+02308,difficulty.menu.tooltip.hunt_reputation_factor,Difficulty menu tooltips,512,狩獵結束時獲得的經驗值
 02309,difficulty.menu.tooltip.single_item_per_container_factor,Difficulty menu tooltips,512,容器中每項物品所包含的數量
 02310,difficulty.menu.tooltip.items_per_container_factor,Difficulty menu tooltips,512,容器中物品總數
 02311,difficulty.menu.tooltip.trader_money_factor,Difficulty menu tooltips,512,商人的盧布數量
@@ -2360,7 +2360,7 @@
 02359,difficulty.modifier.minimum_transportable_weight,Difficulty modifier names,72,負重上限
 02360,difficulty.modifier.hunger_thirst_decay_rate,Difficulty modifier names,72,飢餓/口渴消耗
 02361,difficulty.modifier.reputation_multiplier,Difficulty modifier names,72,聲望倍率
-02362,difficulty.modifier.skill_experience_multiplier,Difficulty modifier names,72,技能經驗倍率
+02362,difficulty.modifier.skill_experience_multiplier,Difficulty modifier names,72,技能經驗值倍率
 02363,difficulty.modifier.reputation_from_quests,Difficulty modifier names,72,任務聲望
 02364,difficulty.modifier.roubles_from_quests,Difficulty modifier names,72,任務盧布
 02365,difficulty.modifier.items_from_quests,Difficulty modifier names,72,任務物品
@@ -2443,7 +2443,7 @@
 02442,weapon.mod.ui.attachment_3,Weapons Mod UI,24,配件 3
 02443,weapon.mod.ui.attachment_4,Weapons Mod UI,24,配件 4
 02444,weapon.mod.ui.attachments,Weapons Mod UI,24,配件
-02445,weapon.mod.ui.grip,Weapons Mod UI,24,前握把
+02445,weapon.mod.ui.grip,Weapons Mod UI,24,握把
 02446,weapon.mod.ui.capacity,Weapons Mod UI,24,彈匣容量
 02447,weapon.mod.ui.view_distance,Weapons Mod UI,24,視距
 02448,weapon.mod.ui.mult_range,Weapons Mod UI,24,射程倍率
@@ -2455,7 +2455,7 @@
 02454,item.context.consume,Item Context Usage,12,使用
 02455,item.context.unload,Item Context Usage,12,退出子彈
 02456,item.needed_x_item_to_craft,Craftw item needed,64,需要 [AMOUNT_REQUIRED] 以製作 [ITEM_NAME]
-02457,quest.item.needed_x_for_quest,Quest item needed,64,需要 [AMOUNT_REQUIRED] 以完成「 [QUEST_NAME] 」
+02457,quest.item.needed_x_for_quest,Quest item needed,64,需要 [AMOUNT_REQUIRED] 以完成「[QUEST_NAME]」
 02458,misc.debug.you_are_stuck_hold_ctrl_and_press_wasd,Debug text,256,你被卡住了，按住 [CTRL] 以及 [WASD] 進行移動
 02459,menu.pause.lose_progress_and_exit,Exit pause menu,64,放棄進度並離開
 02460,item.desc.small_backpack,Item description,32,小背包
@@ -2659,12 +2659,12 @@
 02658,stats.rifle_kills,Stats,48,步槍擊殺
 02659,stats.dmr_kills,Stats,48,精確射手步槍擊殺
 02660,stats.sniper_kills,Stats,48,狙擊槍擊殺
-02661,stats.experience.pistol_exp,Stats - Experience,48,手槍經驗
-02662,stats.experience.smg_exp,Stats - Experience,48,衝鋒槍經驗
-02663,stats.experience.shotgun_exp,Stats - Experience,48,散彈槍經驗
-02664,stats.experience.rifle_exp,Stats - Experience,48,步槍經驗
-02665,stats.experience.dmr_exp,Stats - Experience,48,精確射手步槍經驗
-02666,stats.experience.sniper_exp,Stats - Experience,48,狙擊槍經驗
+02661,stats.experience.pistol_exp,Stats - Experience,48,手槍經驗值
+02662,stats.experience.smg_exp,Stats - Experience,48,衝鋒槍經驗值
+02663,stats.experience.shotgun_exp,Stats - Experience,48,散彈槍經驗值
+02664,stats.experience.rifle_exp,Stats - Experience,48,步槍經驗值
+02665,stats.experience.dmr_exp,Stats - Experience,48,精確射手步槍經驗值
+02666,stats.experience.sniper_exp,Stats - Experience,48,狙擊槍經驗值
 02667,achievement.name.first_blood,Achievement Name,48,第一滴血
 02668,achievement.name.welcome_to_zero_sievert,Achievement Name,48,歡迎來到零希沃特
 02669,achievement.name.die_trying,Achievement Name,48,視死如歸
@@ -2872,27 +2872,27 @@
 02871,npc.text.mutation_confirmed_within_15_days,NPC text,64,已證實變異會在 15 天內結束。
 02872,item.name.military_bandage,Medication Items,32,軍用繃帶
 02873,modules_description.modules_tier_2,Modules description,64,2+ 級模組
-02874,modules_description.energy_restore_rate_50_nhunger_and,Modules description,256,睡眠時精力/傷口恢復 +50% \n睡眠時飢餓/口渴消耗 -40% \n睡眠時生命值恢復/輻射緩解 +50%
-02875,modules_description.energy_restore_rate_100_ndon_t,Modules description,256,睡眠時精力/傷口恢復 +100% \n睡眠時免除飢餓/口渴消耗\n睡眠時生命值恢復/輻射緩解 +300%
+02874,modules_description.energy_restore_rate_50_nhunger_and,Modules description,256,睡眠時精力/傷口恢復 +50%\n睡眠時飢餓/口渴消耗 -40%\n睡眠時生命值恢復/輻射緩解 +50%
+02875,modules_description.energy_restore_rate_100_ndon_t,Modules description,256,睡眠時精力/傷口恢復 +100%\n睡眠時免除飢餓/口渴消耗\n睡眠時生命值恢復/輻射緩解 +300%
 02876,modules_description.gain_15_material_when_you_scrap_an_item,Modules description,256,分解物品獲得的廢料 +15%
 02877,modules_description.gain_40_material_when_you_scrap_an_item,Modules description,256,分解物品獲得的廢料 +40%
 02878,modules_description.a_small_gym_where_you_can_work_out,Modules description,64,鍛鍊身體的小型健身房。\n提供體能加成。
 02879,modules_description.stamina_10_n_3kg_max_carried_weight,Modules description,64,最大耐力 +10\n +3KG 負重上限\n精力消耗 -20%
 02880,modules_description.stamina_20_n_6kg_max_carried_weight,Modules description,64,最大耐力 +20\n +6KG 負重上限\n精力消耗 -50%
-02881,modules_description.weapon_damage_3_nweapon_mastery_exp_10,Modules description,64,武器傷害 +5% \n武器技能經驗 +10%
-02882,modules_description.weapon_damage_5_nweapon_mastery_exp_20,Modules description,64,武器傷害 +10% \n武器技能經驗 +20%
+02881,modules_description.weapon_damage_3_nweapon_mastery_exp_10,Modules description,64,武器傷害 +5%\n武器技能經驗值 +10%
+02882,modules_description.weapon_damage_5_nweapon_mastery_exp_20,Modules description,64,武器傷害 +10%\n武器技能經驗值 +20%
 02883,modules_description.provide_scrap_medication_and_scrap,Modules description,64,每天產出食物廢料和醫療用品廢料
 02884,modules_description.provide_scrap_ammo_everyday_ncraft,Modules description,64,每天產出彈藥廢料\n允許你製作彈藥
 02885,modules_description.you_can_repair_weapons_and_armor_in,Modules description,64,允許你修理武器和護甲
 02886,modules_description.repair_an_item_requires_25_less,Modules description,64,修理武器和護甲所需材料 -25%
-02887,npc.interaction.as_you_know_years_after_the_closure_of,"User Interface, interaction with NPC",4096,舊核電廠關閉多年後，深紅公司在其地下發現了奇怪的高強度輻射。他們與當地政府達成協議，建立了實驗室。\n最終他們找到了一個佈滿紫色水晶的洞穴，那正是輻射的源頭。\n研究持續了數年，層出不窮的重大發現推動了生物和醫學領域的進步，使公司一躍成爲跨國巨頭企業。\n似乎一切都合理合法？然而這份檔案表明，深紅公司與世界各國政府簽訂了多份關於開發原型武器的合同。\n我確信，公司實際上是依靠這些合同才迅速崛起的。\n此外，基於他們研究成果開發的藥物對於人羣是否存在長期影響也是一個未知數。\n深紅公司從未對外披露過研究詳情，但他們的產品革新了整個行業，連有頭有臉的大人物都無法因其來源和影響成疑而拒絕。\n\n核電廠爆炸前幾個小時，水晶樣品出現了異常。\n負責人堅持要接觸。弗羅洛夫也是在那時逃出了實驗室。\n公司的儀器全都發生了故障，開始反覆刷屏如下代碼：\n\n0 1 0 1 0 0 1 1\n0 1 1 1 0 1 0 0\n0 1 1 0 0 0 0 1\n0 1 1 0 1 1 0 0\n0 1 1 0 1 0 1 1\n0 1 1 0 0 1 0 1\n0 1 1 1 0 0 1 0\n\n從這份檔案中無法弄清究竟是什麼引發了爆炸，不過強行接觸異常應當算作一個潛在因素。\n說回現在，想揭開異常背後的祕密，只有前往觀察者在扎科夫的總部，那裏有條隧道通向核電廠。\n你大概會看見一些令人瘋狂的景象，我只希望你能保持清醒。\n破譯這些代碼並輸入結果，一切也許就都結束了。\n就說到這裡吧，獵人，此行動了。
+02887,npc.interaction.as_you_know_years_after_the_closure_of,"User Interface, interaction with NPC",4096,舊核電廠關閉多年後，深紅公司在其地下發現了奇怪的高強度輻射。他們與當地政府達成協議，建立了實驗室。\n最終他們找到了一個佈滿紫色水晶的洞穴，那正是輻射的源頭。\n研究持續了數年，層出不窮的重大發現推動了生物和醫學領域的進步，使公司一躍成爲跨國巨頭企業。\n似乎一切都合理合法？然而這份檔案表明，深紅公司與世界各國政府簽訂了多份關於開發原型武器的合同。\n我確信，公司實際上是依靠這些合同才迅速崛起的。\n此外，基於他們研究成果開發的醫療用品對於人羣是否存在長期影響也是一個未知數。\n深紅公司從未對外披露過研究詳情，但他們的產品革新了整個行業，連有頭有臉的大人物都無法因其來源和影響成疑而拒絕。\n\n核電廠爆炸前幾個小時，水晶樣品出現了異常。\n負責人堅持要接觸。弗羅洛夫也是在那時逃出了實驗室。\n公司的儀器全都發生了故障，開始反覆刷屏如下代碼：\n\n0 1 0 1 0 0 1 1\n0 1 1 1 0 1 0 0\n0 1 1 0 0 0 0 1\n0 1 1 0 1 1 0 0\n0 1 1 0 1 0 1 1\n0 1 1 0 0 1 0 1\n0 1 1 1 0 0 1 0\n\n從這份檔案中無法弄清究竟是什麼引發了爆炸，不過強行接觸異常應當算作一個潛在因素。\n說回現在，想揭開異常背後的祕密，只有前往觀察者在扎科夫的總部，那裏有條隧道通向核電廠。\n你大概會看見一些令人瘋狂的景象，我只希望你能保持清醒。\n破譯這些代碼並輸入結果，一切也許就都結束了。\n就說到這裡吧，獵人，此行動了。
 02888,npc.interaction.repair_armour_below_class_4,"User Interface, interaction with NPC",256,我只能修理不超過4級的護甲。
 02889,misc.armor_class_is_too_high,,64,不適用於目前護甲等級
 02890,misc.armor_durability_is_too_high,,64,不適用於目前護甲耐久
 02891,modules_description.provide_scrap_material_and_scrap,Modules description,64,每天產出普通廢料和武器廢料
 02892,modules_description.looting_speed,Modules description,64,搜刮速度
-02893,modules_description.allows_cooking_basic_meals_nhunger_and,Modules description,256,解鎖基礎食譜\n飢餓/口渴消耗 -15% \n飽足狀態的正面效果 +50% \n飢渴狀態的負面效果 -25%
-02894,modules_description.allows_cooking_all_meals_nhunger_and,Modules description,256,解鎖所有食譜\n飢餓/口渴消耗 -30% \n飽足狀態的正面效果 +100% \n飢渴狀態的負面效果 -50%
+02893,modules_description.allows_cooking_basic_meals_nhunger_and,Modules description,256,解鎖基礎食譜\n飢餓/口渴消耗 -15%\n飽足狀態的正面效果 +50%\n飢渴狀態的負面效果 -25%
+02894,modules_description.allows_cooking_all_meals_nhunger_and,Modules description,256,解鎖所有食譜\n飢餓/口渴消耗 -30%\n飽足狀態的正面效果 +100%\n飢渴狀態的負面效果 -50%
 02895,quest.desc.the_doctor_would_like_to_examine_the,Quest descriptions,1024,醫生想測試輻射對人體的影響。\n志願者需要承受大量輻射並報告身體狀況。\n別跟我甩臉子，獵人，我也沒強求你這樣做。這對你來說其實不算難事，而且還有報酬。\n醫生預期的輻射程度是橙色。
 02896,quest.objective.reach_orange_level_of_radiation,Quest objectives,64,輻射的嚴重程度達到橙色
 02897,misc.armor_class_doesn_t_match_with_the,,64,修理套件不適用於目前護甲等級
@@ -3097,9 +3097,9 @@
 03096,workshop.missing_version_in_metadata_ini,Steam Workshop error message (do not translate file name or version),64,metadata.ini 缺少 「版本」
 03097,workshop.missing_author_in_metadata_ini,Steam Workshop error message (do not translate file name or author),64,metadata.ini 缺少 「作者」
 03098,workshop.icon_png_is_required_in_mod_folder,Steam Workshop error message (do not translate file name),64,icon.png 必須在模組檔案夾內
-03099,item.name.carret_n82,Weapons,64,M82A1
-03100,item.name.carret_n82_10_round_magazine,Weapon Mods,64,M82A1 10 發彈匣
-03101,item.name.carret_n82_5_round_magazine,Weapon Mods,64,M82A1 5發彈匣
+03099,item.name.carret_n82,Weapons,64,巴雷特 M82
+03100,item.name.carret_n82_10_round_magazine,Weapon Mods,64,巴雷特 M82 10 發彈匣
+03101,item.name.carret_n82_5_round_magazine,Weapon Mods,64,巴雷特 M82 5發彈匣
 03102,quest.name.clear_the_way_again,Quest Name,128,捲土重來
 03103,quest.desc.most_of_our_forces_are_focusing_on,Quest description,None,我們大多數人手都投入到了扎科夫，這讓Orel有機可乘。他又成了臨時營地的土皇帝。\n我搞到了一把大傢伙，獵人。如果你能挫挫Orel的銳氣，它就是你的了。\n提醒你一下，Orel躲在舊火車站那裏。\n搞定他之後，我會賣彈藥給你，但得等到下一次補貨。
 03104,item.name.foregrip_desert,Weapon Mods,64,沙漠色前握把
@@ -4110,11 +4110,11 @@
 04113,item.name.letter_zs2,Item name - letter_zs2; research note found in the Nuclear Power Plant,64,研究員筆記
 04114,faction.inter.pick_up_letter_zs2,Interfactions - prompt to pick up the research note in the Nuclear Power Plant,48,拾取信件
 04115,ui.popup.item_added_to_inventory,User Interface Popup - pickup notification; [ITEM] is replaced with the localized item name; preserve this token,128,[ITEM] 已放入背包
-04116,item.document.letter_zs2,Document text - research note found in the Nuclear Power Plant; preserve the \n\n paragraph breaks,2048,留封信交代清楚，免得以後沒機會了。\n\n她一直在跟那東西說話，我眼睜睜看著這位共事過的最聰明天才，整整三個星期都在對著晶體竊竊私語，現在我完全認不出她了。\n\n讀數顯示馬上就要過載，如果我對規模的推算沒錯，遭殃的絕不只是核電廠，方圓一百公里內的一切都將夷為平地。我已經啟動五號協議封鎖了主研究室，這是我權限內唯一能做的。公司其他人早就拿定了主意，似乎只有我在瞎操心。\n\n我得在最壞的情況發生前撤去零希沃特地堡。很抱歉我無能為力，也來不及警告其他人了。等有人讀到這封信，恐怕一切都太遲了。
-04117,map.sign.npp_atmospheric_monitoring_station,Map sign - Nuclear Power Plant atmospheric monitoring station; preserve the \n line break,128,大氣監測站\n2級權限
-04118,map.sign.npp_advanced_cellular_research,Map sign - Nuclear Power Plant advanced cellular research; preserve the \n line break,128,高級細胞研究室\n4級權限
-04119,map.sign.npp_auxiliary_power_systems,Map sign - Nuclear Power Plant auxiliary power systems; preserve the \n line break,128,輔助電源系統\n非授權人員禁止入內
-04120,map.sign.npp_crystal_extraction_site,Map sign - Nuclear Power Plant crystal extraction site; preserve the \n line break,128,晶體開採區\n5級權限 - 禁區
+04116,item.document.letter_zs2,Document text - research note found in the Nuclear Power Plant; preserve the\n\n paragraph breaks,2048,留封信交代清楚，免得以後沒機會了。\n\n她一直在跟那東西說話，我眼睜睜看著這位共事過的最聰明天才，整整三個星期都在對著晶體竊竊私語，現在我完全認不出她了。\n\n讀數顯示馬上就要過載，如果我對規模的推算沒錯，遭殃的絕不只是核電廠，方圓一百公里內的一切都將夷為平地。我已經啟動五號協議封鎖了主研究室，這是我權限內唯一能做的。公司其他人早就拿定了主意，似乎只有我在瞎操心。\n\n我得在最壞的情況發生前撤去零希沃特地堡。很抱歉我無能為力，也來不及警告其他人了。等有人讀到這封信，恐怕一切都太遲了。
+04117,map.sign.npp_atmospheric_monitoring_station,Map sign - Nuclear Power Plant atmospheric monitoring station; preserve the\n line break,128,大氣監測站\n2級權限
+04118,map.sign.npp_advanced_cellular_research,Map sign - Nuclear Power Plant advanced cellular research; preserve the\n line break,128,高級細胞研究室\n4級權限
+04119,map.sign.npp_auxiliary_power_systems,Map sign - Nuclear Power Plant auxiliary power systems; preserve the\n line break,128,輔助電源系統\n非授權人員禁止入內
+04120,map.sign.npp_crystal_extraction_site,Map sign - Nuclear Power Plant crystal extraction site; preserve the\n line break,128,晶體開採區\n5級權限 - 禁區
 
 05000,"When ON, tap to toggle sprinting on and off; when OFF, hold the key to sprint.",Gameplay setting tooltip,128,開啟時，點擊切換衝刺狀態；關閉時，按住按鍵衝刺
 05001,"When ON, weapons wear at 25% of the normal rate, so they seldom reach the jam threshold.",Difficulty menu tooltips,128,開啟時，武器磨損速度爲正常的25%，所以很少會達到卡殼閾值
@@ -4133,3 +4133,4 @@
 06007,"I've dealt with many cases with Barman. Depending on how Loner sees you, the items I can give you will vary. If you complete quests and buy or sell items to Barman or me, your reputation will naturally increase. And by the way, I like blue cigarettes...",NPC dialogue,512,我處理過很多酒保的案子。根據獨行俠對你的看法，我能給你的物品也會有所不同。完成任務，和酒保或我買賣物品，你的聲望自然會提升。對了，我喜歡藍色的香菸...
 06008,ULR .50 BMG Pisto,Weapons,64,.50 BMG 手槍
 06009,Santa AK-74,Weapons,64,聖誕 AK-74
+06010,Armsel Striker,Weapons,64,Protecta
