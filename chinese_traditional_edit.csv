@@ -891,7 +891,7 @@
 00890,ui.choose_an_item_as_a_reward,User Interface,40,選擇一項物品作為報酬
 00891,ui.choose_your_equipment,User Interface,40,選擇你的裝備
 00892,ui.combat,User Interface,40,戰鬥
-00893,ui.compatible_with,User Interface,40,兼容:
+00893,ui.compatible_with,User Interface,40,兼容：
 00894,ui.continue,User Interface,40,繼續
 00895,ui.controls,User Interface,40,控制
 00896,ui.data_collection,User Interface,40,資料數據收集
@@ -947,7 +947,7 @@
 00946,ui.sell_for,User Interface,40,出售價格
 00947,ui.sleep,User Interface,40,睡覺
 00948,ui.slot,User Interface,40,欄位
-00949,ui.slot_0_00,User Interface,40,欄位 0:00
+00949,ui.slot_0_00,User Interface,40,欄位 0：00
 00950,ui.specializing,User Interface,40,正在升級專精...
 00951,ui.start,User Interface,40,開始
 00952,ui.teleport_to,User Interface,40,傳送到...
@@ -2469,7 +2469,7 @@
 02468,item.desc.bolt_action,Item description,32,栓動
 02469,item.desc.flashbang,Item description,32,閃光彈
 02470,in_reference_to_the_analyzer.place,In reference to the analyzer and placing it down,16,放置
-02471,steam.no_steam,When Steam is not connected,16,未連接至Steam
+02471,steam.no_steam,When Steam is not connected,16,未連接至 Steam
 02472,when_cloud_saving_is_disabled.no_cloud,When cloud saving is disabled,16,無雲存檔
 02473,map.generation.total_time,Map generation related,16,時長
 02474,item.effect.sec,"Item effect description, means seconds",12,秒
@@ -2987,7 +2987,7 @@
 02986,ui.popup.this_will_delete_all_savedata_stored,Menu popup text,512,刪除存本地和雲存檔。\n你將失去所有物品、技能和任務進度。\n確定要這樣做嗎？
 02987,quest.item.zakov_fire_station_documents,Quest item,64,扎科夫消防局檔案
 02988,quest.objective.eliminate_the_crimson_in_the_swamp,Quest objective,96,擊殺沼澤的深紅公司士兵
-02989,displaying_which_ammo_the.current,Displaying which ammo the player is currently holding,48,目前:
+02989,displaying_which_ammo_the.current,Displaying which ammo the player is currently holding,48,目前：
 02990,quest.objective.second_part_of_the_crystal_documents,Quest objective,128,《啓示錄》第二部分
 02991,quest.objective.first_part_of_the_crystal_documents,Quest objective,128,《啓示錄》第一部分
 02992,quest.dialogue.you_are_still_alive_this_is_very,Quest dialogue,512,你還活着…難以置信！這意味着…不，還不能確定…\n耐心，獵人，只要我們不停下腳步，所有問題終歸會有答案。\n在覈電站爆炸前肯定發生了什麼事，最終引發了這一切。\n我認識一個專程來核電廠近距離研究水晶的人，一個頭腦清醒的傢伙，關心道德層面的問題，比如研究應該如何進行、可能帶來什麼後果...\n如果我對他的瞭解足夠，我敢肯定他會在爆炸前逃走，手裏還帶着我們想要的東西。\n去城市西北搜查他的辦公室。\n還有他家，中心區和舊共產主義城區交界處那棟公寓的二樓，也不能落下。
@@ -3037,12 +3037,12 @@
 03036,settings.toggle_full_screen_overlay_effects,Settings option tooltip,128,切換天氣視覺效果
 03037,button_to_upload.upload,Button to upload,12,上傳
 03038,workshop.uploading_mod,Status of Steam Workshop Mod upload,50,正在上傳模組...
-03039,display_for_the_name_of_the.mod_name,Display for the name of the mod Mod Name：Dave's Gun Mod,40,模組名稱:
+03039,display_for_the_name_of_the.mod_name,Display for the name of the mod Mod Name：Dave's Gun Mod,40,模組名稱：
 03040,we_are_going_through_the.stage,We are going through the upload process so this will say stage 8 of 12,40,進度
 03041,misc.4_of_12.value1_of_value2,4 of 12,40,[VALUE1]（共 [VALUE2]）
-03042,workshop.status,Status of Steam Workshop Mod upload,40,狀態:
-03043,workshop.steam_response,Status of Steam Workshop Mod upload,40,Steam 響應:
-03044,workshop.progress,Status of Steam Workshop Mod upload,40,進度:
+03042,workshop.status,Status of Steam Workshop Mod upload,40,狀態：
+03043,workshop.steam_response,Status of Steam Workshop Mod upload,40,Steam 響應：
+03044,workshop.progress,Status of Steam Workshop Mod upload,40,進度：
 03045,workshop.connecting_to_steam,Status of Steam Workshop Mod upload,40,正在連接至 Steam...
 03046,workshop.gathering_files,Status of Steam Workshop Mod upload,40,正在收集檔案...
 03047,workshop.making_workshop_page,Status of Steam Workshop Mod upload,40,正在生成創意工坊頁面...
@@ -3061,7 +3061,7 @@
 03060,workshop.warning_problem_getting_progress_from,Steam Workshop error message,160,警告：從 Steam 獲取進度時出現問題（可能已上傳）。
 03061,workshop.mod_successfully_uploaded_to_steamworks,Steam Workshop error message,160,模組已成功上傳至 Steam 工坊。
 03062,ui.button.close.close_window,Window Close Buttons,30,關閉窗口
-03063,ui.button.close.view_on_steam,Window Close Buttons,30,在Steam上瀏覽
+03063,ui.button.close.view_on_steam,Window Close Buttons,30,在 Steam 上瀏覽
 03064,menu.main.resolution_scaling,Main menu,64,解析度縮放
 03065,settings.this_setting_affects_the_resolution,Setting description,160,此設定會影響遊戲的解析度比例。但不會影響用戶界面。
 03066,menu.main.settings_performance,Main menu,64,設定 - 性能
@@ -3085,9 +3085,9 @@
 03084,settings.reload_mod_data,Settings Button,64,重新加載模組數據
 03085,mod.ui.mods_pending_reload,Mod screen notice,32,模組等待重新加載
 03086,mod.ui.error_in_mod,Mod screen notice,32,模組錯誤
-03087,workshop.cannot_upload,Steam Workshop error message,32,無法上傳:
+03087,workshop.cannot_upload,Steam Workshop error message,32,無法上傳：
 03088,workshop.no_internet,Steam Workshop error message,64,無網絡
-03089,workshop.steam_not_active,Steam Workshop error message,64,Steam離線
+03089,workshop.steam_not_active,Steam Workshop error message,64,Steam 離線
 03090,workshop.steam_not_logged_in,Steam Workshop error message,64,未登錄 Steam
 03091,workshop.directory_does_not_exist,Steam Workshop error message (do not translate file name),64,目錄不存在
 03092,workshop.init_script_is_a_mandatory_file,Steam Workshop error message (do not translate file name),64,init.script 是必需檔案
@@ -3190,19 +3190,19 @@
 03189,dialogue.thank_you_hunter_here_are_some_roubles,Dialogue,64,謝謝你，獵人！拿上這些盧布。
 03190,base.module.you_have_to_install_previous_levels,When crafting a base module kit,128,你必須先安裝低級模組
 03191,reward_for_giving_prologue.you_have_received_10000_roubles,Reward for giving prologue letter to Barman,128,已獲得 10000 盧布
-03192,ui.shootingrange.recoil,Shooting range displayed data,16,準星偏移:
-03193,ui.shootingrange.move,Shooting range displayed data,16,移動偏移:
-03194,ui.shootingrange.shot,Shooting range displayed data,16,射擊偏移:
-03195,ui.shootingrange.total,Shooting range displayed data,16,總計偏移:
-03196,ui.shootingrange.precision,Shooting range displayed data,16,散佈:
-03197,ui.shootingrange.base_dmg,Shooting range displayed data,16,基礎傷害:
-03198,ui.shootingrange.mastery,Shooting range displayed data,16,槍械:
-03199,ui.shootingrange.scoped,Shooting range displayed data,16,開鏡:
-03200,ui.shootingrange.skills,Shooting range displayed data,16,技能:
-03201,ui.shootingrange.final_dmg,Shooting range displayed data,16,最終傷害:
-03202,ui.shootingrange.hit,Shooting Range info text,32,命中:
-03203,ui.shootingrange.dmg,Shooting range displayed data,16,傷害:
-03204,ui.shootingrange.pen,Shooting range displayed data,16,穿透:
+03192,ui.shootingrange.recoil,Shooting range displayed data,16,準星偏移：
+03193,ui.shootingrange.move,Shooting range displayed data,16,移動偏移：
+03194,ui.shootingrange.shot,Shooting range displayed data,16,射擊偏移：
+03195,ui.shootingrange.total,Shooting range displayed data,16,總計偏移：
+03196,ui.shootingrange.precision,Shooting range displayed data,16,散佈：
+03197,ui.shootingrange.base_dmg,Shooting range displayed data,16,基礎傷害：
+03198,ui.shootingrange.mastery,Shooting range displayed data,16,槍械：
+03199,ui.shootingrange.scoped,Shooting range displayed data,16,開鏡：
+03200,ui.shootingrange.skills,Shooting range displayed data,16,技能：
+03201,ui.shootingrange.final_dmg,Shooting range displayed data,16,最終傷害：
+03202,ui.shootingrange.hit,Shooting Range info text,32,命中：
+03203,ui.shootingrange.dmg,Shooting range displayed data,16,傷害：
+03204,ui.shootingrange.pen,Shooting range displayed data,16,穿透：
 03205,telling_player_they_need_to.select_reward,Telling player they need to select a reward to continue.,40,選擇獎勵
 03206,settings.sound.opening_sound_of_the_pda,Sound Setting,64,開啓個人終端
 03207,settings.sound.general_pda_sounds,Sound Setting,64,個人終端
@@ -4348,7 +4348,7 @@
 05004,M1A ghillie stock,Weapon Mods,64,M1A 吉利偽裝槍托
 05005,Confirm,User Interface,40,確認
 05006,NPCs claim bodies,Difficulty Menu,32,NPC 會認領屍體
-05007,"NPCs own the bodies of the enemies they kill: they warn you off, loot them and carry what they took until they die. When OFF, bodies are never claimed and NPCs do not loot.",Difficulty menu tooltips,512,NPC 會認領他們殺死的敵人的屍體：\n他們會警告你離開，搜刮屍體，並帶著搜刮的物品離開直到死亡。\n\n如果關閉此功能，屍體將不會被認領，NPC 也不會搜刮屍體。
+05007,"NPCs own the bodies of the enemies they kill： they warn you off, loot them and carry what they took until they die. When OFF, bodies are never claimed and NPCs do not loot.",Difficulty menu tooltips,512,NPC 會認領他們殺死的敵人的屍體：\n他們會警告你離開，搜刮屍體，並帶著搜刮的物品離開直到死亡。\n\n如果關閉此功能，屍體將不會被認領，NPC 也不會搜刮屍體。
 05008,NPC loot amount,Difficulty Menu,32,NPC 搜刮物品數量
 05009,"How much an NPC takes from a body it owns. 0 = it claims the body but takes nothing, 1 = normal, 2 = twice as much.",Difficulty menu tooltips,512,NPC 從認領的屍體中獲取的物品數量。\n0 = 認領屍體但不取走任何物品，\n1 = 正常數量，\n2 = 雙倍數量。
 
