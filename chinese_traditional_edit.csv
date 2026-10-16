@@ -129,57 +129,57 @@
 00128,item.document.class_c_documents,Documents,48,C 級檔案
 00129,item.document.class_d_documents,Documents,48,D 級檔案
 00130,item.document.secret_documents_hand_these_to_a,Documents,96,機密文件。將其交給陣營領袖可提升聲望。
-00131,npc.electrical_anomaly,NPCs,48,電擊異常
-00132,npc.fiery_anomaly,NPCs,48,火焰異常
-00133,npc.arman,NPCs,48,阿爾曼
-00134,npc.lazar,NPCs,48,拉扎爾
-00135,npc.lazar_s_guard,NPCs,48,拉扎爾的近衛
-00136,npc.orel,NPCs,48,奧廖爾
-00137,npc.doctor,NPCs,48,醫生
-00138,npc.networker,NPCs,48,聯絡員
-00139,npc.barman,NPCs,48,酒保
-00140,npc.big,NPCs,48,「大塊頭」
-00141,npc.blink,NPCs,48,「閃爍」
-00142,npc.boar,NPCs,48,野豬
-00143,npc.mutated_boar,NPCs,48,變異野豬
-00144,npc.soldier_gedeon_bogdanov,NPCs,48,士兵 - 吉迪恩·博格達諾夫
-00145,npc.conductor,NPCs,48,列車長
-00146,npc.soldier_ermolai_vlasov,NPCs,48,士兵 - 埃爾莫萊·弗拉索夫
-00147,npc.joel_emerson,NPCs,48,喬爾·埃默森
-00148,npc.max_parker,NPCs,48,馬克斯·帕克
-00149,npc.daniel_baker,NPCs,48,丹尼爾·貝克
-00150,npc.crow,NPCs,48,烏鴉
-00151,npc.the_networker,NPCs,48,聯絡員
-00152,npc.engineer_volkov,NPCs,48,工程師 - 沃爾科夫
-00153,npc.igor_kuzmin,NPCs,48,伊戈爾·庫茲明
-00154,npc.ghoul,NPCs,48,食屍鬼
-00155,npc.soldier_yakim_borisov,NPCs,48,士兵 - 雅基姆·鮑里索夫
-00156,npc.soldier_vadim_borisov,NPCs,48,士兵 - 瓦迪姆·鮑里索夫
-00157,npc.soldier_kodiak_vlasov,NPCs,48,士兵 - 科迪亞克·弗拉索夫
-00158,npc.the_guide,NPCs,48,嚮導
-00159,npc.infestation,NPCs,48,感染源
-00160,npc.mr_junk,NPCs,48,「垃圾」先生
-00161,npc.kibba,NPCs,48,基巴
-00162,npc.reynard_shepard,NPCs,48,雷納德·謝潑德
-00163,npc.general_artemovich,NPCs,48,將軍 - 阿爾捷莫維奇
-00164,npc.henry_davies,NPCs,48,亨利·戴維斯
-00165,npc.the_doctor,NPCs,48,醫生
-00166,npc.dimitriy_alexeev,NPCs,48,德米特里·阿列克謝耶夫
-00167,npc.crimson_assassin,NPCs,48,深紅公司殺手
-00168,npc.sergeant_desya_popo,NPCs,48,中士 - 德西亞·波波
-00169,npc.rabbit,NPCs,48,兔子
-00170,npc.rat,NPCs,48,老鼠
-00171,npc.santa_claus,NPCs,48,聖誕老人
-00172,npc.chief_scientist_isaak_fedorov,NPCs,48,首席科學家 - 伊薩克·費奧多羅夫
-00173,npc.mutated_spider,NPCs,48,變異蜘蛛
-00174,npc.spine,NPCs,48,「脊椎」
-00175,npc.alexei_andreevich,NPCs,48,阿列克謝·安德烈耶維奇
-00176,npc.osip_andreevich,NPCs,48,奧西普·安德烈耶維奇
-00177,npc.riley_evans,NPCs,48,萊利·埃文斯
-00178,npc.viktor_tutorialovich,NPCs,48,維克托·圖圖洛維奇
-00179,npc.unknown,NPCs,48,神祕人
-00180,npc.wolf,NPCs,48,狼
-00181,npc.zombie,NPCs,48,殭屍
+00131,npc.electrical_anomaly,NPC name,48,電擊異常
+00132,npc.fiery_anomaly,NPC name,48,火焰異常
+00133,npc.arman,NPC name,48,阿爾曼
+00134,npc.lazar,NPC name,48,拉扎爾
+00135,npc.lazar_s_guard,NPC name,48,拉扎爾的近衛
+00136,npc.orel,NPC name,48,奧廖爾
+00137,npc.doctor,NPC name,48,醫生
+00138,npc.networker,NPC name,48,聯絡員
+00139,npc.barman,NPC name,48,酒保
+00140,npc.big,NPC name,48,「大塊頭」
+00141,npc.blink,NPC name,48,「閃爍」
+00142,npc.boar,NPC name,48,野豬
+00143,npc.mutated_boar,NPC name,48,變異野豬
+00144,npc.soldier_gedeon_bogdanov,NPC name,48,士兵 - 吉迪恩·博格達諾夫
+00145,npc.conductor,NPC name,48,列車長
+00146,npc.soldier_ermolai_vlasov,NPC name,48,士兵 - 埃爾莫萊·弗拉索夫
+00147,npc.joel_emerson,NPC name,48,喬爾·埃默森
+00148,npc.max_parker,NPC name,48,馬克斯·帕克
+00149,npc.daniel_baker,NPC name,48,丹尼爾·貝克
+00150,npc.crow,NPC name,48,烏鴉
+00151,npc.the_networker,NPC name,48,聯絡員
+00152,npc.engineer_volkov,NPC name,48,工程師 - 沃爾科夫
+00153,npc.igor_kuzmin,NPC name,48,伊戈爾·庫茲明
+00154,npc.ghoul,NPC name,48,食屍鬼
+00155,npc.soldier_yakim_borisov,NPC name,48,士兵 - 雅基姆·鮑里索夫
+00156,npc.soldier_vadim_borisov,NPC name,48,士兵 - 瓦迪姆·鮑里索夫
+00157,npc.soldier_kodiak_vlasov,NPC name,48,士兵 - 科迪亞克·弗拉索夫
+00158,npc.the_guide,NPC name,48,嚮導
+00159,npc.infestation,NPC name,48,感染源
+00160,npc.mr_junk,NPC name,48,「垃圾」先生
+00161,npc.kibba,NPC name,48,基巴
+00162,npc.reynard_shepard,NPC name,48,雷納德·謝潑德
+00163,npc.general_artemovich,NPC name,48,將軍 - 阿爾捷莫維奇
+00164,npc.henry_davies,NPC name,48,亨利·戴維斯
+00165,npc.the_doctor,NPC name,48,醫生
+00166,npc.dimitriy_alexeev,NPC name,48,德米特里·阿列克謝耶夫
+00167,npc.crimson_assassin,NPC name,48,深紅公司殺手
+00168,npc.sergeant_desya_popo,NPC name,48,中士 - 德西亞·波波
+00169,npc.rabbit,NPC name,48,兔子
+00170,npc.rat,NPC name,48,老鼠
+00171,npc.santa_claus,NPC name,48,聖誕老人
+00172,npc.chief_scientist_isaak_fedorov,NPC name,48,首席科學家 - 伊薩克·費奧多羅夫
+00173,npc.mutated_spider,NPC name,48,變異蜘蛛
+00174,npc.spine,NPC name,48,「脊椎」
+00175,npc.alexei_andreevich,NPC name,48,阿列克謝·安德烈耶維奇
+00176,npc.osip_andreevich,NPC name,48,奧西普·安德烈耶維奇
+00177,npc.riley_evans,NPC name,48,萊利·埃文斯
+00178,npc.viktor_tutorialovich,NPC name,48,維克托·圖圖洛維奇
+00179,npc.unknown,NPC name,48,神祕人
+00180,npc.wolf,NPC name,48,狼
+00181,npc.zombie,NPC name,48,殭屍
 00182,armor.repair.armor_repair_kit,Armor Repair,48,護甲修理套件
 00183,armor.repair.to_use_this_repair_kit_put_the_weapon,Armor Repair Description,256,要使用此修理套件，請將武器裝備至主欄位，並右鍵使用以進行修理
 00184,item.desc.to_use_this_repair_kit_put_the_weapon,Item description,256,要使用此修理套件，請將武器裝備至主欄位，並右鍵使用以進行修理
@@ -1253,45 +1253,45 @@
 01252,npc.interaction.try_to_be_careful_if_you_go_to_the,"User Interface, interaction with NPC",1400,如果你準備去森林中央的村莊，一定要小心。\n我聽說最近有一幫強盜佔據了那裏。
 01253,npc.interaction.sorry_i_don_t_have_any,"User Interface, interaction with NPC",1400,抱歉，沒有...
 01254,npc.interaction.i_heard_that_a_strange_guy_lives_in,"User Interface, interaction with NPC",1400,我聽說有個奇怪的傢伙躲在臨時營地。\n我不記得名字了，但他們說他瘋瘋癲癲的。
-01255,npc.name.yulian_borisov,NPCs,48,尤利安·鮑里索夫
-01256,npc.name.zhukov,NPCs,48,朱可夫
-01257,npc.name.tikhon,NPCs,48,季洪
-01258,npc.name.toma,NPCs,48,托馬
+01255,npc.name.yulian_borisov,NPC name,48,尤利安·鮑里索夫
+01256,npc.name.zhukov,NPC name,48,朱可夫
+01257,npc.name.tikhon,NPC name,48,季洪
+01258,npc.name.toma,NPC name,48,托馬
 01259,npc.trade.trade,Trade with an NPC,48,交易
-01260,npc.name.vadim,NPCs,48,瓦迪姆
-01261,npc.name.vinogradov,NPCs,48,維諾格拉多夫
-01262,npc.name.vladimir,NPCs,48,弗拉基米爾
+01260,npc.name.vadim,NPC name,48,瓦迪姆
+01261,npc.name.vinogradov,NPC name,48,維諾格拉多夫
+01262,npc.name.vladimir,NPC name,48,弗拉基米爾
 01263,quest.name.the_guide,Quest names,64,嚮導
-01264,npc.name.osipov,NPCs,48,奧西波夫
-01265,npc.name.rostya,NPCs,48,羅斯佳
-01266,npc.name.sergeev,NPCs,48,謝爾蓋耶夫
-01267,npc.name.smirnov,NPCs,48,斯米爾諾夫
-01268,npc.name.spiridon,NPCs,48,斯皮里頓
-01269,npc.name.stepan,NPCs,48,斯捷潘
+01264,npc.name.osipov,NPC name,48,奧西波夫
+01265,npc.name.rostya,NPC name,48,羅斯佳
+01266,npc.name.sergeev,NPC name,48,謝爾蓋耶夫
+01267,npc.name.smirnov,NPC name,48,斯米爾諾夫
+01268,npc.name.spiridon,NPC name,48,斯皮里頓
+01269,npc.name.stepan,NPC name,48,斯捷潘
 01270,quest.task,"Synonym for quest, used in dialogue",48,任務
-01271,npc.name.solovev,NPCs,48,索洛維約夫
-01272,npc.name.pushkin,NPCs,48,普希金
-01273,npc.name.popo,NPCs,48,波波
-01274,npc.name.nikitin,NPCs,48,尼基京
-01275,npc.name.nikolaev,NPCs,48,尼古拉耶夫
-01276,npc.name.mr_gears,NPCs,48,齒輪先生
-01277,npc.name.koloda,NPCs,48,科洛達
-01278,npc.name.kuzmin,NPCs,48,庫茲明
-01279,npc.name.lebedev,NPCs,48,列別傑夫
-01280,npc.name.ludmil,NPCs,48,盧德米爾
-01281,npc.name.lyosha,NPCs,48,廖沙
-01282,npc.name.makarov,NPCs,48,馬卡羅夫
-01283,npc.name.markus,NPCs,48,馬庫斯
-01284,npc.name.isidor,NPCs,48,伊西多爾
-01285,npc.name.inna,NPCs,48,伊娜
-01286,npc.name.iov,NPCs,48,伊奧夫
-01287,npc.name.ipatiy,NPCs,48,伊帕季
-01288,npc.name.frolov,NPCs,48,弗羅洛夫
-01289,npc.name.gedeon,NPCs,48,吉迪恩
-01290,npc.name.ermolai,NPCs,48,艾爾莫萊
-01291,npc.name.alexeev,NPCs,48,阿列克謝耶夫
-01292,npc.name.alyosha_egorov,NPCs,48,阿廖沙·葉戈羅夫
-01293,npc.name.anatolii,NPCs,48,阿納託利
+01271,npc.name.solovev,NPC name,48,索洛維約夫
+01272,npc.name.pushkin,NPC name,48,普希金
+01273,npc.name.popo,NPC name,48,波波
+01274,npc.name.nikitin,NPC name,48,尼基京
+01275,npc.name.nikolaev,NPC name,48,尼古拉耶夫
+01276,npc.name.mr_gears,NPC name,48,齒輪先生
+01277,npc.name.koloda,NPC name,48,科洛達
+01278,npc.name.kuzmin,NPC name,48,庫茲明
+01279,npc.name.lebedev,NPC name,48,列別傑夫
+01280,npc.name.ludmil,NPC name,48,盧德米爾
+01281,npc.name.lyosha,NPC name,48,廖沙
+01282,npc.name.makarov,NPC name,48,馬卡羅夫
+01283,npc.name.markus,NPC name,48,馬庫斯
+01284,npc.name.isidor,NPC name,48,伊西多爾
+01285,npc.name.inna,NPC name,48,伊娜
+01286,npc.name.iov,NPC name,48,伊奧夫
+01287,npc.name.ipatiy,NPC name,48,伊帕季
+01288,npc.name.frolov,NPC name,48,弗羅洛夫
+01289,npc.name.gedeon,NPC name,48,吉迪恩
+01290,npc.name.ermolai,NPC name,48,艾爾莫萊
+01291,npc.name.alexeev,NPC name,48,阿列克謝耶夫
+01292,npc.name.alyosha_egorov,NPC name,48,阿廖沙·葉戈羅夫
+01293,npc.name.anatolii,NPC name,48,阿納託利
 01294,quest.quest,"User Interface, quests",16,任務
 01295,quest.completed,"User Interface, quests",16,已完成
 01296,quest.completed_lower_exclaim,"User Interface, quests",16,已完成！
@@ -1319,7 +1319,7 @@
 01318,faction.inter.open,Interfactions,48,打開
 01319,faction.inter.jam,Interfactions,48,卡殼
 01320,faction.inter.fix,Interfactions,48,修復
-01321,npc.name.mark,NPCs,48,馬克
+01321,npc.name.mark,NPC name,48,馬克
 01322,faction.inter.place_analyzer,Interfactions,48,放置分析儀
 01323,faction.inter.activate_gps,Interfactions,48,啟動 GPS
 01324,faction.inter.open_the_valve,Interfactions,48,打開閥門
@@ -2936,7 +2936,7 @@
 02935,dialogue.their_light_barely_flickers_as_shadows,Dialogue,128,...陰影悄悄逼近，它們的光愈見黯淡...
 02936,misc.you_already_have_this_module_installed,,64,你已經安裝此模組了
 02937,npc.title.soldier,NPC title part (Green Army Soldier for example),64,士兵
-02938,npc.name.green,NPCs,48,格林
+02938,npc.name.green,NPC name,48,格林
 02939,npc.title.army,NPC title part (Green Army for example),64,軍
 02940,npc.title.crimson,NPC title part (Crimson Corporation for example),64,深紅
 02941,train.skin.watcher,Train Skin Option Name,64,觀察者
@@ -2975,8 +2975,8 @@
 02974,quest.item.documents_found_in_the_school,Quest item,48,在學校找到的檔案
 02975,ui.button.reset,UI button,16,重置
 02976,item.repairkit.armor_class,Repair kit stats,24,護甲等級
-02977,npc.name.doctor_egorov,NPCs,32,醫生 - 葉戈羅夫
-02978,npc.name.lead_scientist,NPCs,32,首席科學家
+02977,npc.name.doctor_egorov,NPC name,32,醫生 - 葉戈羅夫
+02978,npc.name.lead_scientist,NPC name,32,首席科學家
 02979,item.name.strange_circuit,Item name,32,奇怪的電路板
 02980,quest.desc.bounty_reward_armor,Quest descriptions,512,幹得好。\n現在我給你一個挑戰，再殺他 15 次，你將獲得他盔甲的獨特變體。
 02981,ui.savedata_is_from_a_legacy_version_of,User Interface,72,存檔數據來自遊戲的較低版本
@@ -3108,7 +3108,7 @@
 03107,item.name.pistol_50_bmg_handguard,Weapon Mods,64,.50 BMG 手槍護木
 03108,quest.name.a_new_devil,Quest Name,64,地下魔影
 03109,quest.desc.some_hunters_have_reported_an_unique,Quest description,None,有獵人報告說商場的地下停車場裏遊蕩着一個古怪的觀察者。\n\n擊殺它。
-03110,npc.name.devil,NPCs,48,惡魔
+03110,npc.name.devil,NPC name,48,惡魔
 03111,item.name.wa_devil_suit,Armor,64,WA 惡魔衣裝
 03112,misc.insert.i_want_peace_with_everyone,Insert,256,我希望與所有人都和平共處
 03113,misc.insert.i_want_to_be_rich,Insert,256,我要發財
@@ -3262,7 +3262,7 @@
 03261,item.desc.deflect_15,Item Description,256,15% 概率偏轉子彈
 03262,item.name.commander_voss_suit,Armor,64,指揮官沃斯護甲
 03263,item.desc.deflect_15_heal_25,Item Description,256,15% 機率彈開子彈。\n觸發時恢復等同於偏轉傷害 25% 的生命值。
-03264,npc.name.commander_voss,NPCs,32,指揮官-沃斯
+03264,npc.name.commander_voss,NPC name,32,指揮官-沃斯
 03265,item.name.commander_voss_ec_74,Weapons,64,指揮官沃斯 AK 74
 03266,dialogue.any_news,Dialogue,32,有什麼消息嗎？
 03267,dialogue.horizon_docks,Dialogue,None,是啊，都傳開了，工業區來了一幫自稱「地平線」的新勢力。\n既不是軍隊也不是強盜，倒像是一身精良裝備且心懷鬼胎的企業武裝。\n他們封鎖了碼頭，膽敢靠近的人……全都人間蒸發了。
@@ -3457,7 +3457,7 @@
 03460,dialogue.here_s_the_letter,Dialogue,64,這裡有給你的信
 03461,difficulty.menu.custom,Difficulty Menu,32,自定義
 03462,chest.box,Chests,64,箱子
-03463,npc.train,NPCs,48,火車
+03463,npc.train,NPC name,48,火車
 03464,ui.in_stash,User Interface,40,儲藏
 03465,faction.inter.give_medkit,Interfactions,48,送出醫療包
 03466,tutorial.let_s_trade,Tutorial text,128,來交易吧
@@ -3467,242 +3467,242 @@
 03470,stats.boss_commander_voss,Stats,48,首領：沃斯指揮官
 03471,settings.video.borderless_when_fullscreen,Video settings,64,全螢幕無邊框
 03472,settings.gameplay.gamepad_aim_assist,Gameplay settings,64,遊戲手把輔助瞄準
-03473,settings.gameplay.npc_markers,Gameplay settings,64,NPC標記
+03473,settings.gameplay.npc_markers,Gameplay settings,64,NPC 標記
 03474,settings.auto_close_inventory,Setting option,128,自動關閉物品欄
 03475,settings.auto_close_pda,Setting option,128,自動關閉個人終端
 03476,menu.main.new,Main menu,64,新
-03477,npc.serge_nt_desya_popo,NPCs,48,德西亞·波波中士
-03478,misc.32.paiga_12_20_round_magazine_item_name,Weapon Mods,64,Saiga-12 的20 發彈匣
+03477,npc.serge_nt_desya_popo,NPC name,48,德西亞·波波中士
+03478,misc.32.paiga_12_20_round_magazine_item_name,Weapon Mods,64,Saiga-12 的 20 發彈匣
 03479,misc.32.paiga_12_tactical_handguard_item_name,Weapon Mods,64,Saiga-12 戰術護木
 03480,dialogue.horizon_docks_alt,Dialogue,None,是啊，都傳開了，工業區來了一幫自稱「地平線」的新勢力。\n既不是軍隊也不是強盜，倒像是一身精良裝備且心懷鬼胎的企業武裝。\n他們封鎖了碼頭，膽敢靠近的人……全都人間蒸發了。
-03481,npc.name.ivan,NPCs,48,伊萬
-03482,npc.name.vasiliy,NPCs,48,瓦西里
-03483,npc.name.petr,NPCs,48,彼得
-03484,npc.name.mikhail,NPCs,48,米哈伊爾
-03485,npc.name.fedor,NPCs,48,費奧多爾
-03486,npc.name.alexey,NPCs,48,阿列克謝
-03487,npc.name.semen,NPCs,48,謝苗
-03488,npc.name.egor,NPCs,48,葉戈爾
-03489,npc.name.pavel,NPCs,48,帕維爾
-03490,npc.name.nikolay,NPCs,48,尼古拉
-03491,npc.name.andrey,NPCs,48,安德烈
-03492,npc.name.makar,NPCs,48,馬卡爾
-03493,npc.name.nikita,NPCs,48,尼基塔
-03494,npc.name.zakhar,NPCs,48,扎哈爾
-03495,npc.name.boris,NPCs,48,鮑里斯
-03496,npc.name.yacov,NPCs,48,雅科夫
-03497,npc.name.grigoriy,NPCs,48,格里戈里
-03498,npc.name.roman,NPCs,48,羅曼
-03499,npc.name.sergey,NPCs,48,謝爾蓋
-03500,npc.name.alexandr,NPCs,48,亞歷山大
-03501,npc.name.dmitriy,NPCs,48,德米特里
-03502,npc.name.ilya,NPCs,48,伊利亞
-03503,npc.name.maksim,NPCs,48,馬克西姆
-03504,npc.name.anton,NPCs,48,安東
-03505,npc.name.taras,NPCs,48,塔拉斯
-03506,npc.name.filip,NPCs,48,菲利普
-03507,npc.name.bogdan,NPCs,48,波格丹
-03508,npc.name.matvey,NPCs,48,馬特維
-03509,npc.name.myron,NPCs,48,米隆
-03510,npc.name.denis,NPCs,48,丹尼斯
-03511,npc.name.gavrila,NPCs,48,加夫里拉
-03512,npc.name.afanasiy,NPCs,48,阿法納西
-03513,npc.name.danil,NPCs,48,達尼爾
-03514,npc.name.timofey,NPCs,48,季莫費
-03515,npc.name.efim,NPCs,48,葉菲姆
-03516,npc.name.nazar,NPCs,48,納扎爾
-03517,npc.name.rodion,NPCs,48,羅季翁
-03518,npc.name.klim,NPCs,48,克利姆
-03519,npc.name.prokhor,NPCs,48,普羅霍爾
-03520,npc.name.potap,NPCs,48,波塔普
-03521,npc.name.trofim,NPCs,48,特羅菲姆
-03522,npc.name.kirill,NPCs,48,基里爾
-03523,npc.name.konstantin,NPCs,48,康斯坦丁
-03524,npc.name.lev,NPCs,48,列夫
-03525,npc.name.artem,NPCs,48,阿爾喬姆
-03526,npc.name.gleb,NPCs,48,格列布
-03527,npc.name.panchenko,NPCs,48,潘琴科
-03528,npc.name.ulyanov,NPCs,48,烏里揚諾夫
-03529,npc.name.ostryi,NPCs,48,奧斯特里
-03530,npc.name.firsov,NPCs,48,菲爾索夫
-03531,npc.name.minaev,NPCs,48,米納耶夫
-03532,npc.name.akimchuk,NPCs,48,阿基姆丘克
-03533,npc.name.elizarov,NPCs,48,葉利扎羅夫
-03534,npc.name.chernichenkov,NPCs,48,切爾尼琴科夫
-03535,npc.name.dubets,NPCs,48,杜貝茨
-03536,npc.name.bazhenov,NPCs,48,巴熱諾夫
-03537,npc.name.blinchenko,NPCs,48,布林琴科
-03538,npc.name.ustinov,NPCs,48,烏斯季諾夫
-03539,npc.name.zolottsev,NPCs,48,佐洛採夫
-03540,npc.name.shulga,NPCs,48,舒利加
-03541,npc.name.oleynikov,NPCs,48,奧列伊尼科夫
-03542,npc.name.tretyachenkov,NPCs,48,特列季亞琴科夫
-03543,npc.name.efremchuk,NPCs,48,葉弗列姆丘克
-03544,npc.name.lavrov,NPCs,48,拉夫羅夫
-03545,npc.name.kornev,NPCs,48,科爾涅夫
-03546,npc.name.karasyuk,NPCs,48,卡拉修克
-03547,npc.name.belikov,NPCs,48,別利科夫
-03548,npc.name.fadeev,NPCs,48,法捷耶夫
-03549,npc.name.agaptsev,NPCs,48,阿加普採夫
-03550,npc.name.shuvalov,NPCs,48,舒瓦洛夫
-03551,npc.name.shirokov,NPCs,48,希羅科夫
-03552,npc.name.ryaboi,NPCs,48,里亞博伊
-03553,npc.name.gonchar,NPCs,48,貢恰爾
-03554,npc.name.andrianov,NPCs,48,安德里亞諾夫
-03555,npc.name.isakovskikh,NPCs,48,伊薩科夫斯基赫
-03556,npc.name.daniltsev,NPCs,48,達尼利採夫
-03557,npc.name.gorbatenko,NPCs,48,戈爾巴堅科
-03558,npc.name.zubov,NPCs,48,祖博夫
-03559,npc.name.troshin,NPCs,48,特羅申
-03560,npc.name.kornevich,NPCs,48,科爾涅維奇
-03561,npc.name.terentyev,NPCs,48,特連季耶夫
-03562,npc.name.moskvin,NPCs,48,莫斯克文
-03563,npc.name.surkov,NPCs,48,蘇爾科夫
-03564,npc.name.zimenko,NPCs,48,濟緬科
-03565,npc.name.tikhonovich,NPCs,48,吉洪諾維奇
-03566,npc.name.malinin,NPCs,48,馬利寧
-03567,npc.name.abramov,NPCs,48,阿布拉莫夫
-03568,npc.name.moiseev,NPCs,48,莫伊謝耶夫
-03569,npc.name.kartashov,NPCs,48,卡爾塔紹夫
-03570,npc.name.kulagin,NPCs,48,庫拉金
-03571,npc.name.dyakov,NPCs,48,季亞科夫
-03572,npc.name.krylov,NPCs,48,克雷洛夫
-03573,npc.name.sitnikov,NPCs,48,錫特尼科夫
-03574,npc.name.melnik,NPCs,48,梅爾尼克
-03575,npc.name.gorlovsky,NPCs,48,戈爾洛夫斯基
-03576,npc.name.ozerov,NPCs,48,奧澤羅夫
-03577,npc.name.pozdnyakov,NPCs,48,波茲德尼亞科夫
-03578,npc.name.vorontsov,NPCs,48,沃龍佐夫
-03579,npc.name.astafiev,NPCs,48,阿斯塔菲耶夫
-03580,npc.name.voron,NPCs,48,沃龍
-03581,npc.name.bychenkov,NPCs,48,貝琴科夫
-03582,npc.name.ivanov,NPCs,48,伊萬諾夫
-03583,npc.name.larchuk,NPCs,48,拉爾丘克
-03584,npc.name.kalachovsky,NPCs,48,卡拉喬夫斯基
-03585,npc.name.subbotin,NPCs,48,蘇博京
-03586,npc.name.ushakovskiy,NPCs,48,烏沙科夫斯基
-03587,npc.name.prokofyenko,NPCs,48,普羅科菲延科
-03588,npc.name.ulyanovsk,NPCs,48,烏里揚諾夫斯克
-03589,npc.name.chernyshov,NPCs,48,切爾內紹夫
-03590,npc.name.antonov,NPCs,48,安東諾夫
-03591,npc.name.gorelov,NPCs,48,戈列洛夫
-03592,npc.name.leonidov,NPCs,48,列昂尼多夫
-03593,npc.name.sevastyanov,NPCs,48,謝瓦斯季亞諾夫
-03594,npc.name.belkin,NPCs,48,別爾金
-03595,npc.name.samsonov,NPCs,48,薩姆索諾夫
-03596,npc.name.shestak,NPCs,48,謝斯塔克
-03597,npc.name.berezin,NPCs,48,別列津
-03598,npc.name.karpovich,NPCs,48,卡爾波維奇
-03599,npc.name.rozanov,NPCs,48,羅扎諾夫
-03600,npc.name.balashov,NPCs,48,巴拉紹夫
-03601,npc.name.zharov,NPCs,48,扎羅夫
-03602,npc.name.eremeytsev,NPCs,48,葉列梅採夫
-03603,npc.name.shuvaltsev,NPCs,48,舒瓦利採夫
-03604,npc.name.lyubimov,NPCs,48,柳比莫夫
-03605,npc.name.kolosov,NPCs,48,科洛索夫
-03606,npc.name.ershov,NPCs,48,葉爾紹夫
-03607,npc.name.arkadiev,NPCs,48,阿爾卡季耶夫
-03608,npc.name.shaposhnik,NPCs,48,沙波什尼克
-03609,npc.name.sakharov,NPCs,48,薩哈羅夫
-03610,npc.name.dolzhenkov,NPCs,48,多爾任科夫
-03611,npc.name.zlobich,NPCs,48,茲洛比奇
-03612,npc.name.gubich,NPCs,48,古比奇
-03613,npc.name.james,NPCs,48,詹姆斯
-03614,npc.name.robert,NPCs,48,羅伯特
-03615,npc.name.john,NPCs,48,約翰
-03616,npc.name.michael,NPCs,48,邁克爾
-03617,npc.name.david,NPCs,48,大衛
-03618,npc.name.william,NPCs,48,威廉
-03619,npc.name.richard,NPCs,48,理查德
-03620,npc.name.joseph,NPCs,48,約瑟夫
-03621,npc.name.thomas,NPCs,48,托馬斯
-03622,npc.name.charles,NPCs,48,查爾斯
-03623,npc.name.christopher,NPCs,48,克里斯托弗
-03624,npc.name.daniel,NPCs,48,丹尼爾
-03625,npc.name.matthew,NPCs,48,馬修
-03626,npc.name.anthony,NPCs,48,安東尼
-03627,npc.name.donald,NPCs,48,唐納德
-03628,npc.name.steven,NPCs,48,史蒂文
-03629,npc.name.paul,NPCs,48,保羅
-03630,npc.name.andrew,NPCs,48,安德魯
-03631,npc.name.joshua,NPCs,48,約書亞
-03632,npc.name.kenneth,NPCs,48,肯尼斯
-03633,npc.name.kevin,NPCs,48,凱文
-03634,npc.name.brian,NPCs,48,布萊恩
-03635,npc.name.george,NPCs,48,喬治
-03636,npc.name.timothy,NPCs,48,蒂莫西
-03637,npc.name.ronald,NPCs,48,羅納德
-03638,npc.name.edward,NPCs,48,愛德華
-03639,npc.name.jason,NPCs,48,傑森
-03640,npc.name.jeffrey,NPCs,48,傑弗裏
-03641,npc.name.ryan,NPCs,48,瑞恩
-03642,npc.name.jacob,NPCs,48,雅各布
-03643,npc.name.gary,NPCs,48,加里
-03644,npc.name.nicholas,NPCs,48,尼古拉斯
-03645,npc.name.eric,NPCs,48,埃裏克
-03646,npc.name.jonathan,NPCs,48,喬納森
-03647,npc.name.stephen,NPCs,48,斯蒂芬
-03648,npc.name.larry,NPCs,48,拉里
-03649,npc.name.justin,NPCs,48,賈斯汀
-03650,npc.name.scott,NPCs,48,斯科特
-03651,npc.name.brandon,NPCs,48,布蘭登
-03652,npc.name.benjamin,NPCs,48,本傑明
-03653,npc.name.samuel,NPCs,48,塞繆爾
-03654,npc.name.gregory,NPCs,48,格雷戈裏
-03655,npc.name.alexander,NPCs,48,亞歷山大
-03656,npc.name.frank,NPCs,48,弗蘭克
-03657,npc.name.patrick,NPCs,48,帕特里克
-03658,npc.name.raymond,NPCs,48,雷蒙德
-03659,npc.name.jack,NPCs,48,傑克
-03660,npc.name.dennis,NPCs,48,丹尼斯
-03661,npc.name.jerry,NPCs,48,傑瑞
-03662,npc.name.tyler,NPCs,48,泰勒
-03663,npc.name.aaron,NPCs,48,亞倫
-03664,npc.name.jose,NPCs,48,何塞
-03665,npc.name.adam,NPCs,48,亞當
-03666,npc.name.nathan,NPCs,48,內森
-03667,npc.name.henry,NPCs,48,亨利
-03668,npc.name.peter,NPCs,48,彼得
-03669,npc.name.smith,NPCs,48,史密斯
-03670,npc.name.johnson,NPCs,48,約翰遜
-03671,npc.name.williams,NPCs,48,威廉姆斯
-03672,npc.name.brown,NPCs,48,布朗
-03673,npc.name.jones,NPCs,48,瓊斯
-03674,npc.name.miller,NPCs,48,米勒
-03675,npc.name.davis,NPCs,48,戴維斯
-03676,npc.name.wilson,NPCs,48,威爾遜
-03677,npc.name.anderson,NPCs,48,安德森
-03678,npc.name.taylor,NPCs,48,泰勒
-03679,npc.name.moore,NPCs,48,摩爾
-03680,npc.name.jackson,NPCs,48,傑克遜
-03681,npc.name.martin,NPCs,48,馬丁
-03682,npc.name.lee,NPCs,48,李
-03683,npc.name.thompson,NPCs,48,湯普森
-03684,npc.name.white,NPCs,48,懷特
-03685,npc.name.harris,NPCs,48,哈里斯
-03686,npc.name.clark,NPCs,48,克拉克
-03687,npc.name.lewis,NPCs,48,劉易斯
-03688,npc.name.robinson,NPCs,48,羅賓遜
-03689,npc.name.walker,NPCs,48,沃克
-03690,npc.name.young,NPCs,48,楊
-03691,npc.name.allen,NPCs,48,艾倫
-03692,npc.name.king,NPCs,48,金
-03693,npc.name.wright,NPCs,48,賴特
-03694,npc.name.hill,NPCs,48,希爾
-03695,npc.name.adams,NPCs,48,亞當斯
-03696,npc.name.nelson,NPCs,48,納爾遜
-03697,npc.name.baker,NPCs,48,貝克
-03698,npc.name.hall,NPCs,48,霍爾
-03699,npc.name.campbell,NPCs,48,坎貝爾
-03700,npc.name.mitchell,NPCs,48,米切爾
-03701,npc.name.carter,NPCs,48,卡特
-03702,npc.name.roberts,NPCs,48,羅伯茨
-03703,npc.name.ward,NPCs,48,沃德
-03704,npc.name.sanders,NPCs,48,桑德斯
-03705,npc.name.hopkins,NPCs,48,霍普金斯
-03706,npc.name.richardson,NPCs,48,理查森
-03707,npc.name.bishop,NPCs,48,畢曉普
-03708,npc.name.dean,NPCs,48,迪恩
+03481,npc.name.ivan,NPC name,48,伊萬
+03482,npc.name.vasiliy,NPC name,48,瓦西里
+03483,npc.name.petr,NPC name,48,彼得
+03484,npc.name.mikhail,NPC name,48,米哈伊爾
+03485,npc.name.fedor,NPC name,48,費奧多爾
+03486,npc.name.alexey,NPC name,48,阿列克謝
+03487,npc.name.semen,NPC name,48,謝苗
+03488,npc.name.egor,NPC name,48,葉戈爾
+03489,npc.name.pavel,NPC name,48,帕維爾
+03490,npc.name.nikolay,NPC name,48,尼古拉
+03491,npc.name.andrey,NPC name,48,安德烈
+03492,npc.name.makar,NPC name,48,馬卡爾
+03493,npc.name.nikita,NPC name,48,尼基塔
+03494,npc.name.zakhar,NPC name,48,扎哈爾
+03495,npc.name.boris,NPC name,48,鮑里斯
+03496,npc.name.yacov,NPC name,48,雅科夫
+03497,npc.name.grigoriy,NPC name,48,格里戈里
+03498,npc.name.roman,NPC name,48,羅曼
+03499,npc.name.sergey,NPC name,48,謝爾蓋
+03500,npc.name.alexandr,NPC name,48,亞歷山大
+03501,npc.name.dmitriy,NPC name,48,德米特里
+03502,npc.name.ilya,NPC name,48,伊利亞
+03503,npc.name.maksim,NPC name,48,馬克西姆
+03504,npc.name.anton,NPC name,48,安東
+03505,npc.name.taras,NPC name,48,塔拉斯
+03506,npc.name.filip,NPC name,48,菲利普
+03507,npc.name.bogdan,NPC name,48,波格丹
+03508,npc.name.matvey,NPC name,48,馬特維
+03509,npc.name.myron,NPC name,48,米隆
+03510,npc.name.denis,NPC name,48,丹尼斯
+03511,npc.name.gavrila,NPC name,48,加夫里拉
+03512,npc.name.afanasiy,NPC name,48,阿法納西
+03513,npc.name.danil,NPC name,48,達尼爾
+03514,npc.name.timofey,NPC name,48,季莫費
+03515,npc.name.efim,NPC name,48,葉菲姆
+03516,npc.name.nazar,NPC name,48,納扎爾
+03517,npc.name.rodion,NPC name,48,羅季翁
+03518,npc.name.klim,NPC name,48,克利姆
+03519,npc.name.prokhor,NPC name,48,普羅霍爾
+03520,npc.name.potap,NPC name,48,波塔普
+03521,npc.name.trofim,NPC name,48,特羅菲姆
+03522,npc.name.kirill,NPC name,48,基里爾
+03523,npc.name.konstantin,NPC name,48,康斯坦丁
+03524,npc.name.lev,NPC name,48,列夫
+03525,npc.name.artem,NPC name,48,阿爾喬姆
+03526,npc.name.gleb,NPC name,48,格列布
+03527,npc.name.panchenko,NPC name,48,潘琴科
+03528,npc.name.ulyanov,NPC name,48,烏里揚諾夫
+03529,npc.name.ostryi,NPC name,48,奧斯特里
+03530,npc.name.firsov,NPC name,48,菲爾索夫
+03531,npc.name.minaev,NPC name,48,米納耶夫
+03532,npc.name.akimchuk,NPC name,48,阿基姆丘克
+03533,npc.name.elizarov,NPC name,48,葉利扎羅夫
+03534,npc.name.chernichenkov,NPC name,48,切爾尼琴科夫
+03535,npc.name.dubets,NPC name,48,杜貝茨
+03536,npc.name.bazhenov,NPC name,48,巴熱諾夫
+03537,npc.name.blinchenko,NPC name,48,布林琴科
+03538,npc.name.ustinov,NPC name,48,烏斯季諾夫
+03539,npc.name.zolottsev,NPC name,48,佐洛採夫
+03540,npc.name.shulga,NPC name,48,舒利加
+03541,npc.name.oleynikov,NPC name,48,奧列伊尼科夫
+03542,npc.name.tretyachenkov,NPC name,48,特列季亞琴科夫
+03543,npc.name.efremchuk,NPC name,48,葉弗列姆丘克
+03544,npc.name.lavrov,NPC name,48,拉夫羅夫
+03545,npc.name.kornev,NPC name,48,科爾涅夫
+03546,npc.name.karasyuk,NPC name,48,卡拉修克
+03547,npc.name.belikov,NPC name,48,別利科夫
+03548,npc.name.fadeev,NPC name,48,法捷耶夫
+03549,npc.name.agaptsev,NPC name,48,阿加普採夫
+03550,npc.name.shuvalov,NPC name,48,舒瓦洛夫
+03551,npc.name.shirokov,NPC name,48,希羅科夫
+03552,npc.name.ryaboi,NPC name,48,里亞博伊
+03553,npc.name.gonchar,NPC name,48,貢恰爾
+03554,npc.name.andrianov,NPC name,48,安德里亞諾夫
+03555,npc.name.isakovskikh,NPC name,48,伊薩科夫斯基赫
+03556,npc.name.daniltsev,NPC name,48,達尼利採夫
+03557,npc.name.gorbatenko,NPC name,48,戈爾巴堅科
+03558,npc.name.zubov,NPC name,48,祖博夫
+03559,npc.name.troshin,NPC name,48,特羅申
+03560,npc.name.kornevich,NPC name,48,科爾涅維奇
+03561,npc.name.terentyev,NPC name,48,特連季耶夫
+03562,npc.name.moskvin,NPC name,48,莫斯克文
+03563,npc.name.surkov,NPC name,48,蘇爾科夫
+03564,npc.name.zimenko,NPC name,48,濟緬科
+03565,npc.name.tikhonovich,NPC name,48,吉洪諾維奇
+03566,npc.name.malinin,NPC name,48,馬利寧
+03567,npc.name.abramov,NPC name,48,阿布拉莫夫
+03568,npc.name.moiseev,NPC name,48,莫伊謝耶夫
+03569,npc.name.kartashov,NPC name,48,卡爾塔紹夫
+03570,npc.name.kulagin,NPC name,48,庫拉金
+03571,npc.name.dyakov,NPC name,48,季亞科夫
+03572,npc.name.krylov,NPC name,48,克雷洛夫
+03573,npc.name.sitnikov,NPC name,48,錫特尼科夫
+03574,npc.name.melnik,NPC name,48,梅爾尼克
+03575,npc.name.gorlovsky,NPC name,48,戈爾洛夫斯基
+03576,npc.name.ozerov,NPC name,48,奧澤羅夫
+03577,npc.name.pozdnyakov,NPC name,48,波茲德尼亞科夫
+03578,npc.name.vorontsov,NPC name,48,沃龍佐夫
+03579,npc.name.astafiev,NPC name,48,阿斯塔菲耶夫
+03580,npc.name.voron,NPC name,48,沃龍
+03581,npc.name.bychenkov,NPC name,48,貝琴科夫
+03582,npc.name.ivanov,NPC name,48,伊萬諾夫
+03583,npc.name.larchuk,NPC name,48,拉爾丘克
+03584,npc.name.kalachovsky,NPC name,48,卡拉喬夫斯基
+03585,npc.name.subbotin,NPC name,48,蘇博京
+03586,npc.name.ushakovskiy,NPC name,48,烏沙科夫斯基
+03587,npc.name.prokofyenko,NPC name,48,普羅科菲延科
+03588,npc.name.ulyanovsk,NPC name,48,烏里揚諾夫斯克
+03589,npc.name.chernyshov,NPC name,48,切爾內紹夫
+03590,npc.name.antonov,NPC name,48,安東諾夫
+03591,npc.name.gorelov,NPC name,48,戈列洛夫
+03592,npc.name.leonidov,NPC name,48,列昂尼多夫
+03593,npc.name.sevastyanov,NPC name,48,謝瓦斯季亞諾夫
+03594,npc.name.belkin,NPC name,48,別爾金
+03595,npc.name.samsonov,NPC name,48,薩姆索諾夫
+03596,npc.name.shestak,NPC name,48,謝斯塔克
+03597,npc.name.berezin,NPC name,48,別列津
+03598,npc.name.karpovich,NPC name,48,卡爾波維奇
+03599,npc.name.rozanov,NPC name,48,羅扎諾夫
+03600,npc.name.balashov,NPC name,48,巴拉紹夫
+03601,npc.name.zharov,NPC name,48,扎羅夫
+03602,npc.name.eremeytsev,NPC name,48,葉列梅採夫
+03603,npc.name.shuvaltsev,NPC name,48,舒瓦利採夫
+03604,npc.name.lyubimov,NPC name,48,柳比莫夫
+03605,npc.name.kolosov,NPC name,48,科洛索夫
+03606,npc.name.ershov,NPC name,48,葉爾紹夫
+03607,npc.name.arkadiev,NPC name,48,阿爾卡季耶夫
+03608,npc.name.shaposhnik,NPC name,48,沙波什尼克
+03609,npc.name.sakharov,NPC name,48,薩哈羅夫
+03610,npc.name.dolzhenkov,NPC name,48,多爾任科夫
+03611,npc.name.zlobich,NPC name,48,茲洛比奇
+03612,npc.name.gubich,NPC name,48,古比奇
+03613,npc.name.james,NPC name,48,詹姆斯
+03614,npc.name.robert,NPC name,48,羅伯特
+03615,npc.name.john,NPC name,48,約翰
+03616,npc.name.michael,NPC name,48,邁克爾
+03617,npc.name.david,NPC name,48,大衛
+03618,npc.name.william,NPC name,48,威廉
+03619,npc.name.richard,NPC name,48,理查德
+03620,npc.name.joseph,NPC name,48,約瑟夫
+03621,npc.name.thomas,NPC name,48,托馬斯
+03622,npc.name.charles,NPC name,48,查爾斯
+03623,npc.name.christopher,NPC name,48,克里斯托弗
+03624,npc.name.daniel,NPC name,48,丹尼爾
+03625,npc.name.matthew,NPC name,48,馬修
+03626,npc.name.anthony,NPC name,48,安東尼
+03627,npc.name.donald,NPC name,48,唐納德
+03628,npc.name.steven,NPC name,48,史蒂文
+03629,npc.name.paul,NPC name,48,保羅
+03630,npc.name.andrew,NPC name,48,安德魯
+03631,npc.name.joshua,NPC name,48,約書亞
+03632,npc.name.kenneth,NPC name,48,肯尼斯
+03633,npc.name.kevin,NPC name,48,凱文
+03634,npc.name.brian,NPC name,48,布萊恩
+03635,npc.name.george,NPC name,48,喬治
+03636,npc.name.timothy,NPC name,48,蒂莫西
+03637,npc.name.ronald,NPC name,48,羅納德
+03638,npc.name.edward,NPC name,48,愛德華
+03639,npc.name.jason,NPC name,48,傑森
+03640,npc.name.jeffrey,NPC name,48,傑弗裏
+03641,npc.name.ryan,NPC name,48,瑞恩
+03642,npc.name.jacob,NPC name,48,雅各布
+03643,npc.name.gary,NPC name,48,加里
+03644,npc.name.nicholas,NPC name,48,尼古拉斯
+03645,npc.name.eric,NPC name,48,埃裏克
+03646,npc.name.jonathan,NPC name,48,喬納森
+03647,npc.name.stephen,NPC name,48,斯蒂芬
+03648,npc.name.larry,NPC name,48,拉里
+03649,npc.name.justin,NPC name,48,賈斯汀
+03650,npc.name.scott,NPC name,48,斯科特
+03651,npc.name.brandon,NPC name,48,布蘭登
+03652,npc.name.benjamin,NPC name,48,本傑明
+03653,npc.name.samuel,NPC name,48,塞繆爾
+03654,npc.name.gregory,NPC name,48,格雷戈裏
+03655,npc.name.alexander,NPC name,48,亞歷山大
+03656,npc.name.frank,NPC name,48,弗蘭克
+03657,npc.name.patrick,NPC name,48,帕特里克
+03658,npc.name.raymond,NPC name,48,雷蒙德
+03659,npc.name.jack,NPC name,48,傑克
+03660,npc.name.dennis,NPC name,48,丹尼斯
+03661,npc.name.jerry,NPC name,48,傑瑞
+03662,npc.name.tyler,NPC name,48,泰勒
+03663,npc.name.aaron,NPC name,48,亞倫
+03664,npc.name.jose,NPC name,48,何塞
+03665,npc.name.adam,NPC name,48,亞當
+03666,npc.name.nathan,NPC name,48,內森
+03667,npc.name.henry,NPC name,48,亨利
+03668,npc.name.peter,NPC name,48,彼得
+03669,npc.name.smith,NPC name,48,史密斯
+03670,npc.name.johnson,NPC name,48,約翰遜
+03671,npc.name.williams,NPC name,48,威廉姆斯
+03672,npc.name.brown,NPC name,48,布朗
+03673,npc.name.jones,NPC name,48,瓊斯
+03674,npc.name.miller,NPC name,48,米勒
+03675,npc.name.davis,NPC name,48,戴維斯
+03676,npc.name.wilson,NPC name,48,威爾遜
+03677,npc.name.anderson,NPC name,48,安德森
+03678,npc.name.taylor,NPC name,48,泰勒
+03679,npc.name.moore,NPC name,48,摩爾
+03680,npc.name.jackson,NPC name,48,傑克遜
+03681,npc.name.martin,NPC name,48,馬丁
+03682,npc.name.lee,NPC name,48,李
+03683,npc.name.thompson,NPC name,48,湯普森
+03684,npc.name.white,NPC name,48,懷特
+03685,npc.name.harris,NPC name,48,哈里斯
+03686,npc.name.clark,NPC name,48,克拉克
+03687,npc.name.lewis,NPC name,48,劉易斯
+03688,npc.name.robinson,NPC name,48,羅賓遜
+03689,npc.name.walker,NPC name,48,沃克
+03690,npc.name.young,NPC name,48,楊
+03691,npc.name.allen,NPC name,48,艾倫
+03692,npc.name.king,NPC name,48,金
+03693,npc.name.wright,NPC name,48,賴特
+03694,npc.name.hill,NPC name,48,希爾
+03695,npc.name.adams,NPC name,48,亞當斯
+03696,npc.name.nelson,NPC name,48,納爾遜
+03697,npc.name.baker,NPC name,48,貝克
+03698,npc.name.hall,NPC name,48,霍爾
+03699,npc.name.campbell,NPC name,48,坎貝爾
+03700,npc.name.mitchell,NPC name,48,米切爾
+03701,npc.name.carter,NPC name,48,卡特
+03702,npc.name.roberts,NPC name,48,羅伯茨
+03703,npc.name.ward,NPC name,48,沃德
+03704,npc.name.sanders,NPC name,48,桑德斯
+03705,npc.name.hopkins,NPC name,48,霍普金斯
+03706,npc.name.richardson,NPC name,48,理查森
+03707,npc.name.bishop,NPC name,48,畢曉普
+03708,npc.name.dean,NPC name,48,迪恩
 03709,misc.insert.here_s_the_first_one,Insert,256,這是第一個……
 03710,misc.insert.all_of_them_should_be_the_exact_same,Insert,256,所有的應該都一模一樣。
 03711,misc.insert.i_just_have_to_find_them,Insert,256,我只需要找到它們就行。
@@ -3747,7 +3747,7 @@
 03750,misc.insert.you_have_already_joined_the_green_army,Insert,256,你已加入綠軍
 03751,misc.insert.contruction_area,Insert,256,工地
 03752,misc.insert.soldier,Insert,256,士兵
-03753,npc.captain,NPCs,48,隊長
+03753,npc.captain,NPC name,48,隊長
 03754,misc.insert.valentin_s_guard,Insert,256,瓦倫丁的衛兵
 03755,misc.insert.quest_generation,Insert,256,任務生成
 03756,misc.insert.dr,Insert,256,醫生
@@ -3916,7 +3916,7 @@
 03919,faction.inter.track_info,Interfactions,48,曲目信息
 03920,ui.no_casssette_found,User Interface,128,未找到磁帶！
 03921,ui.track_unlocked,User Interface,128,已解鎖曲目
-03922,npc.phantom,NPCs,48,「幻影」
+03922,npc.phantom,NPC name,48,「幻影」
 03923,trade.barter.phantom_s_stash_coordinate,Barter,72,「幻影」的隱藏儲藏座標
 03924,chest.phantom_s_stash,Chests,64,「幻影」的隱藏儲藏
 03925,map.marker.phantom_s_stash,Marker names,48,「幻影」的隱藏儲藏
@@ -4115,16 +4115,244 @@
 04118,map.sign.npp_advanced_cellular_research,Map sign - Nuclear Power Plant advanced cellular research; preserve the\n line break,128,高級細胞研究室\n4級權限
 04119,map.sign.npp_auxiliary_power_systems,Map sign - Nuclear Power Plant auxiliary power systems; preserve the\n line break,128,輔助電源系統\n非授權人員禁止入內
 04120,map.sign.npp_crystal_extraction_site,Map sign - Nuclear Power Plant crystal extraction site; preserve the\n line break,128,晶體開採區\n5級權限 - 禁區
+04121,npc.bark.bandit.aimed_at_neutral_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - warns a neutral player who points a gun at it",64,看什麼看？！
+04122,npc.bark.bandit.aimed_at_neutral_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - warns a neutral player who points a gun at it",64,別用那東西指著我，混蛋！
+04123,npc.bark.bandit.aimed_at_neutral_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - warns a neutral player who points a gun at it",64,再瞄着我就請你吃花生米!
+04124,npc.bark.bandit.aimed_at_neutral_4,"NPC bark - Bandits (crude, selfish, lots of swearing) - warns a neutral player who points a gun at it",64,放下，不然我幫你放！
+04125,npc.bark.bandit.aimed_at_ally_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - friendly remark to an allied player who points a gun at it",64,嘿，我沒得罪你吧？
+04126,npc.bark.bandit.aimed_at_ally_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - friendly remark to an allied player who points a gun at it",64,別鬧了！
+04127,npc.bark.bandit.body_warning_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - tells the player to leave a body it owns",64,把手拿開！那是我的！
+04128,npc.bark.bandit.body_warning_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - tells the player to leave a body it owns",64,碰它，你就是下一個！
+04129,npc.bark.bandit.body_warning_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - tells the player to leave a body it owns",64,請你圓潤的離開，那是我殺的！
+04130,npc.bark.bandit.body_looting_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - shown while it loots a body",64,讓我看看你有什麼...
+04131,npc.bark.bandit.body_looting_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - shown while it loots a body",64,我的、我的、我的...
+04132,npc.bark.bandit.body_looting_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - shown while it loots a body",64,來吧，該有點好東西了...
+04133,npc.bark.bandit.ally_down_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - sees an ally die",64,該死，他倒下了！
+04134,npc.bark.bandit.ally_down_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - sees an ally die",64,有個白癡自己送命了！
+04135,npc.bark.bandit.ally_down_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - sees an ally die",64,有更多戰利品了！
+04136,npc.bark.bandit.ally_down_4,"NPC bark - Bandits (crude, selfish, lots of swearing) - sees an ally die",64,該死、該死、該死！
+04137,npc.bark.bandit.target_down_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - sees its enemy die",64,哈！抓到他了！
+04138,npc.bark.bandit.target_down_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - sees its enemy die",64,他死了！我先開寶箱了！
+04139,npc.bark.bandit.target_down_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - sees its enemy die",64,這就是你得到的下場！
+04140,npc.bark.bandit.contact_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - spots the enemy",64,他在那裡！
+04141,npc.bark.bandit.contact_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - spots the enemy",64,抓到這混蛋了！
+04142,npc.bark.bandit.contact_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - spots the enemy",64,在這裡，你這些白癡！
+04143,npc.bark.bandit.contact_4,"NPC bark - Bandits (crude, selfish, lots of swearing) - spots the enemy",64,外賣到了！
+04144,npc.bark.bandit.push_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - pushes toward the enemy",64,我進去了！
+04145,npc.bark.bandit.push_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - pushes toward the enemy",64,他是我的！
+04146,npc.bark.bandit.push_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - pushes toward the enemy",64,滾！
+04147,npc.bark.bandit.push_4,"NPC bark - Bandits (crude, selfish, lots of swearing) - pushes toward the enemy",64,幹掉那個混蛋！
+04148,npc.bark.bandit.push_weak_target_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - pushes while the player is backing away (taunt)",64,對，繼續跑啊，娘炮！
+04149,npc.bark.bandit.push_weak_target_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - pushes while the player is backing away (taunt)",64,繼續跑啊，我可以和你打一整天！
+04150,npc.bark.bandit.push_weak_target_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - pushes while the player is backing away (taunt)",64,他在流血！戰利品是我的！
+04151,npc.bark.bandit.push_weak_target_4,"NPC bark - Bandits (crude, selfish, lots of swearing) - pushes while the player is backing away (taunt)",64,你要去哪裡啊，甜心？
+04152,npc.bark.bandit.flank_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - starts to flank the enemy",64,我抄他側翼！
+04153,npc.bark.bandit.flank_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - starts to flank the enemy",64,繞過去，別開槍打我！
+04154,npc.bark.bandit.reload_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - reloads its own weapon",64,該死，空了！
+04155,npc.bark.bandit.reload_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - reloads its own weapon",64,換彈，該死！
+04156,npc.bark.bandit.reload_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - reloads its own weapon",64,我沒子彈了！沒子彈了！
+04157,npc.bark.bandit.reload_4,"NPC bark - Bandits (crude, selfish, lots of swearing) - reloads its own weapon",64,該死的彈匣！
+04158,npc.bark.bandit.reload_spotted_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - sees the enemy reloading",64,他沒子彈了！幹掉他！
+04159,npc.bark.bandit.reload_spotted_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - sees the enemy reloading",64,他在換彈，快、快！
+04160,npc.bark.bandit.grenade_out_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - throws a grenade",64,吃這個！
+04161,npc.bark.bandit.grenade_out_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - throws a grenade",64,接住，你個狗娘養的！
+04162,npc.bark.bandit.grenade_out_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - throws a grenade",64,給你一個禮物！
+04163,npc.bark.bandit.danger_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - a grenade lands near it",64,手榴彈！該死！
+04164,npc.bark.bandit.danger_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - a grenade lands near it",64,可惡，是手榴彈！
+04165,npc.bark.bandit.danger_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - a grenade lands near it",64,快走、快走！
+04166,npc.bark.bandit.flash_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - is blinded by a flash grenade",64,我的眼睛！該死！
+04167,npc.bark.bandit.flash_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - is blinded by a flash grenade",64,我什麼都看不見！
+04168,npc.bark.bandit.flash_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - is blinded by a flash grenade",64,啊啊啊！
+04169,npc.bark.bandit.relocate_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - moves to another position",64,這地方不行！
+04170,npc.bark.bandit.relocate_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - moves to another position",64,換掩護！
+04171,npc.bark.bandit.search_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - lost the enemy and searches for it",64,那隻老鼠跑哪裡去了？
+04172,npc.bark.bandit.search_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - lost the enemy and searches for it",64,出來吧，出來吧...
+04173,npc.bark.bandit.search_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - lost the enemy and searches for it",64,他不可能跑太遠！
+04174,npc.bark.bandit.search_4,"NPC bark - Bandits (crude, selfish, lots of swearing) - lost the enemy and searches for it",64,對，繼續躲！別讓我抓到你！
+04175,npc.bark.bandit.hit_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - is hit by a bullet",64,我中彈了！該死！
+04176,npc.bark.bandit.hit_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - is hit by a bullet",64,那混蛋打到我了！
+04177,npc.bark.bandit.hit_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - is hit by a bullet",64,啊！醫護，該死！
+04178,npc.bark.bandit.retreat_1,"NPC bark - Bandits (crude, selfish, lots of swearing) - runs away from the fight, badly wounded",64,去他媽的，我走了！
+04179,npc.bark.bandit.retreat_2,"NPC bark - Bandits (crude, selfish, lots of swearing) - runs away from the fight, badly wounded",64,我可不會為這個死！
+04180,npc.bark.bandit.retreat_3,"NPC bark - Bandits (crude, selfish, lots of swearing) - runs away from the fight, badly wounded",64,你去對付他！
+04181,npc.bark.bandit.retreat_4,"NPC bark - Bandits (crude, selfish, lots of swearing) - runs away from the fight, badly wounded",64,快射他！我去找支援！
+04182,npc.bark.green_army.aimed_at_neutral_1,"NPC bark - Green Army (soldiers, firm military commands) - warns a neutral player who points a gun at it",64,放下武器。現在立即。
+04183,npc.bark.green_army.aimed_at_neutral_2,"NPC bark - Green Army (soldiers, firm military commands) - warns a neutral player who points a gun at it",64,放下武器，獵人！
+04184,npc.bark.green_army.aimed_at_neutral_3,"NPC bark - Green Army (soldiers, firm military commands) - warns a neutral player who points a gun at it",64,別用槍指著士兵。
+04185,npc.bark.green_army.aimed_at_neutral_4,"NPC bark - Green Army (soldiers, firm military commands) - warns a neutral player who points a gun at it",64,最後警告：放下武器。
+04186,npc.bark.green_army.aimed_at_ally_1,"NPC bark - Green Army (soldiers, firm military commands) - friendly remark to an allied player who points a gun at it",64,看好你的槍口，朋友。
+04187,npc.bark.green_army.aimed_at_ally_2,"NPC bark - Green Army (soldiers, firm military commands) - friendly remark to an allied player who points a gun at it",64,槍口管制，獵人。
+04188,npc.bark.green_army.body_warning_1,"NPC bark - Green Army (soldiers, firm military commands) - tells the player to leave a body it owns",64,從屍體旁邊退開。現在就退。
+04189,npc.bark.green_army.body_warning_2,"NPC bark - Green Army (soldiers, firm military commands) - tells the player to leave a body it owns",64,那屍體是我們的。走開。
+04190,npc.bark.green_army.body_warning_3,"NPC bark - Green Army (soldiers, firm military commands) - tells the player to leave a body it owns",64,放下，獵人。最後警告。
+04191,npc.bark.green_army.body_looting_1,"NPC bark - Green Army (soldiers, firm military commands) - shown while it loots a body",64,正在檢查屍體。
+04192,npc.bark.green_army.body_looting_2,"NPC bark - Green Army (soldiers, firm military commands) - shown while it loots a body",64,正在收集裝備。
+04193,npc.bark.green_army.ally_down_1,"NPC bark - Green Army (soldiers, firm military commands) - sees an ally die",64,傷員！
+04194,npc.bark.green_army.ally_down_2,"NPC bark - Green Army (soldiers, firm military commands) - sees an ally die",64,我們失去一個人了！
+04195,npc.bark.green_army.ally_down_3,"NPC bark - Green Army (soldiers, firm military commands) - sees an ally die",64,士兵倒下了，守住陣線！
+04196,npc.bark.green_army.target_down_1,"NPC bark - Green Army (soldiers, firm military commands) - sees its enemy die",64,目標已落下！
+04197,npc.bark.green_army.target_down_2,"NPC bark - Green Army (soldiers, firm military commands) - sees its enemy die",64,敵人已清除！
+04198,npc.bark.green_army.target_down_3,"NPC bark - Green Army (soldiers, firm military commands) - sees its enemy die",64,敵人倒下了，保持警戒！
+04199,npc.bark.green_army.contact_1,"NPC bark - Green Army (soldiers, firm military commands) - spots the enemy",64,接敵！
+04200,npc.bark.green_army.contact_2,"NPC bark - Green Army (soldiers, firm military commands) - spots the enemy",64,發現敵人！
+04201,npc.bark.green_army.contact_3,"NPC bark - Green Army (soldiers, firm military commands) - spots the enemy",64,目標，前面！
+04202,npc.bark.green_army.contact_4,"NPC bark - Green Army (soldiers, firm military commands) - spots the enemy",64,目標已鎖定！
+04203,npc.bark.green_army.push_1,"NPC bark - Green Army (soldiers, firm military commands) - pushes toward the enemy",64,前進！
+04204,npc.bark.green_army.push_2,"NPC bark - Green Army (soldiers, firm military commands) - pushes toward the enemy",64,前進中，掩護我！
+04205,npc.bark.green_army.push_3,"NPC bark - Green Army (soldiers, firm military commands) - pushes toward the enemy",64,往前推！
+04206,npc.bark.green_army.push_4,"NPC bark - Green Army (soldiers, firm military commands) - pushes toward the enemy",64,跟我來，動作快！
+04207,npc.bark.green_army.push_weak_target_1,"NPC bark - Green Army (soldiers, firm military commands) - pushes while the player is backing away (taunt)",64,目標在後退，壓住他！
+04208,npc.bark.green_army.push_weak_target_2,"NPC bark - Green Army (soldiers, firm military commands) - pushes while the player is backing away (taunt)",64,他受傷了，前進！
+04209,npc.bark.green_army.flank_1,"NPC bark - Green Army (soldiers, firm military commands) - starts to flank the enemy",64,迂迴包抄，壓住他！
+04210,npc.bark.green_army.flank_2,"NPC bark - Green Army (soldiers, firm military commands) - starts to flank the enemy",64,往側翼移動！
+04211,npc.bark.green_army.flank_3,"NPC bark - Green Army (soldiers, firm military commands) - starts to flank the enemy",64,繞過去，注意火力！
+04212,npc.bark.green_army.covering_fire_1,"NPC bark - Green Army (soldiers, firm military commands) - gives covering fire to an advancing ally",64,火力壓制！
+04213,npc.bark.green_army.covering_fire_2,"NPC bark - Green Army (soldiers, firm military commands) - gives covering fire to an advancing ally",64,壓制中！
+04214,npc.bark.green_army.covering_fire_3,"NPC bark - Green Army (soldiers, firm military commands) - gives covering fire to an advancing ally",64,衝，我掩護你！
+04215,npc.bark.green_army.covering_fire_4,"NPC bark - Green Army (soldiers, firm military commands) - gives covering fire to an advancing ally",64,壓住他，別讓他出來！
+04216,npc.bark.green_army.reload_1,"NPC bark - Green Army (soldiers, firm military commands) - reloads its own weapon",64,換彈！
+04217,npc.bark.green_army.reload_2,"NPC bark - Green Army (soldiers, firm military commands) - reloads its own weapon",64,換彈匣了，掩護我！
+04218,npc.bark.green_army.reload_3,"NPC bark - Green Army (soldiers, firm military commands) - reloads its own weapon",64,彈匣！
+04219,npc.bark.green_army.reload_spotted_1,"NPC bark - Green Army (soldiers, firm military commands) - sees the enemy reloading",64,他在換彈，逼近！
+04220,npc.bark.green_army.reload_spotted_2,"NPC bark - Green Army (soldiers, firm military commands) - sees the enemy reloading",64,目標在換彈，推進！
+04221,npc.bark.green_army.grenade_out_1,"NPC bark - Green Army (soldiers, firm military commands) - throws a grenade",64,投擲手榴彈！
+04222,npc.bark.green_army.grenade_out_2,"NPC bark - Green Army (soldiers, firm military commands) - throws a grenade",64,手榴彈！
+04223,npc.bark.green_army.grenade_out_3,"NPC bark - Green Army (soldiers, firm military commands) - throws a grenade",64,扔手榴彈！
+04224,npc.bark.green_army.danger_1,"NPC bark - Green Army (soldiers, firm military commands) - a grenade lands near it",64,手榴彈！躲避！
+04225,npc.bark.green_army.danger_2,"NPC bark - Green Army (soldiers, firm military commands) - a grenade lands near it",64,手榴彈，散開！
+04226,npc.bark.green_army.flash_1,"NPC bark - Green Army (soldiers, firm military commands) - is blinded by a flash grenade",64,我什麼都看不見！
+04227,npc.bark.green_army.flash_2,"NPC bark - Green Army (soldiers, firm military commands) - is blinded by a flash grenade",64,閃光彈，我什麼都看不見！
+04228,npc.bark.green_army.relocate_1,"NPC bark - Green Army (soldiers, firm military commands) - moves to another position",64,改變位置！
+04229,npc.bark.green_army.relocate_2,"NPC bark - Green Army (soldiers, firm military commands) - moves to another position",64,轉移位置！
+04230,npc.bark.green_army.relocate_3,"NPC bark - Green Army (soldiers, firm military commands) - moves to another position",64,移到新的掩體！
+04231,npc.bark.green_army.search_1,"NPC bark - Green Army (soldiers, firm military commands) - lost the enemy and searches for it",64,失去目視！
+04232,npc.bark.green_army.search_2,"NPC bark - Green Army (soldiers, firm military commands) - lost the enemy and searches for it",64,搜索整個區域！
+04233,npc.bark.green_army.search_3,"NPC bark - Green Army (soldiers, firm military commands) - lost the enemy and searches for it",64,地毯式搜索！
+04234,npc.bark.green_army.search_4,"NPC bark - Green Army (soldiers, firm military commands) - lost the enemy and searches for it",64,保持警惕，他就在附近！
+04235,npc.bark.green_army.hit_1,"NPC bark - Green Army (soldiers, firm military commands) - is hit by a bullet",64,我中彈了！
+04236,npc.bark.green_army.hit_2,"NPC bark - Green Army (soldiers, firm military commands) - is hit by a bullet",64,受到火力壓制，我中彈了！
+04237,npc.bark.green_army.hit_3,"NPC bark - Green Army (soldiers, firm military commands) - is hit by a bullet",64,受傷了！
+04238,npc.bark.crimson.aimed_at_neutral_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - warns a neutral player who points a gun at it",64,嘿，朋友。把槍放下。
+04239,npc.bark.crimson.aimed_at_neutral_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - warns a neutral player who points a gun at it",64,別這樣做，老兄。
+04240,npc.bark.crimson.aimed_at_neutral_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - warns a neutral player who points a gun at it",64,我知道你很急，但先別急。
+04241,npc.bark.crimson.aimed_at_neutral_4,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - warns a neutral player who points a gun at it",64,放下吧。我可不是來吵架的。
+04242,npc.bark.crimson.aimed_at_ally_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - friendly remark to an allied player who points a gun at it",64,自己人，自己人，哥。
+04243,npc.bark.crimson.aimed_at_ally_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - friendly remark to an allied player who points a gun at it",64,老弟，看看你在射那裡 。
+04244,npc.bark.crimson.body_warning_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - tells the player to leave a body it owns",64,嘿！那現在是公司財產了。
+04245,npc.bark.crimson.body_warning_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - tells the player to leave a body it owns",64,離我的私人財產遠一點，老兄。
+04246,npc.bark.crimson.body_warning_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - tells the player to leave a body it owns",64,想都別想，朋友。
+04247,npc.bark.crimson.body_looting_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - shown while it loots a body",64,小錢錢...
+04248,npc.bark.crimson.body_looting_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - shown while it loots a body",64,查一下貨物。
+04249,npc.bark.crimson.ally_down_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - sees an ally die",64,傷員！
+04250,npc.bark.crimson.ally_down_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - sees an ally die",64,我們有人倒下了。
+04251,npc.bark.crimson.ally_down_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - sees an ally die",64,該死，他走了。
+04252,npc.bark.crimson.ally_down_4,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - sees an ally die",64,這要從某人的薪水裡扣。
+04253,npc.bark.crimson.target_down_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - sees its enemy die",64,目標已倒下。
+04254,npc.bark.crimson.target_down_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - sees its enemy die",64,這就收工了。
+04255,npc.bark.crimson.target_down_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - sees its enemy die",64,目標倒下。領薪水時間。
+04256,npc.bark.crimson.contact_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - spots the enemy",64,已經看見他了。
+04257,npc.bark.crimson.contact_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - spots the enemy",64,發現目標！
+04258,npc.bark.crimson.contact_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - spots the enemy",64,就是那個傢伙。
+04259,npc.bark.crimson.contact_4,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - spots the enemy",64,警戒，接觸！
+04260,npc.bark.crimson.push_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - pushes toward the enemy",64,往他那裡逼近。
+04261,npc.bark.crimson.push_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - pushes toward the enemy",64,往前推，注意我後面！
+04262,npc.bark.crimson.push_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - pushes toward the enemy",64,讓我們把這事收尾。
+04263,npc.bark.crimson.push_4,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - pushes toward the enemy",64,進去。輕鬆錢。
+04264,npc.bark.crimson.push_weak_target_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - pushes while the player is backing away (taunt)",64,他跑了。獎金時間。
+04265,npc.bark.crimson.push_weak_target_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - pushes while the player is backing away (taunt)",64,目標受傷了，結束掉他！
+04266,npc.bark.crimson.push_weak_target_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - pushes while the player is backing away (taunt)",64,別讓他跑了，兄弟們！
+04267,npc.bark.crimson.flank_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - starts to flank the enemy",64,迂迴包抄。
+04268,npc.bark.crimson.flank_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - starts to flank the enemy",64,我走側門。
+04269,npc.bark.crimson.flank_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - starts to flank the enemy",64,繞過去，讓他忙著應付。
+04270,npc.bark.crimson.covering_fire_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - gives covering fire to an advancing ally",64,我掩護你，快走！
+04271,npc.bark.crimson.covering_fire_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - gives covering fire to an advancing ally",64,火力壓制，走！
+04272,npc.bark.crimson.covering_fire_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - gives covering fire to an advancing ally",64,讓他忙著應付！
+04273,npc.bark.crimson.reload_spotted_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - sees the enemy reloading",64,他沒子彈了，打他！
+04274,npc.bark.crimson.reload_spotted_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - sees the enemy reloading",64,他在換彈，快去拿薪水！
+04275,npc.bark.crimson.grenade_out_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - throws a grenade",64,手榴彈出擊！
+04276,npc.bark.crimson.grenade_out_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - throws a grenade",64,低頭，手榴彈出擊！
+04277,npc.bark.crimson.grenade_out_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - throws a grenade",64,特別快遞！
+04278,npc.bark.crimson.danger_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - a grenade lands near it",64,手榴彈！快跑！
+04279,npc.bark.crimson.danger_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - a grenade lands near it",64,該死，是手榴彈！
+04280,npc.bark.crimson.flash_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - is blinded by a flash grenade",64,該死，我看不見了！
+04281,npc.bark.crimson.flash_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - is blinded by a flash grenade",64,什麼都看不見！
+04282,npc.bark.crimson.relocate_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - moves to another position",64,轉移位置。
+04283,npc.bark.crimson.relocate_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - moves to another position",64,改變我的角度。
+04284,npc.bark.crimson.search_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - lost the enemy and searches for it",64,失去目標。分散搜索。
+04285,npc.bark.crimson.search_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - lost the enemy and searches for it",64,他大概就在這附近。
+04286,npc.bark.crimson.search_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - lost the enemy and searches for it",64,檢查角落，大家。
+04287,npc.bark.crimson.search_4,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - lost the enemy and searches for it",64,沒有人拿到薪水，除非找到他。
+04288,npc.bark.crimson.hit_1,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - is hit by a bullet",64,我中彈了，該死！
+04289,npc.bark.crimson.hit_2,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - is hit by a bullet",64,該死……我中彈了！
+04290,npc.bark.crimson.hit_3,"NPC bark - Crimson Corp (American private contractors, casual, money-minded) - is hit by a bullet",64,這不在我的合約裡！
+04291,npc.bark.watcher.aimed_at_neutral_1,"NPC bark - Watchers (terse, unsettling, almost never speak) - warns a neutral player who points a gun at it",64,不要。
+04292,npc.bark.watcher.body_warning_1,"NPC bark - Watchers (terse, unsettling, almost never speak) - tells the player to leave a body it owns",64,把它留下。
+04293,npc.bark.watcher.body_looting_1,"NPC bark - Watchers (terse, unsettling, almost never speak) - shown while it loots a body",64,……
+04294,npc.bark.watcher.target_down_1,"NPC bark - Watchers (terse, unsettling, almost never speak) - sees its enemy die",64,已經結束了。
+04295,npc.bark.watcher.contact_1,"NPC bark - Watchers (terse, unsettling, almost never speak) - spots the enemy",64,已看到。
+04296,npc.bark.watcher.contact_2,"NPC bark - Watchers (terse, unsettling, almost never speak) - spots the enemy",64,你已被發現。
+04297,npc.bark.watcher.push_weak_target_1,"NPC bark - Watchers (terse, unsettling, almost never speak) - pushes while the player is backing away (taunt)",64,無處可逃。
+04298,npc.bark.hunter.aimed_at_neutral_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - warns a neutral player who points a gun at it",64,放輕鬆，獵人。
+04299,npc.bark.hunter.aimed_at_neutral_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - warns a neutral player who points a gun at it",64,小心你手上的那東西指向哪裡。
+04300,npc.bark.hunter.aimed_at_neutral_3,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - warns a neutral player who points a gun at it",64,別搞砸，獵人。
+04301,npc.bark.hunter.aimed_at_neutral_4,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - warns a neutral player who points a gun at it",64,我們有得罪你嗎？
+04302,npc.bark.hunter.aimed_at_ally_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - friendly remark to an allied player who points a gun at it",64,很好笑。
+04303,npc.bark.hunter.aimed_at_ally_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - friendly remark to an allied player who points a gun at it",64,小心點，朋友。
+04304,npc.bark.hunter.body_warning_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - tells the player to leave a body it owns",64,那是我殺的。走開。
+04305,npc.bark.hunter.body_warning_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - tells the player to leave a body it owns",64,自己找，朋友。
+04306,npc.bark.hunter.body_warning_3,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - tells the player to leave a body it owns",64,那個是我拿到的。退開。
+04307,npc.bark.hunter.body_looting_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - shown while it loots a body",64,正在搜刮...
+04308,npc.bark.hunter.body_looting_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - shown while it loots a body",64,來看看你有什麼。
+04309,npc.bark.hunter.ally_down_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - sees an ally die",64,不……該死。
+04310,npc.bark.hunter.ally_down_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - sees an ally die",64,你會為此付出代價。
+04311,npc.bark.hunter.target_down_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - sees its enemy die",64,早該待在家裡。
+04312,npc.bark.hunter.target_down_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - sees its enemy die",64,這不關個人恩怨。
+04313,npc.bark.hunter.target_down_3,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - sees its enemy die",64,來看看你有什麼東西。
+04314,npc.bark.hunter.contact_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - spots the enemy",64,你在這裡。
+04315,npc.bark.hunter.contact_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - spots the enemy",64,我就知道我有聽到什麼。
+04316,npc.bark.hunter.contact_3,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - spots the enemy",64,你真倒楣。
+04317,npc.bark.hunter.push_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - pushes toward the enemy",64,這輪到我。
+04318,npc.bark.hunter.push_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - pushes toward the enemy",64,我們結束這一切吧。
+04319,npc.bark.hunter.push_weak_target_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - pushes while the player is backing away (taunt)",64,已經跑了？
+04320,npc.bark.hunter.push_weak_target_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - pushes while the player is backing away (taunt)",64,你就這點本事，獵人？
+04321,npc.bark.hunter.push_weak_target_3,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - pushes while the player is backing away (taunt)",64,把背包留下，我放你走！
+04322,npc.bark.hunter.push_weak_target_4,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - pushes while the player is backing away (taunt)",64,去吧，跑吧。我更快。
+04323,npc.bark.hunter.reload_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - reloads its own weapon",64,正在換彈...
+04324,npc.bark.hunter.reload_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - reloads its own weapon",64,快點、快點...
+04325,npc.bark.hunter.reload_spotted_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - sees the enemy reloading",64,空了，嗯？
+04326,npc.bark.hunter.reload_spotted_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - sees the enemy reloading",64,真是換彈的糟糕時機。
+04327,npc.bark.hunter.grenade_out_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - throws a grenade",64,接住。
+04328,npc.bark.hunter.grenade_out_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - throws a grenade",64,來，拿著這個。
+04329,npc.bark.hunter.danger_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - a grenade lands near it",64,手榴彈！
+04330,npc.bark.hunter.danger_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - a grenade lands near it",64,哎呀，該死！
+04331,npc.bark.hunter.flash_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - is blinded by a flash grenade",64,啊，我的眼睛！
+04332,npc.bark.hunter.flash_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - is blinded by a flash grenade",64,看不見！
+04333,npc.bark.hunter.search_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - lost the enemy and searches for it",64,你跑去哪裡了...
+04334,npc.bark.hunter.search_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - lost the enemy and searches for it",64,來吧，現身吧。
+04335,npc.bark.hunter.search_3,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - lost the enemy and searches for it",64,你不可能永遠躲下去。
+04336,npc.bark.hunter.hit_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - is hit by a bullet",64,啊！好槍法...
+04337,npc.bark.hunter.hit_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - is hit by a bullet",64,該死，這很痛。
+04338,npc.bark.hunter.hit_3,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - is hit by a bullet",64,走運的混蛋。
+04339,npc.bark.hunter.retreat_1,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - runs away from the fight, badly wounded",64,不值得。
+04340,npc.bark.hunter.retreat_2,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - runs away from the fight, badly wounded",64,改天吧，獵人。
+04341,npc.bark.hunter.retreat_3,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - runs away from the fight, badly wounded",64,沒有哪個戰利品值這樣冒險。
+04342,npc.bark.default.body_warning_1,NPC bark - any faction without its own line - tells the player to leave a body it owns,64,從那具屍體旁邊退開。那是我的。
+04343,npc.bark.default.body_looting_1,NPC bark - any faction without its own line - shown while it loots a body,64,正在搜刮...
+04344,difficulty.menu.difficult_ai,Difficulty Menu,32,困難 AI
+04345,difficulty.menu.tooltip.difficult_ai,Difficulty menu tooltips,512,開啟時，人類敵人會使用符合難度的戰鬥水平戰鬥。\n\n關閉時，除首領外的每個人類敵人都會比原本低兩個難度的戰鬥水平戰鬥（大師相當於專家，熟練相當於新手）：\n發現你的速度更慢，聽覺與追蹤能力較差，反應更慢，你失誤時有更多反應時間。\n\n變更後新刷新的敵人立即生效。
 
 05000,"When ON, tap to toggle sprinting on and off; when OFF, hold the key to sprint.",Gameplay setting tooltip,128,開啟時，點擊切換衝刺狀態；關閉時，按住按鍵衝刺
-05001,"When ON, weapons wear at 25% of the normal rate, so they seldom reach the jam threshold.",Difficulty menu tooltips,128,開啟時，武器磨損速度為正常的25%，所以很少會達到卡殼閾值
+05001,"When ON, weapons wear at 25% of the normal rate, so they seldom reach the jam threshold.",Difficulty menu tooltips,128,開啟時，武器磨損速度為正常的 25%，所以很少會達到卡殼閾值
 05002,suppressor 7.62x51 PTS/UDK Ghillie,Weapon Mods,64,7.62x51 PTS/UDK 吉利偽裝消音器
 05003,.50 bmg standard,Ammo Types,64,.50 BMG 標準
 05004,M1A ghillie stock,Weapon Mods,64,M1A 吉利偽裝槍托
 05005,Confirm,User Interface,40,確認
-05006,ZERO Sievert has been updated to version,Insert,256,《ZERO Sievert》已更新至版本
+05006,NPCs claim bodies,Difficulty Menu,32,NPC 會認領屍體
+05007,"NPCs own the bodies of the enemies they kill: they warn you off, loot them and carry what they took until they die. When OFF, bodies are never claimed and NPCs do not loot.",Difficulty menu tooltips,512,NPC 會認領他們殺死的敵人的屍體：\n他們會警告你離開，搜刮屍體，並帶著搜刮的物品離開直到死亡。\n\n如果關閉此功能，屍體將不會被認領，NPC 也不會搜刮屍體。
+05008,NPC loot amount,Difficulty Menu,32,NPC 搜刮物品數量
+05009,"How much an NPC takes from a body it owns. 0 = it claims the body but takes nothing, 1 = normal, 2 = twice as much.",Difficulty menu tooltips,512,NPC 從認領的屍體中獲取的物品數量。\n0 = 認領屍體但不取走任何物品，\n1 = 正常數量，\n2 = 雙倍數量。
 
-06000,Legendary Merchant,NPCs,48,傳奇商人
+06000,Legendary Merchant,NPC name,48,傳奇商人
 06001,Bye.,"User Interface, interaction with NPC",1400,再見
 06002,Trade,"User Interface, interaction with NPC",1400,交易
 06003,I have some questions.,"User Interface, interaction with NPC",1400,我有一些問題想問

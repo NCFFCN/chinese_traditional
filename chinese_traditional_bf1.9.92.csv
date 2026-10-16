@@ -887,7 +887,7 @@ Refill hunger for price roubles,User Interface,40,吃點東西，需支付[PRICE
 Repair armor for price roubles,User Interface,40,修理護甲，需支付[PRICE]盧布
 accept and play,User Interface,40,接受並開始
 Audio,User Interface,40,音效
-Choose an item as a reward,User Interface,40,選擇一項物品作爲報酬
+Choose an item as a reward,User Interface,40,選擇一項物品作為報酬
 Choose your equipment,User Interface,40,選擇你的裝備
 combat,User Interface,40,戰鬥
 compatible with:,User Interface,40,兼容:
@@ -929,7 +929,7 @@ No,User Interface,40,否
 no,User Interface,40,否
 normal,User Interface,40,正常
 Not available now,User Interface,40,目前不可用
-"note - when in fullscreen, the game will always scale to the correct resolution for your monitor.",User Interface,128,在全螢幕模式下，遊戲將始終縮放爲顯示器的默認解析度。
+"note - when in fullscreen, the game will always scale to the correct resolution for your monitor.",User Interface,128,在全螢幕模式下，遊戲將始終縮放為顯示器的默認解析度。
 our privacy policy,User Interface,40,隱私政策
 play without analytics,User Interface,40,不使用數據分析遊玩
 player needs,User Interface,40,玩家需求
@@ -1076,7 +1076,7 @@ Damn! These poor guys,"User Interface, interaction with NPC",1400,該死！這�
 Do you wanna buy something?,"User Interface, interaction with NPC",1400,你想買點什麼嗎？
 Don't look at Mr Junk's treasure!,"User Interface, interaction with NPC",1400,不要盯着「垃圾」先生的寶貝！
 Don't make a mess,"User Interface, interaction with NPC",1400,別惹麻煩。
-Everyone thinks we were making secret weapons - NPC Dialogue,"User Interface, interaction with NPC",1400,所有人都以爲我們在實驗室裏製造祕密武器。哈！\n事實是，我們當時只是在進行一項常規實驗，結果除了岔子，引發了爆炸，並伴隨着大規模的輻射泄漏。\n我們至今也不知道到底發生了什麼。我們的技術人員已經在絞盡腦汁調查真相了。
+Everyone thinks we were making secret weapons - NPC Dialogue,"User Interface, interaction with NPC",1400,所有人都以為我們在實驗室裏製造祕密武器。哈！\n事實是，我們當時只是在進行一項常規實驗，結果除了岔子，引發了爆炸，並伴隨着大規模的輻射泄漏。\n我們至今也不知道到底發生了什麼。我們的技術人員已經在絞盡腦汁調查真相了。
 Go away! I don't have time to waste on people like you.,"User Interface, interaction with NPC",1400,滾開，沒工夫伺候你。
 Green army wants you dead,"User Interface, interaction with NPC",1400,綠軍想要你死
 Heal me,"User Interface, interaction with NPC",1400,治療
@@ -1101,7 +1101,7 @@ How has radiation changed the zone?,"User Interface, interaction with NPC",1400,
 "Huh, that thing is like shit for flies - NPC Dialogue","User Interface, interaction with NPC",1400,呵，那玩意兒簡直就像招蒼蠅的屎。\n難怪直升機全栽在這片區域。\n我很清楚那種感覺：起初渾身動彈不得，接着頭痛欲裂，最後腦子裏只剩下一個念頭，就是不顧一切地湊上去摸，完全喪失理智。\n幸虧我及時拉了一把，不然下場就跟那些機組人員一樣了。\n我以前也見過類似的東西……
 I accept,"User Interface, interaction with NPC",1400,我接受
 I am Dmitriy - NPC Dialogue,"User Interface, interaction with NPC",1400,我是德米特里。\n如果你在找活幹，那巧了，我這有幹不完的活。
-I am many things - NPC Dialogue,"User Interface, interaction with NPC",1400,我有很多身份，朋友。外交官，調停者，傳遞信息和祕密的中間人。我洞悉人心，我知道如何達成目的。\n但我的身份並不重要，重要的是我能爲你做些什麼。你看，我在這個地區的每個角落都有人脈。我知道此和誰說話，此避開誰，誰有你需要的東西。我可以用這些信息爲你服務。\n每天我都會接到許多亟待完成的任務。我一直在尋找像你這樣有能力的人來幫忙。\n如果你對某個任務感興趣，就告訴我，完成後你會得到報酬。就這麼簡單。
+I am many things - NPC Dialogue,"User Interface, interaction with NPC",1400,我有很多身份，朋友。外交官，調停者，傳遞信息和祕密的中間人。我洞悉人心，我知道如何達成目的。\n但我的身份並不重要，重要的是我能為你做些什麼。你看，我在這個地區的每個角落都有人脈。我知道此和誰說話，此避開誰，誰有你需要的東西。我可以用這些信息為你服務。\n每天我都會接到許多亟待完成的任務。我一直在尋找像你這樣有能力的人來幫忙。\n如果你對某個任務感興趣，就告訴我，完成後你會得到報酬。就這麼簡單。
 I bet you have many questions,"User Interface, interaction with NPC",1400,我猜你肯定有許多問題。
 I can carry you wherever you want.\nYou just have to pay a fee.,"User Interface, interaction with NPC",1400,我可以帶你離開。\n你只需要付一點車馬費。
 I can give you a few ones - NPC Dialogue,"User Interface, interaction with NPC",1400,你算是找對人了。\n綠軍可不會跟一個菜鳥打交道，我倒是可以跟他們說上幾句話。但首先，我們得看看你在外面能不能活下來。\n此外，醫生一直在找不怕死的人幫他收集樣本。\n去跟他聊聊吧，看看他怎麼說。
@@ -1121,8 +1121,8 @@ I was a conductor of Zakov's train station - NPC Dialogue,"User Interface, inter
 I'm guarding the front door.\nCan't you tell?,"User Interface, interaction with NPC",1400,我在守門。\n難道你看不出來？
 I've found some documents,"User Interface, interaction with NPC",1400,我找到了一些檔案
 I've helped you dock,"User Interface, interaction with NPC",1400,我之前接應過你們登陸
-If you continue to the left you will find a room - NPC Dialogue,"User Interface, interaction with NPC",1400,往左走，你會發現一個有板條箱和工作臺的房間。\n那地方歸你了。\n你可以好好給自己打造一個小窩，順便爲狩獵做準備。
-"If you're just a biomedical company, why are there so many troops?","User Interface, interaction with NPC",1400,如果你們只是一家搞生物醫學的公司，那爲什麼會有這些部隊？
+If you continue to the left you will find a room - NPC Dialogue,"User Interface, interaction with NPC",1400,往左走，你會發現一個有板條箱和工作臺的房間。\n那地方歸你了。\n你可以好好給自己打造一個小窩，順便為狩獵做準備。
+"If you're just a biomedical company, why are there so many troops?","User Interface, interaction with NPC",1400,如果你們只是一家搞生物醫學的公司，那為什麼會有這些部隊？
 Immediately after the accident we were on good terms - NPC Dialogue,"User Interface, interaction with NPC",1400,最開始，我們關係還算融洽，井水不犯河水。\n不過當他們發現那不是正常的輻射，而我們對他們撒了謊時，一切就都變了。\n從那時起，這個地區遍佈戰火，沒有規則，沒有法律。\n綠軍和深紅公司徹底撕破了臉，都想逼對方離開，獨自揭開核電廠的祕密。
 In an unbelievable way - NPC Dialogue,"User Interface, interaction with NPC",1400,簡直超乎想象！很明顯這絕非普通輻射，而是前所未見、甚至想都不敢想的東西。\n催生出的異常現象瞬間就能讓人灰飛煙滅！太奇妙了！\n更別提對野生動物的影響，不僅沒要了它們的命，反而迅速改變了DNA，大幅強化了體能和感官。\n外面那些玩意兒連最頂尖的科幻片都拍不出來，估計嚇着你了。\n我還是少說兩句吧，畢竟留着你還有大用處。
 In the forest you will find mainly bandits and wild animals - NPC Dialogue,"User Interface, interaction with NPC",1400,森林是匪幫和野獸的地盤。林地中央的村莊似乎還有人煙，但幾周前遭到匪幫的洗劫，只有少數倖存者來地堡避難。\n還有個廢棄的舊鋸木廠，同樣也被匪幫佔據。\n綠軍在森林裏有前哨站，他們不會一看到你就格殺勿論，但也別去惹他們。
@@ -1135,7 +1135,7 @@ It's a multinational company - NPC Dialogue,"User Interface, interaction with NP
 It's the area where most of the population was evacuated - NPC Dialogue,"User Interface, interaction with NPC",1400,那片地區的大多數人口都被疏散了。\n如今...基本看不到活人，除了一些零零散散的強盜。\n那裏的輻射等級不算太高，不過看到堆在一起的汽車還是站遠點吧。
 Join Crimson Corporation,"User Interface, interaction with NPC",1400,加入深紅公司
 Join Green Army,"User Interface, interaction with NPC",1400,加入綠軍
-Mmm... Tongue and eyes huh - NPC Dialogue,"User Interface, interaction with NPC",1400,嗯，舌頭和眼睛...這是獵人的傳統？\n好吧，士兵...我手下這些新兵蛋子會被嚇得做噩夢的。不過你做得對，這是老鼠應得的。\n我會把它們作爲對所有人的警告。
+Mmm... Tongue and eyes huh - NPC Dialogue,"User Interface, interaction with NPC",1400,嗯，舌頭和眼睛...這是獵人的傳統？\n好吧，士兵...我手下這些新兵蛋子會被嚇得做噩夢的。不過你做得對，這是老鼠應得的。\n我會把它們作為對所有人的警告。
 Mmm...Ok bye!,"User Interface, interaction with NPC",1400,嗯...好的，再見！
 I can see you're a clever person - NPC Dialogue,"User Interface, interaction with NPC",1400,看得出來你是個聰明人，問這種問題時，千萬要小心...\n我只是不想讓你遇到什麼糟糕的事。
 My brother Vadim and I have been tasked to guard the main door.,"User Interface, interaction with NPC",1400,我和我哥瓦迪姆奉命看守大門。
@@ -1152,7 +1152,7 @@ Not much. But orders are orders...,"User Interface, interaction with NPC",1400,�
 "Nothing in particular, some days I need to get fresh air.\nLiving in the bunker all the time is not easy.","User Interface, interaction with NPC",1400,沒什麼特別的，出來呼吸新鮮空氣。\n一直待在地堡里老難受了。
 "Now that you have killed several Green Army soldiers you have shown them that you mean business.\nI propose something to you: talk to Artemovich and see the possibility of having a Crimson Corporation trader inside the bunker.\nNo matter how much our factions are fighting, the ZERO Sievert bunker is still a safe zone.\nIt was not decided by my leaders or even the local government, there are international agreements regarding that bunker.\nThe only way for us to access it would be through force but there are too many civilians in the bunker and having dead civilians is not a wise political move.\nSo, talk to Artemovich and find a compromise. Having a trader in the ZERO Sievert would also benefit our pockets.","User Interface, interaction with NPC",1400,擊殺了綠軍的幾名士兵，也算是讓他們見識到你不好惹了。\n給你個建議：和阿爾捷莫維奇聊聊，看能不能讓深紅公司的商人進駐地堡。\n無論陣營之間如何交戰，零希沃特地堡仍然是安全區。\n這並非由我的上司甚至當地政府決定，而是這個地堡受相關的國際協議保護。\n我們想進去的話只能硬闖，但地堡裏的平民太多了，造成平民傷亡在政治層面上絕非明智之舉。\n所以去和阿爾捷莫維奇聊聊吧，找個折中的辦法。零希沃特地堡裏多個商人的話，能讓我們都賺上一筆。
 "Npc can give you usefull information, task and trade with you.","User Interface, interaction with NPC",1400,NPC 可以提供有用的信息和任務，或者和你交易。
-Of any kind. People come in here - NPC Dialogue,"User Interface, interaction with NPC",1400,什麼樣的都有。\n人們只需告訴我想要什麼。我的工作就是尋找願意爲了報酬而去冒險的傢伙。
+Of any kind. People come in here - NPC Dialogue,"User Interface, interaction with NPC",1400,什麼樣的都有。\n人們只需告訴我想要什麼。我的工作就是尋找願意為了報酬而去冒險的傢伙。
 Of course it is! No mutant or bandit has ever walked through that door.,"User Interface, interaction with NPC",1400,廢話，怪物和強盜永遠通過不了這道大門。
 "Oh! Oh! Beautiful, isn't it - NPC Dialogue","User Interface, interaction with NPC",1400,噢！噢！很漂亮，對不對？\n「垃圾」先生從一個孩子身上拿到的。噢！「垃圾」先生沒有偷！不！不！「垃圾」先生不偷東西！\n那孩子穿着這身漂亮衣服，但幸運的是他死了。對，死了。多麼美好的一天！\n「垃圾」先生拿走了衣服，現在它只屬於「垃圾」先生了！只屬於他一個人！
 Oh! This place is beautiful - NPC Dialogue,"User Interface, interaction with NPC",1400,噢！這地方很漂亮！聽「垃圾」先生說！\n大爆炸後，他們把我們帶到這裡來，路上有很多人在嘔吐。\n他們很快就死了，所以「垃圾」先生拿走他們的東西，但其他人不同意，對「垃圾」先生很不好。\n「垃圾」先生不明白，他們死了，他們要這些漂亮的寶貝有什麼用呢？\n所以「垃圾」先生就藏在這裡，有時出去尋找寶貝，漂亮的寶貝。\n「垃圾」先生看到的活人越來越少，死人越來越多，對，對。\n所以「垃圾」先生可以拿走他們的東西而不會有人生氣了。
@@ -1167,12 +1167,12 @@ Recently helicopters have crashed near the swamp - NPC Dialogue,"User Interface,
 Refill hunger and thirst,"User Interface, interaction with NPC",1400,吃飯
 Repair armor,"User Interface, interaction with NPC",1400,修理護甲
 Repair equipment,"User Interface, interaction with NPC",1400,修理裝備
-So do you want to join us? That would be a wise choice Hunter - NPC Dialogue,"User Interface, interaction with NPC",1400,你想加入我們？一個明智的選擇，獵人！\n你可以幫助我們對抗綠軍，並加強我們對這個地區的控制。下次你再來找我，我一定會給你安排工作的。\n\n\n確定要加入深紅公司嗎？\n你在這個陣營的聲望上限將變爲1000，允許你解鎖新的裝備和額外的任務。\n你將成爲綠軍的敵人。
+So do you want to join us? That would be a wise choice Hunter - NPC Dialogue,"User Interface, interaction with NPC",1400,你想加入我們？一個明智的選擇，獵人！\n你可以幫助我們對抗綠軍，並加強我們對這個地區的控制。下次你再來找我，我一定會給你安排工作的。\n\n\n確定要加入深紅公司嗎？\n你在這個陣營的聲望上限將變為1000，允許你解鎖新的裝備和額外的任務。\n你將成為綠軍的敵人。
 So it was you? Good job Hunter - NPC Dialogue,"User Interface, interaction with NPC",1400,原來是你？幹得好，獵人！\n那些食屍鬼一直在殺我的人。\n深紅公司非常感謝你。
 So that's your brother Vadim?,"User Interface, interaction with NPC",1400,那是你哥瓦迪姆？
 So they want me dead - NPC Dialogue,"User Interface, interaction with NPC",1400,他們想要我死？哈！\n我知道這一天遲早會來，綠軍不會容忍我這麼一塊絆腳石。\n他們命令你來幹這個？\n那麼，你到底是獵人還是士兵？\n隨你的便吧，我已經又老又糊塗了，可我僅剩的這點體面不允許我向你開口求饒。
 So you want a Crimson Corporation trader - NPC Dialogue,"User Interface, interaction with NPC",1400,你想讓深紅公司的人進地堡來？\n真該死！這個提議簡直令人作嘔。\n薛帕德擅長玩弄政治，但他十足十是個蠢貨！我一點也不在乎外面的世界發生了什麼，我有我的職責。\n\n我接受你的提議，可你，獵人，你不再是綠軍的夥伴。交易和任務依然有效，但不要指望我的士兵會在外邊幫你。\n滾吧，等你回來的時候就能看到那羣得志的小人了。
-So you want to enlist - NPC Dialogue,"User Interface, interaction with NPC",1400,你想參軍？非常好，獵人！\n我正需要你這樣經驗值豐富的好手。下次你再來找我，我看看能不能給你找點活幹。\n\n\n確定要加入綠軍嗎？\n你在這個陣營的聲望上限將變爲1000，允許你解鎖新的裝備和額外的任務。\n你將成爲深紅公司的敵人。
+So you want to enlist - NPC Dialogue,"User Interface, interaction with NPC",1400,你想參軍？非常好，獵人！\n我正需要你這樣經驗值豐富的好手。下次你再來找我，我看看能不能給你找點活幹。\n\n\n確定要加入綠軍嗎？\n你在這個陣營的聲望上限將變為1000，允許你解鎖新的裝備和額外的任務。\n你將成為深紅公司的敵人。
 Sorry comrade! I have something else to do,"User Interface, interaction with NPC",1400,對不起，同志！我還有別的事要做。
 Tell me more about The forest,"User Interface, interaction with NPC",1400,跟我講講森林
 Tell me more about The industrial area,"User Interface, interaction with NPC",1400,跟我講講工業區
@@ -1185,18 +1185,18 @@ Tell me more about the old nuclear power plant,"User Interface, interaction with
 Tell me more about your faction,"User Interface, interaction with NPC",1400,跟我講講你們
 Tell me something,"User Interface, interaction with NPC",1400,我想問些事情
 Tell me something dickhead,"User Interface, interaction with NPC",1400,屌毛，我問，你答
-That's because you're from the ZERO Sievert bunker - NPC Dialogue,"User Interface, interaction with NPC",1400,那是因爲你來自零希沃特地堡，早就被綠軍洗腦了。\n按協議他們根本不該進駐紮科夫，只不過爆炸後局勢惡化。\n他們便打着疏散居民的幌子進來，卻賴着不走想查明事發原因。\n明面上說是保護倖存者，全都是扯淡。\n我們早就截獲了好幾段他們指揮官的無線電通話。\n不知道他們指望能查出什麼，反正這邊也沒什麼好藏着掖着的……
+That's because you're from the ZERO Sievert bunker - NPC Dialogue,"User Interface, interaction with NPC",1400,那是因為你來自零希沃特地堡，早就被綠軍洗腦了。\n按協議他們根本不該進駐紮科夫，只不過爆炸後局勢惡化。\n他們便打着疏散居民的幌子進來，卻賴着不走想查明事發原因。\n明面上說是保護倖存者，全都是扯淡。\n我們早就截獲了好幾段他們指揮官的無線電通話。\n不知道他們指望能查出什麼，反正這邊也沒什麼好藏着掖着的……
 The Green Army is a delegation - NPC DIalogue,"User Interface, interaction with NPC",1400,綠軍是本地陸軍的分支。\n在屏障出現並隔絕通訊後，我決定繼續執行上級的命令。我們盡一切努力讓這裡的文明之火不至於熄滅。\n有人說我們已經變成了一個獨裁政權，但事實是我們必須動用武力來維持秩序。無法想象沒有我們的話這個地方會變成什麼樣子。
-The only way to leave the map is to find an extraction point - NPC Dialogue,"User Interface, interaction with NPC",1400,撤離點是唯一的途徑。\n它們在個人終端地圖上顯示爲綠色圓圈。\n祝你好運！
+The only way to leave the map is to find an extraction point - NPC Dialogue,"User Interface, interaction with NPC",1400,撤離點是唯一的途徑。\n它們在個人終端地圖上顯示為綠色圓圈。\n祝你好運！
 There's Mr. Junk's treasure - NPC Dialogue,"User Interface, interaction with NPC",1400,那是「垃圾」先生的寶貝！別盯着它看！\n「垃圾」先生會不高興的！\n別打開那扇門！不！不！不！\n你敢！
 "They proceed slowly, to my chagrin - NPC Dialogue","User Interface, interaction with NPC",1400,進展非常緩慢。\n開始時，我們興奮地離開地堡展開採樣收集工作，但一下子就失去了過半的小隊。之後也很難找到願意冒險的人。\n願意出去的都是想撈一筆的普通人，可我需要的是受過良好教育和頭腦靈活的傢伙。
 "This area is reserved for the Green Army, you do not have authorization.","User Interface, interaction with NPC",1400,這是綠軍控制的地堡區，你沒有得到授權。
 "This area is restricted, you do not have permission to pass.\nYou have to pay 5000 roubles every time you want to access.","User Interface, interaction with NPC",1400,這裡是禁區，你沒有得到授權。\n你每次通過都得付5000盧布。
-This is Grigoriy! He was the only nice child with Mr. Junk - NPC Dialogue,"User Interface, interaction with NPC",1400,這是格里戈里！他是「垃圾」先生唯一的朋友。\n他和「垃圾」先生一起長大，他們一起去尋找寶貝。\n有一天，格里戈里發現了一個漂亮的寶貝，但「垃圾」先生想據爲己有。格里戈里非常生氣，把寶貝緊緊地握在手裏。\n人人都說「垃圾」先生是傻瓜，但「垃圾」先生知道頭是人的弱點，所以「垃圾」先生拿起一塊石頭，朝格里戈里的頭砸了幾下。\n對，對，「垃圾」先生聰明。\n「垃圾」先生很高興，因爲他得到了寶貝，但也很傷心，因爲格里戈里再也不動了。\n從那天起，「垃圾」先生再也不拿別人的東西了。不！\n不！不！
+This is Grigoriy! He was the only nice child with Mr. Junk - NPC Dialogue,"User Interface, interaction with NPC",1400,這是格里戈里！他是「垃圾」先生唯一的朋友。\n他和「垃圾」先生一起長大，他們一起去尋找寶貝。\n有一天，格里戈里發現了一個漂亮的寶貝，但「垃圾」先生想據為己有。格里戈里非常生氣，把寶貝緊緊地握在手裏。\n人人都說「垃圾」先生是傻瓜，但「垃圾」先生知道頭是人的弱點，所以「垃圾」先生拿起一塊石頭，朝格里戈里的頭砸了幾下。\n對，對，「垃圾」先生聰明。\n「垃圾」先生很高興，因為他得到了寶貝，但也很傷心，因為格里戈里再也不動了。\n從那天起，「垃圾」先生再也不拿別人的東西了。不！\n不！不！
 "This is my current base, I usually move around - NPC Dialogue","User Interface, interaction with NPC",1400,我在考慮何時搬家。搬家對我來說是常事，但這裡有家的感覺。我是說真正的家。\n哦，就像過去的美好時光...
 This is the Zero Sievert - NPC Dialogue,"User Interface, interaction with NPC",1400,這裡是零希沃特，一個建立於冷戰時期的舊地堡，扎科夫唯一的安全區。\n在這裡你可以找到你需要的一切：裝備，補給和任務。
-WHY? Look where we live now - NPC Dialogue,"User Interface, interaction with NPC",1400,爲什麼？看看我們現在生活的地方。\n我是扎科夫一家工廠的廠長。事故發生時，我沒能及時離開。現在我被困在這裡，和這些骯髒的傢伙在一起。
-We are trying to find out what happened - NPC Dialogue,"User Interface, interaction with NPC",1400,我們正在努力調查災難的真相。\n核電廠的爆炸發生在一次常規實驗期間。我們只知道這些，因爲所有參與者都當場死亡，網絡也癱瘓了，我們甚至無法恢復數據。\n士兵是來保護我們的，你看到那些變異的野生動物了嗎？\n我們必須組織一支小隊去核電廠，但那裏充滿了輻射和異常，非常危險。
+WHY? Look where we live now - NPC Dialogue,"User Interface, interaction with NPC",1400,為什麼？看看我們現在生活的地方。\n我是扎科夫一家工廠的廠長。事故發生時，我沒能及時離開。現在我被困在這裡，和這些骯髒的傢伙在一起。
+We are trying to find out what happened - NPC Dialogue,"User Interface, interaction with NPC",1400,我們正在努力調查災難的真相。\n核電廠的爆炸發生在一次常規實驗期間。我們只知道這些，因為所有參與者都當場死亡，網絡也癱瘓了，我們甚至無法恢復數據。\n士兵是來保護我們的，你看到那些變異的野生動物了嗎？\n我們必須組織一支小隊去核電廠，但那裏充滿了輻射和異常，非常危險。
 We come from a small town in Siberia.\nJoining the army was the only way to escape from that life.,"User Interface, interaction with NPC",1400,我們來自西伯利亞的一個小鎮。\n參軍是逃離那裏的唯一途徑。
 "Well well, a hunter. What do you want from the crimson Corporation?","User Interface, interaction with NPC",1400,好吧，獵人，你想從深紅公司得到什麼？
 What a beautiful... costume I guess?,"User Interface, interaction with NPC",1400,你這一身…還挺好看？
@@ -1207,7 +1207,7 @@ Aren't you scared to be out here?,"User Interface, interaction with NPC",1400,�
 What can you tell me about an old nuclear power plant in Ukraine?,"User Interface, interaction with NPC",1400,你能跟我講講烏克蘭的舊核電廠嗎？
 What can you tell me about this area?,"User Interface, interaction with NPC",1400,你能跟我講講這個地方嗎？
 What did you discover?,"User Interface, interaction with NPC",1400,你發現了什麼？
-What do you mean? Oh! Oh - NPC Dialogue,"User Interface, interaction with NPC",1400,什麼意思？噢！對！對！\n「垃圾」先生是誰？嗯...\n「垃圾」先生是誰？噢！「垃圾」先生的名字是「垃圾」先生！對，因爲人們都這麼叫他。\n因爲「垃圾」先生喜歡收集寶貝。\n「垃圾」先生不懂，你應該問問他們，但「垃圾」先生認爲他們現在都死了。\n對！對！死了！死了！
+What do you mean? Oh! Oh - NPC Dialogue,"User Interface, interaction with NPC",1400,什麼意思？噢！對！對！\n「垃圾」先生是誰？嗯...\n「垃圾」先生是誰？噢！「垃圾」先生的名字是「垃圾」先生！對，因為人們都這麼叫他。\n因為「垃圾」先生喜歡收集寶貝。\n「垃圾」先生不懂，你應該問問他們，但「垃圾」先生認為他們現在都死了。\n對！對！死了！死了！
 What do you want?,"User Interface, interaction with NPC",1400,你想要什麼？
 What does Crimson Corporation have to do with the accident?,"User Interface, interaction with NPC",1400,深紅公司和這次事故有什麼關係？
 What does the Crimson Corporation do?,"User Interface, interaction with NPC",1400,深紅公司是做什麼的？
@@ -1231,18 +1231,18 @@ Where can I find some jobs?,"User Interface, interaction with NPC",1400,去哪�
 Where can I find some tasks?,"User Interface, interaction with NPC",1400,我在哪能找到任務？
 Where can I store my items?,"User Interface, interaction with NPC",1400,我的物品該存放在哪裡？
 Where do you come from?,"User Interface, interaction with NPC",1400,你從哪裏來的？
-Who am I? Who are you - NPC Dialogue,"User Interface, interaction with NPC",1400,我是誰？我還沒問你是誰，就這樣闖進我家！\n唉...抱歉，我不習慣有客人。\n我叫伊戈爾，以前是個獵人。哦，不是現在那些被稱爲獵人的傢伙。災難發生前，我靠着我不愛說話的莫辛老夥計和一把Toz-34以狩獵動物爲生。\n不，別打什麼歪主意。如果你要得到它們，就得先殺了我。
+Who am I? Who are you - NPC Dialogue,"User Interface, interaction with NPC",1400,我是誰？我還沒問你是誰，就這樣闖進我家！\n唉...抱歉，我不習慣有客人。\n我叫伊戈爾，以前是個獵人。哦，不是現在那些被稱為獵人的傢伙。災難發生前，我靠着我不愛說話的莫辛老夥計和一把Toz-34以狩獵動物為生。\n不，別打什麼歪主意。如果你要得到它們，就得先殺了我。
 Who are you and why are you here?,"User Interface, interaction with NPC",1400,你是誰？在這裡做什麼？
 Who are you?,"User Interface, interaction with NPC",1400,你是誰？
-Who told you about this - NPC Dialogue,"User Interface, interaction with NPC",1400,誰告訴你的？好吧，算了。\n本來我是不讓說這個的，但看在你幫了我們這麼多的份上，我可以爲你破例一次。\n其實我知道的也不多。之前跟你說過，我原本只是個醫生和研究員。\n在他們疏散我們來這裡的路上，我聽到有幾位綠軍的高官說起幾年前烏克蘭也發生過類似事件：類似的異常，輻射對環境產生的變化。\n他們提到了一臺讓人發狂的機器和一幫打扮得像邪教的人。\n真是夠扯的，我當時根本不信。但等到聽到分析出的異常數據，我才明白真的有這回事。\n總之當意識到我在偷聽時，他們只是看着我，無動於衷，就好像他們知道我無論如何也不會離開這裡一樣...
-Why all these soldiers? What are you still doing here?,"User Interface, interaction with NPC",1400,爲什麼有這麼多士兵？你們要在這裡做什麼？
-Why am I always the only one doing these missions?,"User Interface, interaction with NPC",1400,爲什麼只有我一個人執行這些任務？
-Why are you so rude?,"User Interface, interaction with NPC",1400,爲什麼這麼粗暴？
-Why can't I go through?,"User Interface, interaction with NPC",1400,爲什麼不能過去？
-"Yeah, he used to be nicer before he became an Army Special Agent - NPC Dialogue","User Interface, interaction with NPC",1400,是的。他在成爲陸軍特工前是個十分友善的人。他經歷過很多事情。\n他是將軍親自挑選來這裡的。當時他問我願不願意和他一起，我就答應了。\n我本以爲在這種特殊局勢下服役，能在軍中有個大好前程...\n結果我們一腳踏進了地獄的大門。
+Who told you about this - NPC Dialogue,"User Interface, interaction with NPC",1400,誰告訴你的？好吧，算了。\n本來我是不讓說這個的，但看在你幫了我們這麼多的份上，我可以為你破例一次。\n其實我知道的也不多。之前跟你說過，我原本只是個醫生和研究員。\n在他們疏散我們來這裡的路上，我聽到有幾位綠軍的高官說起幾年前烏克蘭也發生過類似事件：類似的異常，輻射對環境產生的變化。\n他們提到了一臺讓人發狂的機器和一幫打扮得像邪教的人。\n真是夠扯的，我當時根本不信。但等到聽到分析出的異常數據，我才明白真的有這回事。\n總之當意識到我在偷聽時，他們只是看着我，無動於衷，就好像他們知道我無論如何也不會離開這裡一樣...
+Why all these soldiers? What are you still doing here?,"User Interface, interaction with NPC",1400,為什麼有這麼多士兵？你們要在這裡做什麼？
+Why am I always the only one doing these missions?,"User Interface, interaction with NPC",1400,為什麼只有我一個人執行這些任務？
+Why are you so rude?,"User Interface, interaction with NPC",1400,為什麼這麼粗暴？
+Why can't I go through?,"User Interface, interaction with NPC",1400,為什麼不能過去？
+"Yeah, he used to be nicer before he became an Army Special Agent - NPC Dialogue","User Interface, interaction with NPC",1400,是的。他在成為陸軍特工前是個十分友善的人。他經歷過很多事情。\n他是將軍親自挑選來這裡的。當時他問我願不願意和他一起，我就答應了。\n我本以為在這種特殊局勢下服役，能在軍中有個大好前程...\n結果我們一腳踏進了地獄的大門。
 "Yes, no mutant or bandit has ever made it through that door","User Interface, interaction with NPC",1400,當然，怪物和強盜都別想通過這扇門！
 "You're not a man of many words, I see.","User Interface, interaction with NPC",1400,你似乎不愛說話
-"You're not the only one, you're just the one coming back alive right now - NPC Dialogue","User Interface, interaction with NPC",1400,你可不是唯一接活的人，你只是目前唯一活着回來的...\n看吧，這裡全都是自欺欺人的可憐蟲，幻想着有一天自己會被接走，回到曾經的家。\n家已經不存在了...\n大多數人只敢收集點物資，只有最勇敢或者說最不要命的人才會去幹你現在接的活。\n綠軍爲什麼不去解決這些破事兒？\n據我所知，他們接到的命令是控制住這個地區，尤其是杜絕有人去往外面的世界。
+"You're not the only one, you're just the one coming back alive right now - NPC Dialogue","User Interface, interaction with NPC",1400,你可不是唯一接活的人，你只是目前唯一活着回來的...\n看吧，這裡全都是自欺欺人的可憐蟲，幻想着有一天自己會被接走，回到曾經的家。\n家已經不存在了...\n大多數人只敢收集點物資，只有最勇敢或者說最不要命的人才會去幹你現在接的活。\n綠軍為什麼不去解決這些破事兒？\n據我所知，他們接到的命令是控制住這個地區，尤其是杜絕有人去往外面的世界。
 Any interesting news?,"User Interface, interaction with NPC",1400,有什麼有趣的消息？
 "This is none of your business, Hunter?","User Interface, interaction with NPC",1400,這不關你的事吧，獵人？
 "Well, obviously a little bit - NPC Dialogue","User Interface, interaction with NPC",1400,嗯...顯然還是有一點的。\n你的背後隨時可能冒出一頭食屍鬼。然而有什麼辦法呢？這就是扎科夫。
@@ -1400,21 +1400,21 @@ Once you have reached the maximum level of a skill you can select a specialisati
 You move slowly if overencumbered,Loading screen tips,256,超重後只能緩慢移動
 "To increase the number of stashes in the bunker, you have to build a storage kit",Loading screen tips,256,安裝儲藏模組以增加儲藏頁
 "You can die quickly, choose wisely when to engage",Loading screen tips,256,死亡如影隨形，三思而後行
-You can only die of radiation when the indicator is red,Loading screen tips,256,指示器變爲紅色表明目前輻射程度足以致死
+You can only die of radiation when the indicator is red,Loading screen tips,256,指示器變為紅色表明目前輻射程度足以致死
 Enemies have reduced vision at night,Loading screen tips,256,在夜間，敵人的視距會降低
 Wounds decrease your max HP,Loading screen tips,256,傷口會降低你的最大生命值
 Press Fire Button to end an animation,Loading screen tips,256,開火會結束角色的其他動作
 Press R to rotate an item whilst in the inventory screen,Loading screen tips,256,按R旋轉背包/儲藏中的物品
 You can mitigate your weapons recoil by pulling back in the opposite direction.,Loading screen tips,256,反向拖動滑鼠以抵消槍械後座力
 Reticle placement matters. Reduce glancing shots by having your reticle directly over your target when shooting.,Loading screen tips,256,射擊時將準星直接指向目標可減少跳彈
-"Swapping to a pistol is faster than any other type of weapon swap, making it the perfect backup weapon in a pinch.",Loading screen tips,256,作爲切換速度最快的槍械，手槍是完美的副手備用武器
+"Swapping to a pistol is faster than any other type of weapon swap, making it the perfect backup weapon in a pinch.",Loading screen tips,256,作為切換速度最快的槍械，手槍是完美的副手備用武器
 "Be vigilant, some enemies are tougher than others, indicated by what armor they are wearing.",Loading screen tips,256,保持謹慎，觀察敵人的護甲，判斷他們的強弱程度
 "Grenades are high value items, incredibly useful, but not to be wasted.",Loading screen tips,256,手榴彈不僅是高價值物品，在戰術上也別有妙用
 Speak to the Networker in the bunker for additional quests and rewards each day.,Loading screen tips,256,每天與地堡中的聯絡員交談，領取任務和報酬
 "Knowing your effective range, is knowing your enemies'. Keep an eye on enemy loadouts and adapt your strategy.",Loading screen tips,256,瞭解槍械的有效射程就是了解你的敵人，關注他們的裝備，審時度勢並調整戰術
 Grenades are a great way to make an enemy move or perish. Use them to push positions.,Loading screen tips,256,使用手榴彈壓制或消滅敵人
 "Holding RMB to aim your weapon will extend your view distance, with optical scopes increasing it considerably.",Loading screen tips,256,按住右鍵延長視野，使用光學瞄準鏡會顯著增強效果
-"Attaching a reflex sight to your weapon will make your reticle positioning more forgiving, making glancing shots less likely.",Loading screen tips,256,使用高倍率瞄準鏡會使準星更爲精準，進而減少跳彈
+"Attaching a reflex sight to your weapon will make your reticle positioning more forgiving, making glancing shots less likely.",Loading screen tips,256,使用高倍率瞄準鏡會使準星更為精準，進而減少跳彈
 Don’t peek the same corner! Enemies will react much more quickly when targeting near your last known position.,Loading screen tips,256,別一直從同一個角落探頭！敵人會瞄準你最後出現的方位，不要跟他們比拼反應
 Landmines are an effective tool to defend against rushing enemies. Just remember where you put them.,Loading screen tips,256,地雷能有效抵禦一擁而上的敵人，但別忘了地雷的放置地點
 "Specialist ammo types can alter a weapon's effective range, such as shotguns and slugs.",Loading screen tips,256,特殊彈藥能改變槍械的有效射程，比如霰彈槍的獨頭彈
@@ -1749,7 +1749,7 @@ I need help here!,NPC text,96,我這裡需要幫忙！
 I need to get closer to the center,NPC text,96,我得再往裏面靠一點。
 I need to reload!,NPC text,96,我需要換彈！
 I need to treat the radiation,NPC text,96,我得緩解一下輻射。
-I will try to collect some items for you,NPC text,96,我會試着爲你搜集一些物資。
+I will try to collect some items for you,NPC text,96,我會試着為你搜集一些物資。
 I'm chasing!,NPC text,96,我在追！
 I'm close enough to place the analyzer,NPC text,96,這麼近，可以放分析儀了。
 I'm coming!,NPC text,96,我來了！
@@ -1760,7 +1760,7 @@ I'm pushing!,NPC text,96,我上了！
 I've got one minute to get my ass out of here!,NPC text,96,我只有一分鐘時間離開這鬼地方！
 "If we're lucky, we'll see the sunrise holding a cup of vodka!",NPC text,96,走運的話，我們可以喝着伏特加欣賞日出！
 If you want to pass you have to pay,NPC text,96,想過去，就得掏錢。
-In memory of Grigoriy...,NPC text,96,是爲了紀念格里戈里...
+In memory of Grigoriy...,NPC text,96,是為了紀念格里戈里...
 Interesting!,NPC text,96,有意思！
 It seems that the bandits have taken everything...,NPC text,96,看來那幫強盜已經搜刮得一乾二淨了...
 It was the Crimson Corporation,NPC text,96,是深紅公司。
@@ -1876,7 +1876,7 @@ First steps p.1,Quest names,64,蹣跚學步（第 1 階段）
 "Hey stranger! Welcome to the ZERO Sievert bunker.\nI don't know how you got here and frankly I don't care.\nIt's nothing personal, it's just that we see a lot of new faces here and only a few of them come back, so I won't waste my time remembering yours for now.\nFirst let's see what you can do, I'll give you a simple job: go to the forest and survive.\nGood luck!",Quest descriptions,1024,你好，陌生人！歡迎來到零希沃特地堡。\n我不知道你是怎麼過來的，但坦白說我不在乎。\n我不是針對你，只是我們見過的新人多了去了，但回來的人寥寥無幾。所以我現在不會浪費時間記住你的。\n首先就看看你的本事吧，我會給你一項簡單的工作：在森林那兒活下來。\n祝你好運！
 Kill 5 bandits in the forest,Quest objectives,128,在森林裏擊殺5名強盜
 First steps p.2,Quest names,64,蹣跚學步（第 2 階段）
-"Are you still alive? Fantastic!\nLooks like you have potential but it's still too early to tell, let's see how you do in combat.\nIf you survive I'll alert the Green Army that a new Hunter has arrived. I'll make sure you can get into their bunker area.",Quest descriptions,1024,你還活着啊？太棒了！\n看樣子你很有潛力，但現在下結論還爲時過早，且看你在戰鬥中表現如何。\n如果你活下來了，我會把新獵人到來的消息通報給綠軍，這樣你就能進入他們的地堡了。
+"Are you still alive? Fantastic!\nLooks like you have potential but it's still too early to tell, let's see how you do in combat.\nIf you survive I'll alert the Green Army that a new Hunter has arrived. I'll make sure you can get into their bunker area.",Quest descriptions,1024,你還活着啊？太棒了！\n看樣子你很有潛力，但現在下結論還為時過早，且看你在戰鬥中表現如何。\n如果你活下來了，我會把新獵人到來的消息通報給綠軍，這樣你就能進入他們的地堡了。
 Survive the forest 2 times,Quest objectives,128,在森林裏存活2次
 Valuable item,Quest names,64,貴重物品
 "Very good! The Green Army grants you access to their bunker area. You should go and talk to them, they can sell you new equipment and give you some work to do.\nOkay, back to us! So... When the bandits took over the village in the forest, an old friend of mine left behind an item that is considered very valuable these days.\nThe item should be inside a bag in the southern part of the village, go there and retrieve it.",Quest descriptions,1024,很好！綠軍允許你進入他們的地堡了。你應該去和他們談談。他們可以賣你新的裝備，給你安排任務。\n好了，說回我們這裡！所以...當強盜佔領了森林村，我有個老朋友落下了一件於現在而言十分貴重的物品。\n它應該在村莊以南的一個包裏，過去拿回來吧。
@@ -1888,7 +1888,7 @@ Smoking kills p.2,Quest names,64,吸菸要人命（第 2 階段）
 "Ok hunter, now if by chance you could also bring me some blue ones it would be great!.\nThey are of a much higher quality.",Quest descriptions,1024,好的，獵人。如果可以的話，你能給我帶些藍色的就更好了！\n它們要好抽得多。
 Find 5 blue cigarette,Quest objectives,128,找到5藍色香菸
 The lost convoy,Quest names,64,失蹤車隊
-"We lost contact with a convoy carrying supplies for the bunker.\nWhen the transmission stopped it was in the forest, go there and find out what happened.",Quest descriptions,1024,爲地堡運送物資的車隊與我們失去了聯繫。\n它最後在森林裏發出了信號，然後就音訊全無。去那裏看看發生了什麼。
+"We lost contact with a convoy carrying supplies for the bunker.\nWhen the transmission stopped it was in the forest, go there and find out what happened.",Quest descriptions,1024,為地堡運送物資的車隊與我們失去了聯繫。\n它最後在森林裏發出了信號，然後就音訊全無。去那裏看看發生了什麼。
 Vendetta,Quest names,64,復仇
 "Damn it! Was it the bandits then? I'm not surprised, they are always causing a trouble.\nIt's time for revenge, kill as many bandits as you can, Hunter.",Quest descriptions,1024,可惡！原來是強盜乾的嗎？這也正常，他們就喜歡搗亂。\n是時候讓他們血債血償了。殺他們個痛快吧，獵人。
 Survivalist: Forest p.1,Quest names,64,生存專家：森林（第 1 階段）
@@ -1904,9 +1904,9 @@ Supply p.2,Quest names,64,急需物資（第 2 階段）
 "Great!\nNow that we're settled on the essentials, I'd like you to bring me some more lasting food, like canned food.",Quest descriptions,1024,太好了！\n既然生活必需品有了，我希望你能給我再帶些保質期更長的食物，比如罐頭食品。
 Find 3 generic chocolate,Quest objectives,128,找到 3 塊健怡巧克力
 Chocolate for everyone,Quest names,64,無人不愛巧克力
-"Chocolate is becoming a luxury good now, bring me some. I will pay you well",Quest descriptions,1024,巧克力現在已經成爲奢侈品了。給我帶一些吧。我必有重賞。
+"Chocolate is becoming a luxury good now, bring me some. I will pay you well",Quest descriptions,1024,巧克力現在已經成為奢侈品了。給我帶一些吧。我必有重賞。
 What's on the flash drive?,Quest names,64,USB 裏有什麼？
-"Hunter! Last night I had the strangest dream!\nI don't know for what reason but I had to find two flash drives and take them to a strange guy with a beanie. The crazy thing was that I couldn't find these flash drives anywhere, ANYWHERE!\nCan you imagine what that feels like? To have to find two flash drives but not be able to do it?\nWell, you'll figure it out for yourself. Find two and bring them to me",Quest descriptions,1024,獵人，昨晚我做了個奇怪的夢！\n不知道爲什麼，我必須把兩個 USB 交給一個戴便帽的傢伙。可我到處都找不到！\n你能想象那是什麼感覺嗎？兩個USB都找不到？\n好吧，你會明白的。給我找兩個來。
+"Hunter! Last night I had the strangest dream!\nI don't know for what reason but I had to find two flash drives and take them to a strange guy with a beanie. The crazy thing was that I couldn't find these flash drives anywhere, ANYWHERE!\nCan you imagine what that feels like? To have to find two flash drives but not be able to do it?\nWell, you'll figure it out for yourself. Find two and bring them to me",Quest descriptions,1024,獵人，昨晚我做了個奇怪的夢！\n不知道為什麼，我必須把兩個 USB 交給一個戴便帽的傢伙。可我到處都找不到！\n你能想象那是什麼感覺嗎？兩個USB都找不到？\n好吧，你會明白的。給我找兩個來。
 Find 8 forks,Quest objectives,128,找到8把叉子
 No more barks,Quest names,64,平息狼患
 "Have you heard the latest news? A group of Hunters have been attacked by a pack of wolves, their numbers have increased a lot lately and this is causing us problems in moving around the area.\nSomeone's got to do the dirty work.\nIf you want the job, it's yours.",Quest descriptions,1024,看新聞了嗎？有夥獵人被狼羣襲擊了。最近狼羣數量激增，大大妨礙了我們在地區的行動。\n總得有人幹這份髒活。\n如果你看上了這份工作，那就是你的了。
@@ -1947,7 +1947,7 @@ Sawmill p.2,Quest names,64,鋸木廠行動（第 2 階段）
 "Ok looks like the sawmill is currently occupied by the bandits. I'll explain what you have to do.\nInside there is a safe with a USB stick, it should contain valuable information for the Green Army, all you have to do is retrieve it.\nObviously this involves killing some bandits. Be careful Hunter, you might find a lot of them.",Quest descriptions,1024,好吧，看來鋸木廠目前成了強盜的地盤。接下來我就解釋這次行動。\n廠裏面有一個裝有USB的保險箱，USB裝有對綠軍有利的信息。你所要做的就是取回它。\n免不了要殺些強盜，記得小心行事，獵人。也許他們人還不止這些。
 Find the USB drive in the sawmill,Quest objectives,128,找到鋸木廠裏的 USB
 Equipment p.1,Quest names,64,整頓裝備（第 1 階段）
-Hey Hunter! We are preparing for an important mission and need all the equipment we can get.\nI want you to bring me some scrap ammo and scrap weapon so that my men can get ready.,Quest descriptions,1024,嘿，獵人！我們正在爲一項重要任務做準備，裝備必須齊全。\n請你帶給我廢棄子彈和武器，好讓我的手下做好準備。
+Hey Hunter! We are preparing for an important mission and need all the equipment we can get.\nI want you to bring me some scrap ammo and scrap weapon so that my men can get ready.,Quest descriptions,1024,嘿，獵人！我們正在為一項重要任務做準備，裝備必須齊全。\n請你帶給我廢棄子彈和武器，好讓我的手下做好準備。
 Find 250 scrap ammo,Quest objectives,128,找到 250 個廢棄子彈
 Equipment p.2,Quest names,64,整頓裝備（第 2 階段）
 "You seem to be almost as good at retrieving objects as a dog.\nIf you find good quality ammunition, don't sell it, bring it to me.",Quest descriptions,1024,你好像很擅長取回物品啊，跟尋回犬有的一比。\n如果你找到優質彈藥，留着別賣，把它帶過來。
@@ -1957,13 +1957,13 @@ Kill 40 Ghouls,Quest objectives,128,擊殺 40 隻食屍鬼
 Ghoul destroyer p.2,Quest names,64,食屍鬼毀滅者（第 2 階段）
 If you liked the last work you will also like this one.\nThere is always a need to eliminate threats in the area.\nIt's an optional job but the rewards will be high.,Quest descriptions,1024,如果你喜歡上一份工作，那麼這一份也會得到你的青睞。\n地區的威脅越少越好。\n這工作不是非做不可，但會有豐厚的報酬。
 The Lair,Quest names,64,尋找巢穴
-"We believe that there is a Ghoul's lair hidden somewhere in the forest, unfortunately we have no idea where it is so I sent explorers into the forest to find it.\nThe more people who look for it, the sooner we can find it, right?\nSo I'm asking you to go into the forest and look for it, you'll have to explore the area to find it.\nWhen you find it, approach the entrance to inspect it and then come back to report.",Quest descriptions,1024,我們認爲食屍鬼的巢穴隱藏在森林某處，可惜不知道確切位置，於是派了探險家進入森林找找看。\n找的人越多，我們就能越早找到，對吧？\n所以我請求你進入森林尋找，必須仔細探索才能找到。\n找到的時候就過去入口看一眼，然後回來彙報。
+"We believe that there is a Ghoul's lair hidden somewhere in the forest, unfortunately we have no idea where it is so I sent explorers into the forest to find it.\nThe more people who look for it, the sooner we can find it, right?\nSo I'm asking you to go into the forest and look for it, you'll have to explore the area to find it.\nWhen you find it, approach the entrance to inspect it and then come back to report.",Quest descriptions,1024,我們認為食屍鬼的巢穴隱藏在森林某處，可惜不知道確切位置，於是派了探險家進入森林找找看。\n找的人越多，我們就能越早找到，對吧？\n所以我請求你進入森林尋找，必須仔細探索才能找到。\n找到的時候就過去入口看一眼，然後回來彙報。
 Find the Ghoul's lair in the forest,Quest objectives,128,找到森林裏的食屍鬼巢穴
 Destroy the Ghoul's lair,Quest names,64,斬草除根
 "Bad news, Hunter.\nWe sent a team to destroy the Ghouls' lair, but we lost contact with them.\nLast we heard, they managed to plant the explosive charges but then something went wrong.\nThere was no explosion, so it didn't end well for them...\nYou seem like a capable guy, so I want to put you in charge of this job.\nBuy some dynamite from our merchant and sneak into the lair, I don't know what you'll find in there so be careful.\nRemember, once you've planted the dynamite, you've got one minute to get out of there.\nGood luck, Hunter!",Quest descriptions,1024,有個壞消息，獵人。\n我們派了一支小隊去搗毀食屍鬼的巢穴，但與他們失去了聯繫。\n聽說他們已經放置了炸藥，但後來出了問題。\n炸藥沒能爆炸，他們的結局也不太好...\n你看着是個狠角色，所以我想讓你負責這項工作。\n從我們的商人那裏買些炸藥，然後潛入巢穴。我不知道那邊有什麼。一定要小心。\n記住，安放炸藥後你只有一分鐘的時間離開。\n祝你好運，獵人！
 Destroy the ghoul's lair,Quest objectives,128,摧毀食屍鬼巢穴
 Cleaning p.1,Quest names,64,清理門戶（第 1 階段）
-"More and more people want to become Hunters, and while this helps us from one point of view because we have fresh meat to send on suicide missions, on the other hand these Hunters raid the territory in search of fortune.\nGet rid of them but be careful, the same mission will be given to the other Hunters...",Quest descriptions,1024,想當獵人的人越來越多了。雖然從某個角度來看是我們的一大幸事，我們可以調派更多人手執行自殺任務，但有利也有弊，這些獵人只爲求財，肆意搶掠。\n把他們解決掉吧。但要小心，其他獵人可能也收到了同樣的任務...
+"More and more people want to become Hunters, and while this helps us from one point of view because we have fresh meat to send on suicide missions, on the other hand these Hunters raid the territory in search of fortune.\nGet rid of them but be careful, the same mission will be given to the other Hunters...",Quest descriptions,1024,想當獵人的人越來越多了。雖然從某個角度來看是我們的一大幸事，我們可以調派更多人手執行自殺任務，但有利也有弊，這些獵人只為求財，肆意搶掠。\n把他們解決掉吧。但要小心，其他獵人可能也收到了同樣的任務...
 Kill 15 bandits in the forest,Quest objectives,128,在森林擊殺 15 名強盜
 Cleaning p.2,Quest names,64,清理門戶（第 2 階段）
 More bandits,Quest names,64,匪患猖獗
@@ -1973,7 +1973,7 @@ Mark a working truck,Quest names,64,定位能用的卡車
 "We have noticed that there is a fair amount of trucks in the makeshift camp.\nWe could really use some. Go to the makeshift camp and find a working one, they are located in the road.\nWhen you have found it, place a GPS tracker which you can buy from our merchant, then my men will do the rest.",Quest descriptions,1024,我們注意到臨時營地裏有不少卡車。\n這正符合我們的需要。去臨時營地找一輛能用的，它們都在路上。\n找到後放置一個 GPS跟蹤器，你可以從我們的商人那裏買到。我的手下會負責之後的事。
 Find and mark a working truck,Quest objectives,128,找到並定位能用的卡車
 Always in the way,Quest names,64,總有禍害
-"Did you enjoy eliminating the Hunters?\nI hope so since I have another mission for you, this time I want you to eliminate them in the makeshift camp.\nGood luck!",Quest descriptions,1024,你喜歡消滅獵人嗎？\n希望如此，因爲我有新的任務給你。這次我希望你能消滅臨時營地的獵人。\n祝你好運！
+"Did you enjoy eliminating the Hunters?\nI hope so since I have another mission for you, this time I want you to eliminate them in the makeshift camp.\nGood luck!",Quest descriptions,1024,你喜歡消滅獵人嗎？\n希望如此，因為我有新的任務給你。這次我希望你能消滅臨時營地的獵人。\n祝你好運！
 Motel p.1,Quest names,64,汽車旅館探祕（第 1 階段）
 "Hey Hunter!\nWe know that in the makeshift camp there is an old motel.\nIt should be abandoned by now but I want to make sure. You need to go there and check it out, check the entrance and see if there is a way in.\nUnfortunately we don't know the exact location but it should be easy to spot from the map once you get there, it should be a paved area.",Quest descriptions,1024,嘿，獵人！\n我們知道臨時營地裏有一家舊汽車旅館。\n它現在應該成了廢屋，但我想確認一下。你需要過去檢查一下入口，看看有沒有辦法進去。\n可惜我們不知道它確切的位置。但你過去後看看地圖應該很容易就能找到，應該是一片鋪設好的平整區域。
 Find the motel,Quest objectives,128,找到汽車旅館
@@ -1985,7 +1985,7 @@ Weird phenomena p.1,Quest names,64,事出反常（第 1 階段）
 "You must have noticed those bodies at the entrance to the bunker, we don't know what's going on yet.\nSome of ours helicopters crashed in the vicinity of the swamp, no call for help or malfunction, just crashed for no apparent reason.\nWhen they recovered the first bodies, we realised that something very strange was happening in that area.\nDid you see the condition of the bodies? My God, I've never seen anything like it.\nThe last helicopter crashed recently, the rescue operation is dangerous because it is in the middle of the swamp, inaccessible to vehicles.\nYou have to go there and see if you can recover the flight recorder of the helicopter, for the crew I don't think there is much left to do...",Quest descriptions,1024,你看到地堡入口處的那些屍體了吧，我們還不知道發生了什麼事。\n我們有些直升機在沼澤附近墜毀，既沒有發出求救也不是發生故障，只是無緣無故地墜毀了。\n當他們找到第一批屍體時，我們就知道這片地區出現了怪事。\n你看到屍體的情況了嗎？天哪，我從來沒見過這樣的。\n最近一架直升機墜毀在車輛無法進入的沼澤中間。救援行動很危險。\n你得去那裏看看能不能恢復直升機的飛行記錄儀。至於機組人員，我覺得無力迴天了...
 Retrieve the flight recorder,Quest objectives,128,拿回飛行記錄儀
 Preparing for battle,Quest names,64,戰鬥準備
-"From the helicopter's black box we were able to discover that the crew had spotted a strange purple crystal in the swamp.\nShortly thereafter, there appears to have been an unusual burst of radiation.\nThe crystal appears to be in the swamp village, which is bad news because that place is infested with Ghouls and we blocked the entrance some time ago.\nI'll try to put together a team to exterminate the village, but we need a lot of resources to do it.\nFor now, we're gathering as many resources as you can.\nYou need to do your part too, Hunter.\nOh! And don't forget the Vodka!",Quest descriptions,1024,通過直升機的黑匣子，我們獲悉機組人員在沼澤中發現了一種奇怪的紫色水晶。\n之後就發生了反常的輻射爆發。\n這個水晶似乎位於沼澤村。倒黴的是那個地方到處都是食屍鬼，我們不久前封鎖了入口。\n我會試着組織隊伍來將這個村莊夷爲平地，爲此我們需要大量的資源。\n現在我們也正在緊鑼密鼓地收集資源。\n你也需要儘自己的一份力量，獵人。\n對了！別忘了伏特加！
+"From the helicopter's black box we were able to discover that the crew had spotted a strange purple crystal in the swamp.\nShortly thereafter, there appears to have been an unusual burst of radiation.\nThe crystal appears to be in the swamp village, which is bad news because that place is infested with Ghouls and we blocked the entrance some time ago.\nI'll try to put together a team to exterminate the village, but we need a lot of resources to do it.\nFor now, we're gathering as many resources as you can.\nYou need to do your part too, Hunter.\nOh! And don't forget the Vodka!",Quest descriptions,1024,通過直升機的黑匣子，我們獲悉機組人員在沼澤中發現了一種奇怪的紫色水晶。\n之後就發生了反常的輻射爆發。\n這個水晶似乎位於沼澤村。倒黴的是那個地方到處都是食屍鬼，我們不久前封鎖了入口。\n我會試着組織隊伍來將這個村莊夷為平地，為此我們需要大量的資源。\n現在我們也正在緊鑼密鼓地收集資源。\n你也需要儘自己的一份力量，獵人。\n對了！別忘了伏特加！
 Clear the Swamp,Quest names,64,沼澤掃蕩
 "Here's the plan, Hunter.\nEntering the village with all those Ghouls would be a certain death sentence.\nThe village has only one entrance so we will try to lure them out with a very bright light, so it will have to be done at night.\nGet into the swamp from 10pm to 3am, my men will be waiting for you.\nIt is advisable to bring an automatic weapon or a shotgun with a large magazine so that you have to reload as little as possible.\nOne last thing, in the chaos of battle try not to shoot my men, understand?",Quest descriptions,1024,計劃如下，獵人。\n直接闖進被食屍鬼佔據的村莊無疑是找死。\n村莊只有一個入口，所以我們會試着用亮光引它們出來，行動必須在晚上進行。\n晚上 10 點到凌晨 3 點進入沼澤，我的手下會等你的。\n建議帶上自動武器或彈匣大點的霰彈槍，儘可能減少裝彈次數。\n最後一件事，在混戰中儘量別射中我的人，明白嗎？
 Clear the swamp,Quest objectives,128,肅清沼澤
@@ -1993,7 +1993,7 @@ Radioactive meat,Quest names,64,輻射肉
 "You're new here, huh?\nWell, I'm always looking for someone to help me with my research.\nDon't worry, I'll pay you for every job you do.\nGood! I need some raw meat to conduct experiments, I want to see how radiation has affected the local fauna.",Quest descriptions,1024,你是新來的吧？\n我一直在找人幫我研究。\n放心，酬勞少不了你的。\n很好！我需要一些生肉來進行實驗，我想看看輻射對當地動物羣造成了什麼樣的影響。
 Find 10 raw meat,Quest objectives,128,找到 10 塊生肉
 Strange crystal p.1,Quest names,64,奇特水晶（第 1 階段）
-"I don't know how much you have explored but you may have come across strange crystals, they are found near the anomalies.\nWe don't know what they are yet but they seem to be a result of the strange radiation emanating from the nuclear power station.\nGetting hold of some of the crystals would be great, I can't wait to examine them!\nFire crystals are the most common in the forest, so start by bringing me those.",Quest descriptions,1024,我不知道你探索得怎麼樣了，但你可能遇到過奇怪的水晶，它們出現在異常附近的地區。\n我們還不知道它們是什麼，但它們似乎是因爲核電廠發出異常輻射而形成的。\n能拿到一些水晶就太好了，我等不及研究了！\n火水晶是森林裏最常見的，先把那些帶過來。
+"I don't know how much you have explored but you may have come across strange crystals, they are found near the anomalies.\nWe don't know what they are yet but they seem to be a result of the strange radiation emanating from the nuclear power station.\nGetting hold of some of the crystals would be great, I can't wait to examine them!\nFire crystals are the most common in the forest, so start by bringing me those.",Quest descriptions,1024,我不知道你探索得怎麼樣了，但你可能遇到過奇怪的水晶，它們出現在異常附近的地區。\n我們還不知道它們是什麼，但它們似乎是因為核電廠發出異常輻射而形成的。\n能拿到一些水晶就太好了，我等不及研究了！\n火水晶是森林裏最常見的，先把那些帶過來。
 Find 3 fire crystal,Quest objectives,128,找到3塊火水晶
 Strange crystal p.2,Quest names,64,奇特水晶（第 2 階段）
 "Great! Hope you didn't get burned, Hunter! HAHA!\nBring me more crystals, I will pay you!",Quest descriptions,1024,很好！希望你沒被燒傷，獵人！哈哈！\n再給我帶些水晶吧。我會給你錢的！
@@ -2002,7 +2002,7 @@ no data,Quest names,64,查無音信
 "I sent one of my scientists into the forest to study the anomalies, but I haven't heard from him for several hours.\nThis doesn't look good, go check it out. His position will be marked on the map.\nIf he is dead, retrieve the analyser from his body.",Quest descriptions,1024,我派了一位科學家到森林裏研究異常，但我已經好幾個小時沒有收到他的消息了。\n情況不太妙的樣子，你去看看吧。他的位置將標記在地圖上。\n如果他死了，就拿走他屍體上的分析儀。
 Retrieve the analyzer,Quest objectives,128,取回分析儀
 Movies,Quest names,64,電影疑雲
-Hey Hunter!\nSome Hunters managed to get some films on DVD but when we moved here no one thought to bring DVD players or other means of entertainment...\nRetrieve some items for me and I will be able to provide some entertainment for these miserable people,Quest descriptions,1024,嘿，獵人！\n有些獵人拿到了影碟，而當我們搬到這裡時，沒有人想到帶影碟機和別的娛樂裝置...\n替我取回些東西，我就能爲這些絕望的人提供點樂子。
+Hey Hunter!\nSome Hunters managed to get some films on DVD but when we moved here no one thought to bring DVD players or other means of entertainment...\nRetrieve some items for me and I will be able to provide some entertainment for these miserable people,Quest descriptions,1024,嘿，獵人！\n有些獵人拿到了影碟，而當我們搬到這裡時，沒有人想到帶影碟機和別的娛樂裝置...\n替我取回些東西，我就能為這些絕望的人提供點樂子。
 Find 8 Ghoul tentacles,Quest objectives,128,找到 8 條食屍鬼觸手
 Pelts p.1,Quest names,64,研究毛皮（第 1 階段）
 "Hey Hunter!\nI have a number of very simple jobs to complete.\nI need furs, external radiation is absorbed by the surface layer of the skin and it's a great material for research.\nStart by bringing me some rabbit furs, they are very common on all maps.",Quest descriptions,1024,嘿，獵人！\n我有的是簡單的活要完成。\n我需要毛皮。那是很好的研究材料，外部輻射會被皮膚表層吸收。\n首先給我帶些兔皮，它們在所有地圖上都很常見。
@@ -2033,7 +2033,7 @@ Are you in for a hunt for electrical components?\nWe are thinking of upgrading m
 Fix the radio tower,Quest objectives,128,修復無線電塔
 "Looks like those anomalies are still in the radio station.\nWell, Hunter, you're going to have to fight your way through.\nWhat you need to do is repair the radio tower outside, it's the red and white one with horizontal stripes.\nDon't forget to buy the repair kit from me!",Quest descriptions,1024,看起來那些異常還在廣播站裏。\n好吧，獵人，你得殺出一條路來。\n你需要做的是修理外面的無線電塔。那是一座紅白相間橫條紋的高塔。\n別忘了在我這買修理套件！
 Medikit,Quest names,64,醫療包短缺
-"Hey Hunter!\nI'm running low on medikits, so try to get some during your hunts.\nDon't worry, I'll pay you.",Quest descriptions,1024,嘿，獵人！\n我醫療用品不夠了。狩獵期間爲我找些吧。\n放心，我會給你報酬的。
+"Hey Hunter!\nI'm running low on medikits, so try to get some during your hunts.\nDon't worry, I'll pay you.",Quest descriptions,1024,嘿，獵人！\n我醫療用品不夠了。狩獵期間為我找些吧。\n放心，我會給你報酬的。
 Find 15 scrap med,Quest objectives,128,找到15個廢棄醫療用品
 Tons of meds!,Quest names,64,大量醫療包！
 "Listen, Hunter, there's always a need for medikits here so if you want to bring me more I'll make sure I pay you well.",Quest descriptions,1024,聽好了，獵人。這裡總有人要用醫療用品。如果你想要再給我帶一些，我保證會給你豐厚的報酬。
@@ -2051,10 +2051,10 @@ Laboratory p.3,Quest names,64,實驗室探險（第3階段）
 "Great, Hunter!\nNow I can make a copy of the key card for the lab.\nIt will take me a while but I think I will be done by tomorrow morning and you can purchase it from me.\nOnce you've got the key you'll have to make your way to the lab and enter.\nNo one knows what's in there, so be careful. I also suggest you bring a torch because it will be pitch black.\nOnce inside explore it well and try to recover some samples, even I do not know what to look for but I'm sure you'll understand once you find it.\nGood luck, Hunter!",Quest descriptions,1024,太好了，獵人！\n現在我可以複製實驗室的門禁卡了。\n這不是三兩下的事兒，但明天早上應該能搞定，到時你可以找我買。\n有了鑰匙，你就得進入實驗室了。\n沒人知道里面有什麼，所以要小心。我還建議你帶上手電筒，那裏面會漆黑一片。\n進去後要好好探索一下，試着回收樣本。雖說我不知道那會是什麼樣的，但我相信你看到後就明白了。\n祝你好運，獵人！
 Explore the laboratory,Quest objectives,128,探索實驗室
 Eyes everywhere,Quest names,64,安插眼線
-"So you want to do some missions for crimson Corporation?\nOK, let's start with something simple. As you know our relationship with the green army is not good, so we need to know what their intentions are.\nBuy a CCTV camera from me and place it in the Green Army headquarters in the ZERO Sievert bunker.\nPlace it in the bookshelf, it should be fine there.",Quest descriptions,1024,那麼你想爲深紅公司效力嗎？\n好吧，讓我們從簡單的事情做起。你知道我們與綠軍一向不和，所以我們需要摸清他們的意圖。\n從我這買個監控攝像頭，把它安置在零希沃特地堡的綠軍總部。\n放書架上應該就可以了。
+"So you want to do some missions for crimson Corporation?\nOK, let's start with something simple. As you know our relationship with the green army is not good, so we need to know what their intentions are.\nBuy a CCTV camera from me and place it in the Green Army headquarters in the ZERO Sievert bunker.\nPlace it in the bookshelf, it should be fine there.",Quest descriptions,1024,那麼你想為深紅公司效力嗎？\n好吧，讓我們從簡單的事情做起。你知道我們與綠軍一向不和，所以我們需要摸清他們的意圖。\n從我這買個監控攝像頭，把它安置在零希沃特地堡的綠軍總部。\n放書架上應該就可以了。
 Place the CCTV camera,Quest objectives,128,放置監控攝像頭
 Cleanup,Quest names,64,剷除威脅
-"Nice job with the CCTV camera hunter! Thanks to you we know their movements in Zakov.\nNow it's time to do some cleanup eheh.\nKill 15 soldiers of the Green Army. Soldiers patrol the forest and makeshift camps, there are not many of them and unfortunately we do not know their exact location so you will have to find them yourself.\nIf you complete this mission for us, you won't have to pay to enter.",Quest descriptions,1024,獵人，你的監控攝像頭安得太妙了！多虧了你，我們才知道他們在扎科夫的動向。\n現在是時候剷除部分威脅了，嘿嘿。\n擊殺15名綠軍士兵。他們數量不多，在森林和臨時營地巡邏。只可惜我們不知道他們的具體位置，所以你必須自己找找看了。\n如果你爲我們完成這個任務，以後你就再也不用給通行費了。
+"Nice job with the CCTV camera hunter! Thanks to you we know their movements in Zakov.\nNow it's time to do some cleanup eheh.\nKill 15 soldiers of the Green Army. Soldiers patrol the forest and makeshift camps, there are not many of them and unfortunately we do not know their exact location so you will have to find them yourself.\nIf you complete this mission for us, you won't have to pay to enter.",Quest descriptions,1024,獵人，你的監控攝像頭安得太妙了！多虧了你，我們才知道他們在扎科夫的動向。\n現在是時候剷除部分威脅了，嘿嘿。\n擊殺15名綠軍士兵。他們數量不多，在森林和臨時營地巡邏。只可惜我們不知道他們的具體位置，所以你必須自己找找看了。\n如果你為我們完成這個任務，以後你就再也不用給通行費了。
 Kill 15 Green Army soldiers,Quest objectives,128,擊殺15名綠軍士兵
 Meat for Igor,Quest names,64,給伊戈爾送些肉
 Would you bring me 10 pieces of raw meat?\nYou'd be doing me a big favour.,Quest descriptions,1024,可以帶10塊生肉給我嗎？\n我會記住你的恩情。
@@ -2078,7 +2078,7 @@ Trucks and generator,Quest names,64,卡車和發電動馬達
 Mall's outpost,Quest names,64,商場前哨站
 New equipment,Quest names,64,新裝備
 Mall scouting,Quest names,64,商場偵察
-Revenge for Igor,Quest names,64,爲伊戈爾復仇
+Revenge for Igor,Quest names,64,為伊戈爾復仇
 Monitoring p. 1,Quest names,64,監視
 Building an outpost,Quest names,64,建立前哨站
 The CCTV Camera,Quest names,64,監控攝像頭
@@ -2102,7 +2102,7 @@ The motel p.1,Quest names,64,汽車旅館
 "Bandits continue to assault the train at the forest area, preventing us from reaching the makeshift camp.\nYou will have to eliminate some bandits and specific targets, that way I am sure they will calm down for a while.\n\nOnce this mission is completed I will give you access to the bunker area where the Green Army is located. I don't think Artemovich will give you any jobs just yet, but I'm sure you can trade with them.",Quest descriptions,1024,森林地區的匪幫一直在襲擊列車，讓我們無法前往臨時營地。\n去給那些傢伙找點麻煩，我相信這樣會讓他們消停一段時間。\n任務完成後，我會讓你進入綠軍控制的地堡區。阿爾捷莫維奇大概看不上你這樣的毛頭小子，但至少你可以和他們交易。
 "Well done Hunter!\nNow that we have access to the makeshift camp we can finally see if the old radio station is still active.\nWe don't know the coordinates but I think it will be easy to find it on the map, it should be a paved area.\nAll I ask you to do is go there and see what the situation is like and report back, if you encounter any strange anomalies or mutants there is no need to engage in a fight.",Quest descriptions,1024,幹得好，獵人！\n是時候去確定一下臨時營地的舊廣播站到底還能不能用了。\n我們不知道它的具體座標，但在地圖上很容易找到它。\n我要你去那裏看看情況，然後回來報告。如果遇到異常或怪物，你不必與它們交戰。
 "From the helicopter's black box we were able to discover that the crew had spotted a strange purple crystal in the swamp.\nShortly thereafter, there appears to have been an unusual burst of radiation.\nThe crystal appears to be in the swamp village... There are good and bad news Hunter... The bad news is that there is a large amount of Ghouls in the village in the swamp, and I don't think you will make it alone.\nThe good one is that I contacted the Green Army, they are interested in cleaning up the village to get to the crystal.\nHere's the plan, Hunter.\nEntering the village with all those Ghouls would be a certain death sentence.\nThe village has only one entrance so you will try to lure them out with a very bright light, it will have to be done at night.\nGet into the swamp from 10pm to 3am, Green Army soldiers will be waiting for you.\nIt is advisable to bring an automatic weapon or a shotgun with a large magazine so that you have to reload as little as possible. Good luck Hunter!",Quest descriptions,1024,通過直升機的飛行記錄儀，我們得知機組人員在沼澤的村莊裏發現了奇怪的紫色水晶。之後他們遭遇了一次異常的輻射爆發。\n好消息和壞消息，獵人...壞消息是村莊裏有大量食屍鬼，你一個人根本處理不了。好消息是我聯繫了綠軍，他們對肅清村莊尋找水晶有些興趣。\n計劃是這樣的。這個村莊只有一個出入口，所以我們可以在夜間用探照燈把食屍鬼全都引誘出來。\n10點至3點間前往沼澤，一隊綠軍士兵會在那裏等你，記得帶上一把好槍。\n祝你好運，獵人！
-"Hey stranger! Welcome to the ZERO Sievert bunker.\nI don't know how you got here and frankly I don't care.\nIt's nothing personal, it's just that we see a lot of new faces here and only a few of them come back, so I won't waste my time remembering yours for now.\nFirst let's see what you can do...",Quest descriptions,1024,嗨，陌生人，歡迎來到零希沃特地堡。\n不知道你是爲了什麼來到這裡，說實話我也不在乎。\n並不是針對你，只是這裡出去過太多新面孔，而只有很少一部分能回來，所以我現在就不浪費時間去記住你的長相了。\n先讓我們看看你能幹點什麼...
+"Hey stranger! Welcome to the ZERO Sievert bunker.\nI don't know how you got here and frankly I don't care.\nIt's nothing personal, it's just that we see a lot of new faces here and only a few of them come back, so I won't waste my time remembering yours for now.\nFirst let's see what you can do...",Quest descriptions,1024,嗨，陌生人，歡迎來到零希沃特地堡。\n不知道你是為了什麼來到這裡，說實話我也不在乎。\n並不是針對你，只是這裡出去過太多新面孔，而只有很少一部分能回來，所以我現在就不浪費時間去記住你的長相了。\n先讓我們看看你能幹點什麼...
 Ah! As I thought...\nThe railroad was flooded by the Crimson Corporation.\nSmart move...\nThey used the old drainage system found in the sewers in the swamp.\nThey are easily visible on the minimap. What you have to do is go into the sewers and close the control valve. Good luck Hunter!,Quest descriptions,1024,和我想的一樣...深紅公司利用沼澤下水道里的舊排水系統把鐵路給淹了，真聰明。\n你要做的就是進入下水道，關閉控制閥門。\n祝你好運，獵人！
 "Very good Hunter! I didn't expect you to come back alive!\nI have another job for you. When the bandits took over the village in the forest, an old friend of mine left behind an item that is considered very valuable these days.\nThe item should be inside a bag in the southern part of the village, go there and retrieve it.",Quest descriptions,1024,幹得好，獵人！我甚至都沒想到你能活着回來！\n我有另一項工作給你。匪幫佔領森林裏的村莊時，我的一個朋友落下了一件非常貴重的物品。\n那玩意兒應該在村莊東南角的院子裏，去把它拿回來。
 "Thanks to the radio tower, we intercepted conversations from the Crimson Corporation.\nIt seems that new agreements between them and the local government allow their presence in the bunker....\nHa! Unbelievable!\nI'd be really curious to know what Artemovich's face looked like when he heard about this, he did everything he could to keep them away from here and now he has to take them in.\nIt seems that the Crimson Corporation is coming with a ship and wants to dock at the port in the industrial zone.\nThe only hope Artemovich has is that they won't succeed, and I think that will be the case since the first Hunters reported a massive Ghoul presence in that area.\nNow it's up to you Hunter, if you want you can take care of the Ghouls and allow the Crimson Corporation to land and come to the bunker.\nYou will also have to place a GPS signal in the main dock, the one between the two abandoned ships.",Quest descriptions,1024,多虧了無線電塔，我們截獲了深紅公司的訊息，看來他們和當地政府達成了新的協議。\n難以置信！我真的很想欣賞一下阿爾捷莫維奇聽到這件事時的表情。他費盡千辛萬苦把那些傢伙趕走，而現在卻要眼睜睜看着他們捲土重來。\n深紅公司的人似乎是乘船來的，準備停靠在工業區的港口。有獵人報告說那裏遊蕩着大量的食屍鬼。阿爾捷莫維奇只能寄望於他們一下船就栽在食屍鬼手裏。\n現在看你的了，獵人。如果你願意，你可以處理掉食屍鬼，讓深紅公司登陸來到地堡。\n你需要在兩艘廢船之間的主船塢放置一個 GPS 定位器。
@@ -2112,7 +2112,7 @@ Inspect the swamp village,Quest objectives,128,村莊
 "Ok Hunter! First job for you.\nThe Green Army does not yet know that you are now part of the Crimson Corporation, we must take advantage of this opportunity.\nGo to their bunker area, where Artemovich is, and place a CCTV camera.\nTry to hide it among the shelves.",Quest descriptions,1024,很好，獵人！準備好執行任務了嗎？\n綠軍還不知道你現在是深紅公司的人，我們必須利用這個機會。\n去他們的地堡區，在阿爾捷莫維奇那裏放置一個攝像頭。\n試着把它藏在架子裏。
 My leg is still not fully healed.\nThanks to my experience I can still move through the forest somehow.\nCould you bring me some medicine? It would heal faster,Quest descriptions,1024,我的腿傷還沒有好透，只能靠着對森林的熟悉勉強在這裡活下去。\n你能給我些藥和繃帶嗎？
 "Hey Hunter!\nListen... I have a big favor to ask of you....\nThe Green Army soldier who shot me in the leg is called Bogdanov, that damn bastard must pay....\nNow I think he is in the Makeshift camp, you know what you have to do....\nThank you Hunter",Quest descriptions,1024,嘿，獵人！\n我有個難以啓齒的請求...\n射傷我腿的那個綠軍士兵叫波格丹諾夫。這個該死的混蛋必須付出代價.\n..他在臨時營地，你知道我想要你做什麼...\n謝謝你，獵人。
-Oh! Oh! Can you do something for Mr. Junk?\nNow that Grigoriy has come back to life he would love to get his ring back.\nMr. Junk hid it in the swamp before he came to this place.\nIf you do this for Mr. Junk then he will sell you some of his treasure.\nNo! No! No! Mr. Junk loves his treasure...\nOh! Oh! But it's more important to make Grigoriy happy.\nYes! Yes! Yes!\nYou bring Mr. Junk the ring and he'll sell you some of his treasure.\nMr. Junk will also give you this costume he found,Quest descriptions,1024,噢！噢！你能幫「垃圾」先生做件事嗎？\n現在格里戈里復活了，他一定很想要回他的戒指，可「垃圾」先生在來這裡之前把它藏在沼澤了。\n如果你爲「垃圾」先生取回戒指，他會賣給你一些寶貝！\n不！不！「垃圾」先生愛他的寶貝...不！噢！但更重要的是讓格里戈里開心。\n對！對！你把戒指給「垃圾」先生，他會賣給你一些寶貝！\n「垃圾」先生還會把他找到的這件漂亮衣服給你！
+Oh! Oh! Can you do something for Mr. Junk?\nNow that Grigoriy has come back to life he would love to get his ring back.\nMr. Junk hid it in the swamp before he came to this place.\nIf you do this for Mr. Junk then he will sell you some of his treasure.\nNo! No! No! Mr. Junk loves his treasure...\nOh! Oh! But it's more important to make Grigoriy happy.\nYes! Yes! Yes!\nYou bring Mr. Junk the ring and he'll sell you some of his treasure.\nMr. Junk will also give you this costume he found,Quest descriptions,1024,噢！噢！你能幫「垃圾」先生做件事嗎？\n現在格里戈里復活了，他一定很想要回他的戒指，可「垃圾」先生在來這裡之前把它藏在沼澤了。\n如果你為「垃圾」先生取回戒指，他會賣給你一些寶貝！\n不！不！「垃圾」先生愛他的寶貝...不！噢！但更重要的是讓格里戈里開心。\n對！對！你把戒指給「垃圾」先生，他會賣給你一些寶貝！\n「垃圾」先生還會把他找到的這件漂亮衣服給你！
 Retrieve Grigoriy's ring,Quest objectives,128,取回格里戈里的戒指
 Quest objective type: Kill A,"Quest objective types, Kill A",160,擊殺位於[MAP_NAME]的[AMOUNT_TO_KILL]個[TARGET_TO_KILL]
 Quest objective type: Kill B,"Quest objective types, Kill B",160,擊殺[AMOUNT_TO_KILL]個[TARGET_TO_KILL]
@@ -2164,7 +2164,7 @@ Fix weapon jam,Controls menu,48,修復武器卡殼
 Quick slot,Controls menu,48,快捷欄位[SLOT_NUMBER]
 Hunter Difficulty Text,Difficulty menu,128,死亡時將失去物品欄內的所有物品……\n完畢。\n祝你玩得開心。
 Survivor Difficulty Text,Difficulty menu,750,此難度適合有一定經驗值且追求適度挑戰的玩家。\n資源與物資不再充裕，迫使玩家更有策略地規劃消耗；\n敵人攻擊性更強且傷害更高，戰鬥時需要更加謹慎並講究戰術；\n角色最大生命值降低，容錯率更低。
-Rookie Difficulty Text,Difficulty menu,750,此難度專爲初次接觸《ZERO Sievert》或偏好輕鬆體驗的玩家設計。\n彈藥、食物與醫療用品等資源隨處可見；\n敵人傷害較低，能在無壓力的情況下熟悉機制並探索世界；\n角色最大生命值提升，容錯率更高。
+Rookie Difficulty Text,Difficulty menu,750,此難度專為初次接觸《ZERO Sievert》或偏好輕鬆體驗的玩家設計。\n彈藥、食物與醫療用品等資源隨處可見；\n敵人傷害較低，能在無壓力的情況下熟悉機制並探索世界；\n角色最大生命值提升，容錯率更高。
 Fog Of War Field Of View,Video settings,64,戰爭迷霧視野盲區
 Grass Sway,Video settings,64,草地晃動
 Fog Of War,Video settings,64,戰爭迷霧
@@ -2185,7 +2185,7 @@ Settings - Devices,Settings titles,64,設定 - 裝置
 Settings - Languages,Settings titles,64,設定 - 語言
 Heartbeat,Audio settings,64,心跳
 Music,Audio settings,64,音樂
-Screen resolution warning,Resolution settings,750,在全螢幕模式下，遊戲將始終縮放爲顯示器的默認解析度。\n由於遊戲採用像素風格，解析度更改僅在窗口模式下生效。
+Screen resolution warning,Resolution settings,750,在全螢幕模式下，遊戲將始終縮放為顯示器的默認解析度。\n由於遊戲採用像素風格，解析度更改僅在窗口模式下生效。
 Skill Experience Multipler,Difficulty menu,64,技能經驗值
 You can not change difficulty settings in the main menu,Difficulty menu,128,無法在主選單中更改難度設定
 Steam cloud warning,Steam cloud,512,此操作將刪除本機與雲端的所有存檔數據。\n各槽位內的物品、技能及任務進度都將失去。\n確定要繼續嗎？
@@ -2240,7 +2240,7 @@ Cooked pasta,Consumable,64,煮熟的義大利麵
 Molbaro Cigarette,Consumable,64,萬寶路香菸
 Stew with meat and bean,Consumable,64,肉豆燉菜
 All NPC name will drop their armor. The durability of the armor depends on how many hits they took.,Difficulty menu tooltips,512,所有NPC都會掉落護甲，耐久取決於他們所受的傷害
-Factor by which the value of an item is multiplied when selling it.\nExample: an item with a value of 100 Rubles will be bought for 100 and sold for 100 x Sell Multiplier,Difficulty menu tooltips,512,出售物品時價值所乘的倍率。\n例如：價值 100 盧布的物品，買入價爲 100 ，售出價爲[100x出售倍率]。
+Factor by which the value of an item is multiplied when selling it.\nExample: an item with a value of 100 Rubles will be bought for 100 and sold for 100 x Sell Multiplier,Difficulty menu tooltips,512,出售物品時價值所乘的倍率。\n例如：價值 100 盧布的物品，買入價為 100 ，售出價為[100x出售倍率]。
 Factor that will be multiplied to the price of each service provided by NPC name in the bunker,Difficulty menu tooltips,512,地堡中NPC提供各項服務的費用
 Factor that will be multiplied to the reputation obtained at the end of each Hunt.,Difficulty menu tooltips,512,狩獵結束時獲得的經驗值
 Multiplication factor of the number of each individual item in a container.,Difficulty menu tooltips,512,容器中每項物品所包含的數量
@@ -2249,7 +2249,7 @@ Multiplication factor of the number of money a trader has.,Difficulty menu toolt
 Multiplier whereby all items sold by merchants are multiplied,Difficulty menu tooltips,512,商人的商品數量
 Note: this value is applied only to the damage received by the player.,Difficulty menu tooltips,512,此設定僅適用於玩家所受傷害
 Unused. NPC name will always drop armor,Difficulty menu tooltips,512,無效，NPC 總會掉落護甲
-"Upon death, the save files related to the slot used will be deleted.\nNote: All crashes are not recognized as death, nevertheless the use of this setting is not recommended until the game is bug-free.",Difficulty menu tooltips,512,死亡時，相關的存檔將被刪除\n遊戲崩潰不會被視爲死亡
+"Upon death, the save files related to the slot used will be deleted.\nNote: All crashes are not recognized as death, nevertheless the use of this setting is not recommended until the game is bug-free.",Difficulty menu tooltips,512,死亡時，相關的存檔將被刪除\n遊戲崩潰不會被視為死亡
 "Upon death, you lose all items that are not part of the categories above.",Difficulty menu tooltips,512,死亡時，你會失去所有不屬於上述類別的物品
 "Upon death, you lose all the ammunition in your inventory.",Difficulty menu tooltips,512,死亡時，你會失去背包中的所有彈藥
 "Upon death, you lose all the consumable items in your inventory.",Difficulty menu tooltips,512,死亡時，你會失去背包中的所有消耗品
@@ -2310,7 +2310,7 @@ lose other item,Difficulty modifier names,72,失去其他物品
 The data collected is used to help the developer balance the game based on community statistics,Settings tooltips,512,收集的數據將用於幫助開發者基於社區統計進行遊戲平衡
 Use this setting to adjust the volume of the geiger counter,Settings tooltips,512,蓋格計數器的音量
 Low Spec Mode reduces the number of visual effects and particle effects,Settings tooltips,512,減少視覺效果和粒子效果
-Flashbangs HUD effect is black instead of white,Settings tooltips,512,閃光彈效果爲黑色而非白色
+Flashbangs HUD effect is black instead of white,Settings tooltips,512,閃光彈效果為黑色而非白色
 This setting will take effect only from the next map generation.,Settings tooltips,512,此設定將在下次生成地圖時生效
 Use this setting to adjust the volume of the heartbeat when health points are low,Settings tooltips,512,生命值較低時心跳的音量
 Rookie Hunter,Stat experience names,64,新手獵人
@@ -2413,16 +2413,16 @@ Extraction Point,Minimap UI,32,撤離點
 Community Event,Settings menu,32,社區活動
 Take part in community events!,Settings menu tooltip,64,參加社區活動！
 "Hey Hunter, we'd like to track your progress as you scavenge and\nexplore what's left of the world. We use some in-game analytic tech to\ngather device and gameplay data to help us understand how you\nsurvive, progress and to improve the prospects for you and other\nHunters.\n\nGameAnalytics also like to track you and collect data to help them\nimprove their tech.\n\nIf you are OK with that, choose Accept & Play. If you're not, we won't\ntrack any of it. You can change your settings at any time in the Data\nmenu.\n\nSee you in the bunker!",Data analytics prompt for user,1024,嘿，獵人，我們希望在你搜尋、\n探索世界時跟蹤你的進度。我們使用遊戲內置的分析技術\n來收集裝置和遊戲數據，以便了解你的求生方法、\n進展並改善你\n和其他獵人日後的旅途。\n\nGameAnalytics 也希望跟蹤你的進度並收集數據\n來改進技術。\n\n如果同意，請選擇「接受並遊玩」。\n如果不同意，我們將不會跟進任何內容。你可以隨時\n在數據選單中更改設定。\n\n我們地堡見！
-"Ok Soldier! Some of my trusted men were part of a convoy that was carrying equipment.\nThey were ambushed in the swamp and from the last radio contact it seems to have been the Crimson Corporation, which is very strange since very few people knew about this convoy...\nHopefully they are just bandits otherwise I have to consider the idea that there is a spy in our ranks...\nGo to the swamp, find the convoy and see what you can find out.",Quest text,1024,士兵，我們運送裝備的車隊在沼澤遭到了伏擊！根據最後的無線電訊息判斷，很可能是深紅公司乾的。\n這非常奇怪，因爲只有我的幾個親信知曉車隊的存在。\n希望襲擊者只是一幫遊蕩的強盜，否則我必須考慮我們的隊伍中出現間諜的可能...\n去沼澤看看能發現什麼。
+"Ok Soldier! Some of my trusted men were part of a convoy that was carrying equipment.\nThey were ambushed in the swamp and from the last radio contact it seems to have been the Crimson Corporation, which is very strange since very few people knew about this convoy...\nHopefully they are just bandits otherwise I have to consider the idea that there is a spy in our ranks...\nGo to the swamp, find the convoy and see what you can find out.",Quest text,1024,士兵，我們運送裝備的車隊在沼澤遭到了伏擊！根據最後的無線電訊息判斷，很可能是深紅公司乾的。\n這非常奇怪，因為只有我的幾個親信知曉車隊的存在。\n希望襲擊者只是一幫遊蕩的強盜，否則我必須考慮我們的隊伍中出現間諜的可能...\n去沼澤看看能發現什麼。
 "Thanks to the retaliation we now have some time to build an outpost in the makeshift camp.,Your orders are to go to the industrial area and find a bag of cement.\nI think you can find one in the port area, where all those disused concrete blocks are.",Quest text,1024,多虧了這次報復行動，我們現在有時間在臨時營地建立前哨站了。你的任務是去工業區搞些水泥。\n你應該在港口西側入口附近的混凝土方里找找。
-"After the recent events at the Mall, the Green Army requested many reinforcements in the field.\nWe are prepared for this...\nYou must eliminate all Green Army captains, there is one on each map.\nGood luck Hunter! You'll need it...",Quest text,1024,在商場與我們發生一系列衝突後，綠軍向各個地區都派出了增援小隊。\n我們對此早有預料...\n立刻開始斬首行動，獵人。我發自內心地祝你好運，因爲這次你真的需要它.\n..
+"After the recent events at the Mall, the Green Army requested many reinforcements in the field.\nWe are prepared for this...\nYou must eliminate all Green Army captains, there is one on each map.\nGood luck Hunter! You'll need it...",Quest text,1024,在商場與我們發生一系列衝突後，綠軍向各個地區都派出了增援小隊。\n我們對此早有預料...\n立刻開始斬首行動，獵人。我發自內心地祝你好運，因為這次你真的需要它.\n..
 "Ah poor man... So when you arrived he was still alive and reported that the Green Army is heading toward the mall?\nThey probably want to build a base there.\nOk Hunter! We must have eyes inside the mall.\nKeep these transmitters, you'll have to place them in three different locations. The first two are inside the mall, near the main entrance and the east entrance. Near these entrances there are monitoring rooms, you have to place the transmitters on those monitors.\nThe third location is in the underground parking lot, in the central area. There should be a monitoring room there as well.\nGood luck!",Quest text,1024,哦，可憐的傢伙...所以你到的時候他還活着，並且報告說綠軍正前往商場？他們很可能要在那裏建立新的前哨站。\n好了，獵人！我們必須把商場也納入掌控。\n拿上這些信號發射器，把它們放置在商場的三個監控室裏。前兩個監控室在商場內部，分別鄰近正門和東門。第三個在地下停車場的中央。\n祝你好運！
 "Soldier!\nMy men have reported a large amount of Crimson Corporation soldiers present everywhere. There are Crimson Captains in the field, one on each map. Your task will be to eliminate them.\nGet ready Soldier... It will be a bloodbath...",Quest text,1024,士兵！\n我的人報告說深紅公司已經傾巢出動，各個地區都有他們的小隊！\n做好準備，士兵，這是一場戰爭...
 "Good job Hunter! Now my men will take care of cleaning up the place and make it our outpost.\nIn the meantime you can take care of another matter. It seems that the Green Army has discovered the CCTV camera you planted in their bunker area.\nThey have begun to scour their soldiers and I think they have discovered one of our spies working in their ranks.\nThe last known location is in the swamp, go there and see if you can find it before the Green Army.",Quest text,1024,幹得好，獵人！我會派人接管和改造這個前哨站，而你有另一個任務。\n綠軍發現了你在他們地堡區放置的攝像頭，已經開始了清洗行動。\n我們的一個間諜暴露了。\n他最後的蹤跡在沼澤，希望你能趕在綠軍之前找到他。
 "Well done soldier!\nNow you have to deal with that bastard. His name is Ermolai Vlasov, he has been a Green Army recruit for a few weeks.\nI must say the son of a bitch did well, it's not easy to fool me.\nMy men spotted him but he managed to escape, now he is near the makeshift camp.\nKilling on sight soldier, no mercy. Once eliminated take his dogtag too, let's prepare a gift for Reynard...",Quest text,1024,幹得好，士兵！\n現在該對付那隻老鼠了。他叫埃爾莫萊·弗拉索夫，幾周前加入綠軍。\n我必須承認這狗孃養的有點東西，要騙過我可真不簡單。\n我的人發現了他，但被他逃掉了。他現在在臨時營地。\n格殺勿論，士兵。記得把狗牌帶回來，我們給雷納德準備一份大禮...
 "OK Soldier! The outpost is almost ready.\nA trusted man of mine is leading operations at the outpost, and I know that the Crimson Corporation is about to eliminate him.\nWhat you need to do is to eliminate the Crimson Corporation assassins present inside the mall. From my information there should be three of them.\nThe first one should be inside the LIO-JU clothing store.\nThe second in the area where the Abibas shoe store and the Tools store are.\nThe third in the TECH Store, next to the GUNS Store.\nGood luck soldier, do a clean job.",Quest text,1024,很好，士兵！前哨站差不多建好了。\n我已經派人到那裏接手指揮，但深紅公司可不會坐視。\n你的任務是擊殺深紅公司派來商場的殺手。根據情報，他們一個在 Lio-ju 服裝店，一個在 Abibas 鞋店和工具店附近，還有一個在數碼產品店。\n士兵，做得乾淨點。
 It's time to see what's left in the GUNS store in the mall. Go there and look for a crate with equipment.\nMaybe we can get some new equipment,Quest text,1024,是時候看看商場的槍店裏還剩些什麼了。\n去那裏找一個裝備箱。也許我們可以搞到些新傢伙。
-Nice Work Hunter!\nNow it is only a matter of time before we receive information about their movements. Your next task is to eliminate some Green Army sergeants.\nThey will definitely be replaced but this will create some disorganization in their ranks and we will have some time for our operations.,Quest text,1024,幹得好，獵人！\n現在他們的一舉一動都在我們的掌控之下。\n下一個任務的目標是擊殺幾個綠軍士官。\n這不足以讓他們傷筋動骨，但引起的混亂將爲我們爭取行動的時間。
+Nice Work Hunter!\nNow it is only a matter of time before we receive information about their movements. Your next task is to eliminate some Green Army sergeants.\nThey will definitely be replaced but this will create some disorganization in their ranks and we will have some time for our operations.,Quest text,1024,幹得好，獵人！\n現在他們的一舉一動都在我們的掌控之下。\n下一個任務的目標是擊殺幾個綠軍士官。\n這不足以讓他們傷筋動骨，但引起的混亂將為我們爭取行動的時間。
 "We know that the Green Army is building a new outpost in the makeshift camp but at the moment we do not know the exact location.\nI'm asking you to go out on scout, find the outpost, and place a GPS signal.\nFor now there shouldn't be many Green Army soldiers yet so you should make it on your own.",Quest text,1024,我們得知綠軍正在臨時營地建立新的前哨站。\n我需要你去偵察一下，找到前哨站的確切位置，放置 GPS 定位器。\n現在他們抽調不出多少人手，你可以輕鬆完成任務。
 "Good job on that spy, Soldier!\nNow we can get on with the next move, go recon inside the mall and look for a fairly empty place that can become our outpost on the spot.\nFrom the mall map, it looks like the area south of the loading/unloading area of the supermarket is empty.\nGo there and see if it is still like that.",Quest text,1024,間諜問題處理得不錯！\n接下來我們可以開展下一步行動了。去商場內部偵察一下，找個相對空曠、能直接改造成前哨站的地方。\n從地圖上看，超市裝卸區南邊似乎是空的。\n去確認下現在還是不是那樣。
 "The Crimson corporation attacked the outpost we were building, by now I know for a fact that there is a spy and fortunately I sent more men than they needed and because of that they were able to repel the attack.\nSurely that filthy rat must have put some CCTV cameras here in the bunker, see if you can find some.",Quest text,1024,深紅公司襲擊了我們在建的前哨站，這證實了間諜的存在。還好我加派了人手，他們這次行動徒勞無功。\n那隻骯髒的老鼠肯定在地堡裏放置了攝像頭，你得把它們都找出來。
@@ -2437,7 +2437,7 @@ Nice Work Hunter!\nNow it is only a matter of time before we receive information
 "Mmm... Okay it seems that Hunter had found the documents but then he ran into Lazar, the bandit leader in the forest village.\nI'm sure he still has the documents; he must have hidden them somewhere inside the police station.\nGo there and look for them....\nOh and while you're at it, kill Lazar too. This is not the first time he has interfered with our operations",Quest text,1024,嗯...那個獵人似乎找到了一份什麼檔案，但不幸地撞見了拉扎爾，佔據了森林村莊的匪幫頭目。\n他一定把檔案藏在警局裏了。\n去把它取回來...\n哦，順便把拉扎爾也殺了。這不是他第一次干擾我們的行動了。
 "I sent some of my men to clear out the entrance to the motel. There seems to be a ghoul infestation in the parking lot. Our goal is to eliminate it and retrieve some documents from a soldier who died long ago, when the makeshift camp was still inhabited and we didn't know that radiation could spread that far.\nHe was one of my advisers, his name was Yuli Antonov.\nHis body should be in one of the motel rooms.\nIt will be some time before we intervene so the job is yours if you are interested, Hunter",Quest text,1024,我派人清理了汽車旅館的入口，不過停車場裏似乎還有一處感染源。任務目標是將其清除，並進入旅館，從一位已經犧牲的同志身上取回一份檔案。尤利·安東諾夫，我的參謀之一，當時駐紮在臨時營地。\n我們沒想到輻射會擴散那麼遠。\n他的屍體應該在汽車旅館最裏面的房間裏。\n我們目前抽調不出人手，所以你有興趣的話，這活就歸你了，獵人。
 "I have an easy job if you're interested, it's about scouting.\nYou need to head into the makeshift camp and find the old motel, check for any threats.",Quest text,1024,有個簡單的活。\n去臨時營地的汽車旅館，確認一下那裏是否有什麼危險。
-"\nA Hunter was working for us near the forest. He hasn't been heard from for more than 24 hours now; I think he's dead by now.\nHis job was to find out what happened to the documents we were transporting to the bunker.\nHis last known location was in the forest village in the northern area.\nSearch for his body and bring back what you find, let's see if he discovered anything before he died.",Quest text,1024,在森林地區，有一個獵人爲我們工作。上一次聯絡時，他說自己躲在村莊北邊的那排院子裏，但他已經超過24小時沒有傳來消息了，我想他可能遭遇了不測。\n去找到他，把與他有關的一切都帶回來，讓我們看看他是否發現了什麼。
+"\nA Hunter was working for us near the forest. He hasn't been heard from for more than 24 hours now; I think he's dead by now.\nHis job was to find out what happened to the documents we were transporting to the bunker.\nHis last known location was in the forest village in the northern area.\nSearch for his body and bring back what you find, let's see if he discovered anything before he died.",Quest text,1024,在森林地區，有一個獵人為我們工作。上一次聯絡時，他說自己躲在村莊北邊的那排院子裏，但他已經超過24小時沒有傳來消息了，我想他可能遭遇了不測。\n去找到他，把與他有關的一切都帶回來，讓我們看看他是否發現了什麼。
 "Damn!\nOne of our scout teams has just been attacked by something in the swamp, these are their last coordinates.\nHurry up Hunter!\nMaybe someone is still alive...",Quest text,1024,該死！\n我們的偵察小隊在沼澤被襲擊了！這是他們最後的座標。\n快去，獵人！\n也許還有倖存者...
 "The Barman told me about you; you seem to have potential.\nThe sawmill in the forest is occupied by bandits, inside there is a safe, we believe it contains important information for us.\nI need you to head there and bring back the contents of the safe.\nI think you can find the location of the sawmill easily in your map, it is a paved area.\nWhat information does the safe contain you say?\nIt's none of your business Hunter, learn to stand your ground and follow orders.",Quest text,1024,酒保跟我說起過你，你很有潛力。\n森林地區的匪幫佔據了鋸木廠，我要你去那裏把保險箱裏的東西帶回來。地圖上的大片平整區域就是鋸木廠，很容易找到。\n保險箱裏裝的是什麼？這不關你的事，獵人。搞清楚你的身份，執行命令！
 Close the valve,Player prompt,32,關閉閥門
@@ -2748,7 +2748,7 @@ Hey soldier!\nNow that we can accere to Zakov it is time to establish a camp the
 Hey Hunter!\nNow that we can accere to Zakov it is time to establish a camp there.\nThere should be a construction zone in the southeast part of town. Find the site and place a GPS marker in the center of the site.\nMy men will then take care of building the encampment.\nGood luck Hunter!,Quest descriptions,1024,嘿，獵人！\n我們終於打通了進入扎科夫的路，是時候在那裏建立營地了。城市東南有片工地，在中央放置一個 GPS 定位器，之後你就不用操心了。\n祝你好運，獵人！
 Repair the power grid in the mall.,Quest objectives,64,修復商場電網
 The bridge to Zakov,Quest names,64,通往扎科夫的橋
-"Mmm...\nIt seems that the power grid is not working because there is a malfunctioning pylon.\nThe good news is that it can be accessed directly in the northern part of the mall. The bad is that that area is fenced off and is full of radiation and anomalies.\nYou will have to look for an underground passage Hunter, hopefully the Ghouls have already dug one. I am sure it is in the northeast area of the mall.\nGo there and look for the tunnel entrance, make your way through the Ghouls and come out the other side.\nOnce you get there you will have to repair the malfunctioning pylon, I will give you the repair kit.\nOh, last thing Hunter... Bring some anti-radiation pills or equip a good suit to protect you from radiation, you will need them.\nGood luck Hunter!",Quest descriptions,1024,嗯……\n看來電網停擺是因爲有座輸電塔出了故障。\n好消息是可以從商場北側直接過去，壞消息是那片區域被封鎖了，而且充斥着輻射與異常現象。\n獵人，你得去找條地下通道。希望食屍鬼已經挖通了一條，入口肯定就在商場東北部。\n去那找找隧道，從食屍鬼羣中殺出一條血路穿過去。\n到達後把故障輸電塔修好，修理套件會提前給你。\n最後囑咐一句，帶上抗輻射藥片或者穿身好點的防護服，防輻射肯定用得上。\n祝你好運，獵人！
+"Mmm...\nIt seems that the power grid is not working because there is a malfunctioning pylon.\nThe good news is that it can be accessed directly in the northern part of the mall. The bad is that that area is fenced off and is full of radiation and anomalies.\nYou will have to look for an underground passage Hunter, hopefully the Ghouls have already dug one. I am sure it is in the northeast area of the mall.\nGo there and look for the tunnel entrance, make your way through the Ghouls and come out the other side.\nOnce you get there you will have to repair the malfunctioning pylon, I will give you the repair kit.\nOh, last thing Hunter... Bring some anti-radiation pills or equip a good suit to protect you from radiation, you will need them.\nGood luck Hunter!",Quest descriptions,1024,嗯……\n看來電網停擺是因為有座輸電塔出了故障。\n好消息是可以從商場北側直接過去，壞消息是那片區域被封鎖了，而且充斥着輻射與異常現象。\n獵人，你得去找條地下通道。希望食屍鬼已經挖通了一條，入口肯定就在商場東北部。\n去那找找隧道，從食屍鬼羣中殺出一條血路穿過去。\n到達後把故障輸電塔修好，修理套件會提前給你。\n最後囑咐一句，帶上抗輻射藥片或者穿身好點的防護服，防輻射肯定用得上。\n祝你好運，獵人！
 The Psy Helmet p.1,Quest names,64,尋找醫生
 Laboratory elevator key,Keys,64,實驗室電梯鑰匙
 Key used to access the elevator of the laboratory,Keys,96,用於進入實驗室電梯的鑰匙
@@ -2775,8 +2775,8 @@ Turn off the third machinery.,Quest objectives,64,關閉第三臺機器
 Turn off the fourth machinery.,Quest objectives,64,關閉第四臺機器
 Turn off the fifth machinery.,Quest objectives,64,關閉第五臺機器
 Turn off the sixth machinery.,Quest objectives,64,關閉第六臺機器
-"Hey Hunter!\nYou've probably noticed the new faction that has invaded the maps, we call them the Watchers.\nThey seem to be closely connected with the events at the nuclear power plant. They have their main base in the city, in the northern area, just past the big plaza.\nGo there and see if you can get in, just do a scouting for now, then we'll think of a plan of action.",Quest descriptions,1024,嘿，獵人！\n你應該早就跟他們打過交道了，那些暫且稱之爲觀察者的傢伙。他們似乎與核電廠事件密切相關！\n他們的總部基地位於城市北部，鄰近大型廣場。\n先去偵察一下，然後我們再製定具體的行動計劃。
-"So the entrance is blocked huh?\nYou have to find a way to turn off that strange machinery.\nAfter the explosion at the nuclear power plant and before evacuating the city, the Green Army set up a first aid camp in the school.\nMany people died from radiation in there.... It's not going to be a pretty sight.\nGo to the school and search through the dead bodies, try to see if you can find any documents that can tell us more about that machinery blocking the entrance to the base.",Quest descriptions,1024,入口被堵住了？\n該死，我們必須想辦法關掉那些奇怪的機器！\n核電廠爆炸後，綠軍無法疏散所有人員，所以在學校設立了一個難民營。\n那裏有很多人死於輻射，死狀尤爲慘烈...\n去學校搜查每一具屍體。目前只能寄希望於那裏遺留了能幫我們關閉機器的信息了...
+"Hey Hunter!\nYou've probably noticed the new faction that has invaded the maps, we call them the Watchers.\nThey seem to be closely connected with the events at the nuclear power plant. They have their main base in the city, in the northern area, just past the big plaza.\nGo there and see if you can get in, just do a scouting for now, then we'll think of a plan of action.",Quest descriptions,1024,嘿，獵人！\n你應該早就跟他們打過交道了，那些暫且稱之為觀察者的傢伙。他們似乎與核電廠事件密切相關！\n他們的總部基地位於城市北部，鄰近大型廣場。\n先去偵察一下，然後我們再製定具體的行動計劃。
+"So the entrance is blocked huh?\nYou have to find a way to turn off that strange machinery.\nAfter the explosion at the nuclear power plant and before evacuating the city, the Green Army set up a first aid camp in the school.\nMany people died from radiation in there.... It's not going to be a pretty sight.\nGo to the school and search through the dead bodies, try to see if you can find any documents that can tell us more about that machinery blocking the entrance to the base.",Quest descriptions,1024,入口被堵住了？\n該死，我們必須想辦法關掉那些奇怪的機器！\n核電廠爆炸後，綠軍無法疏散所有人員，所以在學校設立了一個難民營。\n那裏有很多人死於輻射，死狀尤為慘烈...\n去學校搜查每一具屍體。目前只能寄希望於那裏遺留了能幫我們關閉機器的信息了...
 "Good job Hunter!\nFrom the documents it looks like the machinery may be turned off.\nThe bad news is that the switches are in the Watchers base subterranean areas, there is no way to get to them from the inside.\nGo into the city park and find a back entrance, I'm sure the Ghouls have dug tunnels down there, just like the mall power grid pylons.\nGo in through the tunnels and get to the underground area, there are six switches to turn off.\nGood luck Hunter!",Quest descriptions,1024,幹得漂亮，獵人！\n根據檔案，這些機器的開關位於觀察者基地的地下，所以我們得換條思路。\n去城市公園找找有沒有聰明的食屍鬼挖了隧道，就像商場的電塔那次一樣。\n六個開關，一個也不能落下。\n祝你好運，獵人！
 What next?,"User Interface, interaction with NPC",64,下一步是什麼？
 "The railway to get to the nuclear power plant is unusable for tens of kilometres, not to mention the extremely high level of radiation.\nGo to the Watchers' Headquarters and find out if there is an alternative route.\nIf you manage to get to the nuclear plant, well.... I wouldn't know what else to tell you except good luck, Hunter!","User Interface, interaction with NPC",1024,核電廠周邊數十公里的鐵路都癱瘓了，更不用提那可怕的輻射！\n去觀察者總部找找有沒有別的路線。\n萬一你能到達核電廠，那...只能祝你真的好運了，獵人！
@@ -2811,7 +2811,7 @@ Provide scrap medication and scrap food everyday,Modules description,64,每天�
 Provide scrap ammo everyday\nCraft more type of ammunition,Modules description,64,每天產出彈藥廢料\n允許你製作彈藥
 You can repair weapons and armor in the craftbench,Modules description,64,允許你修理武器和護甲
 Repair an item requires 25% less materials,Modules description,64,修理武器和護甲所需材料 -25%
-"As you know, years after the closure of the nuclear power plant, the Crimson Corporation detected a high level of strange radiation coming from underground and reached an agreement with the local government to install a research laboratory.\nUnder the ground, they discovered a cavity containing purple crystals, responsible for this radiation.\nThe research continued for several years, leading to discoveries that enabled significant advances in the pharmaceutical and biological sectors, turning the company into the largest multinational in the world.\nSo far, it would all seem legitimate, but the documents show that the Crimson Corporation had numerous contracts with world governments for the development of prototype weapons.\nI believe it is from these contracts that the company made its fortune.\nMoreover, the long-term effects of the drugs derived from these discoveries on the population are still unclear.\nIndeed, the Crimson Corporation has never been transparent about its research, but their products are so innovative that no one, among those who matter, has ever asked too many questions about their origin and effects.\n\nA few hours before the explosion at the nuclear power plant, a strange anomaly appeared in the crystals being studied, triggering general panic.\nIt seems that the commander-in-chief of the plant insisted on interacting with the anomaly, and that is when Frolov escaped, taking the documents with him.\nThe Crimson Corporation's instruments were all down and incessantly repeated the same sequence of numbers:\n\n0 1 0 1 0 0 1 1\n0 1 1 1 0 1 0 0\n0 1 1 0 0 0 0 1\n0 1 1 0 1 1 0 0\n0 1 1 0 1 0 1 1\n0 1 1 0 0 1 0 1\n0 1 1 1 0 0 1 0\n\nIt is unclear from the documents what actually triggered the explosion, but one possible cause is the forced interaction with the anomaly, rather than taking the time to work out an operational plan.\nGetting back to us, the only way to reach the anomaly is through the Watcher's HQ in Zakov, from where an underground line leads to the nuclear power plant.\nOnce you reach the anomaly, don't be fooled by what it will tell you....\nDecipher the code and input the result... And this will all be over.\nI can't tell you any more, Hunter, now it's your turn.","User Interface, interaction with NPC",4096,舊核電廠關閉多年後，深紅公司在其地下發現了奇怪的高強度輻射。他們與當地政府達成協議，建立了實驗室。\n最終他們找到了一個佈滿紫色水晶的洞穴，那正是輻射的源頭。\n研究持續了數年，層出不窮的重大發現推動了生物和醫學領域的進步，使公司一躍成爲跨國巨頭企業。\n似乎一切都合理合法？然而這份檔案表明，深紅公司與世界各國政府簽訂了多份關於開發原型武器的合同。\n我確信，公司實際上是依靠這些合同才迅速崛起的。\n此外，基於他們研究成果開發的醫療用品對於人羣是否存在長期影響也是一個未知數。\n深紅公司從未對外披露過研究詳情，但他們的產品革新了整個行業，連有頭有臉的大人物都無法因其來源和影響成疑而拒絕。\n\n核電廠爆炸前幾個小時，水晶樣品出現了異常。\n負責人堅持要接觸。弗羅洛夫也是在那時逃出了實驗室。\n公司的儀器全都發生了故障，開始反覆刷屏如下代碼：\n\n0 1 0 1 0 0 1 1\n0 1 1 1 0 1 0 0\n0 1 1 0 0 0 0 1\n0 1 1 0 1 1 0 0\n0 1 1 0 1 0 1 1\n0 1 1 0 0 1 0 1\n0 1 1 1 0 0 1 0\n\n從這份檔案中無法弄清究竟是什麼引發了爆炸，不過強行接觸異常應當算作一個潛在因素。\n說回現在，想揭開異常背後的祕密，只有前往觀察者在扎科夫的總部，那裏有條隧道通向核電廠。\n你大概會看見一些令人瘋狂的景象，我只希望你能保持清醒。\n破譯這些代碼並輸入結果，一切也許就都結束了。\n就說到這裡吧，獵人，此行動了。
+"As you know, years after the closure of the nuclear power plant, the Crimson Corporation detected a high level of strange radiation coming from underground and reached an agreement with the local government to install a research laboratory.\nUnder the ground, they discovered a cavity containing purple crystals, responsible for this radiation.\nThe research continued for several years, leading to discoveries that enabled significant advances in the pharmaceutical and biological sectors, turning the company into the largest multinational in the world.\nSo far, it would all seem legitimate, but the documents show that the Crimson Corporation had numerous contracts with world governments for the development of prototype weapons.\nI believe it is from these contracts that the company made its fortune.\nMoreover, the long-term effects of the drugs derived from these discoveries on the population are still unclear.\nIndeed, the Crimson Corporation has never been transparent about its research, but their products are so innovative that no one, among those who matter, has ever asked too many questions about their origin and effects.\n\nA few hours before the explosion at the nuclear power plant, a strange anomaly appeared in the crystals being studied, triggering general panic.\nIt seems that the commander-in-chief of the plant insisted on interacting with the anomaly, and that is when Frolov escaped, taking the documents with him.\nThe Crimson Corporation's instruments were all down and incessantly repeated the same sequence of numbers:\n\n0 1 0 1 0 0 1 1\n0 1 1 1 0 1 0 0\n0 1 1 0 0 0 0 1\n0 1 1 0 1 1 0 0\n0 1 1 0 1 0 1 1\n0 1 1 0 0 1 0 1\n0 1 1 1 0 0 1 0\n\nIt is unclear from the documents what actually triggered the explosion, but one possible cause is the forced interaction with the anomaly, rather than taking the time to work out an operational plan.\nGetting back to us, the only way to reach the anomaly is through the Watcher's HQ in Zakov, from where an underground line leads to the nuclear power plant.\nOnce you reach the anomaly, don't be fooled by what it will tell you....\nDecipher the code and input the result... And this will all be over.\nI can't tell you any more, Hunter, now it's your turn.","User Interface, interaction with NPC",4096,舊核電廠關閉多年後，深紅公司在其地下發現了奇怪的高強度輻射。他們與當地政府達成協議，建立了實驗室。\n最終他們找到了一個佈滿紫色水晶的洞穴，那正是輻射的源頭。\n研究持續了數年，層出不窮的重大發現推動了生物和醫學領域的進步，使公司一躍成為跨國巨頭企業。\n似乎一切都合理合法？然而這份檔案表明，深紅公司與世界各國政府簽訂了多份關於開發原型武器的合同。\n我確信，公司實際上是依靠這些合同才迅速崛起的。\n此外，基於他們研究成果開發的醫療用品對於人羣是否存在長期影響也是一個未知數。\n深紅公司從未對外披露過研究詳情，但他們的產品革新了整個行業，連有頭有臉的大人物都無法因其來源和影響成疑而拒絕。\n\n核電廠爆炸前幾個小時，水晶樣品出現了異常。\n負責人堅持要接觸。弗羅洛夫也是在那時逃出了實驗室。\n公司的儀器全都發生了故障，開始反覆刷屏如下代碼：\n\n0 1 0 1 0 0 1 1\n0 1 1 1 0 1 0 0\n0 1 1 0 0 0 0 1\n0 1 1 0 1 1 0 0\n0 1 1 0 1 0 1 1\n0 1 1 0 0 1 0 1\n0 1 1 1 0 0 1 0\n\n從這份檔案中無法弄清究竟是什麼引發了爆炸，不過強行接觸異常應當算作一個潛在因素。\n說回現在，想揭開異常背後的祕密，只有前往觀察者在扎科夫的總部，那裏有條隧道通向核電廠。\n你大概會看見一些令人瘋狂的景象，我只希望你能保持清醒。\n破譯這些代碼並輸入結果，一切也許就都結束了。\n就說到這裡吧，獵人，此行動了。
 My knowledge only allows me to repair armour with a class below 4.,"User Interface, interaction with NPC",256,我只能修理不超過4級的護甲。
 Armor class is too high,,64,不適用於目前護甲等級
 Armor durability is too high,,64,不適用於目前護甲耐久
@@ -3193,7 +3193,7 @@ Full hits have an additional 20% chance to penetrate armor.,Perk description,256
 Rolling Start,Perk Name,32,彈射起步
 "After standing still for 1 second, gain +30% movement speed for 2 seconds",Perk description,256,保持靜止 1 秒後的 2 秒內，移動速度提高 30%
 Sticky Fingers,Perk Name,32,黏手指
-You find 5 times the amount of Roubles,Perk description,32,搜刮所得盧布變爲 5 倍
+You find 5 times the amount of Roubles,Perk description,32,搜刮所得盧布變為 5 倍
 Horizon,Faction Name,32,地平線
 BCK Backpack,Backpacks,48,BCK 背包
 TRF Backpack,Backpacks,48,TRF 背包
