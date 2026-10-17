@@ -4338,7 +4338,7 @@
 04341,npc.bark.hunter.retreat_3,"NPC bark - Hunters (loners, mutter to themselves, mock the player) - runs away from the fight, badly wounded",64,沒有哪個戰利品值這樣冒險。
 04342,npc.bark.default.body_warning_1,NPC bark - any faction without its own line - tells the player to leave a body it owns,64,從那具屍體旁邊退開。那是我的。
 04343,npc.bark.default.body_looting_1,NPC bark - any faction without its own line - shown while it loots a body,64,正在搜刮...
-04344,difficulty.menu.difficult_ai,Difficulty Menu,32,困難 AI
+04344,difficulty.menu.difficult_ai,Difficulty Menu,32,高難度 AI
 04345,difficulty.menu.tooltip.difficult_ai,Difficulty menu tooltips,512,開啟時，人類敵人會使用符合難度的戰鬥水平戰鬥。\n\n關閉時，除首領外的每個人類敵人都會比原本低兩個難度的戰鬥水平戰鬥（大師相當於專家，熟練相當於新手）：\n發現你的速度更慢，聽覺與追蹤能力較差，反應更慢，你失誤時有更多反應時間。\n\n變更後新刷新的敵人立即生效。
 
 05000,"When ON, tap to toggle sprinting on and off; when OFF, hold the key to sprint.",Gameplay setting tooltip,128,開啟時，點擊切換衝刺狀態；關閉時，按住按鍵衝刺
