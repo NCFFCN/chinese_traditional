@@ -4340,6 +4340,44 @@
 04343,npc.bark.default.body_looting_1,NPC bark - any faction without its own line - shown while it loots a body,64,正在搜刮...
 04344,difficulty.menu.difficult_ai,Difficulty Menu,32,高難度 AI
 04345,difficulty.menu.tooltip.difficult_ai,Difficulty menu tooltips,512,開啟時，人類敵人會使用符合難度的戰鬥水平戰鬥。\n\n關閉時，除首領外的每個人類敵人都會比原本低兩個難度的戰鬥水平戰鬥（大師相當於專家，熟練相當於新手）：\n發現你的速度更慢，聽覺與追蹤能力較差，反應更慢，你失誤時有更多反應時間。\n\n變更後新刷新的敵人立即生效。
+04346,difficulty.menu.hunters_join_fights,Difficulty Menu,32,獵人會加入戰鬥
+04347,difficulty.menu.tooltip.hunters_join_fights,Difficulty menu tooltips,512,聽到槍聲的獵人群體可能會前往查看：有些會衝過去，有些會在附近等待觀察，有些會在戰鬥結束後前來搜刮。關閉時，獵人會忽略其他戰鬥，並繼續沿自己的路線行動。
+04348,difficulty.menu.hunter_hearing_range,Difficulty Menu,32,獵人聽覺範圍
+04349,difficulty.menu.tooltip.hunter_hearing_range,Difficulty menu tooltips,512,獵人群體能聽到槍聲並決定前往的距離，以像素計算。0 = 永遠聽不到，750 = 正常，7000 = 地圖上任何地方。消音槍聲，以及在建築物內或地下開的槍，永遠不會被聽到。
+04350,difficulty.menu.hunter_groups_joining_fights,Difficulty Menu,32,加入戰鬥的獵人群體數量
+04351,difficulty.menu.tooltip.hunter_groups_joining_fights,Difficulty menu tooltips,512,全地圖同時正在前往槍聲地點的獵人群體數量上限。調高後，突襲會熱鬧許多。
+04352,difficulty.menu.npc_looting,Difficulty Menu,32,NPC 搜刮
+04353,difficulty.menu.npc_claim_bodies,Difficulty Menu,32,NPC 會認領屍體
+04354,difficulty.menu.tooltip.npc_claim_bodies,Difficulty menu tooltips,512,NPC 會認領自己擊殺敵人的屍體：他們會警告你離開、搜刮屍體，並攜帶取得的物品直到死亡。關閉時，無論在你附近還是視線外，任何 NPC 都不會搜刮其他人的屍體，且每具屍體都會保留原本攜帶的物品。
+04355,difficulty.menu.npc_loot_amount,Difficulty Menu,32,NPC 搜刮物品數量
+04356,difficulty.menu.tooltip.npc_loot_amount,Difficulty menu tooltips,512,NPC 從其認領的屍體上拿取的物品數量。0 = 只認領屍體但不拿取物品，1 = 正常，2 = 兩倍。低於 1 時，它也會留下部分裝備和配件。
+04357,difficulty.menu.npc_loot_weapons,Difficulty Menu,32,拿取武器
+04358,difficulty.menu.tooltip.npc_loot_weapons,Difficulty menu tooltips,512,NPC 會從自己認領的屍體上拿取武器。關閉時，武器會留在屍體上；其配件則依配件設定處理。
+04359,difficulty.menu.npc_loot_armor,Difficulty Menu,32,拿取護甲
+04360,difficulty.menu.tooltip.npc_loot_armor,Difficulty menu tooltips,512,NPC 會從自己認領的屍體上拿取護甲。關閉時，護甲會留在屍體上。
+04361,difficulty.menu.npc_loot_backpacks,Difficulty Menu,32,拿取背包
+04362,difficulty.menu.tooltip.npc_loot_backpacks,Difficulty menu tooltips,512,NPC 會從自己認領的屍體上拿取背包。關閉時，背包會留在屍體上。
+04363,difficulty.menu.npc_loot_attachments,Difficulty Menu,32,拿取武器配件
+04364,difficulty.menu.tooltip.npc_loot_attachments,Difficulty menu tooltips,512,NPC 會從自己認領的屍體上的武器取下瞄具、槍口、彈匣和導軌零件。關閉時，那些武器會保留其配件。
+04365,difficulty.menu.npc_loot_ammo,Difficulty Menu,32,拿取彈藥和手榴彈
+04366,difficulty.menu.tooltip.npc_loot_ammo,Difficulty menu tooltips,512,NPC 會從自己認領的屍體上拿取彈藥和手榴彈。關閉時，兩者都會留在屍體上。
+04367,difficulty.menu.npc_loot_medical,Difficulty Menu,32,拿取醫療物品
+04368,difficulty.menu.tooltip.npc_loot_medical,Difficulty menu tooltips,512,NPC 會從自己認領的屍體上拿取藥品和注射器，受傷的 NPC 也會當場使用醫療包。關閉時，醫療物品會留在屍體上。
+04369,difficulty.menu.npc_loot_valuables,Difficulty Menu,32,拿取貴重物品和物資
+04370,difficulty.menu.tooltip.npc_loot_valuables,Difficulty menu tooltips,512,NPC 會從自己認領的屍體上拿取交易物品、維修工具組、耳機、錄音帶、容器和消耗品。關閉時，這些物品都會留在屍體上。
+04371,difficulty.menu.npc_spare_equipment,Difficulty Menu,32,攜帶的備用裝備
+04372,difficulty.menu.tooltip.npc_spare_equipment,Difficulty menu tooltips,512,NPC 從搜刮的屍體上，每種類型可攜帶多少備用武器、護甲和背包。獵人會多帶一件。較好的裝備會取代它已攜帶的較差裝備。
+04373,difficulty.menu.npc_hunter_extra_loot,Difficulty Menu,32,獵人額外搜刮物品數量
+04374,difficulty.menu.tooltip.npc_hunter_extra_loot,Difficulty menu tooltips,512,獵人從屍體上拿取的物品比同等級其他 NPC 多多少。0 = 不比其他人多，5 = 正常。
+04375,difficulty.menu.npc_loot_unseen_fights,Difficulty Menu,32,NPC 搜刮視線外的戰鬥
+04376,difficulty.menu.tooltip.npc_loot_unseen_fights,Difficulty menu tooltips,512,在視線外戰鬥中獲勝的 NPC，會從屍體身上拿取物品。關閉時，那些戰鬥產生的屍體會保留所有裝備，獲勝者也不會額外攜帶物品。
+04377,difficulty.menu.npc_loot_bodies,Difficulty Menu,32,NPC 搜刮屍體
+04378,difficulty.menu.tooltip.npc_loot_bodies,Difficulty menu tooltips,512,NPC 會走向敵人的屍體，拿取物品並攜帶直到死亡。獵人也可能在戰鬥後前來搜刮。關閉時，無論在你附近還是視線外，任何 NPC 都不會搜刮其他人的屍體，且每具屍體都會保留原本攜帶的物品。
+04379,difficulty.menu.tooltip.npc_defend_bodies,Difficulty menu tooltips,512,NPC 會守衛自己正在搜刮的屍體：提示會變成紅色，他們會持槍警告你離開；如果你仍打開屍體，其擁有者會轉而攻擊你。關閉時，NPC 仍會搜刮，但打開一具正在被搜刮的屍體只會讓它停下並離開。需要開啟「NPC 搜刮屍體」。
+04380,difficulty.menu.early_enemy_reveal,Difficulty Menu,32,提前顯示敵人
+04381,difficulty.menu.tooltip.early_enemy_reveal,Difficulty menu tooltips,512,敵人在完全進入視野前會稍微顯示：肩膀從角落探出的敵人會被顯示，即將從掩體走出的敵人會以淡影顯示，剛好在視野錐外的敵人也會以淡影顯示。敵人看見你的方式仍與之前相同。0 = 關閉，1 = 正常，2 = 寬鬆。
+04382,difficulty.menu.enemy_out_of_sight_visibility,Difficulty Menu,32,視線外敵人可見度
+04383,difficulty.menu.tooltip.enemy_out_of_sight_visibility,Difficulty menu tooltips,512,敵人離開你的視線後，會在淡出前繼續顯示多少秒。它會顯示在實際位置，因此較長的時間可讓你在掩體後追蹤它。偵察技能會延長此時間。0 = 一失去視線就開始淡出。
 
 05000,"When ON, tap to toggle sprinting on and off; when OFF, hold the key to sprint.",Gameplay setting tooltip,128,開啟時，點擊切換衝刺狀態；關閉時，按住按鍵衝刺
 05001,"When ON, weapons wear at 25% of the normal rate, so they seldom reach the jam threshold.",Difficulty menu tooltips,128,開啟時，武器磨損速度為正常的 25%，所以很少會達到卡殼閾值
@@ -4347,10 +4385,6 @@
 05003,.50 bmg standard,Ammo Types,64,.50 BMG 標準
 05004,M1A ghillie stock,Weapon Mods,64,M1A 吉利偽裝槍托
 05005,Confirm,User Interface,40,確認
-05006,NPCs claim bodies,Difficulty Menu,32,NPC 會認領屍體
-05007,"NPCs own the bodies of the enemies they kill： they warn you off, loot them and carry what they took until they die. When OFF, bodies are never claimed and NPCs do not loot.",Difficulty menu tooltips,512,NPC 會認領他們殺死的敵人的屍體：\n他們會警告你離開，搜刮屍體，並帶著搜刮的物品離開直到死亡。\n\n如果關閉此功能，屍體將不會被認領，NPC 也不會搜刮屍體。
-05008,NPC loot amount,Difficulty Menu,32,NPC 搜刮物品數量
-05009,"How much an NPC takes from a body it owns. 0 = it claims the body but takes nothing, 1 = normal, 2 = twice as much.",Difficulty menu tooltips,512,NPC 從認領的屍體中獲取的物品數量。\n0 = 認領屍體但不取走任何物品，\n1 = 正常數量，\n2 = 雙倍數量。
 
 06000,Legendary Merchant,NPC name,48,傳奇商人
 06001,Bye.,"User Interface, interaction with NPC",1400,再見
