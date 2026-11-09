@@ -2248,7 +2248,7 @@
 02247,item.name.key_used_to_access_the_turbine_room_of,Item names or description,192,用於進入石油工廠機房的門禁卡
 02248,item.name.documents_found_in_the_motel,Item names or description,192,在汽車旅館找到的檔案
 02249,item.name.single_use_key_used_to_enter_the_main,Item names or description,192,用於進入實驗室主房間的一次性門禁卡
-02250,item.name.take_the_potion_pr,Item names or description,192,Take the Potion PR
+02250,item.name.take_the_potion_pr,Item names or description,192,服用 PR 藥水
 02251,item.name.key_tech_store,Item names or description,192,用於進入商場數碼產品點上鎖房間的鑰匙
 02252,item.name.time_required_for_the_overlay_showing,Item names or description,192,顯示物品資訊面板所需的時間
 02253,item.name.analyzer_found_near_a_medium_fire,Item names or description,192,在中型火焰異常附近找到的分析儀
@@ -4378,6 +4378,10 @@
 04381,difficulty.menu.tooltip.early_enemy_reveal,Difficulty menu tooltips,512,敵人在完全進入視野前會稍微顯示：肩膀從角落探出的敵人會被顯示，即將從掩體走出的敵人會以淡影顯示，剛好在視野錐外的敵人也會以淡影顯示。敵人看見你的方式仍與之前相同。0 = 關閉，1 = 正常，2 = 寬鬆。
 04382,difficulty.menu.enemy_out_of_sight_visibility,Difficulty Menu,32,視線外敵人可見度
 04383,difficulty.menu.tooltip.enemy_out_of_sight_visibility,Difficulty menu tooltips,512,敵人離開你的視線後，會在淡出前繼續顯示多少秒。它會顯示在實際位置，因此較長的時間可讓你在掩體後追蹤它。偵察技能會延長此時間。0 = 一失去視線就開始淡出。
+04384,platform.cloud_consent_pending,Epic consent / cloud status (version label + toast),32,EPIC 登入待處理
+04385,platform.cloud_consent_declined,Epic consent / cloud status (version label + toast),32,EPIC 登入被拒絕
+04386,platform.cloud_offline,Epic consent / cloud status (version label + toast),32,離線
+04387,platform.cloud_consent_toast,Epic consent / cloud status (version label + toast),160,接受 Epic Games 的提示以啟動雲端存檔和成就。重啟遊戲以再次看到。
 
 05000,"When ON, tap to toggle sprinting on and off; when OFF, hold the key to sprint.",Gameplay setting tooltip,128,開啟時，點擊切換衝刺狀態；關閉時，按住按鍵衝刺
 05001,"When ON, weapons wear at 25% of the normal rate, so they seldom reach the jam threshold.",Difficulty menu tooltips,128,開啟時，武器磨損速度為正常的 25%，所以很少會達到卡殼閾值
